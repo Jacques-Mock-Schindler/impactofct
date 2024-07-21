@@ -130,10 +130,12 @@ Bilanz über zu den entsprechenden Ausbildungsmodulen auf den Begriff CT
 ein. Nicht überraschend hält auch er fest, dass sich bisher noch keine
 allgemeingültige Definition etabliert hat. Wesentlich sind die von
 Papert, Wing und durch das CollegeBoard angeführten Elemente. Repenning
-schält die Fähigkeit "Probleme so zu formulieren, dass eine
-computer-gestützte Lösung vollzogen werden
-kann[@repenningErsten1000Computational2020, S. 600]" als Kern von CT
-heraus. 
+schält die Fähigkeit 
+
+>"Probleme so zu formulieren, dass eine computer-gestützte Lösung
+>vollzogen werden kann[@repenningErsten1000Computational2020, S. 600]" 
+
+als Kern von CT heraus. 
 
 Damit kann festgehalten werden, dass auch für den Lehrplan 21 im
 Wesentlichen auf die Definition von Jeannette Wing abgestellt werden
