@@ -17,7 +17,7 @@ efz_reduced = efz.drop(columns=columns_to_drop)
 # %%
 
 headers = list(bm)
-headers = headers[:8]
+#headers = headers[:8]
 indices = list(efz_reduced)
 
 # %%
