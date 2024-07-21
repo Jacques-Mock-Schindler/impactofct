@@ -52,3 +52,9 @@ A simple example:
    ```
    m4 book.md | pandoc -o book.pdf
    ```
+
+## Verwendung von pandoc zur Erstellung des PDF
+
+```powershell
+pandoc --metadata-file='G:\Meine Ablage\Studium\impactofct\docs\header.yaml' --citeproc -o docs/index.pdf docs/sections/computational_thinking.md
+```
