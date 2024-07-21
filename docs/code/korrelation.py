@@ -53,3 +53,14 @@ n_bins = 256  # Number of color gradations
 grey_to_green = LinearSegmentedColormap.from_list('custom_grey_green', colors, N=n_bins)
 
 # %%
+
+plt.figure()
+sns.heatmap(correlations, annot=False, 
+            cmap=grey_to_green, 
+            vmin=-.2, vmax=.6, center=0.3)
+plt.title(f'Korrelation Noten BM - EFZ ')
+plt.ylabel('EFZ Modul Nr.')
+plt.xlabel('BM Fächer')
+plt.show()
+
+# %%
