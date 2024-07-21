@@ -25,3 +25,12 @@ indices = list(efz_reduced)
 correlations = pd.DataFrame(index=indices, columns=headers)
 
 # %%
+
+for header in headers:
+    for index in indices:
+        tmp = pd.concat([bm[header], efz[index]], axis="columns")
+        tmp.dropna(axis="index", inplace=True)
+        r = tmp[index].corr(tmp[header])
+        correlations.loc[index, header] = r
+        
+# %%
