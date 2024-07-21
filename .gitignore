@@ -13,3 +13,9 @@
 
 # ...even if they are in subdirectories
 !*/
+
+# Ignore venv folder
+venv/
+
+# Re-ignore .py files in the venv folder
+venv/**/*.py
