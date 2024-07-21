@@ -54,7 +54,9 @@ grey_to_green = LinearSegmentedColormap.from_list('custom_grey_green', colors, N
 
 # %%
 
-plt.figure()
+plt.figure(
+    figsize = (7, 10)
+)
 sns.heatmap(correlations, annot=False, 
             cmap=grey_to_green, 
             vmin=-.2, vmax=.6, center=0.3)
