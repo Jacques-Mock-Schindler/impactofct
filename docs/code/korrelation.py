@@ -38,3 +38,7 @@ for header in headers:
 correlations.to_csv('../data/korrelationen.csv', sep=';')
 
 # %%
+
+correlations = correlations.select_dtypes(include=['object']).astype(float)
+
+# %%
