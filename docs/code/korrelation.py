@@ -57,9 +57,11 @@ grey_to_green = LinearSegmentedColormap.from_list('custom_grey_green', colors, N
 plt.figure(
     figsize = (7, 10)
 )
-sns.heatmap(correlations, annot=False, 
+ax = sns.heatmap(correlations, annot=True, 
             cmap=grey_to_green, 
             vmin=-.2, vmax=.6, center=0.3)
+for col in range(1, 9):
+    ax.axvline(x=col, color='black', linewidth=.5)
 plt.title(f'Korrelation Noten BM - EFZ ')
 plt.ylabel('EFZ Modul Nr.')
 plt.xlabel('BM Fächer')
