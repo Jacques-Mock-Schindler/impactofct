@@ -34,3 +34,7 @@ for header in headers:
         correlations.loc[index, header] = r
         
 # %%
+
+correlations.to_csv('../data/korrelationen.csv', sep=';')
+
+# %%
