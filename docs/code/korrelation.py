@@ -42,3 +42,11 @@ correlations.to_csv('../data/korrelationen.csv', sep=';')
 correlations = correlations.select_dtypes(include=['object']).astype(float)
 
 # %%
+
+colors = ['#808080', '#A0A0A0', '#C0C0C0', '#E0E0E0',  # Greys
+          '#F0F0F0',  # Very light grey (almost white) for the center
+          '#E0FFE0', '#C0FFC0', '#80FF80', '#40FF40', '#00FF00']  # Greens
+n_bins = 256  # Number of color gradations
+grey_to_green = LinearSegmentedColormap.from_list('custom_grey_green', colors, N=n_bins)
+
+# %%
