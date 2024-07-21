@@ -7,10 +7,14 @@ publizierte wissenschaftliche Artikel, die den Begriff im Titel
 verwenden[@falloonAdvancingYoungStudents2024;
 @batteauComputationalThinkingMathematics2023;
 @alonso-garciaEnhancingComputationalThinking2024].  
-Allerdings wird der Begriff unterschiedlich verwendet.
+Allerdings wird der Begriff unterschiedlich verwendet. 
+
+Aus diesem Grund soll zu Beginn mit Hilfe einer systematischen
+Literaturrecherche eine Klärung des Begriffes "Computational Thinking"
+versucht werden.
 
 
-# Systematische Literaturrecherche zur Definition des Begriffs Computational Thinking
+## Systematische Literaturrecherche zur Begriffsklärung "Computational Thinking"
 
 Für die systematische Literaturrecherche wird nach den Empfehlungen von PRISMA  
 vorgegangen[@pagePRISMA2020Statement2021].
