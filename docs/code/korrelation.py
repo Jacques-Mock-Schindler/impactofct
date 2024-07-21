@@ -15,3 +15,9 @@ columns_to_drop = columns_counts[columns_counts < threshod].index.to_list()
 efz_reduced = efz.drop(columns=columns_to_drop)
 
 # %%
+
+headers = list(bm)
+headers = headers[:8]
+indices = list(efz_reduced)
+
+# %%
