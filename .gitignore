@@ -9,6 +9,7 @@
 !*.py
 !*.ipynb
 !*.svg
+!*.yml
 !requirements.txt
 
 # ...even if they are in subdirectories
