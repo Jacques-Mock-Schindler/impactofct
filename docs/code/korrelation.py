@@ -21,3 +21,7 @@ headers = headers[:8]
 indices = list(efz_reduced)
 
 # %%
+
+correlations = pd.DataFrame(index=indices, columns=headers)
+
+# %%
