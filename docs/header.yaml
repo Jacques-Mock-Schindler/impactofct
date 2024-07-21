@@ -4,6 +4,7 @@ title: Der Einfluss von Computational Thinking auf das Lernen im allgemeinen
 lang: de-CH
 output: pdf_document
 bibliography: Abschlussarbeit.bib
+csl: chicago-library-list.csl 
 header-includes:
     - \usepackage{pdflscape}
     - \usepackage{longtable}
