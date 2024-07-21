@@ -65,6 +65,8 @@ for col in range(1, 9):
 plt.title(f'Korrelation Noten BM - EFZ ')
 plt.ylabel('EFZ Modul Nr.')
 plt.xlabel('BM Fächer')
+plt.savefig('../graphics/korrelationen_heatmap.svg',
+            dpi=600)
 plt.show()
 
 # %%
