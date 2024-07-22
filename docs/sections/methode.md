@@ -115,17 +115,24 @@ Wirtschaft und Recht in den anderen beiden Schultypen in einem eigenen
 Fach statt. Im WG wird ausserdem in den ersten zwei Jahren das
 obligatorische Fach Informatik unterrichtet.
 
-1. In einer WG Klasse hat mir diese Konstellation ermöglicht, im
-   obligatorischen Fach Informatik ein Kontokorrentkonto als
-   Anwendungsübung in objektorientierter Programmierung zu modellieren.
+In dieser Situation war es möglich, in zwei Klassen als Lernhilfe für
+das Zinsrechnen ein Kontokorrentkonto modellieren zu Lassen. Das
+Kontokorrentkonto sollte einerseits Buchungen korrekt erfassen und
+andererseits verschiedenen Zinsberechnungen vornehmen können. Dazu wurde
+in der Klasse das folgende UML Diagramm erarbeitet:
+
+![UML Diagramm Kontokorrentkonto]( ../graphics/uml_konotkorrentkonto.svg )
+
+1. In einer WG Klasse konnte diese Aufgabe im obligatorischen Fach
+   Informatik gestellt werden.  
    Anschliessend konnten die Prüfungsleistungen im Zinsrechnen dieser
    Klasse mit den Prüfungsleistungen zum gleichen Thema einer Klasse
    verglichen werden, welche diese 
-   Anwendungsübung im Informatikunterricht nicht absolviert hat.  
-2. In der IMS hat sich eine ähnliche Gelegenheit ergeben. Dort habe ich
-   im Rahmen des Unterrichts im Fach Rechnungswesen ebenfalls ein
-   Kontokorrentkonto modellieren lassen. Als Kontrollgruppe diente dort
-   eine Klasse aus der HMS.
+   Anwendungsübung im Informatikunterricht nicht bearbeitet hat.  
+2. In der IMS hat sich eine ähnliche Gelegenheit ergeben. Dort wurde 
+   die Aufgabe im Rahmen des Unterrichts im Fach Rechnungswesen
+   bearbeitet.
+   Als Kontrollgruppe diente dort eine Klasse aus der HMS.
 
 Wenn die Leistungen der Klassen, welche das Kontokorrentkonto modelliert
 haben signifikant besser sind, als die Leistungen der Kontrollklassen,
@@ -162,9 +169,6 @@ werden.
    IMS und HMS doch recht unterschiedlich sind. Lernende der IMS streben
    eine Tätigkeit als Programmiererinnen und Programmierer an, Lernende
    der HMS entsprechen eher dem traditionellen Bild eines KV Lernenden.
-
-
-*Mögliche Gründe*
 
 ### Qualitatives Interview
 
