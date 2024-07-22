@@ -1,56 +1,23 @@
 # Methode
 
-Die Darstellung der Methoden gliedert sich in zwei Teile: jene Methode,
-welche einen effektiven Erkenntnisgewinn ermöglichte und jene Methoden,
-die keine greifbaren Resultate zeitigten.
+In diesem Abschnitt wird dargelegt, wie die Arbeitshypothese überprüft
+wird. Aus der Arbeitshypothese ergibt sich folgende Frage:
 
-## Auswertung von Noten von Absolventen der Informatikmittelschule
+Ist Computational Thinking eine hilfreiche Grundlage für das Lernen im
+Allgemeinen?
 
-Es hat sich gezeigt, dass die Auswertung von Noten von Absolventinnen und Absolventen der
-Informatikmittelschule den grössten Erkenntnisgewinn ergeben.
+Um diese Frage zu beantworten, wurden drei methodische Ansätze
+verwendet.
 
-In der Informatikmittelschule (IMS) werden in der schulisch
-orientierten Grundbildung (SOG) Lernende zu
-Informatiker/innen EFZ, Fachrichtung Applikationsentwicklung,
-ausgebildet.
-Der Lehrgang orientiert sich aus historischen Gründen sehr stark am
-Modell der Handelsmittelschule im Kanton Zürich. Dies hat zur Folge,
-dass parallel eine Berufsausbildung als Applikationsentwickler und eine
-Berufsmittelschule mit einer Berufsmatur Ausrichtung Wirtschaft
-absolviert werden. Diese Kombination einer technischen Berufslehre und
-einer kaufmännischen Berufsmatur stellt eine Besonderheit dar. Angehende
-Applikationsentwicklerinnen und Applikationsentwickler
-in der betrieblich orientierten Grundbildung (BOG) erwerben, wenn sie
-das den wollen, in der Regel eine Berufsmatur mit technischer
-Ausrichtung[@sbfiBerufsmaturitaet].   
+1. Ein natürliches Experiment, in welchem die Auswirkungen von CT auf
+   den Lernerfolg von Schulklassen überprüft wird.
+2. Qualitative Interviews, mit welchen erhoben wird, wie Schülerinnen
+   und Schüler die Auswirkungen von CT auf den Lernerfolg beurteilen.
+3. Die Gegenüberstellung von Noten aus der beruflichen Grundbildung und
+   solchen aus der Allgemeinbildung von Lernenden des Berufes
+   Informatiker/in, Fachrichtung Applikationsentwicklung.
 
-Als weitere Besonderheit findet in der IMS per Ende eines jeden
-Semesters eine promotionswirksame Beurteilung statt. Dabei kommt der
-Leistung in der Berufsbildung lediglich ein Gewicht von etwas mehr als
-10% zu. Die so gesetzte Anreizstruktur führt gelegentlich dazu, dass die
-Lernenden die Prioritäten eher auf die Fächer der BMS legen. Das heisst
-allerdings nicht, dass sie in beruflicher Hinsicht schlecht qualifiziert
-wären. Die Lernenden der IMS belegen überdurchschnittlich oft
-Spitzenplätze bei der kantonalen Rangierung aller Lernenden in den
-ICT-Berufen. 
-
-
-Diese Ausgangslage
-ermöglicht es, Leistungen im Fachbereich Informatik mit Leistungen im
-Bereich Allgemeinbildung zu korrelieren. Dazu stehen aus der
-Berufsausbildung (Berufsschule) 15 Noten aus Modulen mit einer
-grossen Nähe zu dem, was CT ausmacht, und 16 Noten mit allgemeinen
-beruflichen Inhalten sowie aus der
-Allgemeinbildung (BMS) 7 Noten aus dem Grundlagenbereich
-und zwei Noten aus kaufmännischen Fächern zur Verfügung.
-
-Von besonderem Interesse sind die Korrelationen zwischen den Noten der
-CT Module und den Noten des Grundlagenbereichs der BMS. Wenn die
-Noten hier korrelieren, ist das ein Indiz für die Gültigkeit der
-Arbeitshypothese. Wenn keine Korrelation festgestellt werden kann, muss
-die Arbeitshypothese verworfen werden.
-
-## Methodische Ansätze, welche zu keinen greifbaren Resultaten geführt haben 
+## Natürliche Experimente 
 
 Grundsätzlich wäre es wünschenswert, wenn die Arbeitshypothese mit einem
 Experiment überprüft werden könnte.
@@ -59,13 +26,16 @@ Experiment überprüft werden könnte.
 >ethical reasons. Then statisticans turn to observational
 >studies.[@freedmanStatisticalModelsTheory2009, S. 18]
 
-Eine beobachtende Studie bzw. eine Alternative zu einem Experiment ist
-ein natürliches Experiment. 
-Eine Situation, in welcher sich eine Population zufällig in eine
+Eine Form einer beobachtenden Studie ist das natürliche Experiment.
+Dabei ist ein natürliches Experiment eine
+Situation, in welcher sich eine Population zufällig in eine
 Behandlungs- und Kontrollgruppe
 aufteilen[@dunningNaturalExperimentsSocial2012,
-S. 15 f; @gerringAppliedSocialScience2017, S. 208 f]. Grundsätzlich
-hätte sich ein solches natürliches Experiment ergeben.
+S. 15 f; @gerringAppliedSocialScience2017, S. 208 f]. Die Bedingungen
+werden vom Beobachter dabei grundsätzlich nicht beeinflusst. Das
+bedeutet, dass natürliche Experimente nicht durchgeführt werden können.
+Natürliche Experimente werden
+entdeckt[@dunningNaturalExperimentsSocial2012, 39 ff].
 
 ### Entdeckte natürliche Experimente
 
@@ -229,6 +199,57 @@ ihren Antworten zufrieden zu stellen.
 Dies hat dazu geführt, dass die Arbeitshypothese zwar
 bestätigt wurde, dass die Information aber als Antwort auf eine einzige
 grosse Suggestivfrage zu verstehen ist.
+
+Die Darstellung der Methoden gliedert sich in zwei Teile: jene Methode,
+welche einen effektiven Erkenntnisgewinn ermöglichte und jene Methoden,
+die keine greifbaren Resultate zeitigten.
+
+## Auswertung von Noten von Absolventen der Informatikmittelschule
+
+Es hat sich gezeigt, dass die Auswertung von Noten von Absolventinnen und Absolventen der
+Informatikmittelschule den grössten Erkenntnisgewinn ergeben.
+
+In der Informatikmittelschule (IMS) werden in der schulisch
+orientierten Grundbildung (SOG) Lernende zu
+Informatiker/innen EFZ, Fachrichtung Applikationsentwicklung,
+ausgebildet.
+Der Lehrgang orientiert sich aus historischen Gründen sehr stark am
+Modell der Handelsmittelschule im Kanton Zürich. Dies hat zur Folge,
+dass parallel eine Berufsausbildung als Applikationsentwickler und eine
+Berufsmittelschule mit einer Berufsmatur Ausrichtung Wirtschaft
+absolviert werden. Diese Kombination einer technischen Berufslehre und
+einer kaufmännischen Berufsmatur stellt eine Besonderheit dar. Angehende
+Applikationsentwicklerinnen und Applikationsentwickler
+in der betrieblich orientierten Grundbildung (BOG) erwerben, wenn sie
+das den wollen, in der Regel eine Berufsmatur mit technischer
+Ausrichtung[@sbfiBerufsmaturitaet].   
+
+Als weitere Besonderheit findet in der IMS per Ende eines jeden
+Semesters eine promotionswirksame Beurteilung statt. Dabei kommt der
+Leistung in der Berufsbildung lediglich ein Gewicht von etwas mehr als
+10% zu. Die so gesetzte Anreizstruktur führt gelegentlich dazu, dass die
+Lernenden die Prioritäten eher auf die Fächer der BMS legen. Das heisst
+allerdings nicht, dass sie in beruflicher Hinsicht schlecht qualifiziert
+wären. Die Lernenden der IMS belegen überdurchschnittlich oft
+Spitzenplätze bei der kantonalen Rangierung aller Lernenden in den
+ICT-Berufen. 
+
+
+Diese Ausgangslage
+ermöglicht es, Leistungen im Fachbereich Informatik mit Leistungen im
+Bereich Allgemeinbildung zu korrelieren. Dazu stehen aus der
+Berufsausbildung (Berufsschule) 15 Noten aus Modulen mit einer
+grossen Nähe zu dem, was CT ausmacht, und 16 Noten mit allgemeinen
+beruflichen Inhalten sowie aus der
+Allgemeinbildung (BMS) 7 Noten aus dem Grundlagenbereich
+und zwei Noten aus kaufmännischen Fächern zur Verfügung.
+
+Von besonderem Interesse sind die Korrelationen zwischen den Noten der
+CT Module und den Noten des Grundlagenbereichs der BMS. Wenn die
+Noten hier korrelieren, ist das ein Indiz für die Gültigkeit der
+Arbeitshypothese. Wenn keine Korrelation festgestellt werden kann, muss
+die Arbeitshypothese verworfen werden.
+
 
 ### Fazit zu den verworfenen Methoden
 
