@@ -20,21 +20,26 @@ welche Bezug zur Berufsausbildung haben. Angehende
 Applikationsentwickler/innen erwerben daher in der Regel eine
 Berufsmatur mit technischer Ausrichtung[@sbfiBerufsmaturitaet].
 Ausnahmen bestehen für Lernende in Banken sowie für Schülerinnen und
-Schüler der IMS.
+Schüler der IMS. Diese Lernenden erwerben eine Berufsmatur mit
+wirtschaftlicher Ausrichtung (kaufmännische Berufsmatur).
 
 In der betrieblichen orientierten Grundbildung (BOG) gilt der Vorrang
 der beruflichen Ausbildung. Lernende, welche den Anforderungen der BMS
 nicht genügen, müssen diese wieder verlassen. In der SOG ist es genau
 umgekehrt, wer den Anforderungen der BMS nicht gewachsen ist, muss den
-Ausbildungsgang verlassen. Als weitere Besonderheit der IMS erwerben die
-Absolventen nicht die technische Berufsmatur, wie das in der Branche
-üblich ist, sondern eine kaufmännische Berufsmatur.
+Ausbildungsgang verlassen.
 
 Diese Ausgangslage
 ermöglicht es, Leistungen im Fachbereich Informatik mit Leistungen im
 Bereich Allgemeinbildung zu korrelieren. Dazu stehen aus der
 Berufsschule (Fachbereich Informatik) 31 Modulnoten und aus der
-Berufsmittelschule (Allgemeinbildung) 9 Fachnoten zur Verfügung.
+Berufsmittelschule 7 Noten in allgemeinbildenden Fächern sowie zwei
+Noten aus kaufmännischen Fächern zur Verfügung.
+
+CT Module?
+
+Von besonderem Interesse sind die Korrelationen zwischen den Noten der
+CT Module und den Noten der allgemeinbildenden Fächern der BMS.
 
 # Ausgangslage
 
