@@ -29,7 +29,7 @@ Experiment überprüft werden könnte.
 Eine Form einer beobachtenden Studie ist das natürliche Experiment.
 Dabei ist ein natürliches Experiment eine
 Situation, in welcher sich eine Population zufällig in eine
-Behandlungs- und Kontrollgruppe
+Behandlungs- und eine Kontrollgruppe
 aufteilen[@dunningNaturalExperimentsSocial2012,
 S. 15 f; @gerringAppliedSocialScience2017, S. 208 f]. Die Bedingungen
 werden vom Beobachter dabei grundsätzlich nicht beeinflusst. Das
@@ -39,14 +39,11 @@ entdeckt[@dunningNaturalExperimentsSocial2012, 39 ff].
 
 ### Entdeckte natürliche Experimente
 
-Für ein besseres Verständnis soll zuerst aufgezeigt werden, unter
-welchen Rahmenbedingungen die 
-natürlichen Experimente entstehen konnten.
-
-#### Ausgangslage an der Kantonsschule Büelrain
-
-An der Kantonsschule Büelrain Winterthur werden drei Schultypen
-unterrichtet:
+An der Kantonsschule Büelrain wurden zwei Situationen gefunden, die sich
+als natürliche Experimente zur Beantwortung der Forschungsfrage
+eigneten. Die Kantonsschule Büelrain ist eine Zürcher Mittelschule, an
+welcher zum Zeitpunkt der Verfassung des vorliegenden Textes drei
+Schultypen unterrichtet wurden:
 
 1. Das Wirtschaftsgymnasium (WG)
    
@@ -70,12 +67,18 @@ unterrichtet:
    Applikationsentwicklung, mit kaufmännischer Berufsmatur. Die IMS wird
    in der Regel mit einer Klasse pro Jahrgang geführt.
 
-Die Parallelklassen haben in der Regel in den einzelnen Fächern
-unterschiedliche Fachlehrpersonen, das heisst beispielsweise dass jede
-Parallelklasse im Fach Mathematik von einer anderen Lehrperson
-unterrichtet wird. Da an den Zürcherischen Gymnasien eine ausgeprägte
-Methodenfreiheit gilt, hat sich aus dieser Ausgangslage das folgende
-natürliche Experiment ergeben.
+Die Parallelklassen werden in Fächern mit hohen Stundendotaionen
+(drei Lektionen pro Woche und mehr) nach  Möglichkeit von
+unterschiedlichen Fachlehrpersonen unterrichtet. Als Parallelklassen
+gelten Klassen des gleichen Schultyps im Gleichen Schuljahr.  
+Das bedeutet, dass beispielsweise das Fach Mathematik in jeder
+dritten WG Klasse von jemand anderem unterrichtet wird. In Fächern mit
+tiefen Stundendotationen kann dieser Grundsatz nicht aufrecht erhalten
+werden.  
+Weil an Zürcher Mittelschulen eine ausgeprägte Methodenfreiheit gilt,
+führt das in den einzelnen Klassen zu beträchtlichen Unterschieden
+darin, wie bestimmte Inhalte vermittelt werden. Diese Varianz hat die
+folgenden natürlichen Experimente ergeben.
 
 ### Beschreibung der natürlichen Experimente
 
