@@ -2,32 +2,38 @@
 
 Die Darstellung der Methoden gliedert sich in zwei Teile: jene Methode,
 welche einen effektiven Erkenntnisgewinn ermöglichte und jene Methoden,
-die verworfen werden mussten.
+die keine greifbaren Resultate zeitigten.
 
 ## Auswertung von Noten von Absolventen der Informatikmittelschule
 
-Es hat sich gezeigt, dass die Auswertung von Noten von Absolventen der
+Es hat sich gezeigt, dass die Auswertung von Noten von Absolventinnen und Absolventen der
 Informatikmittelschule den grössten Erkenntnisgewinn ergeben.
 
-Im der Informatikmittelschule (IMS) werden in der schulisch
+In der Informatikmittelschule (IMS) werden in der schulisch
 orientierten Grundbildung (SOG) Lernende zu
 Informatiker/innen EFZ, Fachrichtung Applikationsentwicklung,
-ausgebildet.  
-Lernende einer Berufslehre steht die Möglichkeit offen, parallel zur
-Berufsausbildung die Berufsmatur zu erwerben (Art. 13
-Berufsmaturitätsverordnung). Die Berufsmatur hat fünf Ausrichtungen,
-welche Bezug zur Berufsausbildung haben. Angehende
-Applikationsentwickler/innen erwerben daher in der Regel eine
-Berufsmatur mit technischer Ausrichtung[@sbfiBerufsmaturitaet].
-Ausnahmen bestehen für Lernende in Banken sowie für Schülerinnen und
-Schüler der IMS. Diese Lernenden erwerben eine Berufsmatur mit
-wirtschaftlicher Ausrichtung (kaufmännische Berufsmatur).
+ausgebildet.
+Der Lehrgang orientiert sich aus historischen Gründen sehr stark am
+Modell der Handelsmittelschule im Kanton Zürich. Dies hat zur Folge,
+dass parallel eine Berufsausbildung als Applikationsentwickler und eine
+Berufsmittelschule mit einer Berufsmatur Ausrichtung Wirtschaft
+absolviert werden. Diese Kombination einer technischen Berufslehre und
+einer kaufmännischen Berufsmatur stellt eine Besonderheit dar. Angehende
+Applikationsentwicklerinnen und Applikationsentwickler
+in der betrieblich orientierten Grundbildung (BOG) erwerben, wenn sie
+das den wollen, in der Regel eine Berufsmatur mit technischer
+Ausrichtung[@sbfiBerufsmaturitaet].   
 
-In der betrieblichen orientierten Grundbildung (BOG) gilt der Vorrang
-der beruflichen Ausbildung. Lernende, welche den Anforderungen der BMS
-nicht genügen, müssen diese wieder verlassen. In der SOG ist es genau
-umgekehrt, wer den Anforderungen der BMS nicht gewachsen ist, muss den
-Ausbildungsgang verlassen.
+Als weitere Besonderheit findet in der IMS per Ende eines jeden
+Semesters eine promotionswirksame Beurteilung statt. Dabei kommt der
+Leistung in der Berufsbildung lediglich ein Gewicht von etwas mehr als
+10% zu. Die so gesetzte Anreizstruktur führt gelegentlich dazu, dass die
+Lernenden die Prioritäten eher auf die Fächer der BMS legen. Das heisst
+allerdings nicht, dass sie in beruflicher Hinsicht schlecht qualifiziert
+wären. Die Lernenden der IMS belegen überdurchschnittlich oft
+Spitzenplätze bei der kantonalen Rangierung aller Lernenden in den
+ICT-Berufen. 
+
 
 Diese Ausgangslage
 ermöglicht es, Leistungen im Fachbereich Informatik mit Leistungen im
