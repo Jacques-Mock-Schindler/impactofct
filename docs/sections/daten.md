@@ -1,6 +1,17 @@
 # Daten
 
+Die Daten umfassen Noten von insgesamt 167 Lernenden. Der
+Beobachtungszeitraum umfasst die Jahre von 2009 bis 2022. Das ergibt
+aufgrund der Schuldauer von drei Jahren insgesamt 10 Prüfungsjahrgänge.
+
 ## Module der Berufsbildung
+
+Nicht alle der unten aufgeführten Module wurden durchgehend während des
+ganzen Beobachtungszeitraums unterrichtet und geprüft. Dies ist eine
+Folge der periodisch durchgeführten Massnahmen der Qualitätsentwicklung
+nach Art. 22 Abs. 4 lit. a der Verordnung des SBFI über die berufliche
+Grundbildung Informatikerin/Informatiker mit eidgenössischem
+Fähigkeitszeugnis (BiVo).
 
 100 Daten charakterisieren, aufbereiten und auswerten
 103 Strukturiert programmieren nach Vorgabe
