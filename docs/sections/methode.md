@@ -142,9 +142,7 @@ als die Kontrollklassen.
 Für die Beurteilung des Effekts der Modellierung wurden einerseits die
 Prüfungsresultate der verschiedenen Klassen miteinander verglichen und
 anderseits qualitative Interviews mit Schülerinnen und Schülern der
-Klassen, welche das Kontokorrentkonto modelliert hatten, geführt. Es
-handelt sich also um einen *Mixed Methods* Ansatz empirischer
-Sozialforschung[@schreierMixedMethods2020, S. 164].
+Klassen, welche das Kontokorrentkonto modelliert hatten, geführt. 
 
 
 ### Konkretes Experiment
@@ -198,3 +196,6 @@ Erzählaufforderungen und ausformulierten Fragen (als Gedankenstützten)
 erstellt. Für einen Themenbereich wurde ein UML-Klassendiagramm
 erstellt, damit die Interviewpartner besser in der Lage waren, sich an
 den Kontext der Frage zu erinnern.
+
+Es hätte sich um einen *Mixed Methods* Ansatz empirischer
+Sozialforschung[@schreierMixedMethods2020, S. 164] gehandelt.
