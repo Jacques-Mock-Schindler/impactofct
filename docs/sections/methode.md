@@ -139,12 +139,6 @@ als die Kontrollklassen.
 
 *Mögliche Gründe*
 
-Für die Beurteilung des Effekts der Modellierung wurden einerseits die
-Prüfungsresultate der verschiedenen Klassen miteinander verglichen und
-anderseits qualitative Interviews mit Schülerinnen und Schülern der
-Klassen, welche das Kontokorrentkonto modelliert hatten, geführt. 
-
-
 ### Konkretes Experiment
 
 Glücklicherweise ergibt sich an der KBW ein natürliches Experiment in
