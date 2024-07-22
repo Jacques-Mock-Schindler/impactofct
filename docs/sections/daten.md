@@ -3,11 +3,11 @@
 ## Module der Berufsbildung
 
 100 Daten charakterisieren, aufbereiten und auswerten
-103
+103 Strukturiert programmieren nach Vorgabe
 104 Datenmodell implementieren
 114 Codierungs-, Kompressions- und Verschlüsselungsverfahren einsetzen
 117 Informatik- und Netzinfrastruktur für ein kleines Unternehmen realisieren
-118 
+118 Analysieren und strukturiert implementieren
 120 Benutzerschnittstellen implementieren
 122 Abläufe mit einer Scriptsprache automatisieren
 123 Serverdienste in Betrieb nehmen
