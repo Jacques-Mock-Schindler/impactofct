@@ -138,6 +138,21 @@ ergeben, dass die Klassen, welche das Kontokorrentkonto modelliert
 haben, in den Prüfungen zum Zinsrechnen schlechter abgeschnitten haben,
 als die Kontrollklassen.
 
+Für die Resultate können verschiedene Gründe verantwortlich gemacht
+werden. Diese sollen nach den beiden Experimenten getrennt dargestellt
+werden. 
+
+1. Im ersten Experiment wurden die Schwierigkeiten der Modellierung des
+   Kontokorrentkontos in Python unterschätzt. Die Schülerinnen und
+   Schüler waren von der Aufgabenstellung überfordert. Die
+   Programmierung des Modells hat so viel Aufmerksamkeit verlangt, dass
+   der inhaltliche Aspekt nicht mehr verarbeitet werden konnte.  
+   Das Resultat wäre möglicherweise ein anderes gewesen, wenn die
+   Schülerinnen und Schüler einerseits deutlich mehr
+   Programmiererfahrung mitgebracht hätten und adererseits mehr Zeit zur
+   Umsetzung des Auftrags zur Verfügung gestanden hätte.
+
+
 *Mögliche Gründe*
 
 ### Qualitatives Interview
