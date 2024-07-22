@@ -39,7 +39,10 @@ Berufsmittelschule 7 Noten in allgemeinbildenden Fächern und zwei
 Noten aus kaufmännischen Fächern zur Verfügung.
 
 Von besonderem Interesse sind die Korrelationen zwischen den Noten der
-CT Module und den Noten der allgemeinbildenden Fächern der BMS.
+CT Module und den Noten der allgemeinbildenden Fächern der BMS. Wenn die
+Noten hier korrelieren ist das ein Indiz für die Gültigkeit der
+Arbeitshypothese. Wenn keine Korrelation festgestellt werden kann, muss
+die Arbeitshypothese verworfen werden.
 
 # Ausgangslage
 
