@@ -9,13 +9,17 @@ die verworfen werden mussten.
 Es hat sich gezeigt, dass die Auswertung von Noten von Absolventen der
 Informatikmittelschule den grössten Erkenntnisgewinn ergeben.
 
-Im der Informatikmittelschule (IMS) werden in der Schulisch
+Im der Informatikmittelschule (IMS) werden in der schulisch
 orientierten Grundbildung (SOG) Lernende zu
-Informatiker/innen EFZ, Fachrichtung
-Applikationsentwicklung, ausgebildet. Wie in allen Lehrberufen steht
-auch Lernenden in diesem Beruf die Möglichkeit offen, Parallel zur
-Berufsausbildung die Berufsmittelschule (BMS) zu besuchen und die Berufsmatur
-zu erwerben.
+Informatiker/innen EFZ, Fachrichtung Applikationsentwicklung,
+ausgebildet.  
+Lernende einer Berufslehre steht die Möglichkeit offen, parallel zur
+Berufsausbildung die Berufsmatur zu erwerben (Art. 13
+Berufsmaturitätsverordnung). Die Berufsmatur hat fünf Ausrichtungen,
+welche Bezug zur Berufsausbildung haben. Angehende
+Applikationsentwickler/innen erwerben daher in der Regel eine
+Berufsmatur mit technischer Ausrichtung. Ausnahmen bestehen für Lernende
+in Banken sowie für Schülerinnen und Schüler der IMS.
 
 In der betrieblichen orientierten Grundbildung (BOG) gilt der Vorrang
 der beruflichen Ausbildung. Lernende, welche den Anforderungen der BMS
