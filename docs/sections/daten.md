@@ -14,7 +14,9 @@ Grundbildung Informatikerin/Informatiker mit eidgenössischem
 Fähigkeitszeugnis (BiVo).
 
 Die Module, die von ihrem Inhalt CT im Sinne der hier verwendeten
-Definition am besten abbilden, sind kursiv gesetzt.
+Definition am besten abbilden, sind kursiv gesetzt. Die
+Detailbeschreibung der Module findet sich im Modulbaukasten von
+ICT-Berufsbildung Schweiz[@Modulbaukasten].
 
 * 100 *Daten charakterisieren, aufbereiten und auswerten*
 * 103 Strukturiert programmieren nach Vorgabe
