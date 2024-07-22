@@ -38,15 +38,15 @@ ICT-Berufen.
 Diese Ausgangslage
 ermöglicht es, Leistungen im Fachbereich Informatik mit Leistungen im
 Bereich Allgemeinbildung zu korrelieren. Dazu stehen aus der
-Berufsschule (Fachbereich Informatik) 15 Noten mit Modulen mit einer
-grossen Nähe zu dem was CT ausmacht und 16 Noten mit allgemeinen
+Berufsausbildung (Berufsschule) 15 Noten aus Modulen mit einer
+grossen Nähe zu dem, was CT ausmacht, und 16 Noten mit allgemeinen
 beruflichen Inhalten sowie aus der
-Berufsmittelschule 7 Noten in allgemeinbildenden Fächern und zwei
-Noten aus kaufmännischen Fächern zur Verfügung.
+Allgemeinbildung (BMS) 7 Noten aus dem Grundlagenbereich
+und zwei Noten aus kaufmännischen Fächern zur Verfügung.
 
 Von besonderem Interesse sind die Korrelationen zwischen den Noten der
-CT Module und den Noten der allgemeinbildenden Fächern der BMS. Wenn die
-Noten hier korrelieren ist das ein Indiz für die Gültigkeit der
+CT Module und den Noten des Grundlagenbereichs der BMS. Wenn die
+Noten hier korrelieren, ist das ein Indiz für die Gültigkeit der
 Arbeitshypothese. Wenn keine Korrelation festgestellt werden kann, muss
 die Arbeitshypothese verworfen werden.
 
