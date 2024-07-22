@@ -121,7 +121,7 @@ Kontokorrentkonto sollte einerseits Buchungen korrekt erfassen und
 andererseits verschiedenen Zinsberechnungen vornehmen können. Dazu wurde
 in der Klasse das folgende UML Diagramm erarbeitet:
 
-![UML Diagramm Kontokorrentkonto]( ../graphics/uml_konotkorrentkonto.svg )
+![UML Diagramm Kontokorrentkonto]( docs/graphics/uml_konotkorrentkonto.svg )
 
 1. In einer WG Klasse konnte diese Aufgabe im obligatorischen Fach
    Informatik gestellt werden.  
@@ -159,9 +159,10 @@ werden.
    Programmiererfahrung mitgebracht hätten und adererseits mehr Zeit zur
    Umsetzung des Auftrags zur Verfügung gestanden hätte.
 
-2. Die Resultate beim Vergleich der Leistungen einer Klasse der IMS mit
-   einer Klasse der HMS dürften nicht zu Letzt den sehr
-   unterschiedlichen Charaktere der typischen Lernenden in den beiden
+2. In der IMS konnte die Aufgabenstellung grundsätzlich gelöst werden.  
+   Die Resultate beim Vergleich der Leistungen einer Klasse der IMS mit
+   einer Klasse der HMS dürften jdeoch nicht zu Letzt den sehr
+   unterschiedlichen Charakteren der typischen Lernenden in den beiden
    Schultypen geschuldet sein.  
    Zum Einen handelt es sich bei der Klasse der IMS im Gegensatz zu
    jener der HMS um eine reine Männerklasse. Zum Anderen darf nicht
