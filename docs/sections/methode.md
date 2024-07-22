@@ -1,3 +1,21 @@
+# Methode
+
+Die Darstellung der Methoden gliedert sich in zwei Teile: jene Methode,
+welche einen effektiven Erkenntnisgewinn ermöglichte und jene Methoden,
+die verworfen werden mussten.
+
+## Auswertung von Sekundärdaten
+
+Im Ausbildungsgang Informatikmittelschule werden in der Schulisch
+orientierten Grundbildung (SOG) Lernende zu
+Informatiker/innen EFZ, Fachrichtung
+Applikationsentwicklung, ausgebildet. Parallel zur Berufsausbildung
+erwerben die Lernenden die kaufmännische Berufsmatur. Diese Ausgangslage
+ermöglicht es, Leistungen im Fachbereich Informatik mit Leistungen im
+Bereich Allgemeinbildung zu korrelieren. Dazu stehen aus der
+Berufsschule (Fachbereich Informatik) 31 Modulnoten und aus der
+Berufsmittelschule (Allgemeinbildung) 9 Fachnoten zur Verfügung.
+
 # Ausgangslage
 
 Grundsätzlich wäre es wünschenswert, wenn die Arbeitshypothese mit einem
