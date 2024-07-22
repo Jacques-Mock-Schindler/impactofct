@@ -4,13 +4,28 @@ Die Darstellung der Methoden gliedert sich in zwei Teile: jene Methode,
 welche einen effektiven Erkenntnisgewinn ermöglichte und jene Methoden,
 die verworfen werden mussten.
 
-## Auswertung von Sekundärdaten
+## Auswertung von Noten von Absolventen der Informatikmittelschule
 
-Im Ausbildungsgang Informatikmittelschule werden in der Schulisch
+Es hat sich gezeigt, dass die Auswertung von Noten von Absolventen der
+Informatikmittelschule den grössten Erkenntnisgewinn ergeben.
+
+Im der Informatikmittelschule (IMS) werden in der Schulisch
 orientierten Grundbildung (SOG) Lernende zu
 Informatiker/innen EFZ, Fachrichtung
-Applikationsentwicklung, ausgebildet. Parallel zur Berufsausbildung
-erwerben die Lernenden die kaufmännische Berufsmatur. Diese Ausgangslage
+Applikationsentwicklung, ausgebildet. Wie in allen Lehrberufen steht
+auch Lernenden in diesem Beruf die Möglichkeit offen, Parallel zur
+Berufsausbildung die Berufsmittelschule (BMS) zu besuchen und die Berufsmatur
+zu erwerben.
+
+In der betrieblichen orientierten Grundbildung (BOG) gilt der Vorrang
+der beruflichen Ausbildung. Lernende, welche den Anforderungen der BMS
+nicht genügen, müssen diese wieder verlassen. In der SOG ist es genau
+umgekehrt, wer den Anforderungen der BMS nicht gewachsen ist, muss den
+Ausbildungsgang verlassen. Als weitere Besonderheit der IMS erwerben die
+Absolventen nicht die technische Berufsmatur, wie das in der Branche
+üblich ist, sondern eine kaufmännische Berufsmatur.
+
+Diese Ausgangslage
 ermöglicht es, Leistungen im Fachbereich Informatik mit Leistungen im
 Bereich Allgemeinbildung zu korrelieren. Dazu stehen aus der
 Berufsschule (Fachbereich Informatik) 31 Modulnoten und aus der
