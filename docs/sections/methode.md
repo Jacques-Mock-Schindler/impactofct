@@ -152,6 +152,17 @@ werden.
    Programmiererfahrung mitgebracht hätten und adererseits mehr Zeit zur
    Umsetzung des Auftrags zur Verfügung gestanden hätte.
 
+2. Die Resultate beim Vergleich der Leistungen einer Klasse der IMS mit
+   einer Klasse der HMS dürften nicht zu Letzt den sehr
+   unterschiedlichen Charaktere der typischen Lernenden in den beiden
+   Schultypen geschuldet sein.  
+   Zum Einen handelt es sich bei der Klasse der IMS im Gegensatz zu
+   jener der HMS um eine reine Männerklasse. Zum Anderen darf nicht
+   vergessen werden, dass die Interessen der Schülerinnen und Schüler in
+   IMS und HMS doch recht unterschiedlich sind. Lernende der IMS streben
+   eine Tätigkeit als Programmiererinnen und Programmierer an, Lernende
+   der HMS entsprechen eher dem traditionellen Bild eines KV Lernenden.
+
 
 *Mögliche Gründe*
 
