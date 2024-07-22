@@ -44,7 +44,7 @@ Noten hier korrelieren ist das ein Indiz für die Gültigkeit der
 Arbeitshypothese. Wenn keine Korrelation festgestellt werden kann, muss
 die Arbeitshypothese verworfen werden.
 
-# Ausgangslage
+## Methodische Überlegungen, welche zu keinen greifbaren Resultaten geführt haben 
 
 Grundsätzlich wäre es wünschenswert, wenn die Arbeitshypothese mit einem
 Experiment überprüft werden könnte.
@@ -53,10 +53,11 @@ Experiment überprüft werden könnte.
 >ethical reasons. Then statisticans turn to observational
 >studies.[@freedmanStatisticalModelsTheory2009, S. 18]
 
-Dem vorliegenden Text liegt ein natürliches Experiment zu Grunde. Dieses
-soll im folgenden beschrieben werden.
-
-**Design?**
+Eine Alternative zu einem Experiment ist ein natürliches Experiment.
+Eine Situation, in welcher sich eine Population zufällig in eine
+Behandlungs- und Kontrollgruppe
+aufteilen[@gerringAppliedSocialScience2017, S. 208 f]. Grundsätzlich hätte sich
+ein solches natürliches Experiment ergeben.
 
 ## Natürliches Experiment
 
