@@ -50,7 +50,7 @@ Noten hier korrelieren, ist das ein Indiz für die Gültigkeit der
 Arbeitshypothese. Wenn keine Korrelation festgestellt werden kann, muss
 die Arbeitshypothese verworfen werden.
 
-## Methodische Überlegungen, welche zu keinen greifbaren Resultaten geführt haben 
+## Methodische Ansätze, welche zu keinen greifbaren Resultaten geführt haben 
 
 Grundsätzlich wäre es wünschenswert, wenn die Arbeitshypothese mit einem
 Experiment überprüft werden könnte.
@@ -63,8 +63,9 @@ Eine beobachtende Studie bzw. eine Alternative zu einem Experiment ist
 ein natürliches Experiment. 
 Eine Situation, in welcher sich eine Population zufällig in eine
 Behandlungs- und Kontrollgruppe
-aufteilen[@gerringAppliedSocialScience2017, S. 208 f]. Grundsätzlich hätte sich
-ein solches natürliches Experiment ergeben.
+aufteilen[@dunningNaturalExperimentsSocial2012,
+S. 15 f; @gerringAppliedSocialScience2017, S. 208 f]. Grundsätzlich
+hätte sich ein solches natürliches Experiment ergeben.
 
 ### Entdeckte natürliche Experimente
 
@@ -139,20 +140,7 @@ als die Kontrollklassen.
 
 *Mögliche Gründe*
 
-### Konkretes Experiment
-
-Glücklicherweise ergibt sich an der KBW ein natürliches Experiment in
-der Gegenüberstellung von zwei Klassen der gymnasialen Oberstufe und
-eine Beobachtungsstudie durch den Vergleich einer IMS-Klasse mit einer
-Klasse der HMS.  
-Diese beiden statistischen Erhebungen können noch durch qualitative
-Interviews ergänzt werden.
-
-Gegenüberstellung 1I und 1xH (observational study) sowie
-1gW und 1xW (natural experiment) [@dunningNaturalExperimentsSocial2012,
-S. 15 f].
-
-## Qualitatives Interview
+### Qualitatives Interview
 
 Qualitative Interviews entsprechen nicht der gängigen Vorstellung von
 Interviews, wie man sie aus den Medien kennt. Qualitative Interviews
@@ -163,7 +151,10 @@ sind eher durch den Interviewer moderierte Erzählungen des Interviewten.
 >[...][@helfferichLeitfadenUndExperteninterviews2022, S. 878].
 
 Das bedeutet allerdings nicht, dass das qualitative Interview völlig
-unstrukturiert ist.
+unstrukturiert ist. Es bedarf der gleich sorgfältigen Planung, wie jedes
+andere Interview.
+
+#### Planung der qualitativen Interviews
 
 >Je stärker das Forschungsinteresse auf konkrete, offen erhobene
 >Informationen ausgerichtet ist, desto mehr Strukturierung verträgt das
@@ -190,6 +181,25 @@ Erzählaufforderungen und ausformulierten Fragen (als Gedankenstützten)
 erstellt. Für einen Themenbereich wurde ein UML-Klassendiagramm
 erstellt, damit die Interviewpartner besser in der Lage waren, sich an
 den Kontext der Frage zu erinnern.
+
+#### Durchführung der qualitativen Interviews
+
+Es wurden insgesamt vier qualitative Interviews geführt. Alle vier
+Interviews haben das gleiche Resultat hervorgebracht.  
+Im Rahmen dieser Gespräche hat sich allerdings
+gezeigt, dass das Gefälle zwischen Schülerinnen und Schülern auf der
+einen Seite und einem Lehrer auf der anderen Seite zu gross war. Die
+Schülerinnen und Schüler sind so stark darauf konditioniert, die
+Erwartungen der Lehrerinnen und Lehrer zu erfüllen, dass keine freie
+Erzählung ihrerseits erfolgt ist. Die Schülerinnen und Schüler haben
+lieber auf konkrete Fragen gewartet. Diese haben sie bereitwillig
+beantwortet. Sie haben sich dabei aber stehts bemüht, den Befrager mit
+ihren Antworten zufrieden zu stellen.
+Dies hat dazu geführt, dass die Arbeitshypothese zwar
+bestätigt wurde, dass die Information aber als Antwort auf eine einzige
+grosse Suggestivfrage zu verstehen ist.
+
+### Fazit zu den verworfenen Methoden
 
 Es hätte sich um einen *Mixed Methods* Ansatz empirischer
 Sozialforschung[@schreierMixedMethods2020, S. 164] gehandelt.
