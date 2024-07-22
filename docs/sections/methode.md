@@ -53,18 +53,19 @@ Experiment überprüft werden könnte.
 >ethical reasons. Then statisticans turn to observational
 >studies.[@freedmanStatisticalModelsTheory2009, S. 18]
 
-Eine Alternative zu einem Experiment ist ein natürliches Experiment.
+Eine beobachtende Studie bzw. eine Alternative zu einem Experiment ist
+ein natürliches Experiment. 
 Eine Situation, in welcher sich eine Population zufällig in eine
 Behandlungs- und Kontrollgruppe
 aufteilen[@gerringAppliedSocialScience2017, S. 208 f]. Grundsätzlich hätte sich
 ein solches natürliches Experiment ergeben.
 
-## Natürliches Experiment
+### Beschreibung des natürlichen Experiments
 
 Zuerst soll aufgezeigt werden, unter welchen Rahmenbedingungen das
 natürliche Experiment entstehen konnte.
 
-### Ausgangslage an der Kantonsschule Büelrain
+#### Ausgangslage an der Kantonsschule Büelrain
 
 An der Kantonsschule Büelrain Winterthur werden drei Schultypen
 unterrichtet:
@@ -98,7 +99,7 @@ unterrichtet wird. Da an den Zürcherischen Gymnasien eine ausgeprägte
 Methodenfreiheit gilt, hat sich aus dieser Ausgangslage das folgende
 natürliche Experiment ergeben.
 
-## Das konkrete natürliche Experiment
+### Das konkrete natürliche Experiment
 
 In allen drei Schultypen werden Unterrichtsinhalte aus dem Fach
 Rechnungswesen vermittelt. Im WG findet dieser Unterricht im Fach
@@ -126,7 +127,7 @@ handelt sich also um einen *Mixed Methods* Ansatz empirischer
 Sozialforschung[@schreierMixedMethods2020, S. 164].
 
 
-## Konkretes Experiment
+### Konkretes Experiment
 
 Glücklicherweise ergibt sich an der KBW ein natürliches Experiment in
 der Gegenüberstellung von zwei Klassen der gymnasialen Oberstufe und
