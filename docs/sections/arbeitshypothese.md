@@ -28,7 +28,7 @@ Arbeitshypothese formuliert:
 >Dies ist eine Anwendung von Computational Thinking im Sinne der
 >aktuellen Auffassung dieses Begriffes Definition und führt zu einem
 >tieferen Verständnis der so gelösten 
->Probleme und damit zu einem Nachhaltigen Lernerfolg. 
+>Probleme und damit zu einem nachhaltigen Lernerfolg. 
 
 ## Psychologischer Hintergrund der Arbeitshypothese
 
