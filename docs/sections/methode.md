@@ -18,8 +18,9 @@ Berufsausbildung die Berufsmatur zu erwerben (Art. 13
 Berufsmaturitätsverordnung). Die Berufsmatur hat fünf Ausrichtungen,
 welche Bezug zur Berufsausbildung haben. Angehende
 Applikationsentwickler/innen erwerben daher in der Regel eine
-Berufsmatur mit technischer Ausrichtung. Ausnahmen bestehen für Lernende
-in Banken sowie für Schülerinnen und Schüler der IMS.
+Berufsmatur mit technischer Ausrichtung[@sbfiBerufsmaturitaet].
+Ausnahmen bestehen für Lernende in Banken sowie für Schülerinnen und
+Schüler der IMS.
 
 In der betrieblichen orientierten Grundbildung (BOG) gilt der Vorrang
 der beruflichen Ausbildung. Lernende, welche den Anforderungen der BMS
