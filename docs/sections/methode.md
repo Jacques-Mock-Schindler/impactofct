@@ -66,10 +66,11 @@ Behandlungs- und Kontrollgruppe
 aufteilen[@gerringAppliedSocialScience2017, S. 208 f]. Grundsätzlich hätte sich
 ein solches natürliches Experiment ergeben.
 
-### Beschreibung des natürlichen Experiments
+### Entdeckte natürliche Experimente
 
-Zuerst soll aufgezeigt werden, unter welchen Rahmenbedingungen das
-natürliche Experiment entstehen konnte.
+Für ein besseres Verständnis soll zuerst aufgezeigt werden, unter
+welchen Rahmenbedingungen die 
+natürlichen Experimente entstehen konnten.
 
 #### Ausgangslage an der Kantonsschule Büelrain
 
@@ -105,7 +106,7 @@ unterrichtet wird. Da an den Zürcherischen Gymnasien eine ausgeprägte
 Methodenfreiheit gilt, hat sich aus dieser Ausgangslage das folgende
 natürliche Experiment ergeben.
 
-### Das konkrete natürliche Experiment
+### Beschreibung der natürlichen Experimente
 
 In allen drei Schultypen werden Unterrichtsinhalte aus dem Fach
 Rechnungswesen vermittelt. Im WG findet dieser Unterricht im Fach
@@ -113,17 +114,30 @@ Wirtschaft und Recht in den anderen beiden Schultypen in einem eigenen
 Fach statt. Im WG wird ausserdem in den ersten zwei Jahren das
 obligatorische Fach Informatik unterrichtet.
 
-Diese Konstellation hat es mir ermöglicht, in einer WG Klasse im
-obligatorischen Fach Informatik ein Kontokorrentkonto als
-Anwendungsübung in objektorientierter Programmierung zu modellieren.
-Anschliessend konnten die Prüfungsleistungen dieser Klasse mit den
-Prüfungsleistungen einer Klasse verglichen werden, welche diese
-Anwendungsübung im Informatikunterricht nicht absolviert haben.
+1. In einer WG Klasse hat mir diese Konstellation ermöglicht, im
+   obligatorischen Fach Informatik ein Kontokorrentkonto als
+   Anwendungsübung in objektorientierter Programmierung zu modellieren.
+   Anschliessend konnten die Prüfungsleistungen im Zinsrechnen dieser
+   Klasse mit den Prüfungsleistungen zum gleichen Thema einer Klasse
+   verglichen werden, welche diese 
+   Anwendungsübung im Informatikunterricht nicht absolviert hat.  
+2. In der IMS hat sich eine ähnliche Gelegenheit ergeben. Dort habe ich
+   im Rahmen des Unterrichts im Fach Rechnungswesen ebenfalls ein
+   Kontokorrentkonto modellieren lassen. Als Kontrollgruppe diente dort
+   eine Klasse aus der HMS.
 
-In der IMS hat sich eine ähnliche Gelegenheit ergeben. Dort habe ich im
-Rahmen des Unterrichts im Fach Rechnungswesen ebenfalls ein
-Kontokorrentkonto modellieren lassen. Als Kontrollgruppe diente dort
-eine HMS Klasse.
+Wenn die Leistungen der Klassen, welche das Kontokorrentkonto modelliert
+haben signifikant besser sind, als die Leistungen der Kontrollklassen,
+wäre das ein Indiz für die Korrektheit der Arbeitshypothese. Andernfalls
+kann aufgrund der vielen Störvariablen keine Aussage gemacht werden und
+es muss nach weiteren Methoden zur Prüfung der Arbeitshypothese gesucht
+werden.  
+Die Auswertung der Noten der involvierten Klassen hat in beiden Fällen
+ergeben, dass die Klassen, welche das Kontokorrentkonto modelliert
+haben, in den Prüfungen zum Zinsrechnen schlechter abgeschnitten haben,
+als die Kontrollklassen.
+
+*Mögliche Gründe*
 
 Für die Beurteilung des Effekts der Modellierung wurden einerseits die
 Prüfungsresultate der verschiedenen Klassen miteinander verglichen und
