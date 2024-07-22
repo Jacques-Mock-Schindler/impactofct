@@ -32,11 +32,11 @@ Ausbildungsgang verlassen.
 Diese Ausgangslage
 ermöglicht es, Leistungen im Fachbereich Informatik mit Leistungen im
 Bereich Allgemeinbildung zu korrelieren. Dazu stehen aus der
-Berufsschule (Fachbereich Informatik) 31 Modulnoten und aus der
-Berufsmittelschule 7 Noten in allgemeinbildenden Fächern sowie zwei
+Berufsschule (Fachbereich Informatik) 15 Noten mit Modulen mit einer
+grossen Nähe zu dem was CT ausmacht und 16 Noten mit allgemeinen
+beruflichen Inhalten sowie aus der
+Berufsmittelschule 7 Noten in allgemeinbildenden Fächern und zwei
 Noten aus kaufmännischen Fächern zur Verfügung.
-
-CT Module?
 
 Von besonderem Interesse sind die Korrelationen zwischen den Noten der
 CT Module und den Noten der allgemeinbildenden Fächern der BMS.
