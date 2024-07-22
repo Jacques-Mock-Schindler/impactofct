@@ -9,4 +9,6 @@ header-includes:
     - \usepackage{pdflscape}
     - \usepackage{longtable}
     - \usepackage{booktabs}
+    - \usepackage{xurl}
+    - \usepackage[breaklinks]{hyperref}
 ---
