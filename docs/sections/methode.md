@@ -82,19 +82,40 @@ folgenden natürlichen Experimente ergeben.
 
 ### Beschreibung der natürlichen Experimente
 
-In allen drei Schultypen werden Unterrichtsinhalte aus dem Fach
+In allen drei Schultypen bilden wirtschaftliche Inhalte ein Schwerpunkt.
+Entsprechend werden in allen drei Schultypen Unterrichtsinhalte aus dem
+Fach
 Rechnungswesen vermittelt. Im WG findet dieser Unterricht im Fach
-Wirtschaft und Recht in den anderen beiden Schultypen in einem eigenen
-Fach statt. Im WG wird ausserdem in den ersten zwei Jahren das
+Wirtschaft und Recht, in den anderen beiden Schultypen in einem eigenen
+Fach Finanz- und Rechnungswesen statt. Im WG wird ausserdem in den ersten zwei Jahren das
 obligatorische Fach Informatik unterrichtet.
 
-In dieser Situation war es möglich, in zwei Klassen als Lernhilfe für
-das Zinsrechnen ein Kontokorrentkonto modellieren zu Lassen. Das
-Kontokorrentkonto sollte einerseits Buchungen korrekt erfassen und
-andererseits verschiedenen Zinsberechnungen vornehmen können. Dazu wurde
-in der Klasse das folgende UML Diagramm erarbeitet:
+Zum Fach Rechnungswesen gehört neben der traditionellen Buchhaltung auch
+das kaufmännische Rechnen (Zinsrechnen). In einer Klasse des WG und
+einer der IMS wurde das kaufmännische Rechnen theoretisch eingeführt und
+mit ein paar Anwendungsübungen vertieft. Nach diesem konventionellen
+Einstieg ins kaufmännische Rechnen wurde als
+weitere Vertiefung ein
+Kontokorrentkonto objektorientiert programmiert. Der Programmierung lag
+das folgende UML Klassendiagramm zu Grunde:
 
 ![UML Diagramm Kontokorrentkonto]( docs/graphics/uml_konotkorrentkonto.svg )
+
+Für die Programmierung des
+Kontokorrentkontos mussten alle Aspekte von CT eingesetzt werden.
+Zuerst mussten die einzelnen Teilprobleme identifiziert
+werden. Die Lösungen der Teilprobleme mussten dann soweit verallgemeinert
+werden, dass sie mit beliebigen Manifestationen des Grundproblems, der
+Berechnung eines Zinses auf ein bestimmte Guthaben zwischen zwei
+beliebigen Tagen, angewendet werden konnten. Die Implementation der dazu
+erforderlichen Klassen und Methoden war mit der Entwicklung der dazu
+notwendigen Algorithmen verbunden.
+
+
+Im Anschluss wurden die Prüfungsresultate dieser beiden Klassen mit den
+Prüfungsresultaten von Klassen verglichen, welche kein Kontokorrentkonto
+programmiert hatten.
+
 
 1. In einer WG Klasse konnte diese Aufgabe im obligatorischen Fach
    Informatik gestellt werden.  
