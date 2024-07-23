@@ -56,5 +56,5 @@ A simple example:
 ## Verwendung von pandoc zur Erstellung des PDF
 
 ```powershell
-pandoc --metadata-file='G:\Meine Ablage\Studium\impactofct\docs\header.yaml' --citeproc -o docs/index.pdf docs/sections/computational_thinking.md
+pandoc --metadata-file='G:\Meine Ablage\Studium\impactofct\docs\header.yaml' --filter pandoc-crossref --citeproc -o docs/index.pdf docs/sections/computational_thinking.md
 ```
