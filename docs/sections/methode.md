@@ -83,15 +83,18 @@ folgenden natürlichen Experimente ergeben.
 ### Beschreibung der natürlichen Experimente
 
 In allen drei Schultypen bilden wirtschaftliche Inhalte ein Schwerpunkt.
-Entsprechend werden in allen drei Schultypen Unterrichtsinhalte aus dem
-Fach
-Rechnungswesen vermittelt. Im WG findet dieser Unterricht im Fach
-Wirtschaft und Recht, in den anderen beiden Schultypen in einem eigenen
-Fach Finanz- und Rechnungswesen statt. Im WG wird ausserdem in den ersten zwei Jahren das
+Teil des Unterrichts in diesem Schwerpunkt ist das Fach Rechnungswesen.
+Im WG findet der Unterricht im Rechnungswesen als Teil des Faches
+Wirtschaft und Recht (WR) statt. In den beiden Schultypen HMS und IMS
+wird Rechnungswesen in einem eigenen Fach Finanz- und Rechnungswesen
+unterrichtet.  
+Im WG wird ausserdem in den ersten zwei Jahren das
 obligatorische Fach Informatik unterrichtet.
 
-Zum Fach Rechnungswesen gehört neben der traditionellen Buchhaltung auch
-das kaufmännische Rechnen (Zinsrechnen). In einer Klasse des WG und
+Im Rechnungswesen ist kaufmännisches Rechnen teil des Curriculums.
+Kaufmännisches Rechnen ist im Wesentlichen Zinsrechnen. Dabei wird
+insbesondere die deutsche Zinsusanz eingeführt[@Zinsberechnungsmethode2024a].
+In einer Klasse des WG und
 einer der IMS wurde das kaufmännische Rechnen theoretisch eingeführt und
 mit ein paar Anwendungsübungen vertieft. Nach diesem konventionellen
 Einstieg ins kaufmännische Rechnen wurde als
