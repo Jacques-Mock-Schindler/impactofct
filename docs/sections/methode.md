@@ -157,20 +157,48 @@ Das Experiment liess erwarten, dass die Prüfungsleistungen im
 kaufmännischen Rechnen der beiden Klassen, welche diese
 Untrrichtseinheit durchlaufen haben, besser ausfallen würden, als jene
 ihrer jeweiligen Kontrollklassen. Ein wesentlicher Vorteil des
-Experiments lag in der einfachen Auswertung des Resultates. Es mussten
-lediglich die Prüfungsleistungen der beteilligten Klassen miteinander
-verglichen werden.
+Experiments lag daher in der einfachen Auswertung des Resultates. Es
+mussten lediglich die Prüfungsleistungen der beteilligten Klassen
+miteinander verglichen werden.
 
-Die Ausgangslage hat eine Verfälschung des Resultates erwarten lassen.
-Verfälschungen waren in erster Linie durch die andere personelle
-Zusammensetzugn von Behandlungs- und Kontrollgruppen zu erwarten. Wie
-gross dieser Effekt ist, ist allen vertraut, welche in verschiedenen
-Schulkassen den gleichen Stoff vermittelt
-haben[@KlassengemeinschaftStaerkenBesten]. Zusätzlich fürht die gleiche
-Methodenfreiheit, welche das Experiment möglich gemacht hat, zu anderen
-Störvariabeln. Diese können zum Teil nicht einmal identifiziert werden.
-Allerdings wurde erwartet, dass der Effekt so stark sei, dass alle
-Störvariabeln durch den Effekt verdeckt würden.
+Dem standen allerdings mehrere Schwächen gegenüber.
+
+Die Stichprobem
+waren in beiden Teilexperimenten (WG bzw. IMS/HMS) zu klein um
+statistisch signifikatnte Aussagen zuzulassen.
+
+*Wie gross müsste die Stichprobe sein?*
+
+Zudem gibt es verschiedene Störvariabeln, welche das Resultat
+verfälschen. Zu nennen ist insbesondere die unterschiedliche
+Klassenzusammensetzung. Dies hat nicht nur mit der Stichprobengrösse zu
+tun. Jede Schulklasse hat eine eigene Gruppendynamik. Diese
+Gruppendynamik kann den Lernerfolg massgeblich beeinflussen. Dieses
+Phänomen beeinträchtigt die Aussagekraft des Vergleiches der
+Parallelklassen des WG. Noch viel stärker kommt dieses Phänomen zum
+Tragen beim Vergleich von Klassen zweier Schultypen. Die HMS und die IMS
+haben wohl das selbe Curriculum im Wirtschaftsunterricht, sie stellen
+aber ganzu unterschiedliche Soziotope dar. Eine kaufmännische Ausbildung
+zieht eher kommunikative Menschen an wohingegen eine Ausbildung als
+Applikationsentwickler/in eher technisch interessierte Menschen anzieht.
+Dass es sich dabei nicht um ein blosses Cliché handelt, zeigt sich an
+den Aufnahmebedingungen zu den beiden Schultypen. Für den Eintritt in
+die HMS muss eine Aufnahmeprüfung nach der zweiten oder dritten
+Sekundarklasse abgelegt werden. Für die Aufnahme an die IMS muss eine
+Aufnahmeprüfung nach der dritten Sekundarklasse abgelegt werden sowie
+zusätzlich ein Multichck "ICT Informatiker/in EFZ Fachricthung
+Applikationsentwicklung" in den Bereichen "Potenzial" und
+"berufsspezifische Fähigkeiten" mit mindestens 50 Punkten bestanden
+werden. Die IMS richtet sich damit erklärtermassen an eine spezifische
+Gruppe von Lernenden.  
+Ausserdem ist auch die Methodenfreiheit, welche das Experiment
+eigentlich erst ermöglicht hat, auch eine Störvariabel. Nicht allen
+Lehrpersonen liegen alle Themen gleich gut. Der Einfluss dieses
+Umstandes konnte im vorliegenden Experiment nicht isoliert werden.
+
+Trotz der offensichtlichen Schwächen des natürlichen Experiments war die
+Hoffnung, dass der Effekt so stark sein würde, dass er den Einfluss der
+Störvariabeln überdecken würde.
 
 ### Durchführung der natürlichen Experimente
 
