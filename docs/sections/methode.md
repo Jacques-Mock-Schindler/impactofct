@@ -123,6 +123,8 @@ später stattgefunden hat, hat dies die Möglichkeit eröffnet, darauf zu
 reagieren und das Klassendiagramm mit der Klasse in einem Lehrgespräch
 zu entwickeln. 
 
+### Begründung für die Auswertung des natürlichen Experiments
+
 Mit dieser Übungsanlage flossen alle Aspekte von CT in den Unterricht
 ein. Wie das geschehen ist, kann mit dem Klassendiagramm illustriert
 werden (vgl. @fig:uml). Die Aufgabe, ein Kontokorrentkonto zu
@@ -141,14 +143,21 @@ Prüfungsresultate in der Prüfung zum kaufmännischen Rechnen der beiden
 Klassen, welche die vertiefte Anwendungsübung durchlaufen haben, besser
 ausfallen, als in den Klassen, welche lediglich die konventionelle
 Einführung ins kaufmännische Rechnen erhalten haben.  
+
+### Schwächen der Untersuchungsanlage
+
 Die Ausgangslage hat eine Verfälschung des Resultates erwarten lassen.
 Verfälschungen waren in erster Linie durch die andere personelle
 Zusammensetzugn von Behandlungs- und Kontrollgruppen zu erwarten. Wie
 gross dieser Effekt ist, ist allen vertraut, welche in verschiedenen
-Schulkassen den gleichen Stoff vermittelt haben.
-Der Effekt wurde als so stark erwartet, dass allfällige Störvariabeln
-dadurch in den Hintergrund gedrängt werden würden.
+Schulkassen den gleichen Stoff vermittelt
+haben[@KlassengemeinschaftStaerkenBesten]. Zusätzlich fürht die gleiche
+Methodenfreiheit, welche das Experiment möglich gemacht hat, zu anderen
+Störvariabeln. Diese können zum Teil nicht einmal identifiziert werden.
+Allerdings wurde erwartet, dass der Effekt so stark sei, dass alle
+Störvariabeln durch den Effekt verdeckt würden.
 
+### Überprüfung der Resultate
 
 Im Anschluss wurden die Prüfungsresultate dieser beiden Klassen mit den
 Prüfungsresultaten von Klassen verglichen, welche kein Kontokorrentkonto
