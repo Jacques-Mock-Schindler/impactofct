@@ -82,28 +82,31 @@ folgenden natürlichen Experimente ergeben.
 
 ### Beschreibung der natürlichen Experimente
 
-In allen drei Schultypen bilden wirtschaftliche Inhalte ein Schwerpunkt.
+In allen drei oben dargestellten Schultypen bilden wirtschaftliche
+Inhalte ein Schwerpunkt.
 Teil des Unterrichts in diesem Schwerpunkt ist das Fach Rechnungswesen.
 Im WG findet der Unterricht im Rechnungswesen als Teil des Faches
 Wirtschaft und Recht (WR) statt. In den beiden Schultypen HMS und IMS
-wird Rechnungswesen in einem eigenen Fach Finanz- und Rechnungswesen
-(FRW) unterrichtet.  
+wird Rechnungswesen in einem eigenen Fach, Finanz- und Rechnungswesen
+(FRW), unterrichtet.  
 Im WG wird ausserdem in den ersten zwei Jahren das
 obligatorische Fach Informatik (OFI) unterrichtet.
 
 Im Rechnungswesen ist kaufmännisches Rechnen teil des Curriculums.
 Kaufmännisches Rechnen ist im Wesentlichen Zinsrechnen. Dabei wird
 insbesondere die deutsche Zinsusanz
-eingeführt[@Zinsberechnungsmethode2024a]. Üblicherweise wird die
-deutsche Zinsusanz zuerst theoretisch eingeführt und anschliessen mit
-Anwendungsübungen vertieft.  
+eingeführt[@hischerKaufmaennischesRechnenWichtigsten2018, S. 102].
+Üblicherweise wird die deutsche Zinsusanz zuerst theoretisch eingeführt
+und anschliessen mit Anwendungsübungen vertieft.  
 Da im WG parallel zum WR-Unterricht das OFI unterrichtet wird, hat dies
-die Möglichkeit geboten, die deutsche Zinsusanz mit anderen methodischen
-Ansätzen weiter zu vertiefen. Das
+die Möglichkeit geboten, die deutsche Zinsusanz mit zusätzlichen
+methodischen Ansätzen weiter zu vertiefen. Das
 Thema wurde in eine Anwendungsübung für objektorientierte Programmierung
 in Python integriert. Die Schülerinnen und Schüler sollten ein
 Kontokorrentkonto modellieren und das Modell objektorientiert in Python
-implementieren.  
+implementieren. Dabei sollte das Modell in der Lage sein, den Zins auf
+den aktuellen Saldo unter Anwendung der deutschen Zinsusanz auf Tage
+genau zu berechnen.  
 In der IMS wurde die gleiche Anwendungsübung im Rahmen des Unterrichts
 im Fach FRW durchgeführt. Weil die Lernenden der IMS in ihrer
 beruflichen Ausbildung das Programmieren in Java lernen, erfolgte die
@@ -115,21 +118,21 @@ dargestellt werden:
 ![UML Diagramm
 Kontokorrentkonto](docs/graphics/uml_konotkorrentkonto.svg){#fig:uml}
 
-In der Klasse des WG wurde das Klassendiagramm vorgegeben und
-besprochen. Dies hat den Schülerinnen und Schülern jedoch zu wenig Zeit
-gegeben, sich mit der Struktur genügend vertieft auseinandersetzen zu
-können. Weil die entsprechende Unterrichtseinheit in der IMS zeitlich
-später stattgefunden hat, hat dies die Möglichkeit eröffnet, darauf zu
-reagieren und das Klassendiagramm mit der Klasse in einem Lehrgespräch
-zu entwickeln. 
+Als Kontrollgruppe konnte im WG eine der Parallelklassen verwendet
+werden, welche das Zinsrechnen auf konventionellem Weg erarbeitet hat.
+In der IMS musste in Ermangelung von Paralleklassen auf eine Klasse der
+HMS als Kontrollgruppe zurückgegriffen werden. Dass die Kontrollgruppe
+für die IMS aus einem anderen Schultyp stammte, war nicht so schlimm,
+weil beide Schultypen im Wirtschaftsunterricht über das selbe Curriculum
+verfügten.
 
 ### Begründung für die Wahl des natürlichen Experiments
 
 Weil es eigentlich wünschenwsert wäre, die Gültigkeit einer
-Arbeitshypothese experimentel zu überprüfen, liegt es auf der Hand,
+Arbeitshypothese experimentell zu überprüfen, liegt es auf der Hand,
 entdeckte natürliche Experimente zu verwenden.
 
-Neben der Verfügbarkeit sprechen aber auch die inhaltliche Ausgestaltung
+Neben der Verfügbarkeit sprachen aber auch die inhaltliche Ausgestaltung
 des natürlichen Experiments für dessen Auswahl. Flossen doch
 alle Aspekte von CT in den Unterricht
 ein.  
@@ -144,18 +147,19 @@ das Notwendige reduzierte Modell eignete sich, wiederkehrende Probleme
 zu erkennen und diese einer durch einen Algorithmus gesteuerten Lösung
 zuzuführen.  
 Ausserdem war die Unterrichtseinheit selbstüberprüfend. Wenn es den
-Schülern nach der Implementierung in Python oder Java möglich war,
-Zinsberechnungen durchzufürhen, war die Aufgabenstellung erfolgreich
-gelöst.
+Schülerinnen und Schülern nach der Implementierung in Python oder Java
+möglich war, Zinsberechnungen durchzufürhen, war die Aufgabenstellung
+offensichtlich erfolgreich gelöst worden.
 
-So wurde sichergestellt, dass alle Aspekte von CT im Unterricht zur
-Anwendung gekommen sind. Damit verbunden war die Erwartung, dass die
-Prüfungsresultate in der Prüfung zum kaufmännischen Rechnen der beiden
-Klassen, welche die vertiefte Anwendungsübung durchlaufen haben, besser
-ausfallen, als in den Klassen, welche lediglich die konventionelle
-Einführung ins kaufmännische Rechnen erhalten haben.  
+### Stärken und Schwächen der Untersuchungsanlage
 
-### Schwächen der Untersuchungsanlage
+Das Experiment liess erwarten, dass die Prüfungsleistungen im
+kaufmännischen Rechnen der beiden Klassen, welche diese
+Untrrichtseinheit durchlaufen haben, besser ausfallen würden, als jene
+ihrer jeweiligen Kontrollklassen. Ein wesentlicher Vorteil des
+Experiments lag in der einfachen Auswertung des Resultates. Es mussten
+lediglich die Prüfungsleistungen der beteilligten Klassen miteinander
+verglichen werden.
 
 Die Ausgangslage hat eine Verfälschung des Resultates erwarten lassen.
 Verfälschungen waren in erster Linie durch die andere personelle
@@ -167,6 +171,16 @@ Methodenfreiheit, welche das Experiment möglich gemacht hat, zu anderen
 Störvariabeln. Diese können zum Teil nicht einmal identifiziert werden.
 Allerdings wurde erwartet, dass der Effekt so stark sei, dass alle
 Störvariabeln durch den Effekt verdeckt würden.
+
+### Durchführung der natürlichen Experimente
+
+In der Klasse des WG wurde das Klassendiagramm vorgegeben und
+besprochen. Dies hat den Schülerinnen und Schülern jedoch zu wenig Zeit
+gegeben, sich mit der Struktur genügend vertieft auseinandersetzen zu
+können. Weil die entsprechende Unterrichtseinheit in der IMS zeitlich
+später stattgefunden hat, hat dies die Möglichkeit eröffnet, darauf zu
+reagieren und das Klassendiagramm mit der Klasse in einem Lehrgespräch
+zu entwickeln. 
 
 ### Überprüfung der Resultate
 
