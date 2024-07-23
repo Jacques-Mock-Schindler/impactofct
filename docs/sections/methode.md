@@ -89,11 +89,16 @@ Wirtschaft und Recht (WR) statt. In den beiden Schultypen HMS und IMS
 wird Rechnungswesen in einem eigenen Fach Finanz- und Rechnungswesen
 unterrichtet.  
 Im WG wird ausserdem in den ersten zwei Jahren das
-obligatorische Fach Informatik unterrichtet.
+obligatorische Fach Informatik (OFI) unterrichtet.
 
 Im Rechnungswesen ist kaufmännisches Rechnen teil des Curriculums.
 Kaufmännisches Rechnen ist im Wesentlichen Zinsrechnen. Dabei wird
-insbesondere die deutsche Zinsusanz eingeführt[@Zinsberechnungsmethode2024a].
+insbesondere die deutsche Zinsusanz
+eingeführt[@Zinsberechnungsmethode2024a]. Üblicherweise wird die
+deutsche Zinsusanz zuerst theoretisch eingeführt und anschliessen mit
+Anwendungsübungen vertieft.  
+Da im WG parallel zum WR-Unterricht das OFI unterrichtet wird, hat dies
+die Möglichkeit geboten, die Zinsusanz weiter zu vertiefen. Das Thema wurde in eine Anwendungsübung für objektorientierte Programmierung in Python integriert. Die Schülerinnen und Schüler sollten ein Kontokorrentkonto modellieren und das Modell objektorientiert in Python implementieren.
 In einer Klasse des WG und
 einer der IMS wurde das kaufmännische Rechnen theoretisch eingeführt und
 mit ein paar Anwendungsübungen vertieft. Nach diesem konventionellen
