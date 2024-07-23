@@ -125,19 +125,15 @@ zu entwickeln.
 
 Mit dieser Übungsanlage flossen alle Aspekte von CT in den Unterricht
 ein. Wie das geschehen ist, kann mit dem Klassendiagramm illustriert
-werden (vgl. @fig:uml).
-
-Das Klassendiagramm zeigt, wie das Gesamtproblem in Teilprobleme
-zerlegt wurde. Diese Zerlegung erforderte eine gründliche Analyse
-Für die Programmierung des
-Kontokorrentkontos mussten alle Aspekte von CT eingesetzt werden.
-Zuerst mussten die einzelnen Teilprobleme identifiziert
-werden. Die Lösungen der Teilprobleme mussten dann soweit verallgemeinert
-werden, dass sie mit beliebigen Manifestationen des Grundproblems, der
-Berechnung eines Zinses auf ein bestimmte Guthaben zwischen zwei
-beliebigen Tagen, angewendet werden konnten. Die Implementation der dazu
-erforderlichen Klassen und Methoden war mit der Entwicklung der dazu
-notwendigen Algorithmen verbunden.
+werden (vgl. @fig:uml). Die Aufgabe, ein Kontokorrentkonto zu
+modellieren, musste in Teilprobleme zerlegt werden. Die Teilprobleme
+entsprechen dabei den Klassen. Die Klassen mussten weiter analysiert und
+mit Attributen und Methoden versehen werden. Mit diesen beiden Schritten
+musste das Problem verallgemeinert werden. Die Klassen mussten am
+schluss über alle notwendigen Attribute und Methoden verfügen, aber
+nicht über mehr als die notwendigen. Zum Schluss erforderte die konkrete
+Implementation in Python oder Java eine algorithmische Vorgehensweise um
+die Logik in Programmcode übersetzen zu können.
 
 
 Im Anschluss wurden die Prüfungsresultate dieser beiden Klassen mit den
