@@ -250,58 +250,13 @@ offensichtlicher Schwächen in Konzeption und Durchführung die Resultate
 der Testklassen mit den Resultaten der jeweiligen Kontrollklassen
 verglichen.
 
-Im Anschluss wurden die Prüfungsresultate dieser beiden Klassen mit den
-Prüfungsresultaten von Klassen verglichen, welche kein Kontokorrentkonto
-programmiert hatten.
+Die Schülerinnen und Schüler der WG Testklasse haben im Durschnitt 67.3%
+der möglichen Punkte in der Aufgabe zum Zinsrechnen erreicht, die
+Schülerinnen und Schüler der Kontrollklasse 80.4%. Die
+Gegenüberstellungen der Leistungen von IMS und HMS haben die Lernenden
+der IMS 77.1% und die Lernenden der HMS 80.4% erreicht.  
+Die Resultate waren damit nicht so, wie sie erwartet worden sind.
 
-
-1. In einer WG Klasse konnte diese Aufgabe im obligatorischen Fach
-   Informatik gestellt werden.  
-   Anschliessend konnten die Prüfungsleistungen im Zinsrechnen dieser
-   Klasse mit den Prüfungsleistungen zum gleichen Thema einer Klasse
-   verglichen werden, welche diese 
-   Anwendungsübung im Informatikunterricht nicht bearbeitet hat.  
-2. In der IMS hat sich eine ähnliche Gelegenheit ergeben. Dort wurde 
-   die Aufgabe im Rahmen des Unterrichts im Fach Rechnungswesen
-   bearbeitet.
-   Als Kontrollgruppe diente dort eine Klasse aus der HMS.
-
-Wenn die Leistungen der Klassen, welche das Kontokorrentkonto modelliert
-haben signifikant besser sind, als die Leistungen der Kontrollklassen,
-wäre das ein Indiz für die Korrektheit der Arbeitshypothese. Andernfalls
-kann aufgrund der vielen Störvariablen keine Aussage gemacht werden und
-es muss nach weiteren Methoden zur Prüfung der Arbeitshypothese gesucht
-werden.  
-Die Auswertung der Noten der involvierten Klassen hat in beiden Fällen
-ergeben, dass die Klassen, welche das Kontokorrentkonto modelliert
-haben, in den Prüfungen zum Zinsrechnen schlechter abgeschnitten haben,
-als die Kontrollklassen.
-
-Für die Resultate können verschiedene Gründe verantwortlich gemacht
-werden. Diese sollen nach den beiden Experimenten getrennt dargestellt
-werden. 
-
-1. Im ersten Experiment wurden die Schwierigkeiten der Modellierung des
-   Kontokorrentkontos in Python unterschätzt. Die Schülerinnen und
-   Schüler waren von der Aufgabenstellung überfordert. Die
-   Programmierung des Modells hat so viel Aufmerksamkeit verlangt, dass
-   der inhaltliche Aspekt nicht mehr verarbeitet werden konnte.  
-   Das Resultat wäre möglicherweise ein anderes gewesen, wenn die
-   Schülerinnen und Schüler einerseits deutlich mehr
-   Programmiererfahrung mitgebracht hätten und adererseits mehr Zeit zur
-   Umsetzung des Auftrags zur Verfügung gestanden hätte.
-
-2. In der IMS konnte die Aufgabenstellung grundsätzlich gelöst werden.  
-   Die Resultate beim Vergleich der Leistungen einer Klasse der IMS mit
-   einer Klasse der HMS dürften jdeoch nicht zu Letzt den sehr
-   unterschiedlichen Charakteren der typischen Lernenden in den beiden
-   Schultypen geschuldet sein.  
-   Zum Einen handelt es sich bei der Klasse der IMS im Gegensatz zu
-   jener der HMS um eine reine Männerklasse. Zum Anderen darf nicht
-   vergessen werden, dass die Interessen der Schülerinnen und Schüler in
-   IMS und HMS doch recht unterschiedlich sind. Lernende der IMS streben
-   eine Tätigkeit als Programmiererinnen und Programmierer an, Lernende
-   der HMS entsprechen eher dem traditionellen Bild eines KV Lernenden.
 
 ### Qualitatives Interview
 
