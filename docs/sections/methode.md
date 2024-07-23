@@ -164,7 +164,7 @@ miteinander verglichen werden.
 Dem standen allerdings mehrere Schwächen gegenüber.
 
 Die Stichprobem
-waren in beiden Teilexperimenten (WG bzw. IMS/HMS) zu klein um
+waren in beiden Teilexperimenten (WG bzw. IMS/HMS) zu klein, um
 statistisch signifikatnte Aussagen zuzulassen.
 
 *Wie gross müsste die Stichprobe sein?*
@@ -196,19 +196,52 @@ eigentlich erst ermöglicht hat, auch eine Störvariabel. Nicht allen
 Lehrpersonen liegen alle Themen gleich gut. Der Einfluss dieses
 Umstandes konnte im vorliegenden Experiment nicht isoliert werden.
 
-Trotz der offensichtlichen Schwächen des natürlichen Experiments war die
-Hoffnung, dass der Effekt so stark sein würde, dass er den Einfluss der
-Störvariabeln überdecken würde.
+Trotz der offensichtlichen Schwächen des natürlichen Experiments bestand
+die Hoffnung, dass der Effekt so stark sein würde, dass er den Einfluss
+der Störvariabeln überdecken würde.
 
 ### Durchführung der natürlichen Experimente
 
-In der Klasse des WG wurde das Klassendiagramm vorgegeben und
-besprochen. Dies hat den Schülerinnen und Schülern jedoch zu wenig Zeit
-gegeben, sich mit der Struktur genügend vertieft auseinandersetzen zu
-können. Weil die entsprechende Unterrichtseinheit in der IMS zeitlich
-später stattgefunden hat, hat dies die Möglichkeit eröffnet, darauf zu
-reagieren und das Klassendiagramm mit der Klasse in einem Lehrgespräch
-zu entwickeln. 
+In der Klasse des WG fanden die Einführung ins Zinsrechnen und die
+Informatikanwendungsübung dazu unabhängig voneinander statt. Die
+Einführung ins Zinsrechnen erfolgte im WR Unterricht und die
+Anwendungsübung im OFI. Da die beiden Unterrichtseinheiten mit
+zeitlichem Abstand stattfanden, musste im OFI eine Repetition zum
+Zinsrechnen stattfinden, bevor die Anwendungsübung zum Kontokorrentkonto
+durchgeführt werden konnte.
+
+Die Anwendungsübung zum Kontokorrenktonto bildete gleichzeitig den
+Anlass zur Einführung in die objektiorientierte Programmierung in
+Python. Mit der Idee den Schülerinnen und Schülern Unterstützung zu
+bieten, wurde ihnen ein fertiges UML Klassendiagramm abgegeben. Anhand
+dieses Diagrammes wurden sowohl die inhaltlichen Aspekte des
+Kontokrrentkontos wie auch die technischen Aspekte der
+objektkorientierten Programmierung besprochen.  
+Anschliessend haben die Schülerinnen und Schüler eine Einführung in die
+Programmierung von Klassen erhalten und haben versucht, die neuen
+Kenntnisse am Beispiel des Kontokorrentkontos anzuwenden.
+
+Es hat sich, im Rückblick wenig überraschend, gezeigt, dass die
+Informatikkenntnisse der Schülerinnen und Schüler nicht gut genug waren,
+um die Aufgabe lösen zu können. Die Komplexität des Werkzeuges
+Informatik war so gross, dass es den Blick auf die Probleme der
+Zinsrechnung verstellt hat.
+
+In der Klasse der IMS konnte auf die Informatikkenntnissen der
+Berufsausbildung zurückgegriffen werden. Die Lernenden der IMS hatten zu
+diesem Zeitpunkt bereits sechs mal Mehr Informatikunterricht erhalten
+als die Schülerinnen und Schüler des WG. In der IMS sind 12
+Wochenlektionen für den Informatikunterricht vorgesehen, im WG 2. Die
+Lernenden der IMS waren also mit den Grundzügen der objektorientierten
+Programmierung bereits vertraut. Aussesrdem wird in der IMS
+Programmieren mit Java unterrichtet.  
+Obwohl also die Ausgangslage für das Untrrichtsmodul Kontokorrentkonto
+deutlich besser waren als im WG, wurde das Klassendiagramm zusammen mit
+den Lernenden entwickelt.  
+Die Lernenden waren dann auch in der Lage, das Modell zu implementieren.
+Nach Aussagen der Lernenden, hat ihnen die Implementation des Modells
+den Blick für die Details des Zinsrechnens und die Grenzfälle der
+Tageberechnung geschärft.
 
 ### Überprüfung der Resultate
 
