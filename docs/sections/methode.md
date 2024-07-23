@@ -135,6 +135,20 @@ nicht über mehr als die notwendigen. Zum Schluss erforderte die konkrete
 Implementation in Python oder Java eine algorithmische Vorgehensweise um
 die Logik in Programmcode übersetzen zu können.
 
+So wurde sichergestellt, dass alle Aspekte von CT im Unterricht zur
+Anwendung gekommen sind. Damit verbunden war die Erwartung, dass die
+Prüfungsresultate in der Prüfung zum kaufmännischen Rechnen der beiden
+Klassen, welche die vertiefte Anwendungsübung durchlaufen haben, besser
+ausfallen, als in den Klassen, welche lediglich die konventionelle
+Einführung ins kaufmännische Rechnen erhalten haben.  
+Die Ausgangslage hat eine Verfälschung des Resultates erwarten lassen.
+Verfälschungen waren in erster Linie durch die andere personelle
+Zusammensetzugn von Behandlungs- und Kontrollgruppen zu erwarten. Wie
+gross dieser Effekt ist, ist allen vertraut, welche in verschiedenen
+Schulkassen den gleichen Stoff vermittelt haben.
+Der Effekt wurde als so stark erwartet, dass allfällige Störvariabeln
+dadurch in den Hintergrund gedrängt werden würden.
+
 
 Im Anschluss wurden die Prüfungsresultate dieser beiden Klassen mit den
 Prüfungsresultaten von Klassen verglichen, welche kein Kontokorrentkonto
