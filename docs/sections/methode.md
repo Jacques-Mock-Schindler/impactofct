@@ -189,8 +189,8 @@ Aufnahmeprüfung nach der dritten Sekundarklasse abgelegt werden sowie
 zusätzlich ein Multichck "ICT Informatiker/in EFZ Fachricthung
 Applikationsentwicklung" in den Bereichen "Potenzial" und
 "berufsspezifische Fähigkeiten" mit mindestens 50 Punkten bestanden
-werden. Die IMS richtet sich damit erklärtermassen an eine spezifische
-Gruppe von Lernenden.  
+werden[@ZentraleAufnahmepruefungFuer]. Die IMS richtet sich damit
+erklärtermassen an eine spezifische Gruppe von Lernenden.  
 Ausserdem ist auch die Methodenfreiheit, welche das Experiment
 eigentlich erst ermöglicht hat, auch eine Störvariabel. Nicht allen
 Lehrpersonen liegen alle Themen gleich gut. Der Einfluss dieses
@@ -238,12 +238,17 @@ Programmieren mit Java unterrichtet.
 Obwohl also die Ausgangslage für das Untrrichtsmodul Kontokorrentkonto
 deutlich besser waren als im WG, wurde das Klassendiagramm zusammen mit
 den Lernenden entwickelt.  
-Die Lernenden waren dann auch in der Lage, das Modell zu implementieren.
+Die Lernenden waren denn auch in der Lage, das Modell zu implementieren.
 Nach Aussagen der Lernenden, hat ihnen die Implementation des Modells
 den Blick für die Details des Zinsrechnens und die Grenzfälle der
 Tageberechnung geschärft.
 
-### Überprüfung der Resultate
+### Auswertung der Resultate des natürlichen Experiments
+
+Nach der Durchführung des Experiments wurden trotz dessen
+offensichtlicher Schwächen in Konzeption und Durchführung die Resultate
+der Testklassen mit den Resultaten der jeweiligen Kontrollklassen
+verglichen.
 
 Im Anschluss wurden die Prüfungsresultate dieser beiden Klassen mit den
 Prüfungsresultaten von Klassen verglichen, welche kein Kontokorrentkonto
