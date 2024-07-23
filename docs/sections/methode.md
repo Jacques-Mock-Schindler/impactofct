@@ -255,10 +255,20 @@ der möglichen Punkte in der Aufgabe zum Zinsrechnen erreicht, die
 Schülerinnen und Schüler der Kontrollklasse 80.4%. Die
 Gegenüberstellungen der Leistungen von IMS und HMS haben die Lernenden
 der IMS 77.1% und die Lernenden der HMS 80.4% erreicht.  
+
 Die Resultate waren damit nicht so, wie sie erwartet worden sind.
 
+Dass das natürliche Experiment dazu geführt hat, dass die Testklassen
+schlechter abgeschnitten haben, als die Kontrollklassen scheint trotz
+der Resultate wenig plausibel. Wahrscheinlicher ist, dass die
+Störvariabeln doch einen viel grösseren Einfluss haten, als das zu
+Beginn vermutet worden ist. Das würde lediglich bestätigen, dass die
+Varianz in der Leistung zwischen Klassen oft gross ist, oft sogar
+grösser als die Varianz zwischen einzelnene
+Schulen[@wurstersebastianSchulUndUnterrichtsqualitaet2022, S. 28].
 
-### Qualitatives Interview
+
+## Qualitatives Interview
 
 Qualitative Interviews entsprechen nicht der gängigen Vorstellung von
 Interviews, wie man sie aus den Medien kennt. Qualitative Interviews
@@ -272,7 +282,7 @@ Das bedeutet allerdings nicht, dass das qualitative Interview völlig
 unstrukturiert ist. Es bedarf der gleich sorgfältigen Planung, wie jedes
 andere Interview.
 
-#### Planung der qualitativen Interviews
+### Planung der qualitativen Interviews
 
 >Je stärker das Forschungsinteresse auf konkrete, offen erhobene
 >Informationen ausgerichtet ist, desto mehr Strukturierung verträgt das
@@ -300,7 +310,7 @@ erstellt. Für einen Themenbereich wurde ein UML-Klassendiagramm
 erstellt, damit die Interviewpartner besser in der Lage waren, sich an
 den Kontext der Frage zu erinnern.
 
-#### Durchführung der qualitativen Interviews
+### Durchführung der qualitativen Interviews
 
 Es wurden insgesamt vier qualitative Interviews geführt. Alle vier
 Interviews haben das gleiche Resultat hervorgebracht.  
