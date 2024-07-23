@@ -163,11 +163,24 @@ miteinander verglichen werden.
 
 Dem standen allerdings mehrere Schwächen gegenüber.
 
-Die Stichprobem
-waren in beiden Teilexperimenten (WG bzw. IMS/HMS) zu klein, um
-statistisch signifikatnte Aussagen zuzulassen.
+Die Stichproben waren $n_{WG}=26$ und $n_{IMS}=10$. Dies ist viel zu
+klein, um eine belastbare Aussage machen zu können. 
+Ausgehend von der
+allgemeinen für die Abschätzung der Stichprobengrösse verwendeten
+Formel
 
-*Wie gross müsste die Stichprobe sein?*
+ $$S = \frac{Z^2 \times P \times (1-P)}{M^2}$$
+
+mit
+
+* $S$ = Stichprobengrösse
+* $Z$ = Z-Wert (hier 1.96 für 95%)
+* $P$ = Populationsanteil (hier 0,5 weil unbekannt)
+* $M$ = Fehlermarge (hier 0.05 für 5%)[@perenFormelsammlungWirtschaftsstatistikWissen2022]
+
+hätte die Stichprobe $n=385$ sein müssen. Mit der aktuellen
+Stichprobengrösse muss man im WG mit einer Fehlermarge von knapp 20% und
+in der IMS gar mit einer solchen von etwas mehr als 30% rechnen.
 
 Zudem gibt es verschiedene Störvariabeln, welche das Resultat
 verfälschen. Zu nennen ist insbesondere die unterschiedliche
