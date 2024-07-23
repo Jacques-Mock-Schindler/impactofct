@@ -87,7 +87,7 @@ Teil des Unterrichts in diesem Schwerpunkt ist das Fach Rechnungswesen.
 Im WG findet der Unterricht im Rechnungswesen als Teil des Faches
 Wirtschaft und Recht (WR) statt. In den beiden Schultypen HMS und IMS
 wird Rechnungswesen in einem eigenen Fach Finanz- und Rechnungswesen
-unterrichtet.  
+(FRW) unterrichtet.  
 Im WG wird ausserdem in den ersten zwei Jahren das
 obligatorische Fach Informatik (OFI) unterrichtet.
 
@@ -98,16 +98,28 @@ eingeführt[@Zinsberechnungsmethode2024a]. Üblicherweise wird die
 deutsche Zinsusanz zuerst theoretisch eingeführt und anschliessen mit
 Anwendungsübungen vertieft.  
 Da im WG parallel zum WR-Unterricht das OFI unterrichtet wird, hat dies
-die Möglichkeit geboten, die Zinsusanz weiter zu vertiefen. Das Thema wurde in eine Anwendungsübung für objektorientierte Programmierung in Python integriert. Die Schülerinnen und Schüler sollten ein Kontokorrentkonto modellieren und das Modell objektorientiert in Python implementieren.
-In einer Klasse des WG und
-einer der IMS wurde das kaufmännische Rechnen theoretisch eingeführt und
-mit ein paar Anwendungsübungen vertieft. Nach diesem konventionellen
-Einstieg ins kaufmännische Rechnen wurde als
-weitere Vertiefung ein
-Kontokorrentkonto objektorientiert programmiert. Der Programmierung lag
-das folgende UML Klassendiagramm zu Grunde:
+die Möglichkeit geboten, die deutsche Zinsusanz weiter zu vertiefen. Das
+Thema wurde in eine Anwendungsübung für objektorientierte Programmierung
+in Python integriert. Die Schülerinnen und Schüler sollten ein
+Kontokorrentkonto modellieren und das Modell objektorientiert in Python
+implementieren.  
+In der IMS wurde die gleiche Anwendungsübung im Rahmen des Unterrichts
+im Fach FRW durchgeführt. Weil die Lernenden der IMS in ihrer
+beruflichen Ausbildung das Programmieren in Java lernen, erfolgte die
+Implementation in Java.
 
-![UML Diagramm Kontokorrentkonto]( docs/graphics/uml_konotkorrentkonto.svg )
+Die Idee der Anwendungsübung kann in folgendem UML Klassendiagramm
+dargestellt werden:
+
+![UML Diagramm Kontokorrentkonto](docs/graphics/uml_konotkorrentkonto.svg)
+
+In der Klasse des WG wurde das Klassendiagramm vorgegeben und
+besprochen. Dies hat den Schülerinnen und Schülern zu wenig Zeit
+gegeben, sich mit der Struktur genügend vertieft auseinandersetzen zu
+können. Weil die entsprechende Unterrichtseinheit in der IMS zeitlich
+später stattgefunden hat, hat dies die Möglichkeit eröffnet, darauf zu
+reagieren und das Klassendiagramm mit der Klasse in einem Lehrgespräch
+zu entwickeln. 
 
 Für die Programmierung des
 Kontokorrentkontos mussten alle Aspekte von CT eingesetzt werden.
