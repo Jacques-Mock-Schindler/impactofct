@@ -98,7 +98,8 @@ eingeführt[@Zinsberechnungsmethode2024a]. Üblicherweise wird die
 deutsche Zinsusanz zuerst theoretisch eingeführt und anschliessen mit
 Anwendungsübungen vertieft.  
 Da im WG parallel zum WR-Unterricht das OFI unterrichtet wird, hat dies
-die Möglichkeit geboten, die deutsche Zinsusanz weiter zu vertiefen. Das
+die Möglichkeit geboten, die deutsche Zinsusanz mit anderen methodischen
+Ansätzen weiter zu vertiefen. Das
 Thema wurde in eine Anwendungsübung für objektorientierte Programmierung
 in Python integriert. Die Schülerinnen und Schüler sollten ein
 Kontokorrentkonto modellieren und das Modell objektorientiert in Python
@@ -111,16 +112,23 @@ Implementation in Java.
 Die Idee der Anwendungsübung kann in folgendem UML Klassendiagramm
 dargestellt werden:
 
-![UML Diagramm Kontokorrentkonto](docs/graphics/uml_konotkorrentkonto.svg)
+![UML Diagramm
+Kontokorrentkonto](docs/graphics/uml_konotkorrentkonto.svg){#fig:uml}
 
 In der Klasse des WG wurde das Klassendiagramm vorgegeben und
-besprochen. Dies hat den Schülerinnen und Schülern zu wenig Zeit
+besprochen. Dies hat den Schülerinnen und Schülern jedoch zu wenig Zeit
 gegeben, sich mit der Struktur genügend vertieft auseinandersetzen zu
 können. Weil die entsprechende Unterrichtseinheit in der IMS zeitlich
 später stattgefunden hat, hat dies die Möglichkeit eröffnet, darauf zu
 reagieren und das Klassendiagramm mit der Klasse in einem Lehrgespräch
 zu entwickeln. 
 
+Mit dieser Übungsanlage flossen alle Aspekte von CT in den Unterricht
+ein. Wie das geschehen ist, kann mit dem Klassendiagramm illustriert
+werden (vgl. @fig:uml).
+
+Das Klassendiagramm zeigt, wie das Gesamtproblem in Teilprobleme
+zerlegt wurde. Diese Zerlegung erforderte eine gründliche Analyse
 Für die Programmierung des
 Kontokorrentkontos mussten alle Aspekte von CT eingesetzt werden.
 Zuerst mussten die einzelnen Teilprobleme identifiziert
