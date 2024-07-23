@@ -174,7 +174,7 @@ Formel
 mit
 
 * $S$ = Stichprobengrösse
-* $Z$ = Z-Wert (hier 1.96 für 95%)
+* $Z$ = $Z$-Wert (hier 1.96 für 95%)
 * $P$ = Populationsanteil (hier 0,5 weil unbekannt)
 * $M$ = Fehlermarge (hier 0.05 für 5%)[@perenFormelsammlungWirtschaftsstatistikWissen2022]
 
