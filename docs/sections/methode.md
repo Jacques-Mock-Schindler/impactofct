@@ -123,19 +123,30 @@ später stattgefunden hat, hat dies die Möglichkeit eröffnet, darauf zu
 reagieren und das Klassendiagramm mit der Klasse in einem Lehrgespräch
 zu entwickeln. 
 
-### Begründung für die Auswertung des natürlichen Experiments
+### Begründung für die Wahl des natürlichen Experiments
 
-Mit dieser Übungsanlage flossen alle Aspekte von CT in den Unterricht
-ein. Wie das geschehen ist, kann mit dem Klassendiagramm illustriert
+Weil es eigentlich wünschenwsert wäre, die Gültigkeit einer
+Arbeitshypothese experimentel zu überprüfen, liegt es auf der Hand,
+entdeckte natürliche Experimente zu verwenden.
+
+Neben der Verfügbarkeit sprechen aber auch die inhaltliche Ausgestaltung
+des natürlichen Experiments für dessen Auswahl. Flossen doch
+alle Aspekte von CT in den Unterricht
+ein.  
+Wie das geschehen ist, kann mit dem Klassendiagramm illustriert
 werden (vgl. @fig:uml). Die Aufgabe, ein Kontokorrentkonto zu
 modellieren, musste in Teilprobleme zerlegt werden. Die Teilprobleme
 entsprechen dabei den Klassen. Die Klassen mussten weiter analysiert und
-mit Attributen und Methoden versehen werden. Mit diesen beiden Schritten
-musste das Problem verallgemeinert werden. Die Klassen mussten am
-schluss über alle notwendigen Attribute und Methoden verfügen, aber
-nicht über mehr als die notwendigen. Zum Schluss erforderte die konkrete
-Implementation in Python oder Java eine algorithmische Vorgehensweise um
-die Logik in Programmcode übersetzen zu können.
+mit Attributen und Methoden versehen werden. Durch die Modellierung des
+Problems in Klassen und Unterklassen mit Attributen und Methoden musste
+ausserdem von konkreten Beispielen abstrahiert werden. Nur dieses auf
+das Notwendige reduzierte Modell eignete sich, wiederkehrende Probleme
+zu erkennen und diese einer durch einen Algorithmus gesteuerten Lösung
+zuzuführen.  
+Ausserdem war die Unterrichtseinheit selbstüberprüfend. Wenn es den
+Schülern nach der Implementierung in Python oder Java möglich war,
+Zinsberechnungen durchzufürhen, war die Aufgabenstellung erfolgreich
+gelöst.
 
 So wurde sichergestellt, dass alle Aspekte von CT im Unterricht zur
 Anwendung gekommen sind. Damit verbunden war die Erwartung, dass die
