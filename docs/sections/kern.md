@@ -7,24 +7,37 @@ Lernenden der IMS ausgewertet.
 
 ## Beschreibung der Methode
 
-Die Noten jedes Moduls der Berufsausbildung wurden den Noten jedes Fachs
-der BMS gegenübergestellt. In jeder dieser Paarungen wurde
-der Korrelationskoeffizient nach Bravais-Pearson ($Pearson's r$)
-berechnet.
+Damit ein Verfahren für die statistische Auswertung der Noten festgelegt
+werden konnte, wurde in einem ersten Schritt mit dem Shapiro-Wilk-Test,
+dem Kolmogorov-Smirnov-Test und dem D'Agostino's K$^2$ Test überprüft,
+ob die Noten der Stichprobe normal verteilt sind. Diese Überprüfung hat
+schon für die Noten der BMS ergeben, dass nicht garantiert ist, dass die
+Noten normal verteilt sind.
+
+Anschliessend wurden die Noten jedes Moduls der Berufsausbildung 
+den Noten jedes Fachs der BMS gegenübergestellt und die Korrelation
+zwischen diesen Notenpaaren berechnet. Weil die Noten nicht
+normalverteilt und streng genommen auch keine metrische Daten sind
+wurde in jeder dieser Paarungen der Rangkorreklationskoeffizient
+nach Spearman ($\rho$)
+berechnet[@kuckartzStatistikVerstaendlicheEinfuehrung2013, S. 217].
 
 $$
-r = \frac{cov(x,y)}{s_x \cdot s_y}
+\roh = 1 - \frac{6 \cdot \sum\lim_{i=1}^{n} d_{i}^{2}}{n \cdot (n^2 - 1)}
 $$
 
 wobei
 
-* $cov(x,y) =$ Kovarianz der Variablen $x$ und $y$
-* $s_x$ und $s_y$ = Standardabweichungen der Variablen $x$ und $y$
+* $d_{i}^{2} =$ quadrierte Rangplatzdifferenz der $i$-ten
+  Untersuchungseinheit
+* $n =$ Anzahl der Untersuchungseinheiten
 
-sind[@kuckartzStatistikVerstaendlicheEinfuehrung2013].
+sind.
 
 Zur Auswertung der Resultate wurden die Ergebnisse in einer Heatmap
-visualisiert.
+visualisiert. Da in den Sozialwissenschaften Ursache und Wirkung nicht
+im gleichen Mass isoliert werden können wie in den Naturwissenschaften,
+wurde die Schwelle für eine starke Korrelation wurde bei 0.3 angesetzt.
 
 ## Beschreibung der Vorgehensweise
 
