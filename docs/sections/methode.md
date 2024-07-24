@@ -395,6 +395,8 @@ Antworten zufrieden zu stellen.
 Nach der Durchführung ist beim Befrager der Eindruck zurückgeblieben, er
 hätte eine einzige grosse Suggestivfrage gestellt.
 
+### Auswertung der Interviews
+
 ## Auswertung von Noten von Absolventen der Informatikmittelschule
 
 Es hat sich gezeigt, dass die Auswertung von Noten von Absolventinnen und Absolventen der
