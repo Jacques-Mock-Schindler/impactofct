@@ -417,6 +417,11 @@ Befrager hören wollte, dass den Aussagen kein eigener Wert zukommt. Sie
 haben lediglich die der Arbeitshypothese zu Grunde liegenden Annahmen
 verstärkt.
 
+Aus den Interviews ergab sich daher kein Erkenntnisgewinn.  
+Dies führte dazu, dass nach einer weiteren Möglichkeit gesucht wurde, um
+die Arbeitshypothese zu überprüfen. Diese hat sich aus der Natur der
+Ausbildung an der IMS ergeben.
+
 ## Auswertung von Noten von Absolventen der Informatikmittelschule
 
 Es hat sich gezeigt, dass die Auswertung von Noten von Absolventinnen und Absolventen der
