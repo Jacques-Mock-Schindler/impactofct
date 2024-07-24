@@ -269,7 +269,15 @@ Schülerinnen und Schüler der Kontrollklasse 80.4%. Die
 Gegenüberstellungen der Leistungen von IMS und HMS haben die Lernenden
 der IMS 77.1% und die Lernenden der HMS 80.4% erreicht.  
 
-Die Resultate waren damit nicht so, wie sie erwartet worden sind.
+Aufgrund des durch die Stichprobe möglichen Fehlers wäre es möglich,
+dass die Leistungen in der Gesamtpopulation durch die Anwendungsübung
+tatsächlich verbessert werden könnte. Allerdings müssten Test- und
+Kontrollgruppe sich im WG mit den erzielten Resultaten je am äussersten
+Rand der jeweiligen Bandbreite an Resutlaten bewegen. In der IMS müsste
+die Bandbreite aufgrund des grösseren Fehlers etwas weniger stark
+ausgereizt worden sein.   
+Unabhängig von dem, was statistisch denkbar wäre, entsprachen die
+Resultate nicht den Erwartungen.
 
 Dass das natürliche Experiment dazu geführt hat, dass die Testklassen
 schlechter abgeschnitten haben, als die Kontrollklassen scheint trotz
