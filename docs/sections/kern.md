@@ -25,7 +25,7 @@ berechnet[@kuckartzStatistikVerstaendlicheEinfuehrung2013, S. 217].
 *Begründung Formulierung streng genommen*
 
 $$
-\rho = 1 - \frac{6 \cdot \sum\lim_{i=1}^{n} d_{i}^{2}}{n \cdot (n^2 - 1)}
+\rho = 1 - \frac{6 \cdot \sum_{i=1}^{n} d_{i}^{2}}{n \cdot (n^2 - 1)}
 $$
 
 wobei
