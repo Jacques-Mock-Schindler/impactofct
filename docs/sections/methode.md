@@ -370,7 +370,7 @@ werden.
 
 ### Durchführung der Leitfadeninterviews
 
-Die Rekurtierung von Gesprächspartnerinnen und Gesprächspartnern
+Die Rekrutierung von Gesprächspartnerinnen und Gesprächspartnern
 gestaltete sich schwieriger als geplant. Auf die allgemeine Einladung
 hat zuerst niemand reagiert. Erst auf gezielte Einladung haben sich
 einzelne Schülerinnen und Lernende zu einem Gespräch bereit erklärt. Die
@@ -384,21 +384,16 @@ gezeigt, dass das Gefälle zwischen Schülerinnen und Schülern auf der
 einen Seite und einem Lehrer auf der anderen Seite zu gross war. Die
 Schülerinnen und Schüler sind so stark darauf konditioniert, die
 Erwartungen der Lehrerinnen und Lehrer zu erfüllen, dass keine freie
-Erzählung ihrerseits erfolgt ist. Dies dürfte nicht zuletzt dem Alter
-der Gesprächspartnerinnen und Gesprächspartner geschuldet
-sein[@helfferichLeitfadenUndExperteninterviews2022, S. 876].
+Erzählung ihrerseits erfolgt ist. Dies dürfte nicht zuletzt ihrem  Alter
+geschuldet sein[@helfferichLeitfadenUndExperteninterviews2022, S. 876].
+Die Gesprächspartnerinnen und Gesprächspartner haben sich ehrlich
+bemüht, die gewünschten Auskünfte zu erteilen. Sie haben aber lieber auf
+konkrete Fragen gewartete, als dass sie von sich aus erzählt hätten.
+Ausserdem war stets ihr Bemühen zu erkennen, den Befrager mit ihren
+Antworten zufrieden zu stellen.
 
-Die Schülerinnen und Schüler haben
-lieber auf konkrete Fragen gewartet. Diese haben sie bereitwillig
-beantwortet. Sie haben sich dabei aber stehts bemüht, den Befrager mit
-ihren Antworten zufrieden zu stellen.
-Dies hat dazu geführt, dass die Arbeitshypothese zwar
-bestätigt wurde, dass die Information aber als Antwort auf eine einzige
-grosse Suggestivfrage zu verstehen ist.
-
-Die Darstellung der Methoden gliedert sich in zwei Teile: jene Methode,
-welche einen effektiven Erkenntnisgewinn ermöglichte und jene Methoden,
-die keine greifbaren Resultate zeitigten.
+Nach der Durchführung ist beim Befrager der Eindruck zurückgeblieben, er
+hätte eine einzige grosse Suggestivfrage gestellt.
 
 ## Auswertung von Noten von Absolventen der Informatikmittelschule
 
