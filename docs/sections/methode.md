@@ -364,18 +364,9 @@ genausowenig direkt beobachtbar ist wie das Lernen, muss es erfragt
 werden. Das Erleben einer Lernsituation ist allerdings zu individuell,
 als das es mit einem standardisierten Fragebogen erhoben werden könnte.
 Das Leitfadeninterview bietet hier eine Möglichkeit, diesem Umstand
-zu begegnen
-
-So kommen die Leitfadeninterviews ins Spiel.
-
-Die Antwort auf diese Frage kann nur durch
-eine qualitative Methode geklärt werden.
-
-Die Durchfürhung Leitfadeninterviews ermöglicht es, die
-quantitativen Daten aus dem natürlichen Experiment mit um qualitative
-Informationen zu ergänzen.
-
-
+zu begegnen. Mit dem Erfragen des Lernerlebnisses kann die
+möglicherweise die Frage, weshalb die Arbeitshyptohese gilt, beantwortet
+werden.
 
 ### Durchführung der Leitfadeninterviews
 
