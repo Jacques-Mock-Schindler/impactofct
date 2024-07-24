@@ -18,12 +18,14 @@ Anschliessend wurden die Noten jedes Moduls der Berufsausbildung
 den Noten jedes Fachs der BMS gegenübergestellt und die Korrelation
 zwischen diesen Notenpaaren berechnet. Weil die Noten nicht
 normalverteilt und streng genommen auch keine metrische Daten sind
-wurde in jeder dieser Paarungen der Rangkorreklationskoeffizient
+wurde in jeder dieser Paarungen der Rangkorrelationskoeffizient
 nach Spearman ($\rho$)
 berechnet[@kuckartzStatistikVerstaendlicheEinfuehrung2013, S. 217].
 
+*Begründung Formulierung streng genommen*
+
 $$
-\roh = 1 - \frac{6 \cdot \sum\lim_{i=1}^{n} d_{i}^{2}}{n \cdot (n^2 - 1)}
+\rho = 1 - \frac{6 \cdot \sum\lim_{i=1}^{n} d_{i}^{2}}{n \cdot (n^2 - 1)}
 $$
 
 wobei
@@ -38,6 +40,8 @@ Zur Auswertung der Resultate wurden die Ergebnisse in einer Heatmap
 visualisiert. Da in den Sozialwissenschaften Ursache und Wirkung nicht
 im gleichen Mass isoliert werden können wie in den Naturwissenschaften,
 wurde die Schwelle für eine starke Korrelation wurde bei 0.3 angesetzt.
+
+*Begründung der Schwelle von 0.3*
 
 ## Beschreibung der Vorgehensweise
 
