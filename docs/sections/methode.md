@@ -397,6 +397,26 @@ hätte eine einzige grosse Suggestivfrage gestellt.
 
 ### Auswertung der Interviews
 
+Als Gesprächspartnerinnen bzw. Gesprächspartner standen zwei
+Schülerinnen des WG und zwei Lernende der IMS zur Verfügung.
+In den Interviews zeigte sich, dass Lernende der IMS über etwas mehr
+vorschulische Programmiererfahrungen verfügten als die Schülerinnen
+des WG. Übereinstimmend wurde festgehalten, dass durch
+das Programmieren einer Lösung zu einem Problem, das Problem besser
+verstanden würde. Insbesondere die Schülerinnen des WG
+wiesen jedoch darauf hin, dass beträchtliche Programmierkenntnisse
+vorhanden sein müssen, damit von diesem Effekt profitiert werden kann.
+
+Die Aussagen deckten sich damit mit den Erwartungen.
+
+Dies ist hier allerdings ein Grund, am Wert der Aussagen zu zweifeln.
+Wie bei der Beschreibung der Durchführung bereits festgehalten, ist
+keine spontane Erzählung zustande gekommen. Die Gesprächspartnerinnen
+und Gesprächspartner waren zu stark darauf bedacht, zu erzählen, was der
+Befrager hören wollte, dass den Aussagen kein eigener Wert zukommt. Sie
+haben lediglich die der Arbeitshypothese zu Grunde liegenden Annahmen
+verstärkt.
+
 ## Auswertung von Noten von Absolventen der Informatikmittelschule
 
 Es hat sich gezeigt, dass die Auswertung von Noten von Absolventinnen und Absolventen der
