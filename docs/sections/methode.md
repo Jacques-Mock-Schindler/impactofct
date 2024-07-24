@@ -11,7 +11,7 @@ verwendet.
 
 1. Ein natürliches Experiment, in welchem die Auswirkungen von CT auf
    den Lernerfolg von Schulklassen überprüft wird.
-2. Qualitative Interviews, mit welchen erhoben wird, wie Schülerinnen
+2. Leitfadeninterviews, mit welchen erhoben wird, wie Schülerinnen
    und Schüler die Auswirkungen von CT auf den Lernerfolg beurteilen.
 3. Die Gegenüberstellung von Noten aus der beruflichen Grundbildung und
    solchen aus der Allgemeinbildung von Lernenden des Berufes
@@ -289,38 +289,39 @@ grösser als die Varianz zwischen einzelnene
 Schulen[@wurstersebastianSchulUndUnterrichtsqualitaet2022, S. 28].
 
 Weil das Problem der Stichprobengrösse bereits in der Planung erkannt
-worden ist, sollte das natürliche Experiment durch qualitative
-Interviews ergänzt werden.
+worden ist, sollte das natürliche Experiment durch Leitfadenintervies
+ergänzt werden.
 
-## Qualitatives Interview
+## Leitfadeninterview
 
-Qualitative Interviews entsprechen nicht der gängigen Vorstellung von
-Interviews, wie man sie aus den Medien kennt. Qualitative Interviews
+Leitfadeninterviews entsprechen nicht der gängigen Vorstellung von
+Interviews, wie man sie aus den Medien kennt. Leitfadeninterviews
 sind eher durch den Interviewer moderierte Erzählungen des Interviewten.  
 
 >Der grösste Fehler qualitativer Interviewführung liegt [denn auch]
 >darin, zu viel vorzugeben und abzufragen
 >[...][@helfferichLeitfadenUndExperteninterviews2022, S. 878].
 
-Das bedeutet allerdings nicht, dass das qualitative Interview völlig
+Das bedeutet allerdings nicht, dass das Leitfadeninterview völlig
 unstrukturiert ist. Es bedarf wie jede andere wissenschaftliche
 Befragung der sorgfältigen Planung.
 
-### Planung der qualitativen Interviews
+### Planung der Leitfadeninterviews
 
 >Je stärker das Forschungsinteresse auf konkrete, offen erhobene
 >Informationen ausgerichtet ist, desto mehr Strukturierung verträgt das
 >Interview und desto mehr Vorgaben sind
 >gerechtfertigt[@helfferichLeitfadenUndExperteninterviews2022, S. 880]. 
 
-Um dem qualitativen Interview Struktur zu geben, wird ein Leitfaden für
-das Interview verfasst. Dieser Leitfaden kann entweder aus einer Reihe
+Um dem Leitfadeninterview Struktur zu geben, wird vor der Durchführung
+ein Leitfaden für das Interview verfasst. Dieser Leitfaden kann entweder
+aus einer Reihe
 offener Fragen oder aus mehreren Erzählaufforderungen bestehen.
 Verbreitet ist eine Kombination aus konkreten Fragen und
 Erzählaufforderungen. Wichtig ist, dass die Fragen offen formuliert
 sind, so dass der Interviewte von der eigenen Erfahrung und seinem
 Empfinden erzählen kann[@misochQualitativeInterviews2019, S. 66].
-Der Leitfaden dient in qualitativen Interviews nicht nur als
+Der Leitfaden dient nicht nur als
 Gedankenstütze, er soll ebenso dazu beitragen den Fokus auf der
 Forschungsfrage zu
 behalten[@helfferichLeitfadenUndExperteninterviews2022, S. 881;
@@ -346,23 +347,39 @@ Interessentinnen bzw. Interessenten konnten sich direkt in einen Termin
 in einem eigens dafür vorgesehenen Kalender eintragen. Dies sollte die
 Diskretion unter den Angehörigen der Testklassen sicherstellen.
 
-### Begründung für die Wahl qualitativer Interviews als Methode
+### Begründung für die Wahl von Leitfadeninterviews als Methode
 
-Das natürliche Experiment hätte es ermöglichen sollen, die Gültigkeit
+Da Lernen ein psychologischer Prozess ist, der nicht direkt beobachtet
+werden kann, muss der Vorgang des Lernens indirekt erschlossen werden.
+Standardmässig gechieht dies durch die Kontrolle des Lernerfolges in
+Prüfungen. Das hätte duch das natürliche Experiment ausgenutzt werden
+sollen. Allerdings hätte dies lediglich ermöglicht, die Gültigkeit
 der Arbeitshypothse zu belegen. Selbst wenn dies gelungen wäre, hätte
-damit die Frage warum das so ist, nicht beantwortet werden können. Die
-Antwort auf diese Frage kann nur durch eine qualitative Methode geklärt
-werden.
+damit die Frage, warum die Arbeitshypothese bestätigt worden ist, nicht
+beantwortet werden können. Dies ist eine qualitative Frage.
 
-Die Durchfürhung qualitativer Interviews ermöglicht es, die
+Um diese Frage beantworten zu können, muss auf das Erleben der
+Schülerinnen und Schüler bzw. der Lernenden abgestellt werden. Da dieses
+genausowenig direkt beobachtbar ist wie das Lernen, muss es erfragt
+werden. Das Erleben einer Lernsituation ist allerdings zu individuell,
+als das es mit einem standardisierten Fragebogen erhoben werden könnte.
+Das Leitfadeninterview bietet hier eine Möglichkeit, diesem Umstand
+zu begegnen
+
+So kommen die Leitfadeninterviews ins Spiel.
+
+Die Antwort auf diese Frage kann nur durch
+eine qualitative Methode geklärt werden.
+
+Die Durchfürhung Leitfadeninterviews ermöglicht es, die
 quantitativen Daten aus dem natürlichen Experiment mit um qualitative
 Informationen zu ergänzen.
 
 
 
-### Durchführung der qualitativen Interviews
+### Durchführung der Leitfadeninterviews
 
-Es wurden insgesamt vier qualitative Interviews geführt. Alle vier
+Es wurden insgesamt vier Leitfadeninterviews geführt. Alle vier
 Interviews haben das gleiche Resultat hervorgebracht.  
 Im Rahmen dieser Gespräche hat sich allerdings
 gezeigt, dass das Gefälle zwischen Schülerinnen und Schülern auf der
