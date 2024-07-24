@@ -303,8 +303,8 @@ sind eher durch den Interviewer moderierte Erzählungen des Interviewten.
 >[...][@helfferichLeitfadenUndExperteninterviews2022, S. 878].
 
 Das bedeutet allerdings nicht, dass das qualitative Interview völlig
-unstrukturiert ist. Es bedarf der gleich sorgfältigen Planung, wie jedes
-andere Interview.
+unstrukturiert ist. Es bedarf wie jede andere wissenschaftliche
+Befragung der sorgfältigen Planung.
 
 ### Planung der qualitativen Interviews
 
@@ -323,10 +323,14 @@ Empfinden erzählen kann[@misochQualitativeInterviews2019, S. 66].
 Der Leitfaden dient in qualitativen Interviews nicht nur als
 Gedankenstütze, er soll ebenso dazu beitragen den Fokus auf der
 Forschungsfrage zu
-behalten.[@helfferichLeitfadenUndExperteninterviews2022, S. 881;
-@misochQualitativeInterviews2019, S. 66]
+behalten[@helfferichLeitfadenUndExperteninterviews2022, S. 881;
+@misochQualitativeInterviews2019, S. 66].
+Der Leitfaden soll als Anleitung an den Gesprächsmoderatoren dienen.  
 Damit eine vergleichende Auswertung mehrerer Interviews möglich ist,
 wird in allen Interviews der gleiche Leitfaden verwendet.
+
+Der für die Interviews verwendete Leitfaden findet sich im Anhang.
+
 
 Konkret wurde für die durchgeführten Interviews eine Kombination aus
 Erzählaufforderungen und ausformulierten Fragen (als Gedankenstützten)
