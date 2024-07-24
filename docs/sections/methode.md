@@ -288,6 +288,9 @@ Varianz in der Leistung zwischen Klassen oft gross ist, oft sogar
 grösser als die Varianz zwischen einzelnene
 Schulen[@wurstersebastianSchulUndUnterrichtsqualitaet2022, S. 28].
 
+Weil das Problem der Stichprobengrösse bereits in der Planung erkannt
+worden ist, sollte das natürliche Experiment durch qualitative
+Interviews ergänzt werden.
 
 ## Qualitatives Interview
 
