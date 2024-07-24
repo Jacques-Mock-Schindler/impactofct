@@ -340,6 +340,26 @@ aus @fig:uml ergänzt. Dieses sollte den Befragten als
 Erinnerungshilfe vorgelegt werden können.
 Der für die Interviews verwendete Leitfaden findet sich im Anhang.
 
+Wie bereits erwähnt, kamen als Gesprächspartnerinnen bzw.
+Gesprächspartner nur Angehörige der Testklassen in Frage.
+Interessentinnen bzw. Interessenten konnten sich direkt in einen Termin
+in einem eigens dafür vorgesehenen Kalender eintragen. Dies sollte die
+Diskretion unter den Angehörigen der Testklassen sicherstellen.
+
+### Begründung für die Wahl qualitativer Interviews als Methode
+
+Das natürliche Experiment hätte es ermöglichen sollen, die Gültigkeit
+der Arbeitshypothse zu belegen. Selbst wenn dies gelungen wäre, hätte
+damit die Frage warum das so ist, nicht beantwortet werden können. Die
+Antwort auf diese Frage kann nur durch eine qualitative Methode geklärt
+werden.
+
+Die Durchfürhung qualitativer Interviews ermöglicht es, die
+quantitativen Daten aus dem natürlichen Experiment mit um qualitative
+Informationen zu ergänzen.
+
+
+
 ### Durchführung der qualitativen Interviews
 
 Es wurden insgesamt vier qualitative Interviews geführt. Alle vier
