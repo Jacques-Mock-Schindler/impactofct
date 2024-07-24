@@ -370,6 +370,11 @@ werden.
 
 ### Durchführung der Leitfadeninterviews
 
+Die Rekurtierung von Gesprächspartnerinnen und Gesprächspartnern
+gestaltete sich schwieriger als geplant. Auf die allgemeine Einladung
+hat zuerst niemand reagiert. Erst auf gezielte Einladung haben sich
+einzelne Schülerinnen und Lernende zu einem Gespräch bereit erklärt.
+
 Es wurden insgesamt vier Leitfadeninterviews geführt. Alle vier
 Interviews haben das gleiche Resultat hervorgebracht.  
 Im Rahmen dieser Gespräche hat sich allerdings
