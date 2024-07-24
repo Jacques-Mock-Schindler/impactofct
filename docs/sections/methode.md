@@ -373,16 +373,22 @@ werden.
 Die Rekurtierung von Gesprächspartnerinnen und Gesprächspartnern
 gestaltete sich schwieriger als geplant. Auf die allgemeine Einladung
 hat zuerst niemand reagiert. Erst auf gezielte Einladung haben sich
-einzelne Schülerinnen und Lernende zu einem Gespräch bereit erklärt.
-
-Es wurden insgesamt vier Leitfadeninterviews geführt. Alle vier
+einzelne Schülerinnen und Lernende zu einem Gespräch bereit erklärt. Die
+angestrebte Zahl an Gesprächspartnerinnen und Gesprächspartnern konnte
+nicht erreicht werden. Insgesamt wurden lediglich vier Gespräche
+geführt. Alle vier
 Interviews haben das gleiche Resultat hervorgebracht.  
+
 Im Rahmen dieser Gespräche hat sich allerdings
 gezeigt, dass das Gefälle zwischen Schülerinnen und Schülern auf der
 einen Seite und einem Lehrer auf der anderen Seite zu gross war. Die
 Schülerinnen und Schüler sind so stark darauf konditioniert, die
 Erwartungen der Lehrerinnen und Lehrer zu erfüllen, dass keine freie
-Erzählung ihrerseits erfolgt ist. Die Schülerinnen und Schüler haben
+Erzählung ihrerseits erfolgt ist. Dies dürfte nicht zuletzt dem Alter
+der Gesprächspartnerinnen und Gesprächspartner geschuldet
+sein[@helfferichLeitfadenUndExperteninterviews2022, S. 876].
+
+Die Schülerinnen und Schüler haben
 lieber auf konkrete Fragen gewartet. Diese haben sie bereitwillig
 beantwortet. Sie haben sich dabei aber stehts bemüht, den Befrager mit
 ihren Antworten zufrieden zu stellen.
