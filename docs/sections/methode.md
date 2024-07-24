@@ -422,7 +422,13 @@ Dies führte dazu, dass nach einer weiteren Möglichkeit gesucht wurde, um
 die Arbeitshypothese zu überprüfen. Diese hat sich aus der Natur der
 Ausbildung an der IMS ergeben.
 
-### Fazit zu den verworfenen Methoden
+## Fazit zu den verworfenen Methoden
 
-Es hätte sich um einen *Mixed Methods* Ansatz empirischer
-Sozialforschung[@schreierMixedMethods2020, S. 164] gehandelt.
+Mit den verworfenen Methoden hätte ein sogenannter *Mixed Methods*
+Ansatz empirischer Sozialforschung[@schreierMixedMethods2020, S. 164]
+verfolgt werden sollen. Es hat sich allerdings gezeigt, dass der
+Mittelansatz dazu unzureichend ist. Für das natürliche Experiment war
+die Population zu klein und für die Leitfadeninterviews konnte keine
+Gesprächssituation geschaffen werden, in welcher die
+Gesprächspartnerinnen und Gesprächspartner unbeeinflusst vom Befrager
+Auskunft geben konnten.
