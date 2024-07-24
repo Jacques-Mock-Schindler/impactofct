@@ -1,5 +1,10 @@
-## Auswertung von Noten von Absolventen der Informatikmittelschule
+# Gegenüberstellung der Noten der Berufsausbildung und solchen aus der Berufsmittelschule
 
+## Beschreibung der Methode
+
+## Beschreibung der Vorgehensweise
+
+## Begründung, weshalb die Methode erfolgreich war
 Es hat sich gezeigt, dass die Auswertung von Noten von Absolventinnen und Absolventen der
 Informatikmittelschule den grössten Erkenntnisgewinn ergeben.
 
