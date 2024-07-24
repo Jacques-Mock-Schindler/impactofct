@@ -58,3 +58,11 @@ A simple example:
 ```powershell
 pandoc --metadata-file='G:\Meine Ablage\Studium\impactofct\docs\header.yaml' --filter pandoc-crossref --citeproc -o docs/index.pdf docs/sections/computational_thinking.md
 ```
+
+## Git Einstellungen mit verschiedenen Accounts
+
+Damit der Accountauswahl Dialog bei git push nicht jedesmal durchlaufen
+werden muss, gibt es hier 
+[eine
+Anleitung](https://github.com/git-ecosystem/git-credential-manager/blob/main/docs/multiple-users.md) 
+für das Set Up.
