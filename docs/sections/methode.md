@@ -329,14 +329,16 @@ Der Leitfaden soll als Anleitung an den Gesprächsmoderatoren dienen.
 Damit eine vergleichende Auswertung mehrerer Interviews möglich ist,
 wird in allen Interviews der gleiche Leitfaden verwendet.
 
+Der Interviewleitfaden besteht aus einer Kombination von
+Erzählaufforderungen und ausformulierten Fragen. Die ausformulierten
+Fragen dienen als Gedächtnisstützen. Ausserdem sollen sie gestellt
+werden können, falls die Erzählaufforderung sich als nicht zielführend
+erweist. Da als Gesprächspartnerinnen bzw. Gesprächspartner nur
+Schülerinnen und Schüler bzw. Lernende aus den beiden Testklassen in
+Frage gekommen sind, wurde der Leitfaden mit dem UML Klassendiagramm
+aus @fig:uml ergänzt. Dieses sollte den Befragten als
+Erinnerungshilfe vorgelegt werden können.
 Der für die Interviews verwendete Leitfaden findet sich im Anhang.
-
-
-Konkret wurde für die durchgeführten Interviews eine Kombination aus
-Erzählaufforderungen und ausformulierten Fragen (als Gedankenstützten)
-erstellt. Für einen Themenbereich wurde ein UML-Klassendiagramm
-erstellt, damit die Interviewpartner besser in der Lage waren, sich an
-den Kontext der Frage zu erinnern.
 
 ### Durchführung der qualitativen Interviews
 
