@@ -1,6 +1,30 @@
 # Gegenüberstellung der Noten der Berufsausbildung und solchen aus der Berufsmittelschule
 
+Als Reaktion auf die beiden gescheiterten Versuche, die Arbeitshypothese
+zu bestätigen oder zu verwerfen, wurde in einem nächsten Schritt die
+Noten der Berufsausbildung und der Berufsmittelschule (BMS) der
+Lernenden der IMS ausgewertet.
+
 ## Beschreibung der Methode
+
+Die Noten jedes Moduls der Berufsausbildung wurden den Noten jedes Fachs
+der BMS gegenübergestellt. In jeder dieser Paarungen wurde
+der Korrelationskoeffizient nach Bravais-Pearson ($Pearson's r$)
+berechnet.
+
+$$
+r = \frac{cov(x,y)}{s_x \cdot s_y}
+$$
+
+wobei
+
+* $cov(x,y) =$ Kovarianz der Variablen $x$ und $y$
+* $s_x$ und $s_y$ = Standardabweichungen der Variablen $x$ und $y$
+
+sind[@kuckartzStatistikVerstaendlicheEinfuehrung2013].
+
+Zur Auswertung der Resultate wurden die Ergebnisse in einer Heatmap
+visualisiert.
 
 ## Beschreibung der Vorgehensweise
 
