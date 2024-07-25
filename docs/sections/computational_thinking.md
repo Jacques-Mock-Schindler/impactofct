@@ -16,11 +16,11 @@ versucht werden.
 
 ## Systematische Literaturrecherche zur Begriffsklärung "Computational Thinking"
 
-Für die systematische Literaturrecherche wird nach den Empfehlungen von PRISMA  
-vorgegangen[@pagePRISMA2020Statement2021].
+Für die systematische Literaturrecherche wird nach den Empfehlungen von
+PRISMA vorgegangen[@pagePRISMA2020Statement2021].
 
 Viele wissenschaftliche Texte verwenden den Begriff CT mit
-unterschiedlichen Inhalten. Ziel dieser Recherche ist 
+unterschiedlichen Inhalten. Ziel dieses Abschnittes ist 
 es, den Kern der Definition, der im Sommer 2023 als unbestritten gelten
 kann, darzulegen.
 
@@ -49,21 +49,25 @@ einfach voraussetzen.
 
 ## Konsolidierte Definition des Begriffs Computational Thinking
 
-Aktuell gibt es immer noch keine einheitliche Definition des Begriffs
-Computational Thinking (CT). Es beginnt sich aber ein Begriffskern
+Nach der Analyse ist festzuhalten, dass es aktuell immer noch keine
+einheitliche Definition des Begriffs Computational Thinking (CT) gibt. 
+Es beginnt sich aber ein Begriffskern
 herauszukristalisieren. Zentrales Element ist die Fähigkeit, Probleme zu
 lösen indem sie in Teilprobleme zerlegt werden. Dieses Element wird in
 den 94 Definitionen aus den 15 Aufsätzen 67 Mal angeführt. 31 Mal wird die
 Lösung von Problemen durch Algorithmen erwähnt. Ebenfalls häufig erwähnt
 wird die Fähigkeit, konkrete Probleme zu verallgemeinern (30 Mal wird
-Abstraktion und 7 Mal Generalisierung erwähnt) sowie die Probleme in
-Teilprobleme zu zergliedern (23 Mal wird Zergliederung und 6 Mal
-Schrittweises vorgehen erwähnt).
+Abstraktion und 7 Mal Generalisierung erwähnt). Ebenfalls häufig wird
+Schrittweises vorgehen erwähnt (6 Mal). Schrittweises Vorgehen kann als
+Variante von Aufteilen eines Problems in Teilprobleme oder als Variante
+von algorithmischem Vorgehen verstanden werden.
 
-Die Auswertung dieser Definition lässt die *Fähigkeit, Probleme zu lösen
-indem sie in Teilprobleme zerlegt und soweit verallgemeinert werden,
-dass eine algorithmische (aka automatisierte) Lösung möglich ist* als
-allgemein akzeptieren Kern dessen, was CT auszeichnet erkennen.
+Die konsolidierte Fassung der in der Analyse gefundenen Definitionen
+lautet damit:
+
+>Computational Thinking ist die Fähigkeit, Probleme zu lösen
+>indem sie in Teilprobleme zerlegt und soweit verallgemeinert werden,
+>dass eine algorithmische (aka automatisierte) Lösung möglich ist.
 
 Um diesen allgemein akzeptieren Kern dessen, was CT ausmacht, gibt es
 weitere Aspekte, die als zu CT gehörig erwähnt werden. Allerdings landet
@@ -73,7 +77,7 @@ Kommunikation, Kollaboration, Kreativität und kritisches Denken.
 Der Kern der Begriffsdefinition kann klar auf den Aufsatz "Comuptational
 Thinking" von Jeannette Wing von 2006 zurückgeführt werden. Sie ist mit
 den Überarbeitungen dieses Aufsatzes mit Abstand am meisten zitierte
-Autorin (vgl. Tabelle). Auch wenn nicht jeder Text von Wing die gleiche
+Autorin (vgl. @tbl:rangliste). Auch wenn nicht jeder Text von Wing die gleiche
 Wirkung erzielt hat, ist sie sicherlich die Autorin, die CT Begrifflich
 am nachhaltigsten geprägt hat.
 
@@ -95,10 +99,8 @@ am nachhaltigsten geprägt hat.
 | Papert (1983)	|	2 |
 | Tang et al. |	2	|
 | Weintrop et al. |	2 |
-
-Die Tabelle stellt die mehrfach zitierten Autoren in den Ausgewählten
-Texten in einer Rangliste
-dar. Eine vollständige Zusammenstellung der ausgewerteten Texte findet
+Table: Rangliste der in den analysierten Texte zu Definitionen von CT
+mehrfach zitierten Autoren.  Eine vollständige Zusammenstellung aller ausgewerteten Texte findet
 sich in der 
 Fussnote[@acevedo-borregaComputationalThinkingEducational2022;
 @chenFosteringComputationalThinking2023;
@@ -114,22 +116,21 @@ Fussnote[@acevedo-borregaComputationalThinkingEducational2022;
 @wangIntegratingComputationalThinking2022;
 @xuMetaAnalysisEffectivenessProgramming2023;
 @yadavComputationalThinkingMetacognition2022;
-@yeTransferEffectsComputational2022]. 
+@yeTransferEffectsComputational2022]. {#tbl:rangliste}
 
 
 
-## Begriff gemäss Umsetzung im LP21
+## Computational Thinking im Lehrplan 21
 
 Der Lehrplan 21 führt unter dem Titel *Informatische Bildung* eine
-Einführung in die Informatik ein. In diesem Zusammenhang haben sich die
-Pädagogischen Hochschulen mit dem Begriff CT auseinandergesetzt. Es
-drängt sich in der Schweizerischen Diskussion daher auf, diese
-Diskussion einzubeziehen.
+Einführung in die Informatik ins Curriculum der Volksschule ein. In
+diesem Zusammenhang haben sich die Pädagogischen Hochschulen mit dem
+Begriff CT auseinandergesetzt. Es drängt sich in der Schweizerischen
+Diskussion daher auf, diese Diskussion einzubeziehen.
 Repenning[@repenningErsten1000Computational2020], geht in seiner ersten
 Bilanz über zu den entsprechenden Ausbildungsmodulen auf den Begriff CT
 ein. Nicht überraschend hält auch er fest, dass sich bisher noch keine
-allgemeingültige Definition etabliert hat. Wesentlich sind die von
-Papert, Wing und durch das CollegeBoard angeführten Elemente. Repenning
+allgemeingültige Definition etabliert hat. Repenning
 schält die Fähigkeit 
 
 >"Probleme so zu formulieren, dass eine computer-gestützte Lösung
@@ -138,5 +139,5 @@ schält die Fähigkeit
 als Kern von CT heraus. 
 
 Damit kann festgehalten werden, dass auch für den Lehrplan 21 im
-Wesentlichen auf die Definition von Jeannette Wing abgestellt werden
-kann. 
+Wesentlichen auf die Jeannette Wing eingeführte Definition abgestellt
+werden kann.
