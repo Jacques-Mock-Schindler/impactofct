@@ -77,11 +77,18 @@ Berechnungen entspricht $x$ jeweils den Noten der BMS, $y$ jenen der
 Berufsausbildung.
 
 Zur Auswertung der Resultate wurden die Ergebnisse in einer Heatmap
-visualisiert. Da in den Sozialwissenschaften Ursache und Wirkung nicht
+visualisiert. Die Darstellung der Daten in einer Heatmap ermöglicht es,
+jene Fächer der BMS, welche stark mit jenen der Berufsausbildung
+korrelieren optisch klar zu erkennen.
+Da in den Sozialwissenschaften Ursache und Wirkung nicht
 im gleichen Mass isoliert werden können wie in den Naturwissenschaften,
-wurde die Schwelle für eine starke Korrelation wurde bei 0.3 angesetzt.
-
-*Begründung der Schwelle von 0.3*
+wurde die Schwelle für eine relevante Korrelation bei 0.3 angesetzt.
+Dies entspricht in den Sozialwissenschaften einer mittleren
+Effektstärke[@cohenStatisticalPowerAnalysis1988, S. 129]. Der Effekt ist
+damit beobachtbar und selbst unter Berücksichtigung der Tatsache, dass
+Korrelation nicht das gleiche ist wie Kausalität, bietet eine
+entsprechende Korrelation gegebenenfalls Anlass zu weiteren
+Untersuchungen.
 
 ### Begründung der Wahl der Methode
 
@@ -122,7 +129,8 @@ Fähigkeiten von Informatiker/innen, Fachrichtung
 Applikationsentwicklung, vermitteln. Das Berufsmaturzeugnis beinhaltet
 neun Noten. Diese Noten Gruppieren sich in Grundlagenbereich (erste
 Landessprache, zweite Landessprache, dritte Sprache, Mathematik; Art.
-8 Abs. 1 BMV), Schwerpunktbereich (Finanz- und Rechnungswesen,
+8 Abs. 1 Verordnung über die eidgenössische Berufsmaturität, BMV),
+Schwerpunktbereich (Finanz- und Rechnungswesen,
 Wirtschaft und Recht; Art. 9 Abs. 2 und 3 BMV) und den Ergänzungsbereich
 (Geschichte und Politik sowie Technik und Umwelt; Art. 10 Abs. 2 und
 3 BMV). Ausserdem gibt es noch eine Note für interdisziplinäres Arbeiten
