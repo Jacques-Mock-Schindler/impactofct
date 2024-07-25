@@ -88,7 +88,9 @@ Effektstärke[@cohenStatisticalPowerAnalysis1988, S. 129]. Der Effekt ist
 damit beobachtbar und selbst unter Berücksichtigung der Tatsache, dass
 Korrelation nicht das gleiche ist wie Kausalität, bietet eine
 entsprechende Korrelation gegebenenfalls Anlass zu weiteren
-Untersuchungen.
+Untersuchungen. Unterhalb der Schwelle von 0.3 dürfte es schwierig
+werden, geeignete Methoden zu finden, um die Ursachen für die
+Korrelation zu finden.
 
 ### Begründung der Wahl der Methode
 
@@ -145,3 +147,38 @@ Fächern zu korrelieren, ist der Grund für die Wahl des Vorgehens.
 
 ### Beschreibung der Vorgehensweise
 
+Die ausgewerteten Daten stammen von einer Zürcher Mittelschule und sind
+nicht öffentlich verfügbar. Möglicherweise hätten die Daten gestützt auf
+§ 18 des Gesetzes über die Information und den Datenschutz (IDG) des
+Kantons Zürich verfügbar gemacht werden können. Dieser Schritt war
+vorliegend allerdings nicht erforderlich, da der Verfasser als
+Mitarbeiter Zugriff auf den Datenbestand hatte.
+
+Die Daten waren der IMS waren auf Papier, jene der HMS als PDF
+archiviert. Dies machte es in einem ersten Schritt nötig, die relevanten
+Informationen abzuschreiben. Die Daten wurden in CSV-Dateien zur
+Weiterverarbeitung abgespeichert. Es wurden dazu die folgenden drei
+Tabellen erstellt:
+
+* Personalien
+
+    In dieser Tabelle wurden Name, Klasse, Gender und Alter erfasst. Aus
+    Gründen des Persönlichkeitsschutzes wurden Namen und Klassen mit
+    SHA256 gehasht und nur der Hashwert abgespeichert. Dies ermöglicht
+    trotz Anonymisierung die Zuordnung der erfasste Noten zu einer
+    Person. Ausserdem würde die Erfassung von Alter und Gender
+    gegebenenfalls weitere Auswertungen zulassen.
+
+* Noten der Berufusausbildung
+
+    In dieser Tabelle wurden die Noten der Besuchten Module erfasst.  
+    Der Hashwert dient dabei als Identifikator.
+
+* Noten der BMS
+
+    In  dieser Tabelle wurden die Noten der BMS Abschlussprüfungen
+    erfasst. Die Daten waren hier jedoch nicht ganz konsistent und zum
+    Teil musste anstelle der Prüfung auf die BMS-Zeugnisnote
+    zurückgegriffen werden. Diese setzt sich aus Abschlussprüfung und
+    Erfahrungsnote zusammen.  
+    Der Hashwert dient auch hier als Identifikator.
