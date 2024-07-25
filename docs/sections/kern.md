@@ -23,9 +23,11 @@ f.; @chattamvelliDescriptiveStatisticsScientists2023,
 S. 29 (je als Begründung für die Wahl des Kolmogorov-Smirnov-Test)] und
 dem D'Agostino's K$^2$ Test[@KstestSciPyV1 (als Begründung für die Wahl
 des D'Agostino's K$^2$ Test)] überprüft,
-ob die Noten der Stichprobe normal verteilt sind. Diese Überprüfung hat
+ob die Noten der Stichprobe normal verteilt sind.  
+Diese Überprüfung hat
 schon für die Noten der BMS ergeben, dass nicht garantiert werden kann,
-dass die Noten normal verteilt sind.
+dass die Noten normal verteilt sind. Aus diesem Grund konnte auf eine
+Überprüfung der Noten der Berufsausbildung verzichtet werden.
 
 Anschliessend wurden die Noten jedes Moduls der Berufsausbildung 
 den Noten jedes Fachs der BMS gegenübergestellt und die Korrelation
@@ -35,12 +37,11 @@ allerdings voraus, dass es sich um normalverteilte intervallskalierte
 Daten handelt[@KorrelationNachBravaisPearsona]. Die einleitende
 Überprüfung der Daten hat jedoch ergeben, dass sie nicht normalverteilt
 sind.
-Zudem sind Noten nicht zwingend intervallskaliert. Das wäre nur dann der
+Zudem sind Noten grundsätzlich nicht intervallskaliert. Das wäre nur dann der
 Fall, wenn ein streng linearer Massstab angelegt worden wäre und
 zusätzlich tatsächlich jeder vergebene Punkt in einer Prüfung gleich
 viel wert wäre. Dies kann jedoch nicht garantiert werden. Dies
-begründet, warum Noten ordinal skaliert
-sind.
+begründet, warum die Noten hier als ordinal skaliert behandelt werden.
 Aus diesem Grund wurde von jeder gebildeten 
 Paarung der Rangkorrelationskoeffizient
 nach Spearman ($\rho$)
@@ -82,26 +83,23 @@ wurde die Schwelle für eine starke Korrelation wurde bei 0.3 angesetzt.
 
 *Begründung der Schwelle von 0.3*
 
-## Beschreibung der Vorgehensweise
+## Begründung der Wahl der Methode
 
-## Begründung, weshalb die Methode erfolgreich war
-Es hat sich gezeigt, dass die Auswertung von Noten von Absolventinnen und Absolventen der
-Informatikmittelschule den grössten Erkenntnisgewinn ergeben.
+Damit die Arbeitshypothese überprüft werden kann, muss eine
+Gegenüberstellung von Fähigkeiten in CT und solchen in der
+Allgemeinbildung erfolgen. Wenn zwischen den Leistungen in den beiden
+Bereichen eine positive Korrelation beobachtet werden kann, ist dies
+eine Indiz für die Gültigkeit der Arbeitshypothese.
 
-In der Informatikmittelschule (IMS) werden in der schulisch
-orientierten Grundbildung (SOG) Lernende zu
-Informatiker/innen EFZ, Fachrichtung Applikationsentwicklung,
-ausgebildet.
-Der Lehrgang orientiert sich aus historischen Gründen sehr stark am
-Modell der Handelsmittelschule im Kanton Zürich. Dies hat zur Folge,
-dass parallel eine Berufsausbildung als Applikationsentwickler und eine
-Berufsmittelschule mit einer Berufsmatur Ausrichtung Wirtschaft
-absolviert werden. Diese Kombination einer technischen Berufslehre und
-einer kaufmännischen Berufsmatur stellt eine Besonderheit dar. Angehende
-Applikationsentwicklerinnen und Applikationsentwickler
-in der betrieblich orientierten Grundbildung (BOG) erwerben, wenn sie
-das den wollen, in der Regel eine Berufsmatur mit technischer
-Ausrichtung[@sbfiBerufsmaturitaet].   
+Wie in der Einleitung erwähnt, erwerben die Lernenden der IMS parallel
+zu ihrer Ausbildung als Informatiker/in, Fachrichtung
+Applikationsentwicklung, eine kaufmännische Berufsmatur. Angehende
+Applikationsentwicklerinnen und Applikationsentwickler in der
+betrieblich orientierten Grundbildung (BOG) erwerben, wenn sie das den
+wollen, in der Regel eine Berufsmatur mit technischer
+Ausrichtung[@sbfiBerufsmaturitaet]. Diese Besonderheit hat sich ergeben,
+weil sich die IMS aus historischen Gründen sehr stark am Modell der
+Handelsmittelschule im Kanton Zürich orientiert.
 
 Als weitere Besonderheit findet in der IMS per Ende eines jeden
 Semesters eine promotionswirksame Beurteilung statt. Dabei kommt der
@@ -113,18 +111,21 @@ wären. Die Lernenden der IMS belegen überdurchschnittlich oft
 Spitzenplätze bei der kantonalen Rangierung aller Lernenden in den
 ICT-Berufen. 
 
+Diese Ausgangslage hat es erst ermöglicht, Leistungen im Fachbereich
+Informatik mit Leistungen im Bereich Allgemeinbildung zu korrelieren.
+Insgesamt standen aus der Berufsausbildung 31 Noten zur Verfügung. 15
+davon stammen aus Modulen, welche Fähigkeiten in CT erfordern. 16 Noten
+sind in Modulen vergeben worden, welche allgemeine berufliche
+Fähigkeiten von Informatiker/innen, Fachrichtung
+Applikationsentwicklung, vermitteln. Aus der BMS wurden neun Noten in
+die Untersuchung einbezogen. Sieben dieser neun Noten gehören zum
+Grundlagenbereich, zwei zum kaufmännischen Schwerpunkt. Eine Begründung
+für die Einteilung der Module in solche mit starkem CT-Bezug und solche
+mit ausschliesslich berufsspezifischen Inhalten erfolgt im Abschnitt mit
+der Auswertung der Resultate.
 
-Diese Ausgangslage
-ermöglicht es, Leistungen im Fachbereich Informatik mit Leistungen im
-Bereich Allgemeinbildung zu korrelieren. Dazu stehen aus der
-Berufsausbildung (Berufsschule) 15 Noten aus Modulen mit einer
-grossen Nähe zu dem, was CT ausmacht, und 16 Noten mit allgemeinen
-beruflichen Inhalten sowie aus der
-Allgemeinbildung (BMS) 7 Noten aus dem Grundlagenbereich
-und zwei Noten aus kaufmännischen Fächern zur Verfügung.
+Die Möglichkeit, CT-spezifische Fähigkeiten mit allgemeinbildenden
+Fächern zu korrelieren, ist der Grund für die Wahl des Vorgehens.
 
-Von besonderem Interesse sind die Korrelationen zwischen den Noten der
-CT Module und den Noten des Grundlagenbereichs der BMS. Wenn die
-Noten hier korrelieren, ist das ein Indiz für die Gültigkeit der
-Arbeitshypothese. Wenn keine Korrelation festgestellt werden kann, muss
-die Arbeitshypothese verworfen werden.
+## Beschreibung der Vorgehensweise
+
