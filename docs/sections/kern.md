@@ -203,4 +203,5 @@ Farbschema wechselt von Grau zu Grün. Die Schwelle des für den Umschlag
 der Farbe wurde dabei auf 0.3 festgelegt.
 
 Das Skript wird im Anhang abgedruckt. Ebenfalls im Anhang findet sich
-ein Abdruck des Requirements File.
+ein Abdruck der Ausgabe von pip freeze. Damit soll die
+Nachvollziehbarkeit der Resultate sichergestellt werden.
