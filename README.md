@@ -56,7 +56,7 @@ A simple example:
 ## Verwendung von pandoc zur Erstellung des PDF
 
 ```powershell
-pandoc --metadata-file='G:\Meine Ablage\Studium\impactofct\docs\header.yaml' --filter pandoc-crossref --citeproc -o docs/index.pdf docs/sections/computational_thinking.md
+pandoc .\docs\sections\computational_thinking.md .\docs\sections\arbeitshypothese.md .\docs\sections\methode.md .\docs\sections\kern.md .\docs\sections\daten.md .\docs\sections\literatur.md --metadata-file='G:\Meine Ablage\Studium\impactofct\docs\header.yaml' --filter pandoc-crossref --citeproc -o docs/240725_II_fahne.pdf
 ```
 
 ## Git Einstellungen mit verschiedenen Accounts
