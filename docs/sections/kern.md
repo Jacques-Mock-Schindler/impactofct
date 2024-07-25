@@ -155,10 +155,17 @@ vorliegend allerdings nicht erforderlich, da der Verfasser als
 Mitarbeiter Zugriff auf den Datenbestand hatte.
 
 Die Daten waren der IMS waren auf Papier, jene der HMS als PDF
-archiviert. Dies machte es in einem ersten Schritt nötig, die relevanten
-Informationen abzuschreiben. Die Daten wurden in CSV-Dateien zur
-Weiterverarbeitung abgespeichert. Es wurden dazu die folgenden drei
-Tabellen erstellt:
+archiviert. Damit jederzeit wieder auf die Daten der IMS zugegriffen
+werden kann, wurden diese vor der eigentlichen Erfassung eingescannt.  
+Die Form der Archivierung machte es in einem ersten Schritt nötig, die
+relevanten Informationen abzuschreiben. Die manuelle Datenerfassung ist
+Fehleranfällig und musste daher aus Konzentrationsgründen in mehrere
+Phasen unterteilt werden. Ausserdem mussten die erfassten Daten
+kontrolliert werden. Damit diese Kontrolle einfacher erfolgen konnte,
+wurden die Namen und Klassen erst nach erfolgter Kontrolle gehasht. 
+
+Die Daten wurden in CSV-Dateien zur Weiterverarbeitung abgespeichert. Es
+wurden dazu die folgenden drei Tabellen erstellt:
 
 * Personalien
 
@@ -177,11 +184,11 @@ Tabellen erstellt:
 * Noten der BMS
 
     In  dieser Tabelle wurden die Noten der BMS Abschlussprüfungen
-    erfasst. Die Daten waren hier jedoch nicht ganz konsistent und zum
-    Teil musste anstelle der Prüfung auf die BMS-Zeugnisnote
-    zurückgegriffen werden. Diese setzt sich aus Abschlussprüfung und
-    Erfahrungsnote zusammen.  
+    erfasst.  
     Der Hashwert dient auch hier als Identifikator.
+
+Eine Beurteilung der Qualität der Daten erfolgt im Abschnitt "Daten" vor
+der Analyse der Resultate.
 
 Die Auswertung der Daten erfolgte in einem Python Skript. In diesem
 Skript wurden die Daten in pandas Datafram geladen. Die Analyse erfolgte
@@ -194,3 +201,6 @@ und saborn erstellt. Um die relevante Schwelle der Korrelation von 0.3
 sichtbar zu machen, wurde ein eigenes Farbschema angelegt. Dieses
 Farbschema wechselt von Grau zu Grün. Die Schwelle des für den Umschlag
 der Farbe wurde dabei auf 0.3 festgelegt.
+
+Das Skript wird im Anhang abgedruckt. Ebenfalls im Anhang findet sich
+ein Abdruck des Requirements File.
