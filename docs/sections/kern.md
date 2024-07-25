@@ -7,6 +7,11 @@ Lernenden der IMS ausgewertet.
 
 ## Beschreibung der Methode
 
+Die im folgenden beschriebenen statistischen Berechnungen wurden in
+Python mit den Libraries pandas und SciPy vorgenommen. Die
+Visualisierungen wurden ebenfalls in Python mit den Libraries
+matplotlib und seaborn erstellt.
+
 Damit ein Verfahren für die statistische Auswertung der Noten festgelegt
 werden konnte, wurde in einem ersten Schritt mit dem
 Shapiro-Wilk-Test[@kronthalerDataAnalysisRstudio2021, S. 72;
