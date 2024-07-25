@@ -176,7 +176,7 @@ wurden dazu die folgenden drei Tabellen erstellt:
     Person. Ausserdem würde die Erfassung von Alter und Gender
     gegebenenfalls weitere Auswertungen zulassen.
 
-* Noten der Berufusausbildung
+* Noten der Berufsausbildung
 
     In dieser Tabelle wurden die Noten der Besuchten Module erfasst.  
     Der Hashwert dient dabei als Identifikator.
