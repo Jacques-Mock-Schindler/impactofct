@@ -72,7 +72,7 @@ wobei
 * $cov(x,y) =$ Kovarianz der Variablen $x$ und $y$
 * $s_x$ und $s_y$ = Standardabweichungen der Variablen $x$ und $y$
 
-sind[@kuckartzStatistikVerstaendlicheEinfuehrung2013]. In den
+sind[@kuckartzStatistikVerstaendlicheEinfuehrung2013, 212]. In den
 Berechnungen entspricht $x$ jeweils den Noten der BMS, $y$ jenen der
 Berufsausbildung.
 
