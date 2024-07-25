@@ -182,3 +182,15 @@ Tabellen erstellt:
     zurückgegriffen werden. Diese setzt sich aus Abschlussprüfung und
     Erfahrungsnote zusammen.  
     Der Hashwert dient auch hier als Identifikator.
+
+Die Auswertung der Daten erfolgte in einem Python Skript. In diesem
+Skript wurden die Daten in pandas Datafram geladen. Die Analyse erfolgte
+mit den durch SciPy.stats zur Verfügung gestellten Funktionen `normaltest()`
+`shapiro()` und `kstest()` sowie die durch pandas zur Verfügung
+gestellten Funktionen `spearman()` und `df.corr()`.  
+
+Die Visualisierung als Heatmap wurde mit Hilfe der Libraries matplotlib
+und saborn erstellt. Um die relevante Schwelle der Korrelation von 0.3
+sichtbar zu machen, wurde ein eigenes Farbschema angelegt. Dieses
+Farbschema wechselt von Grau zu Grün. Die Schwelle des für den Umschlag
+der Farbe wurde dabei auf 0.3 festgelegt.
