@@ -8,11 +8,19 @@ Lernenden der IMS ausgewertet.
 ## Beschreibung der Methode
 
 Damit ein Verfahren für die statistische Auswertung der Noten festgelegt
-werden konnte, wurde in einem ersten Schritt mit dem Shapiro-Wilk-Test,
-dem Kolmogorov-Smirnov-Test und dem D'Agostino's K$^2$ Test überprüft,
+werden konnte, wurde in einem ersten Schritt mit dem
+Shapiro-Wilk-Test[@kronthalerDataAnalysisRstudio2021, S. 72;
+@chattamvelliDescriptiveStatisticsScientists2023, S. 29 (je als
+Begründung für die Wahl des Shapiro-Wilk-Tests)],
+dem
+Kolmogorov-Smirnov-Test[@kenettModernStatisticsComputerBased2022, S. 175
+f.; @chattamvelliDescriptiveStatisticsScientists2023,
+S. 29 (je als Begründung für die Wahl des Kolmogorov-Smirnov-Test)] und
+dem D'Agostino's K$^2$ Test[@KstestSciPyV1 (als Begründung für die Wahl
+des D'Agostino's K$^2$ Test)] überprüft,
 ob die Noten der Stichprobe normal verteilt sind. Diese Überprüfung hat
-schon für die Noten der BMS ergeben, dass nicht garantiert ist, dass die
-Noten normal verteilt sind.
+schon für die Noten der BMS ergeben, dass nicht garantiert werden kann,
+dass die Noten normal verteilt sind.
 
 Anschliessend wurden die Noten jedes Moduls der Berufsausbildung 
 den Noten jedes Fachs der BMS gegenübergestellt und die Korrelation
