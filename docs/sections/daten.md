@@ -1,8 +1,26 @@
 # Daten
 
-Die Daten umfassen Noten von insgesamt 167 Lernenden. Der
-Beobachtungszeitraum umfasst die Jahre von 2009 bis 2022. Das ergibt
-aufgrund der Schuldauer von drei Jahren insgesamt 10 Prüfungsjahrgänge.
+Die Daten umfassen Noten von insgesamt 167 Lernenden. 12 davon sind
+Frauen. Das Durchschnittsalter zum Zeitpunkt der BMS Prüfungen betrug
+19.2 Jahre. Der jüngste Lernende war 17 Jahre alt, der älteste 22. Die
+Standardabweichung liegt bei 0.9 Jahren.
+Die Stichprobe besteht aus allen Lernend des Beobachtungszeitraums von
+2009 bis 2022. Aufgrund der Schuldauer von drei Jahren entspricht dies
+10 Prüfungsjahrgängen.
+
+Die Kantonsschule Büelrain war die erste Kantonsschule welche eine IMS
+angeboten hat. Begonnen hat das Programm im Jahr 2000. Mittlerweile gibt
+es 12 Standorte in der ganzen Deutschschweiz. Da die Schulbildung in der
+Kompetenz der Kantone liegt, ergeben sich zum Teil erhebliche regionale
+Unterschiede in den Zubringerschulen. Diese Unterschiede rechtfertigen
+es, die Absolventen der IMS an der Kantonsschule Büelrain als
+eigenständige Population zu verstehen.
+Beim Start der IMS an der Kantonsschule Büelrain 
+waren die Klassen etwas grösser als sie es aktuell sind. Damit kann die
+Gesamtpopulation von Absolventen der IMS an der Kantonsschule Büelrain
+bis 2022 auf zwischen 350 und 400 geschätzt werden. Die
+Stichprobengrösse ist daher etwas kleiner als 50% der gesamten
+Population.
 
 ## Module der Berufsbildung
 
