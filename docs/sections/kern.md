@@ -1,11 +1,11 @@
-# Gegenüberstellung der Noten der Berufsausbildung und solchen aus der Berufsmittelschule
+## Gegenüberstellung der Noten der Berufsausbildung und solchen aus der Berufsmittelschule
 
 Als Reaktion auf die beiden gescheiterten Versuche, die Arbeitshypothese
 zu bestätigen oder zu verwerfen, wurde in einem nächsten Schritt die
 Noten der Berufsausbildung und der Berufsmittelschule (BMS) der
 Lernenden der IMS ausgewertet.
 
-## Beschreibung der Methode
+### Beschreibung der Methode
 
 Die im folgenden beschriebenen statistischen Berechnungen wurden in
 Python mit den Libraries pandas und SciPy vorgenommen. Die
@@ -83,7 +83,7 @@ wurde die Schwelle für eine starke Korrelation wurde bei 0.3 angesetzt.
 
 *Begründung der Schwelle von 0.3*
 
-## Begründung der Wahl der Methode
+### Begründung der Wahl der Methode
 
 Damit die Arbeitshypothese überprüft werden kann, muss eine
 Gegenüberstellung von Fähigkeiten in CT und solchen in der
@@ -113,13 +113,21 @@ ICT-Berufen.
 
 Diese Ausgangslage hat es erst ermöglicht, Leistungen im Fachbereich
 Informatik mit Leistungen im Bereich Allgemeinbildung zu korrelieren.
-Insgesamt standen aus der Berufsausbildung 31 Noten zur Verfügung. 15
+An der für die Berufsausbildung zuständigen Berufsschule wurden
+insgesamt 31 Module unterrichtet.
+Damit standen aus der Berufsausbildung 31 Noten zur Verfügung. 15
 davon stammen aus Modulen, welche Fähigkeiten in CT erfordern. 16 Noten
 sind in Modulen vergeben worden, welche allgemeine berufliche
 Fähigkeiten von Informatiker/innen, Fachrichtung
-Applikationsentwicklung, vermitteln. Aus der BMS wurden neun Noten in
-die Untersuchung einbezogen. Sieben dieser neun Noten gehören zum
-Grundlagenbereich, zwei zum kaufmännischen Schwerpunkt. Eine Begründung
+Applikationsentwicklung, vermitteln. Das Berufsmaturzeugnis beinhaltet
+neun Noten. Diese Noten Gruppieren sich in Grundlagenbereich (erste
+Landessprache, zweite Landessprache, dritte Sprache, Mathematik; Art.
+8 Abs. 1 BMV), Schwerpunktbereich (Finanz- und Rechnungswesen,
+Wirtschaft und Recht; Art. 9 Abs. 2 und 3 BMV) und den Ergänzungsbereich
+(Geschichte und Politik sowie Technik und Umwelt; Art. 10 Abs. 2 und
+3 BMV). Ausserdem gibt es noch eine Note für interdisziplinäres Arbeiten
+(Art. 11 BMV).
+Eine Begründung
 für die Einteilung der Module in solche mit starkem CT-Bezug und solche
 mit ausschliesslich berufsspezifischen Inhalten erfolgt im Abschnitt mit
 der Auswertung der Resultate.
@@ -127,5 +135,5 @@ der Auswertung der Resultate.
 Die Möglichkeit, CT-spezifische Fähigkeiten mit allgemeinbildenden
 Fächern zu korrelieren, ist der Grund für die Wahl des Vorgehens.
 
-## Beschreibung der Vorgehensweise
+### Beschreibung der Vorgehensweise
 
