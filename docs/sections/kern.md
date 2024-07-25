@@ -187,17 +187,22 @@ wurden dazu die folgenden drei Tabellen erstellt:
     erfasst.  
     Der Hashwert dient auch hier als Identifikator.
 
+Die Aufteilung der Daten in drei Tabellen hatte zum Einen praktische
+Gründe. Die Tabellen behielten überschaubare Dimensionen. Andererseits
+brauchen die Daten bei der Analyse nicht nach Herkunft gefiltert zu
+werden.
+
 Eine Beurteilung der Qualität der Daten erfolgt im Abschnitt "Daten" vor
 der Analyse der Resultate.
 
 Die Auswertung der Daten erfolgte in einem Python Skript. In diesem
 Skript wurden die Daten in pandas Datafram geladen. Die Analyse erfolgte
-mit den durch SciPy.stats zur Verfügung gestellten Funktionen normaltest()
-shapiro() und kstest() sowie die durch pandas zur Verfügung
-gestellten Funktionen spearman() und df.corr().  
+mit den durch SciPy.stats zur Verfügung gestellten Funktionen
+`normaltest()`, `shapiro()` und `kstest()` sowie die durch pandas zur
+Verfügung gestellten Funktionen `spearman()` und `df.corr()`.  
 
 Die Visualisierung als Heatmap wurde mit Hilfe der Libraries matplotlib
-und saborn erstellt. Um die relevante Schwelle der Korrelation von 0.3
+und seaborn erstellt. Um die relevante Schwelle der Korrelation von 0.3
 sichtbar zu machen, wurde ein eigenes Farbschema angelegt. Dieses
 Farbschema wechselt von Grau zu Grün. Die Schwelle des für den Umschlag
 der Farbe wurde dabei auf 0.3 festgelegt.
