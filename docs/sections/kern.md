@@ -58,6 +58,23 @@ wobei
 
 sind[@kuckartzStatistikVerstaendlicheEinfuehrung2013, S. 217].
 
+Obwohl Noten nicht intervallskaliert sind, werden oft Korrelationen nach
+Bravais-Pearson berechnet. Zur Überprüfung der Robustheit der Auswertung
+wurde diese Berechnung ebenfalls vorgenommen.
+
+$$
+r = \frac{cov(x,y)}{s_x \cdot s_y}
+$$
+
+wobei
+
+* $cov(x,y) =$ Kovarianz der Variablen $x$ und $y$
+* $s_x$ und $s_y$ = Standardabweichungen der Variablen $x$ und $y$
+
+sind[@kuckartzStatistikVerstaendlicheEinfuehrung2013]. In den
+Berechnungen entspricht $x$ jeweils den Noten der BMS, $y$ jenen der
+Berufsausbildung.
+
 Zur Auswertung der Resultate wurden die Ergebnisse in einer Heatmap
 visualisiert. Da in den Sozialwissenschaften Ursache und Wirkung nicht
 im gleichen Mass isoliert werden können wie in den Naturwissenschaften,
