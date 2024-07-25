@@ -8,8 +8,6 @@ include(docs/sections/kern.md)
 
 include(docs/sections/daten.md)
 
-include(docs/sections/code.md)
-
 include(docs/sections/literatur.md)
 
 
