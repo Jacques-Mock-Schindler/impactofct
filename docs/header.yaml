@@ -25,6 +25,7 @@ header-includes:
     - \usepackage{xurl}
     - \usepackage[breaklinks]{hyperref}
     - \hypersetup{breaklinks=true}
+    - \usepackage[all]{nowidow}
     - \usepackage{float}
     - \let\origfigure=\figure
     - \let\endorigfigure=\endfigure
