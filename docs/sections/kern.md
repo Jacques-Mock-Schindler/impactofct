@@ -16,13 +16,22 @@ Noten normal verteilt sind.
 
 Anschliessend wurden die Noten jedes Moduls der Berufsausbildung 
 den Noten jedes Fachs der BMS gegenübergestellt und die Korrelation
-zwischen diesen Notenpaaren berechnet. Weil die Noten nicht
-normalverteilt und streng genommen auch keine metrische Daten sind
-wurde in jeder dieser Paarungen der Rangkorrelationskoeffizient
+zwischen diesen Notenpaaren berechnet.  
+Oft werden Korrelationen nach Bravais-Pearson berechnet. Das setzt
+allerdings voraus, dass es sich um normalverteilte intervallskalierte
+Daten handelt[@KorrelationNachBravaisPearsona]. Die einleitende
+Überprüfung der Daten hat jedoch ergeben, dass sie nicht normalverteilt
+sind.
+Zudem sind Noten nicht zwingend intervallskaliert. Das wäre nur dann der
+Fall, wenn ein streng linearer Massstab angelegt worden wäre und
+zusätzlich tatsächlich jeder vergebene Punkt in einer Prüfung gleich
+viel wert wäre. Dies kann jedoch nicht garantiert werden. Dies
+begründet, warum Noten ordinal skaliert
+sind.
+Aus diesem Grund wurde von jeder gebildeten 
+Paarung der Rangkorrelationskoeffizient
 nach Spearman ($\rho$)
-berechnet[@kuckartzStatistikVerstaendlicheEinfuehrung2013, S. 217].
-
-*Begründung Formulierung streng genommen*
+berechnet[@RangkorrelationNachSpearman].
 
 $$
 \rho = 1 - \frac{6 \cdot \sum_{i=1}^{n} d_{i}^{2}}{n \cdot (n^2 - 1)}
@@ -34,7 +43,7 @@ wobei
   Untersuchungseinheit
 * $n =$ Anzahl der Untersuchungseinheiten
 
-sind.
+sind[@kuckartzStatistikVerstaendlicheEinfuehrung2013, S. 217].
 
 Zur Auswertung der Resultate wurden die Ergebnisse in einer Heatmap
 visualisiert. Da in den Sozialwissenschaften Ursache und Wirkung nicht
