@@ -94,7 +94,7 @@ an die Tabelle.
 | 326 | *Objektorientiert entwerfen und implementieren* |
 | 335 | *Mobile-Applikation realisieren* |
 | 403 | *Programmabläufe prozedural implementieren* |
-| 404 | *Objektbasiert programmieren nach Vorgabe* |
+| 404 | Objektbasiert programmieren nach Vorgabe |
 | 411 | *Datenstrukturen und Algorithmen entwerfen und anwenden* |
 | 426 | Software mit agilen Methoden entwickeln |
 | 431 | *Aufträge im eigenen Berufsumfeld selbstständig durchführen* |
