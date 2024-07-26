@@ -141,7 +141,7 @@ Module identifiziert, welche CT Fördern.
 
 #### Modul 122: Abläufe mit einer Scriptsprache automatisieren
 
-Die Modulbeschreibung definiert fpr das Modul 122[@modul122] fünf
+Die Modulbeschreibung definiert für das Modul 122[@modul122] fünf
 Handlungsziele:
 
 1. Zu automatisierende Funktion oder zu automatisierenden Ablauf mit den
@@ -158,6 +158,31 @@ Problem in Teilprobleme zu zerlegen. Das Zerlegen von Problemen in
 Teilprobleme ist ein Aspekt von CT. Im zweiten und dritten Handlungsziel
 geht es darum, die gefundene Lösung zu implementieren und damit effektiv
 zu automatisieren. Automatisieren ist ebenfalls ein Teilaspekt von CT.
+
+#### Modul 153 Datenmodelle entwickeln
+
+Die Modulbeschreibung definiert für das Modul 122[@modul153] fünf
+Handlungsziele:
+
+1. Informationsbedürfnisse und Anforderungen an die Datenhaltung
+   zusammen mit dem Auftraggeber aufnehmen (z.B. Geschäftsfälle),
+   analysieren, sowie Schutz- und Sicherheitsbedürfnisse der Daten
+   definieren und dokumentieren.
+2. Konzeptionelles Datenmodell erstellen und fehlende Informationen
+   ermitteln bzw. Redundanzen klären.
+3. Konzeptionelles Datenmodell in ein logisches überführen und
+   Attribute, Identifikations-, Fremdschlüssel und Datentypen ergänzen.
+4. Konzeptionelles Datenmodell zusammen mit dem Auftraggeber überprüfen
+   und allfällige Anpassungen vornehmen.
+5. Für das vorliegende logische Datenmodell das physikalische
+   Datenbankschema entwickeln und implementieren.
+
+Wie den Handlungszielen des Moduls 153 zu entnehmen ist, geht es in
+diesem Modul darum, aus den Informationsbedürfnissen eines Kunden, eine
+Datenbank zu erstellen. Die Transformation von Informationsbedürfnissen
+in das Datenschema einer Datenbank erfordert ein hohes
+Abstraktionsvermögen. Diese Fähigkeit zu abstrahieren ist eine der
+Komponenten von CT.
 
 ### Noten der BMS
 
