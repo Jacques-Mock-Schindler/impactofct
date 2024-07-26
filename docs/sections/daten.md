@@ -66,10 +66,10 @@ entfernt werden.
 Die Module, die von ihrem Inhalt CT im Sinne der hier verwendeten
 Definition am besten abbilden, sind kursiv gesetzt. Die
 Detailbeschreibung der Module findet sich im Modulbaukasten von
-ICT-Berufsbildung Schweiz[@Modulbaukasten].
+ICT-Berufsbildung Schweiz[@modulbaukasten].
 
 | Nr. | Titel |
-| :--- | :--- |
+| :--- | :--------------------------- |
 | 100 | *Daten charakterisieren, aufbereiten und auswerten* |
 | 103 | Strukturiert programmieren nach Vorgabe |
 | 104 | Datenmodell implementieren |
@@ -101,5 +101,7 @@ ICT-Berufsbildung Schweiz[@Modulbaukasten].
 | 411 | *Datenstrukturen und Algorithmen entwerfen und anwenden* |
 | 426 | Software mit agilen Methoden entwickeln |
 | 431 | *Aufträge im eigenen Berufsumfeld selbstständig durchführen* |
+Table: Liste der Module aus der Stichprobe. *Kursiv* sind jene Module
+dargestellt, welche einen deutlichen CT Bezug aufweisen.
 
 ### Noten der BMS
