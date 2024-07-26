@@ -184,16 +184,18 @@ in das Datenschema einer Datenbank erfordert ein hohes
 Abstraktionsvermögen. Diese Fähigkeit zu abstrahieren ist eine der
 Komponenten von CT.
 
-#### Module 226: Objektorientiert implementieren
+#### Module 226 bw. Modul 326: Objektorientiert implementieren
 
 Das Modul 226 ist im Rahmen der Qualitätsentwicklung in die Module 226a
 und 226b Objektorientiert implementieren (mit und ohne Vererbung)
-aufgeteilt werden. Die Begründung für die Aufnahme in die Liste der
-Module mit starkem CT Bezug wird deshalb hier für das alte und die
-beiden aktuellen Module zusammengefasst.
+aufgeteilt werden. Das Modul 326 vertieft die beiden Module 226a und
+226b mit einem Businessbezug. Die Begründung für die Aufnahme in die
+Liste der Module mit starkem CT Bezug wird deshalb hier für alle Module
+zur objektorientierten Programmierung zusammengefasst.
 
 Die Modulbeschreibung definiert für die Module 226a und 226b die
-folgenden sieben konsolidierten Handlungsziele [@modul226a; @modul226b]:
+folgenden zehn konsolidierten Handlungsziele [@modul226a; @modul226b;
+@modul326]:
 
 1. Ein SW-Design mit Klassen nachvollziehen und mit eigenen fachlichen
    und technischen Klassen ergänzen.
@@ -209,6 +211,10 @@ folgenden sieben konsolidierten Handlungsziele [@modul226a; @modul226b]:
 7. Fortgeschrittene Testfälle für funktionale Einheiten implementieren,
    welche durch geeignete Techniken von anderen Systemteilen unabhängig
    sind.
+8. Aufgrund der Businessanalyse Anwendungsfälle formulieren und daraus
+   die fachlichen Klassen ableiten.
+9. Objektorientiertes Design implementieren.
+10. Applikations-Architektur nachvollziehbar dokumentieren.
 
 Die objektorientierte Programmierung ist die Anwendung von CT par
 excellence. Sie erfordert das Zerlegen von Problemen in Teilprobleme
@@ -280,6 +286,12 @@ Stakeholder und den Faktor Zeit. Die dafür erforderliche Analyse der
 Aufgabenstellung übt insbesondere den Aspekt Aufteilen von Problemen in
 kleinere Teilprobleme von CT. 
 
+
 ### Noten der BMS
 
 *Die Charakteristika der BMS Noten ist noch zu formulieren.*
+
+Die Daten waren hier jedoch nicht ganz konsistent und zum
+    Teil musste anstelle der Prüfung auf die BMS-Zeugnisnote
+    zurückgegriffen werden. Diese setzt sich aus Abschlussprüfung und
+    Erfahrungsnote zusammen.
