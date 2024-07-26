@@ -139,4 +139,26 @@ Qualitätsentwicklung aus dem Modulbaukasten entfernt worden ist.
 Aufgrund des Titels des Moduls wurde es aber trotzdem als eines der
 Module identifiziert, welche CT Fördern.
 
+#### Modul 122: Abläufe mit einer Scriptsprache automatisieren
+
+Die Modulbeschreibung definiert fpr das Modul 122[@modul122] fünf
+Handlungsziele:
+
+1. Zu automatisierende Funktion oder zu automatisierenden Ablauf mit den
+   dazugehörigen Benutzerinteraktionen als Ablaufstruktur (z.B.
+   Programmablaufplan) grafisch darstellen.
+2. Ablaufstruktur mit Hilfe einer Scriptsprache umsetzen.
+3. Script in eine Systemumgebung integrieren.
+4. Script auf eine vollständige und korrekte Ausführung der
+   erforderlichen Funktionalität bzw. des Ablaufs testen.
+5. Dokumentation für den Einsatz des Scripts erstellen.
+
+Das Handlungsziel erfordert die Fähigkeit, das zu automatisierende
+Problem in Teilprobleme zu zerlegen. Das Zerlegen von Problemen in
+Teilprobleme ist ein Aspekt von CT. Im zweiten und dritten Handlungsziel
+geht es darum, die gefundene Lösung zu implementieren und damit effektiv
+zu automatisieren. Automatisieren ist ebenfalls ein Teilaspekt von CT.
+
 ### Noten der BMS
+
+*Die Charakteristika der BMS Noten ist noch zu formulieren.*
