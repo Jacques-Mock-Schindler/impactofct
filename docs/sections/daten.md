@@ -40,7 +40,10 @@ Folgenden getrennt besprochen.
 Wie in allen Lehrberufen erfolgt die theoretische Ausbildung der
 Lernenden in den ICT-Berufen an einer Berufsschule. Anders als in der
 klassischen Schulbildung und in vielen Lehrberufen ist diese
-theoretische Ausbildung vollständig modularisiert[@modulbaukasten].
+theoretische Ausbildung vollständig modularisiert[@modulbaukasten]. Der
+für die inhaltlichen Aspekte der Berufsausbildung zuständige Verband
+ICT-Berufsbildung Schweiz, hat alle Module im Modulbaukasten.ch
+zusammengestellt.  
 Aufgrund dieser Modularisierung absolvieren die Lernenden der IMS in der
 Berufsausbildung keine theoretische Abschlussprüfung. Als
 Leistungsnachweis für die theoretischen Kenntnisse in der
@@ -54,43 +57,49 @@ Fähigkeitszeugnis (BiVo)).
 Nicht alle der unten aufgeführten Module wurden durchgehend während des
 ganzen Beobachtungszeitraums unterrichtet und geprüft. Dies ist eine
 Folge der periodisch durchgeführten Massnahmen der Qualitätsentwicklung
-nach Art. 22 Abs. 4 lit. a BiVo.
+nach Art. 22 Abs. 4 lit. a BiVo. Die Qualitätsentwicklung führt dazu,
+dass neue Module zum Modulbaukasten hinzugefügt werden und andere
+entfernt werden.
+
+
 
 Die Module, die von ihrem Inhalt CT im Sinne der hier verwendeten
 Definition am besten abbilden, sind kursiv gesetzt. Die
 Detailbeschreibung der Module findet sich im Modulbaukasten von
 ICT-Berufsbildung Schweiz[@Modulbaukasten].
 
-* 100 *Daten charakterisieren, aufbereiten und auswerten*
-* 103 Strukturiert programmieren nach Vorgabe
-* 104 Datenmodell implementieren
-* 114 Codierungs-, Kompressions- und Verschlüsselungsverfahren einsetzen
-* 117 Informatik- und Netzinfrastruktur für ein kleines Unternehmen realisieren
-* 118 *Analysieren und strukturiert implementieren*
-* 120 Benutzerschnittstellen implementieren
-* 122 *Abläufe mit einer Scriptsprache automatisieren*
-* 123 Serverdienste in Betrieb nehmen
-* 133 Web-Applikation mit Session-Handling realisieren
-* 150 E-Business-Applikationen anpassen
-* 151 Datenbanken in Web-Applikation einbinden
-* 152 Multimedia-Inhalte in Webauftritt integrieren
-* 153 *Datenmodelle entwickeln*
-* 183 Applikationssicherheit implementieren
-* 214 Benutzer/innen im Umgang mit Informatikmitteln instruieren
-* 226 *Objektorientiert implementieren*
-* 226a *Objektorientiert (ohne Vererbung) implementieren*
-* 226b *Objektorientiert (mit Vererbung) implementieren*
-* 242 *Mikroprozessoranwendung realisieren*
-* 254 Geschäftsprozesse im eigenen Berufsumfeld beschreiben
-* 304 Einzelplatz-Computer in Betrieb nehmen
-* 305 Betriebssysteme installieren, konfigurieren und administrieren
-* 306 *Kleinprojekte im eigenen Berufsumfeld abwickeln*
-* 326 *Objektorientiert entwerfen und implementieren*
-* 335 *Mobile-Applikation realisieren*
-* 403 *Programmabläufe prozedural implementieren*
-* 404 *Objektbasiert programmieren nach Vorgabe*
-* 411 *Datenstrukturen und Algorithmen entwerfen und anwenden*
-* 426 Software mit agilen Methoden entwickeln
-* 431 *Aufträge im eigenen Berufsumfeld selbstständig durchführen*
+| Nr. | Titel |
+| :--- | :--- |
+| 100 | *Daten charakterisieren, aufbereiten und auswerten* |
+| 103 | Strukturiert programmieren nach Vorgabe |
+| 104 | Datenmodell implementieren |
+| 114 | Codierungs-, Kompressions- und Verschlüsselungsverfahren einsetzen |
+| 117 | Informatik- und Netzinfrastruktur für ein kleines Unternehmen realisieren |
+| 118 | *Analysieren und strukturiert implementieren* |
+| 120 | Benutzerschnittstellen implementieren |
+| 122 | *Abläufe mit einer Scriptsprache automatisieren* |
+| 123 | Serverdienste in Betrieb nehmen |
+| 133 | Web-Applikation mit Session-Handling realisieren |
+| 150 | E-Business-Applikationen anpassen |
+| 151 | Datenbanken in Web-Applikation einbinden |
+| 152 | Multimedia-Inhalte in Webauftritt integrieren |
+| 153 | *Datenmodelle entwickeln* |
+| 183 | Applikationssicherheit implementieren |
+| 214 | Benutzer/innen im Umgang mit Informatikmitteln instruieren |
+| 226 | *Objektorientiert implementieren* |
+| 226a | *Objektorientiert (ohne Vererbung) implementieren* |
+| 226b | *Objektorientiert (mit Vererbung) implementieren* |
+| 242 | *Mikroprozessoranwendung realisieren* |
+| 254 | Geschäftsprozesse im eigenen Berufsumfeld beschreiben |
+| 304 | Einzelplatz-Computer in Betrieb nehmen |
+| 305 | Betriebssysteme installieren, konfigurieren und administrieren |
+| 306 | *Kleinprojekte im eigenen Berufsumfeld abwickeln* |
+| 326 | *Objektorientiert entwerfen und implementieren* |
+| 335 | *Mobile-Applikation realisieren* |
+| 403 | *Programmabläufe prozedural implementieren* |
+| 404 | *Objektbasiert programmieren nach Vorgabe* |
+| 411 | *Datenstrukturen und Algorithmen entwerfen und anwenden* |
+| 426 | Software mit agilen Methoden entwickeln |
+| 431 | *Aufträge im eigenen Berufsumfeld selbstständig durchführen* |
 
 ### Noten der BMS
