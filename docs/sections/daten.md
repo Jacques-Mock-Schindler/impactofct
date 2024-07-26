@@ -132,4 +132,11 @@ Verarbeitung möglich wird.
 Damit wird von CT der Teilaspekt Verallgemeinerung und Automatisierung
 geschult.
 
+#### Modul 118: Analysieren und strukturiert implementieren
+
+Das Modul 118 ist eines jener Module, welche durch Massnahmen der
+Qualitätsentwicklung aus dem Modulbaukasten entfernt worden ist.
+Aufgrund des Titels des Moduls wurde es aber trotzdem als eines der
+Module identifiziert, welche CT Fördern.
+
 ### Noten der BMS
