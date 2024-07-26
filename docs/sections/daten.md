@@ -1,5 +1,12 @@
 # Daten
 
+In diesem Abschnitt sollen die Ausgewerteten Daten näher beschrieben
+werden. In einem ersten Teil wird die Stichprobe näher Beschrieben und
+in einem zweiten Teil die Datensätze "Noten der Berufsausbildung"
+und "Noten der BMS".
+
+## Beschreibung der Stichprobe
+
 Die Daten umfassen Noten von insgesamt 167 Lernenden. 12 davon sind
 Frauen. Das Durchschnittsalter zum Zeitpunkt der BMS Prüfungen betrug
 19.2 Jahre. Der jüngste Lernende war 17 Jahre alt, der älteste 22. Die
@@ -22,7 +29,15 @@ bis 2022 auf zwischen 350 und 400 geschätzt werden. Die
 Stichprobengrösse ist daher etwas kleiner als 50% der gesamten
 Population.
 
-## Module der Berufsbildung
+## Beschreibung der Datensätze
+
+Die Beurteilung in der Berufsausbildung erfolgt in einem anderen System
+als in der BMS. Aus diesem Grund werden die beiden Datensätze im
+Folgenden getrennt besprochen.
+
+### Noten der Berufsbildung
+
+#### Module der Berufsbildung
 
 Nicht alle der unten aufgeführten Module wurden durchgehend während des
 ganzen Beobachtungszeitraums unterrichtet und geprüft. Dies ist eine
@@ -67,3 +82,5 @@ ICT-Berufsbildung Schweiz[@Modulbaukasten].
 * 411 *Datenstrukturen und Algorithmen entwerfen und anwenden*
 * 426 Software mit agilen Methoden entwickeln
 * 431 *Aufträge im eigenen Berufsumfeld selbstständig durchführen*
+
+### Noten der BMS
