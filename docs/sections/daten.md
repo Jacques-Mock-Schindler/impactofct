@@ -159,7 +159,7 @@ Teilprobleme ist ein Aspekt von CT. Im zweiten und dritten Handlungsziel
 geht es darum, die gefundene Lösung zu implementieren und damit effektiv
 zu automatisieren. Automatisieren ist ebenfalls ein Teilaspekt von CT.
 
-#### Modul 153 Datenmodelle entwickeln
+#### Modul 153: Datenmodelle entwickeln
 
 Die Modulbeschreibung definiert für das Modul 122[@modul153] fünf
 Handlungsziele:
@@ -184,7 +184,7 @@ in das Datenschema einer Datenbank erfordert ein hohes
 Abstraktionsvermögen. Diese Fähigkeit zu abstrahieren ist eine der
 Komponenten von CT.
 
-#### Modul 226 Objektorientiert implementieren
+#### Module 226: Objektorientiert implementieren
 
 Das Modul 226 ist im Rahmen der Qualitätsentwicklung in die Module 226a
 und 226b Objektorientiert implementieren (mit und ohne Vererbung)
@@ -218,6 +218,67 @@ Die Implementierung ist das Programmieren einer automatisierten Lösung.
 Die Begründung ist die selbe wie im Abschnitt zur Begründung des
 natürlichen Experiments.
 
+#### Modul 242 Mikroprozessoranwendung realisieren
+
+Die Modulbeschreibung definiert für das Modul 242[@modul242] fünf
+Handlungsziele:
+
+1. Vorgabe auf verlangte Funktionen und benötigte Input- und
+   Outputdaten/-Signale analysieren.
+2. Zeitkritische und zeitlich unabhängige Funktionen identifizieren und
+   in einem Programmentwurf logisch gliedern, Datentypen den
+   Daten/Signalen zuordnen.
+3. Mittels einer Programmiersprache und Programmierumgebung den
+   Programmentwurf umsetzen.
+4. Aus der Vorgabe die Testfälle identifizieren, spezifizieren und
+   dokumentieren.
+5. Realisierte Applikation mit geeigneten Werkzeugen auf der
+   Zielhardware austesten, Fehler identifizieren, korrigieren und
+   dokumentieren.
+
+In diesem Modul sticht insbesondere das vierte Handlungsziel heraus. Das
+identifizieren von Testfällen erfordert ein tiefes Verständnis der
+gestellten Aufgabe. Man muss dazu das Problem so weit verallgemeinern,
+dass alle möglichen Grenzfälle bedacht werden. Das bedeutet, dass man
+von der konkreten Probleminstanz abstrahieren, und alle
+erdenklichen Ausprägungen bedenken muss. Dazu muss das Gesamtproblem in
+Teilprobleme zerlegt werden.  
+Damit werden zwei wesentliche Aspekte von CT geschult.
+
+#### Modul 306: Kleinprojekte im eigenen Berufsumfeld abwickeln
+
+Die Modulbeschreibung definiert für das Modul 306[@modul306] sieben
+Handlungsziele:
+
+1. Prüft eine Zielsetzung unter Berücksichtigung der vorgegebenen
+   Ressourcen, Anforderungen und Termine auf Machbarkeit, hält die
+   Erkenntnisse fest und bespricht diese mit dem Auftraggeber.
+2. Identifiziert ein Projekt und bestimmt Massnahmen zur Bewältigung
+   anhand eines Business Cases (Stakeholder, Risikoanalyse,
+   Machbarkeits- und Wirtschaftlichkeitsanalyse, Zeitmanagement,
+   Zielentwicklung).
+3. Erstellt einen Projektplan zur systematischen Abwicklung eines
+   Auftrags unter Berücksichtigung der Ressourcen, Termine,
+   Problemstellungen und Arbeitsteilung (Wasserfallmethode/agile Methode
+   unabhängig von Methode im Lehrbetrieb).
+4. Erteilt Arbeitsaufträge (Arbeitspaket/Stories) und koordiniert und
+   überwacht deren Ausführung (Qualität, Termine, Kosten).
+5. Erstellt einen Arbeitsfortschrittsbericht (Projektstatusbericht,
+   Projektjournal/Board) und dokumentiert darin den Stand des Projekts
+   (Ressourcen, Termine, geleistete Arbeiten) für den Auftraggeber.
+6. Dokumentiert und erläutert das Projektergebnis (Lösung) für den
+   Auftraggeber.
+7. Reflektiert den Projektverlauf mit den Projektbeteiligten im Team und
+   leitet Erkenntnisse ab, wie effiziente Projektarbeit gestaltet werden
+   kann.
+
+Wie den Handlungszielen entnommen werden kann, übernehmen die Lernenden
+die Rolle eines Projektleiters. Als Projektleiter muss man Aufgaben in
+Teilprobleme zerlegen. Ausserdem müssen äussere Abhängigkeiten
+berücksichtigt werden. Handlungsziel 2 verweist insbesondere auf die
+Stakeholder und den Faktor Zeit. Die dafür erforderliche Analyse der
+Aufgabenstellung übt insbesondere den Aspekt Aufteilen von Problemen in
+kleinere Teilprobleme von CT. 
 
 ### Noten der BMS
 
