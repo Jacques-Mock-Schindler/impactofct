@@ -37,14 +37,24 @@ Folgenden getrennt besprochen.
 
 ### Noten der Berufsbildung
 
+Wie in allen Lehrberufen erfolgt die theoretische Ausbildung der
+Lernenden in den ICT-Berufen an einer Berufsschule. Anders als in der
+klassischen Schulbildung und in vielen Lehrberufen ist diese
+theoretische Ausbildung vollständig modularisiert[@modulbaukasten].
+Aufgrund dieser Modularisierung absolvieren die Lernenden der IMS in der
+Berufsausbildung keine theoretische Abschlussprüfung. Als
+Leistungsnachweis für die theoretischen Kenntnisse in der
+Berufsausbildung dienen die Noten aus den einzelnen Modulen (Art. 19
+Abs. 2 lit. d und Abs. 4 lit. a der Verordnung des SBFI über die
+berufliche Grundbildung Informatikerin/Informatiker mit eidgenössischem
+Fähigkeitszeugnis (BiVo)).
+
 #### Module der Berufsbildung
 
 Nicht alle der unten aufgeführten Module wurden durchgehend während des
 ganzen Beobachtungszeitraums unterrichtet und geprüft. Dies ist eine
 Folge der periodisch durchgeführten Massnahmen der Qualitätsentwicklung
-nach Art. 22 Abs. 4 lit. a der Verordnung des SBFI über die berufliche
-Grundbildung Informatikerin/Informatiker mit eidgenössischem
-Fähigkeitszeugnis (BiVo).
+nach Art. 22 Abs. 4 lit. a BiVo.
 
 Die Module, die von ihrem Inhalt CT im Sinne der hier verwendeten
 Definition am besten abbilden, sind kursiv gesetzt. Die
