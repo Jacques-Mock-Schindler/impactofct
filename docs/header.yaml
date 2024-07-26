@@ -22,6 +22,8 @@ header-includes:
     - \usepackage{pdflscape}
     - \usepackage{longtable}
     - \usepackage{booktabs}
+    - \usepackage{caption}
+    - \captionsetup{font=small}
     - \usepackage{xurl}
     - \usepackage[breaklinks]{hyperref}
     - \hypersetup{breaklinks=true}
