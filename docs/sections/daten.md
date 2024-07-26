@@ -54,19 +54,16 @@ Fähigkeitszeugnis (BiVo)).
 
 #### Module der Berufsbildung
 
-Nicht alle der unten aufgeführten Module wurden durchgehend während des
-ganzen Beobachtungszeitraums unterrichtet und geprüft. Dies ist eine
-Folge der periodisch durchgeführten Massnahmen der Qualitätsentwicklung
-nach Art. 22 Abs. 4 lit. a BiVo. Die Qualitätsentwicklung führt dazu,
-dass neue Module zum Modulbaukasten hinzugefügt werden und andere
-entfernt werden.
+Nicht alle der in @tbl:modulliste aufgeführten Module wurden durchgehend
+während des ganzen Beobachtungszeitraums unterrichtet und geprüft. Dies
+ist eine Folge der periodisch durchgeführten Massnahmen der
+Qualitätsentwicklung nach Art. 22 Abs. 4 lit. a BiVo. Diese Massnahmen
+der Qualitätsentwicklung führt dazu, dass neue Module zum Modulbaukasten
+hinzugefügt werden und andere entfernt werden.
 
-
-
-Die Module, die von ihrem Inhalt CT im Sinne der hier verwendeten
-Definition am besten abbilden, sind kursiv gesetzt. Die
-Detailbeschreibung der Module findet sich im Modulbaukasten von
-ICT-Berufsbildung Schweiz[@modulbaukasten].
+Die Begründung, weshalb die in der @tbl:modulliste kursiv gesetzten
+Module für die Schulung von CT besonders wichtig sind folgt im Anschluss
+an die Tabelle.
 
 | Nr. | Titel |
 | :--- | :--------------------------- |
@@ -102,6 +99,37 @@ ICT-Berufsbildung Schweiz[@modulbaukasten].
 | 426 | Software mit agilen Methoden entwickeln |
 | 431 | *Aufträge im eigenen Berufsumfeld selbstständig durchführen* |
 Table: Liste der Module aus der Stichprobe. *Kursiv* sind jene Module
-dargestellt, welche einen deutlichen CT Bezug aufweisen.
+dargestellt, welche einen deutlichen CT Bezug aufweisen. Die genaue
+Beschreibung aller Module findet sich im
+modulbaukasten.ch[@modulbaukasten].  {#tbl:modulliste}
+
+#### Modul 100: Daten charakterisieren, aufbereiten und auswerten
+
+Die Modulbeschreibung definiert für das Modul 100[@modul100] sechs
+Handlungsziele:
+
+1. Daten bzw. Datenbestand nach den für die Verarbeitung resp.
+   Auswertung wichtigen Merkmalen hinsichtlich Struktur (Text,
+   Datenblätter, Datenbank usw.) charakterisieren.
+2. Daten bzw. Datenbestand nach den für die Auswertung wichtigen
+   Merkmalen hinsichtlich Datenqualität (Vollständigkeit, Eindeutigkeit
+   und Redundanz) charakterisieren.
+3. Aufgrund der Charakteristik eines Datenbestands die Informationen
+   auswählen, die sich für eine bestimmte Auswertung eignen.
+4. Unstrukturierte Daten in eine strukturierte, verarbeitbare Form
+   bringen, um Auswertungen zu ermöglichen.
+5. Für Daten und Zusammenhänge eine geeignete visuell erfassbare Form
+   wählen und diese in der gewählten Form darstellen.
+6. Bedeutung und Aussagekraft der Auswertung kritisch hinterfragen und
+   kommentieren.
+
+Diese Handlungsziele erfordern, dass man in der Lage ist, von konkreten
+Situationen zu abstrahieren und die generellen Charakteristika einer
+Mehrheit von Situationen herauszuarbeiten. Darüber hinaus müssen diese
+Charakteristika so aufbereitet werden, dass eine automatisierte
+Verarbeitung möglich wird.
+
+Damit wird von CT der Teilaspekt Verallgemeinerung und Automatisierung
+geschult.
 
 ### Noten der BMS
