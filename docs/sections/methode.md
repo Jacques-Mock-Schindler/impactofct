@@ -126,7 +126,7 @@ für die IMS aus einem anderen Schultyp stammte, war nicht so schlimm,
 weil beide Schultypen im Wirtschaftsunterricht über das selbe Curriculum
 verfügten.
 
-### Begründung für die Wahl des natürlichen Experiments
+### Begründung für die Wahl des natürlichen Experiments {#sec:begr_nat_exp}
 
 Weil es eigentlich wünschenwsert wäre, die Gültigkeit einer
 Arbeitshypothese experimentell zu überprüfen, liegt es auf der Hand,

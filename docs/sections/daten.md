@@ -184,6 +184,41 @@ in das Datenschema einer Datenbank erfordert ein hohes
 Abstraktionsvermögen. Diese Fähigkeit zu abstrahieren ist eine der
 Komponenten von CT.
 
+#### Modul 226 Objektorientiert implementieren
+
+Das Modul 226 ist im Rahmen der Qualitätsentwicklung in die Module 226a
+und 226b Objektorientiert implementieren (mit und ohne Vererbung)
+aufgeteilt werden. Die Begründung für die Aufnahme in die Liste der
+Module mit starkem CT Bezug wird deshalb hier für das alte und die
+beiden aktuellen Module zusammengefasst.
+
+Die Modulbeschreibung definiert für die Module 226a und 226b die
+folgenden sieben konsolidierten Handlungsziele [@modul226a; @modul226b]:
+
+1. Ein SW-Design mit Klassen nachvollziehen und mit eigenen fachlichen
+   und technischen Klassen ergänzen.
+2. Die Notation dynamischer und statischer Strukturen einer Anwendung
+   mittels Unified Modeling Language (UML) nachvollziehen.
+3. Klassen- bzw. Objektbasiertes Design implementieren.
+4. Für funktionale Einheiten einer Anwendung Testfälle implementieren,
+   um die Anwendung automatisch zu prüfen.
+5. Klassen der Anwendung systematisch, unter Verwendung der hierfür
+   vorgesehenen Infrastruktur, dokumentieren.
+6. Ein objektorientiertes Design nachvollziehen und durch Einsatz der
+   Vererbung erweitern.
+7. Fortgeschrittene Testfälle für funktionale Einheiten implementieren,
+   welche durch geeignete Techniken von anderen Systemteilen unabhängig
+   sind.
+
+Die objektorientierte Programmierung ist die Anwendung von CT par
+excellence. Sie erfordert das Zerlegen von Problemen in Teilprobleme
+(Klassen mit Methoden und Attributen). Probleme müssen so weit
+verallgemeinert werden, dass sie in Klassen dargestellt werden können.
+Die Implementierung ist das Programmieren einer automatisierten Lösung.
+Die Begründung ist die selbe wie im Abschnitt zur Begründung des
+natürlichen Experiments.
+
+
 ### Noten der BMS
 
 *Die Charakteristika der BMS Noten ist noch zu formulieren.*
