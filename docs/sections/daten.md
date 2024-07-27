@@ -251,14 +251,14 @@ erdenklichen Ausprägungen bedenken muss. Dazu muss das Gesamtproblem in
 Teilprobleme zerlegt werden.  
 Damit werden zwei wesentliche Aspekte von CT geschult.
 
-#### Modul 306 und 335: Kleinprojekte im eigenen Berufsumfeld abwickeln bzw. Mobile-Applikation realisieren
+#### Modul 306, 431 und 335: Kleinere Projekte und Mobile-Applikationen
 
-Die Module 306 und 335 befassen sich beide mit der Planung und Umsetzung
+Die Module 306, 431 und 335 befassen sich alle mit der Planung und Umsetzung
 kleinerer Projekte. Wegen den sich daraus ergebenden Parallelen wurden
 die beiden Module zur Begründung ihres Zusammenhangs mit CT
 zusammengefasst.  
-Gemeinsam vereinen die beiden Module 12 Handlungsziele auf
-sich[@modul306; @modul335].
+Die Handlungsziele können für die drei Module zu folgenden 12
+Handlungszielen konsolidiert werden[@modul306; @modul335; @modul431].
 
 1. Prüft eine Zielsetzung unter Berücksichtigung der vorgegebenen
    Ressourcen, Anforderungen und Termine auf Machbarkeit, hält die
