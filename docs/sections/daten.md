@@ -193,7 +193,7 @@ aufgeteilt werden. Das Modul 326 vertieft die beiden Module 226a und
 Liste der Module mit starkem CT Bezug wird deshalb hier für alle Module
 zur objektorientierten Programmierung zusammengefasst.
 
-Die Modulbeschreibung definiert für die Module 226a und 226b die
+Die Modulbeschreibung definiert für die Module 226a, 226b sowie 326 die
 folgenden zehn konsolidierten Handlungsziele [@modul226a; @modul226b;
 @modul326]:
 
@@ -216,13 +216,18 @@ folgenden zehn konsolidierten Handlungsziele [@modul226a; @modul226b;
 9. Objektorientiertes Design implementieren.
 10. Applikations-Architektur nachvollziehbar dokumentieren.
 
-Die objektorientierte Programmierung ist die Anwendung von CT par
-excellence. Sie erfordert das Zerlegen von Problemen in Teilprobleme
-(Klassen mit Methoden und Attributen). Probleme müssen so weit
-verallgemeinert werden, dass sie in Klassen dargestellt werden können.
-Die Implementierung ist das Programmieren einer automatisierten Lösung.
-Die Begründung ist die selbe wie im Abschnitt zur Begründung des
-natürlichen Experiments.
+Die objektorientierte Programmierung ist ein gutes Beispiel für die
+Anwendung von CT.  
+Die Modellierung von Situationen des realen Lebens als Klassen mit
+Attributen und Methoden entspricht genau dem in der Definition von CT
+beschriebenen Zerlegen von Problemen in lösbare Teilprobleme. Dadurch,
+dass im Modul 226b explizit mit Vererbung gearbeitet wird, wird auch die
+als Teilkomponente von CT identifizierte Abstraktion geübt. Dies wird
+noch verstärkt, in dem Testfälle identifiziert und implementiert werden
+müssen.
+
+Insgesamt kann festgehalten werden, dass die vier Module 226, 226a, 226b
+und 326 alle Aspekte von CT abbilden.
 
 #### Modul 242 Mikroprozessoranwendung realisieren {#sec:modul242}
 
