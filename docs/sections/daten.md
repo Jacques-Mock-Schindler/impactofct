@@ -259,22 +259,32 @@ Handlungsziele:
 1. Prüft eine Zielsetzung unter Berücksichtigung der vorgegebenen
    Ressourcen, Anforderungen und Termine auf Machbarkeit, hält die
    Erkenntnisse fest und bespricht diese mit dem Auftraggeber.
-2. Identifiziert ein Projekt und bestimmt Massnahmen zur Bewältigung
+2. Vorgabe analysieren, Funktionalität und Storyboard entwerfen.
+3. Identifiziert ein Projekt und bestimmt Massnahmen zur Bewältigung
    anhand eines Business Cases (Stakeholder, Risikoanalyse,
    Machbarkeits- und Wirtschaftlichkeitsanalyse, Zeitmanagement,
    Zielentwicklung).
-3. Erstellt einen Projektplan zur systematischen Abwicklung eines
+4. Lösungskonzept für die Applikation erarbeiten und Einbettung in
+   bestehenden Lösungen überprüfen.
+5. Erstellt einen Projektplan zur systematischen Abwicklung eines
    Auftrags unter Berücksichtigung der Ressourcen, Termine,
    Problemstellungen und Arbeitsteilung (Wasserfallmethode/agile Methode
    unabhängig von Methode im Lehrbetrieb).
-4. Erteilt Arbeitsaufträge (Arbeitspaket/Stories) und koordiniert und
+6. Erteilt Arbeitsaufträge (Arbeitspaket/Stories) und koordiniert und
    überwacht deren Ausführung (Qualität, Termine, Kosten).
-5. Erstellt einen Arbeitsfortschrittsbericht (Projektstatusbericht,
+7. Erstellt einen Arbeitsfortschrittsbericht (Projektstatusbericht,
    Projektjournal/Board) und dokumentiert darin den Stand des Projekts
    (Ressourcen, Termine, geleistete Arbeiten) für den Auftraggeber.
-6. Dokumentiert und erläutert das Projektergebnis (Lösung) für den
+8. Mobile-Applikation mit einer gängigen Entwicklungsumgebung unter
+   Berücksichtigung der Möglichkeiten und Einschränkungen von mobilen
+   Geräten programmieren.
+9. Veröffentlichung der Applikation auf einer gängigen Plattform planen
+   und nötige Schritte festhalten.
+10. Dokumentiert und erläutert das Projektergebnis (Lösung) für den
    Auftraggeber.
-7. Reflektiert den Projektverlauf mit den Projektbeteiligten im Team und
+11.  Mobile-Applikation gemäss Testplan überprüfen, Testergebnisse
+    festhalten und allenfalls erforderliche Korrekturen vornehmen.
+12. Reflektiert den Projektverlauf mit den Projektbeteiligten im Team und
    leitet Erkenntnisse ab, wie effiziente Projektarbeit gestaltet werden
    kann.
 
