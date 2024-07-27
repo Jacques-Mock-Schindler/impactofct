@@ -224,7 +224,7 @@ Die Implementierung ist das Programmieren einer automatisierten Lösung.
 Die Begründung ist die selbe wie im Abschnitt zur Begründung des
 natürlichen Experiments.
 
-#### Modul 242 Mikroprozessoranwendung realisieren
+#### Modul 242 Mikroprozessoranwendung realisieren {#sec:modul242}
 
 Die Modulbeschreibung definiert für das Modul 242[@modul242] fünf
 Handlungsziele:
@@ -307,6 +307,37 @@ Die dafür erforderliche Analyse der
 Aufgabenstellung übt insbesondere den Aspekt Aufteilen von Problemen in
 kleinere Teilprobleme von CT. 
 
+#### Modul 403: Programmabläufe prozedural implementieren
+
+Die Modulbeschreibung definiert für das Modul 403[@modul403] sechs
+Handlungsziele:
+
+1. Vorgegebenen Programmablauf in Form einer Ablaufstruktur abbilden.
+2. Die erforderlichen Daten für Eingabe, Verarbeitung und Ausgabe
+   bestimmen und ihre Datentypen festlegen.
+3. Kontrollstrukturen für die Steuerung des Programmablaufs anwenden.
+4. Ablaufstruktur und Daten mit einer Programmiersprache in einen
+   Programmablauf umsetzen.
+5. Vorgegebene funktionale Testfälle (Eingabewerte, erwartete
+   Ergebnisse) anwenden um Fehler im Programmablauf zu erkennen und zu
+   beheben.
+6. Einen Debugger einsetzen um die Programmausführung zu überwachen und
+   Fehler zu erkennen.
+
+Die Implementation von prozeduralen Programmabläufen ist möglicherweise
+etwas weniger anspruchsvoll als die Implementation von
+objektorientierten Programmen. Trotzdem werden auch in diesem Modul
+Aspekte von CT geschult. Insbesondere gilt dies für Feststellung der für
+das Programm erforderlichen Daten mit deren Datentypen nach
+Handlungsziel 2. Dazu ist es erforderlich, das zu Lösende Problem in
+seine Komponenten zu zerlegen um festzustellen, an welcher Stelle welche
+Daten mit welchen Datentypen erforderlich sind. Ausserdem verlangt
+Handlungsziel 5, dass Testfälle identifiziert werden. Wie bereits in
+@sec:modul242 festgehalten, erfordert dies, dass die Problemstellung
+verallgemeinert werden kann.
+
+Es werden damit die CT Teilaspekte Aufteilen von Problemen sowie
+Verallgemeinern von konkreten Probleminstanzen geschult.
 
 ### Noten der BMS
 
