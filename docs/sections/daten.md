@@ -293,10 +293,17 @@ sich[@modul306; @modul335].
    kann.
 
 Wie den Handlungszielen entnommen werden kann, übernehmen die Lernenden
-die Rolle eines Projektleiters. Als Projektleiter muss man Aufgaben in
+die Rolle eines Projektleiters; sei es für die Abwicklung eines
+Kleinprojektes im eigenen beruflichen Umfeld oder für die Entwicklung
+einer Mobile-Applikation. Als Projektleiter muss man Aufgaben in
 Teilprobleme zerlegen. Ausserdem müssen äussere Abhängigkeiten
-berücksichtigt werden. Handlungsziel 2 verweist insbesondere auf die
-Stakeholder und den Faktor Zeit. Die dafür erforderliche Analyse der
+berücksichtigt werden. Handlungsziel 2 schreibt für die
+Mobile-Applikation vor, dass die Vorgaben zu analysieren seien.
+Handlungsziel 3 präzisiert dies für die Kleinprojekte im eigenen
+beruflichen Umfeld dahingehend, dass insbesondere die
+Interessen der
+Stakeholder und der Faktor Zeit zu berücksichtigen sind.
+Die dafür erforderliche Analyse der
 Aufgabenstellung übt insbesondere den Aspekt Aufteilen von Problemen in
 kleinere Teilprobleme von CT. 
 
