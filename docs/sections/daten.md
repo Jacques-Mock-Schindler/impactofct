@@ -339,6 +339,32 @@ verallgemeinert werden kann.
 Es werden damit die CT Teilaspekte Aufteilen von Problemen sowie
 Verallgemeinern von konkreten Probleminstanzen geschult.
 
+#### Modul 411: Datenstrukturen und Algorithmen entwerfen und anwenden
+
+Die Modulbeschreibung definiert für das Modul 411[@modul411] sechs
+Handlungsziele:
+
+1. Für ein gegebenes Problem eine geeignete Datenstruktur definieren und
+   mit den Mitteln einer Programmiersprache, wie Structs,
+   Referenzen/Zeiger und Arrays umsetzen.
+2. Ein Problem analysieren und einen geeigneten Algorithmus zur Lösung
+   mit den Grundelementen Zuweisung, Verzweigung und Schleife entwerfen
+   und mit Prozeduren und Funktionen umsetzen.
+3. Algorithmen und Datenstrukturen hinsichtlich Speicher- und
+   Zeitkomplexität analysieren und dokumentieren.
+4. Ein komplexeres Problem auf kleinere Teilprobleme zurückführen und je
+   nach Problemstellung Iteration oder Rekursion einsetzen.
+5. Abstrakte Datentypen, wie Liste, Set, Map etc. und die darauf
+   definierten Operationen kennen und zielgerichtet einsetzen können.
+6. Datenstrukturen und Algorithmen mit dem Debugger und weiteren Tools
+   untersuchen und dabei speziell die Situation auf Stack und Heap
+   analysieren und in geeigneter Form darstellen.
+
+Selbständig Datenstrukturen und Algorithmen entwerfen darf wohl als
+Königsdisziplin des Programmierens bezeichnet werden. Handlungsziel
+2 entspricht denn auch fast der Definition von CT. Eine weitere
+Begründung erübrigt sich daher.
+
 ### Noten der BMS
 
 *Die Charakteristika der BMS Noten ist noch zu formulieren.*
