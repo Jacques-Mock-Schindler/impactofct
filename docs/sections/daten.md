@@ -372,9 +372,33 @@ Begründung erübrigt sich daher.
 
 ### Noten der BMS
 
-*Die Charakteristika der BMS Noten ist noch zu formulieren.*
+Die Ausbildung an der BMS orientiert sich wie in @sec:kernbegruendung
+dargelegt an klassischen Fachdisziplinen. Von diesen Fachdisziplinen
+wurde in den Fächern, in welchen eine Abschlussprüfung durchgeführt
+wird, grundsätzlich auf die Noten der schriftlichen Abschlussprüfung
+abgestellt. In den Fächern, in denen es keine Abschlussprüfung gibt,
+wurde auf die Erfahrungsnote zurückgegriffen.  
+Abschlussprüfungen finden in den Fächern Deutsch, Französisch, Englisch,
+Mathematik, Finanz- und Rechnungswesen sowie Wirtschaft und Recht statt.
+In den Fächern Geschichte und Politik sowie Technik und Umwelt musste
+die Erfahrungsnote herangezogen werden. Für das interdisziplinäre
+Arbeiten in den Fächern musste ebenfalls auf die Erfahrungsnote
+abgestellt werden.
 
-Die Daten waren hier jedoch nicht ganz konsistent und zum
-    Teil musste anstelle der Prüfung auf die BMS-Zeugnisnote
-    zurückgegriffen werden. Diese setzt sich aus Abschlussprüfung und
-    Erfahrungsnote zusammen.
+Leider sind die Noten der Fächer mit Abschlussprüfungen nicht ganz
+konsistent ausschliesslich die Noten der schriftlichen Abschlussprüfung.
+Die Kantonsschule Büelrain hat im Verlauf des
+Beobachtungszeitraum nicht immer die gleichen Informationen archiviert.
+Die Archivführung hat es nur für die Jahre 2012 bis 2015 sowie für das
+Jahr 2020 ermöglicht auf die Note der schriftlichen Abschlussprüfung
+abzustellen. Für die Jahre 2018, 2019, 2021 sowie 2022 musste auf die
+Durchschnittsnote aus mündlicher und schriftlicher Prüfung abgestellt
+werden. Dies ist allerdings dahingehend zu relativieren, als dass nur in
+den Fächern Deutsch, Französisch und Englisch überhaupt mündliche
+Abschlussprüfungen stattfinden. Für die Jahre 2016 und 2017 wurde sogar
+ausschliessliche die Zeugnisnote des Berufsmaturzeugnisses archiviert.
+Also musste für diese beiden Jahrgänge auf die Durchschnittsnote aus den
+Prüfungen und den Erfahrungsnoten abgestellt werden.
+
+Diese Inkonsistenz im Datensatz wurde in Kauf genommen, um trotzdem über
+Daten aus dem Zeitraum von 10 Jahren zu Verfügen.

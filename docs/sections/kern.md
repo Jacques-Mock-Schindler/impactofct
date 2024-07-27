@@ -92,7 +92,7 @@ Untersuchungen. Unterhalb der Schwelle von 0.3 dürfte es schwierig
 werden, geeignete Methoden zu finden, um die Ursachen für die
 Korrelation zu finden.
 
-### Begründung der Wahl der Methode
+### Begründung der Wahl der Methode {#sec:kernbegruendung}
 
 Damit die Arbeitshypothese überprüft werden kann, muss eine
 Gegenüberstellung von Fähigkeiten in CT und solchen in der
