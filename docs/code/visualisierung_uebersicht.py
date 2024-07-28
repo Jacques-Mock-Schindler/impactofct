@@ -45,6 +45,22 @@ plt.show()
 
 # %%
 
-len(colors)
+efz = pd.read_csv('../data/noten_efz.csv', sep=';', index_col=0)
+
+# %%
+
+
+plt.figure(
+    figsize=(12, 6)
+)
+
+sns.boxplot(data=efz, color='skyblue')
+plt.title('Notenverteilung im EFZ')
+plt.xlabel('Module')
+plt.ylabel('Noten')
+plt.xticks(rotation=90)
+plt.tight_layout()
+plt.show()
+
 
 # %%
