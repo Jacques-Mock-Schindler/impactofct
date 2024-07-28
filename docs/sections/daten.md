@@ -390,4 +390,5 @@ der Datensatz gegenüber den anderen Fächer von 167 auf 108 Noten.
 Einen graphischen Überblick über die Verteilung der Noten ergibt
 @fig:boxplotsbms.
 
-![Boxplot Noten BMS](docs/graphics/boxplots_bm.svg){#fig:boxplotsbms}
+![Boxplot der Noten der BMS. Der Plot der IMS ist gebrochen eingefärbt,
+weil er auf weniger Noten beruht als die anderen.](docs/graphics/boxplots_bm.svg){#fig:boxplotsbms}
