@@ -124,6 +124,10 @@ spearman = spearman.select_dtypes(include=['object']).astype(float)
 
 # %%
 
+spearman.to_csv('../data/spearman.csv', sep=';')
+
+# %%
+
 spearman.min()
 
 # %%
