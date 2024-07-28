@@ -386,3 +386,8 @@ interdisziplinäre Arbeiten in den Fächern in den Jahren 2012 bis 2017
 nicht archiviert. Entsprechend konnten hier die Noten nur für die
 Abschlüsse von 2018 bis 2022 ausgewertet werden. Damit reduziert sich
 der Datensatz gegenüber den anderen Fächer von 167 auf 108 Noten.
+
+Einen graphischen Überblick über die Verteilung der Noten ergibt
+@fig:boxplotsbms.
+
+![Boxplot Noten BMS](docs/graphics/boxplots_bm.svg){#fig:boxplotsbms}
