@@ -67,12 +67,19 @@ efz = pd.read_csv('../data/noten_efz.csv', sep=';', index_col=0)
 
 # %%
 
+efz.drop(['115', '155', '213', '239', '256', '340'],
+         axis='columns',
+         inplace=True)
+
+# %%
 
 plt.figure(
     figsize=(12, 6)
 )
 
-sns.boxplot(data=efz, color='skyblue')
+sns.boxplot(data=efz, 
+            color='skyblue',
+            medianprops={'color': 'red'})
 plt.title('Notenverteilung im EFZ')
 plt.xlabel('Module')
 plt.ylabel('Noten')
