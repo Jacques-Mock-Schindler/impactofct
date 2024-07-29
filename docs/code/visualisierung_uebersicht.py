@@ -44,12 +44,21 @@ last_box = boxes[-1]                   # wähle die letze Box aus
 last_box.set_linestyle('--')           # linestyle dashed
 r, g, b, a = last_box.get_facecolor()  # Lese die Farbattribute aus
 last_box.set_facecolor((r, g, b, 0.5)) # Setze die Transparenz auf 50%
+whiskers = ax.lines[-6:-4] # die letzen 6 Linien gehören zum letzen Plot...
+caps = ax.lines[-4:-2]
+median = ax.lines[-2]
+
+for whisker in whiskers:
+    whisker.set_linestyle('--')
+for cap in caps:
+    cap.set_linestyle('--')
+median.set_linestyle('--')
 
 plt.title('Notenverteilung in der BMS')
 plt.xlabel('Fächer')
 plt.ylabel('Noten')
 plt.tight_layout()
-# plt.savefig('../graphics/boxplots_bm.svg', dpi=600)
+plt.savefig('../graphics/boxplots_bm.svg', dpi=600)
 plt.show()
 
 # %%
