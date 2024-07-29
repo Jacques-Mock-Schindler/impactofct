@@ -63,6 +63,9 @@ auf Streuungen als die Korrelation nach Perason. Wie in
 Noten der BMS. Damit dürfte die Verschiebung in der Reihenfolge der
 Modulnoten auf die grössere Streuung zurückzuführen sein.
 
+Die Übereinstimmung der Sortierreihenfolge der BMS Fächer zeigt, dass
+die Reihenfolge robust ist.
+
 ## Ursachen für die Gruppierung
 
 Die Fächergruppe mit der Schwächsten Korrelation besteht ausschliesslich
