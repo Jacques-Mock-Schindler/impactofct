@@ -62,3 +62,17 @@ auf Streuungen als die Korrelation nach Perason. Wie in
 @sec:modulcharakter gezeigt, streuen die Modulnoten stärker als die
 Noten der BMS. Damit dürfte die Verschiebung in der Reihenfolge der
 Modulnoten auf die grössere Streuung zurückzuführen sein.
+
+## Ursachen für die Gruppierung
+
+Die Fächergruppe mit der Schwächsten Korrelation besteht ausschliesslich
+aus Fächern, welche den Geisteswissenschaften zugeordnet werden.
+
+Die mittlere Fächergruppe kann den Sozialwissenschaften zugeordnet
+werden.
+
+Die Fächergruppe mit der stärksten Korrelation ist heterogener
+Zusammengesetzt. Mathematik und Finanz- und Rechnungswesen sind
+Disziplinen, welche ein hohes Abstraktionsvermögen erfordern. Beim
+interdisziplinären Arbeiten in den Fächern steht die Projektarbeit im
+Vordergrund.
