@@ -34,11 +34,12 @@ plt.figure(
     figsize=(12, 6)
 )
 
-sns.boxplot(data=bm, palette=colors)
+sns.boxplot(data=bm, 
+            medianprops={'color': 'red', 'linewidth': 2},
+            palette=colors)
 plt.title('Notenverteilung in der BMS')
 plt.xlabel('Fächer')
 plt.ylabel('Noten')
-plt.xticks(rotation=45)
 plt.tight_layout()
 plt.savefig('../graphics/boxplots_bm.svg', dpi=600)
 plt.show()
