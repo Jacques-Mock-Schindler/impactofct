@@ -83,13 +83,13 @@ correlations = correlations.select_dtypes(include=['object']).astype(float)
 
 # %%
 
-mittelwerte = correlations.mean()
+mittelwerte = correlations.median()
 mittelwerte.sort_values(inplace=True)
 sortierreihenfolge = mittelwerte.index.to_list()
 
 # %%
 
-querwerte = correlations.mean(axis=1)
+querwerte = correlations.median(axis=1)
 querwerte.sort_values(inplace=True)
 sortierreihenfolge_quer = querwerte.index.to_list()
 
@@ -116,7 +116,7 @@ ax = sns.heatmap(correlations, annot=True,
             vmin=-.2, vmax=.6, center=0.3)
 for col in range(1, 9):
     ax.axvline(x=col, color='black', linewidth=.5)
-plt.title(f'Korrelation Noten BM - EFZ ')
+plt.title(f'Pearsonkorrelation Noten BM - EFZ ')
 plt.ylabel('EFZ Modul Nr.')
 plt.xlabel('BM Fächer')
     

@@ -371,6 +371,7 @@ Königsdisziplin des Programmierens bezeichnet werden. Handlungsziel
 Begründung erübrigt sich daher.
 
 #### Charakterisierung der Noten der Berufsausbildung
+{#sec:modulcharakter}
 
 In der Übersichtsdarstellung der Noten der Module der Berufsausbildung
 (@fig:boxplotsefz)
