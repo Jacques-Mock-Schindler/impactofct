@@ -9,10 +9,12 @@ allgemeinen stellt, werden die die BMS Fächer auf der x-Achse und die
 Module aus der Berufsausbildung auf der y-Achse dargestellt. So ist der
 Effekt besser lesbar.
 
-![Heatmap mit der Korrelation der Noten der Berufsausbildungsmodule. Die
+
+![Heatmap mit den Korrelationen zwischen der Noten der Berufsausbildung
+und der BMS. Die
 Korrelation wird mit Spearman's $\rho$ ausgedrückt. Die Noten der BMS
 sind nach steigender mittlerer Korrelation
-sortiert. Die Noten der EFZ Modulnoten sind ebenfalls nach steigender
+sortiert. Die Noten der Berufsbildung sind ebenfalls nach steigender
 mittlerer Korrelation sortiert. Die Module mit besonderem CT Bezug sind
 rot
 beschriftet.](docs/graphics/spearmankorrelationen_heatmap.svg){#fig:spearman}
@@ -40,3 +42,20 @@ Insgesamt lassen sich die Resultate grob in drei Gruppen unterteilen:
 
    Das sind die Fächer Deutsch, Geschichte und Politik, Englisch und
    Französisch.
+
+Ein ähnliches, wenn auch nicht ganz identisches Resultat ergibt sich,
+wenn statt Spearman's $\rho$ auf Pearson's $r$ abgestellt wird.
+
+![Heatmap mit den Korrelationen zwischen der Noten der Berufsausbildung
+und der BMS. Die
+Korrelation wird mit Pearson's $r$ ausgedrückt. Die Noten der BMS
+sind nach steigender mittlerer Korrelation
+sortiert. Die Noten der Berufsbildung sind ebenfalls nach steigender
+mittlerer Korrelation sortiert. Die Module mit besonderem CT Bezug sind
+rot
+beschriftet.](docs/graphics/korrelationen_heatmap.svg){#fig:pearson}
+
+Die Korrelationen nach Bravais-Pearson führt zu einer Verschiebung in
+der Reihenfolge der Fächer der BMS. Die Verschiebungen finden jedoch nur
+innerhalb der oben vorgenommenen Gruppierung. Die Einteilung in die drei
+Gruppen bleibt erhalten.
