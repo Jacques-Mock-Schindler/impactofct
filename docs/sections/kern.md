@@ -122,6 +122,8 @@ ICT-Berufen.
 
 Diese Ausgangslage hat es erst ermöglicht, Leistungen im Fachbereich
 Informatik mit Leistungen im Bereich Allgemeinbildung zu korrelieren.
+Die Noten der Module werden dabei als Ursache und jene der BMS als
+Wirkung behandelt.  
 An der für die Berufsausbildung zuständigen Berufsschule wurden
 insgesamt 31 Module unterrichtet.
 Damit standen aus der Berufsausbildung 31 Noten zur Verfügung. 15
