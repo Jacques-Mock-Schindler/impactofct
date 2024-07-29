@@ -77,9 +77,28 @@ plt.figure(
     figsize=(12, 6)
 )
 
-sns.boxplot(data=efz, 
+ax = sns.boxplot(data=efz, 
             color='skyblue',
             medianprops={'color': 'red'})
+
+boxes = ax.patches
+selected_boxes = [boxes[0],
+                  boxes[5],
+                  boxes[7],
+                  boxes[13],
+                  boxes[17],
+                  boxes[18],
+                  boxes[19],
+                  boxes[20],
+                  boxes[24],
+                  boxes[25],
+                  boxes[26],
+                  boxes[27],
+                  boxes[29],
+                  boxes[31],]
+for box in selected_boxes:
+    box.set_facecolor('springgreen')
+
 plt.title('Notenverteilung im EFZ')
 plt.xlabel('Module')
 plt.ylabel('Noten')
