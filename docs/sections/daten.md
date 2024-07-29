@@ -384,7 +384,8 @@ fallen drei Aspekte auf:
 
 ![Übersicht über die Verteilung der Noten der Berufsausbildung. Die
 Module mit starkem CT Bezug wurden hellgrün
-hervorgehoben. Der Median der erzielten Noten ist als rote Linie dargestellt.](docs/graphics/boxplots_efz.svg){#fig:boxplotsefz}
+hervorgehoben. Der Median der erzielten Noten ist als rote Linie
+dargestellt.](docs/graphics/boxplots_efz.svg){#fig:boxplotsefz}
 
 Die Noten der Berufsausbildung fliessen nur als Durchschnittsnote der in
 den jeweiligen Semester unterrichteten Fächern in die Promotion an der
@@ -395,7 +396,8 @@ Module der Berufsausbildung stärker streuen als jene der BMS (vgl.
 
 ![Übersicht über die Verteilung der Semesternoten (ungerundet), wie sie
 im Abschlussjahr 2017 zustande gekommen
-wären. Der Median der erzielten Noten ist als rote Linie dargestellt.](docs/graphics/boxplots_efz.svg){#fig:boxplotsefz}](docs/graphics/semesternoten_efz.svg){#fig:semesternotenefz}
+wären. Der Median der erzielten Noten ist als rote Linie
+dargestellt.](docs/graphics/semesternoten_efz.svg){#fig:semesternotenefz}
 
 Das die Streuung bei einer Durchschnittsnote abnimmt zeigt
 @fig:semesternotenefz. Die Darstellung beruht auf der Fiktion, dass alle
@@ -424,7 +426,8 @@ Einen graphischen Überblick über die Verteilung der Noten ergibt
 
 ![Boxplot der Noten der BMS. Der Plot der IDAF ist abgeschwächt
 dargestellt, weil er auf weniger Noten beruht als die
-anderen. Der Median der erzielten Noten ist als rote Linie dargestellt.](docs/graphics/boxplots_efz.svg){#fig:boxplotsefz}](docs/graphics/boxplots_bm.svg){#fig:boxplotsbms}
+anderen. Der Median der erzielten Noten ist als rote Linie
+dargestellt.](docs/graphics/boxplots_bm.svg){#fig:boxplotsbms}
 
 In der Darstellung von @fig:boxplotsbms fallen zwei Charakteristika
 besonders ins Auge:
