@@ -55,7 +55,10 @@ mittlerer Korrelation sortiert. Die Module mit besonderem CT Bezug sind
 rot
 beschriftet.](docs/graphics/korrelationen_heatmap.svg){#fig:pearson}
 
-Die Korrelationen nach Bravais-Pearson führt zu einer Verschiebung in
-der Reihenfolge der Fächer der BMS. Die Verschiebungen finden jedoch nur
-innerhalb der oben vorgenommenen Gruppierung. Die Einteilung in die drei
-Gruppen bleibt erhalten.
+Die Korrelationen nach Bravais-Pearson führt bezüglich der Sortierung
+der Noten der BMS zum gleichen Resultat. Verschiebungen gibt es in der
+Reihenfolge der Module. Die Bravais-Pearson Korrelation reagiert stärker
+auf Streuungen als die Korrelation nach Perason. Wie in
+@sec:modulcharakter gezeigt, streuen die Modulnoten stärker als die
+Noten der BMS. Damit dürfte die Verschiebung in der Reihenfolge der
+Modulnoten auf die grössere Streuung zurückzuführen sein.
