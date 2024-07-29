@@ -390,5 +390,18 @@ der Datensatz gegenüber den anderen Fächer von 167 auf 108 Noten.
 Einen graphischen Überblick über die Verteilung der Noten ergibt
 @fig:boxplotsbms.
 
-![Boxplot der Noten der BMS. Der Plot der IMS ist gebrochen eingefärbt,
-weil er auf weniger Noten beruht als die anderen.](docs/graphics/boxplots_bm.svg){#fig:boxplotsbms}
+![Boxplot der Noten der BMS. Der Plot der IDAF ist abgeschwächt
+dargestellt, weil er auf weniger Noten beruht als die
+anderen.](docs/graphics/boxplots_bm.svg){#fig:boxplotsbms}
+
+In der Darstellung von @fig:boxplotsbms fallen zwei Charakteristika
+besonders ins Auge:
+
+1. Der Median liegt bei allen Fächern mindestens bei 4.5.
+2. Das untere Quartil liegt mindestens bei 4.
+
+Dies ist jedoch keine Überraschung. Die Noten stammen aus den
+Abschlusszeugnissen der BMS. In den drei Schuljahren vor erreichen
+dieses Zeugnisses findet eine dauernde Selektion statt. Und von den
+Ausgewerteten Noten stammen lediglich fünf von 167 Datensätzen von
+Lernenden, welche die Berufsmatur nicht bestanden haben.
