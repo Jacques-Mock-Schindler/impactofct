@@ -104,6 +104,8 @@ plt.xlabel('Module')
 plt.ylabel('Noten')
 plt.xticks(rotation=90)
 plt.tight_layout()
+plt.savefig('../graphics/boxplots_efz.svg',
+            dpi=600)
 plt.show()
 
 
