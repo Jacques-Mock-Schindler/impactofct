@@ -1,12 +1,7 @@
-include(docs/sections/computational_thinking.md)
+---
+title: "Mein Quarto-Projekt"
+---
 
-include(docs/sections/arbeitshypothese.md)
+# Willkommen zu meinem Quarto-Projekt
 
-include(docs/sections/methode.md)
-
-include(docs/sections/kern.md)
-
-include(docs/sections/daten.md)
-
-include(docs/sections/literatur.md)
-
+Dies ist eine Beispielseite für mein Quarto-Projekt.
