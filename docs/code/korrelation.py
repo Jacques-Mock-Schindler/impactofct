@@ -89,7 +89,14 @@ sortierreihenfolge = mittelwerte.index.to_list()
 
 # %%
 
+querwerte = correlations.mean(axis=1)
+querwerte.sort_values(inplace=True)
+sortierreihenfolge_quer = querwerte.index.to_list()
+
+# %%
+
 correlations = correlations[sortierreihenfolge]
+correlations = correlations.reindex(sortierreihenfolge_quer)
 
 # %%
 
@@ -112,6 +119,18 @@ for col in range(1, 9):
 plt.title(f'Korrelation Noten BM - EFZ ')
 plt.ylabel('EFZ Modul Nr.')
 plt.xlabel('BM Fächer')
+    
+yticklabels = ax.get_yticklabels()
+for label in yticklabels:
+    if label.get_text() in ['100', '118', '122',
+                            '153', '226', '226a',
+                            '226b', '242', '306',
+                            '326', '335', '403',
+                            '411', '431']:
+        label.set_color('red')
+    else:
+        label.set_color('black')
+        
 plt.savefig('../graphics/korrelationen_heatmap.svg',
            dpi=600)
 plt.show()
