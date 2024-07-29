@@ -404,4 +404,5 @@ Dies ist jedoch keine Überraschung. Die Noten stammen aus den
 Abschlusszeugnissen der BMS. In den drei Schuljahren vor erreichen
 dieses Zeugnisses findet eine dauernde Selektion statt. Und von den
 Ausgewerteten Noten stammen lediglich fünf von 167 Datensätzen von
-Lernenden, welche die Berufsmatur nicht bestanden haben.
+Lernenden, welche die Berufsmatur nicht bestanden haben. Damit bleiben
+Schwergewichtig Noten von mehr als 4 übrig.
