@@ -389,9 +389,18 @@ hervorgehoben.](docs/graphics/boxplots_efz.svg){#fig:boxplotsefz}
 Die Noten der Berufsausbildung fliessen nur als Durchschnittsnote der in
 den jeweiligen Semester unterrichteten Fächern in die Promotion an der
 IMS ein. Die einzelnen Module an und für sich sind nicht
-Promotionsrelevant. Dies dürfte der Grund sein, weshalb die Noten der
+Promotionsrelevant. Dies ist der Grund, weshalb die Noten der
 Module der Berufsausbildung stärker streuen als jene der BMS (vgl.
 @fig:boxplotsbms).
+
+![Übersicht über die Verteilung der Semesternoten (ungerundet), wie sie
+im Abschlussjahr 2017 zustande gekommen
+wären.](docs/graphics/semesternoten_efz.svg){#fig:semesternotenefz}
+
+Das die Streuung bei einer Durchschnittsnote abnimmt zeigt
+@fig:semesternotenefz. Die Darstellung beruht auf der Fiktion, dass alle
+Lernenden ihren Abschluss 2017 gemacht hätten und die für diesen
+Ausbildungsjahrgang geltenden Modulzusammenstellung gehabt hätten.
 
 ### Noten der BMS
 
