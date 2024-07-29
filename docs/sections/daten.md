@@ -370,6 +370,29 @@ Königsdisziplin des Programmierens bezeichnet werden. Handlungsziel
 2 entspricht denn auch fast der Definition von CT. Eine weitere
 Begründung erübrigt sich daher.
 
+#### Charakterisierung der Noten der Berufsausbildung
+
+In der Übersichtsdarstellung der Noten der Module der Berufsausbildung
+(@fig:boxplotsefz)
+fallen drei Aspekte auf:
+
+1. Der Median aller Modulnoten liegt bei mindestens 4.5.
+2. Mit einer Ausnahme liegt das unterste Quartil mindestens bei 4.
+3. Es gibt Module, welche eine relativ starke Streuung aufweisen.
+   Insbesondere im Vergleich zu den Noten der BMS (vgl.
+   @fig:boxplotsbms).
+
+![Übersicht über die Verteilung der Noten der Berufsausbildung. Die
+Module mit starkem CT Bezug wurden hellgrün
+hervorgehoben.](docs/graphics/boxplots_efz.svg){#fig:boxplotsefz}
+
+Die Noten der Berufsausbildung fliessen nur als Durchschnittsnote der in
+den jeweiligen Semester unterrichteten Fächern in die Promotion an der
+IMS ein. Die einzelnen Module an und für sich sind nicht
+Promotionsrelevant. Dies dürfte der Grund sein, weshalb die Noten der
+Module der Berufsausbildung stärker streuen als jene der BMS (vgl.
+@fig:boxplotsbms).
+
 ### Noten der BMS
 
 Die Ausbildung an der BMS orientiert sich wie in @sec:kernbegruendung
