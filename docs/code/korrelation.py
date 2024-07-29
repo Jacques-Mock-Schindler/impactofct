@@ -11,8 +11,12 @@ from scipy.stats import spearmanr
 
 # %%
 
-bm = pd.read_csv('../data/noten_bm.csv', sep=';', index_col=0)
-efz = pd.read_csv('../data/noten_efz.csv', sep=';', index_col=0)
+bm = pd.read_csv('../data/noten_bm.csv',
+                 sep=';',
+                 index_col=0)
+efz = pd.read_csv('../data/noten_efz.csv',
+                  sep=';',
+                  index_col=0)
 
 # %%
 
@@ -79,6 +83,16 @@ correlations = correlations.select_dtypes(include=['object']).astype(float)
 
 # %%
 
+mittelwerte = correlations.mean()
+mittelwerte.sort_values(inplace=True)
+sortierreihenfolge = mittelwerte.index.to_list()
+
+# %%
+
+correlations = correlations[sortierreihenfolge]
+
+# %%
+
 colors = ['#808080', '#A0A0A0', '#C0C0C0', '#E0E0E0',  # Greys
           '#F0F0F0',  # Very light grey (almost white) for the center
           '#E0FFE0', '#C0FFC0', '#80FF80', '#40FF40', '#00FF00']  # Greens
@@ -99,7 +113,7 @@ plt.title(f'Korrelation Noten BM - EFZ ')
 plt.ylabel('EFZ Modul Nr.')
 plt.xlabel('BM Fächer')
 plt.savefig('../graphics/korrelationen_heatmap.svg',
-            dpi=600)
+           dpi=600)
 plt.show()
 
 # %%
@@ -128,7 +142,10 @@ spearman.to_csv('../data/spearman.csv', sep=';')
 
 # %%
 
-spearman.min()
+mittelwerte = spearman.mean()
+mittelwerte.sort_values(inplace=True)
+sortierreihenfolge = mittelwerte.index.to_list()
+spearman = spearman[sortierreihenfolge]
 
 # %%
 
@@ -144,7 +161,7 @@ plt.title(f'Spearmankorrelation Noten BM - EFZ ')
 plt.ylabel('EFZ Modul Nr.')
 plt.xlabel('BM Fächer')
 plt.savefig('../graphics/spearmankorrelationen_heatmap.svg',
-            dpi=600)
+           dpi=600)
 plt.show()
 
 
