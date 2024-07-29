@@ -142,10 +142,17 @@ spearman.to_csv('../data/spearman.csv', sep=';')
 
 # %%
 
-mittelwerte = spearman.mean()
+mittelwerte = spearman.median()
 mittelwerte.sort_values(inplace=True)
 sortierreihenfolge = mittelwerte.index.to_list()
 spearman = spearman[sortierreihenfolge]
+
+# %%
+
+querwerte = spearman.median(axis=1)
+querwerte.sort_values(inplace=True)
+sortierreihenfolge_quer = querwerte.index.to_list()
+spearman = spearman.reindex(sortierreihenfolge_quer)
 
 # %%
 
@@ -157,6 +164,18 @@ ax = sns.heatmap(spearman, annot=True,
             vmin=-.2, vmax=.6, center=0.3)
 for col in range(1, 9):
     ax.axvline(x=col, color='black', linewidth=.5)
+    
+yticklabels = ax.get_yticklabels()
+for label in yticklabels:
+    if label.get_text() in ['100', '118', '122',
+                            '153', '226', '226a',
+                            '226b', '242', '306',
+                            '326', '335', '403',
+                            '411', '431']:
+        label.set_color('red')
+    else:
+        label.set_color('black')
+
 plt.title(f'Spearmankorrelation Noten BM - EFZ ')
 plt.ylabel('EFZ Modul Nr.')
 plt.xlabel('BM Fächer')
@@ -164,5 +183,13 @@ plt.savefig('../graphics/spearmankorrelationen_heatmap.svg',
            dpi=600)
 plt.show()
 
+
+# %%
+
+mittelwerte
+
+# %%
+
+spearman.median()
 
 # %%
