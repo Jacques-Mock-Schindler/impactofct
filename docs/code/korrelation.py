@@ -30,34 +30,6 @@ efz_reduced = efz.drop(columns=columns_to_drop)
 headers = list(bm)
 #headers = headers[:8]
 indices = list(efz_reduced)
-
-# %%
-
-bm_verteilung = pd.DataFrame(index=headers, columns=['shapiro', 'kolmogorov', 'K2'])
-
-# %%
-
-resultat = normaltest(bm['D'])
-float(resultat.pvalue)
-
-
-# %%
-
-for header in headers:
-    resultat = normaltest(bm[header])
-    normal = 0.05 < float(resultat.pvalue)
-    bm_verteilung.loc[header, 'K2'] = normal
-    stat, p = shapiro(bm[header])
-    normal = 0.05 < float(p)
-    bm_verteilung.loc[header, 'shapiro'] = normal
-    stat, p = kstest(bm[header], 'norm')
-    normal = 0.05 < float(p)
-    bm_verteilung.loc[header, 'kolmogorov'] = normal
-        
-
-# %%
-
-bm_verteilung.to_csv("../data/normalverteilung_bm.csv", sep=";")
     
     
 # %%
