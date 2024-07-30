@@ -157,6 +157,13 @@ Schnittstelle zwischen Geistes- und Naturwissenschaften. Die Inhalte
 haben viele Berührungspunkte mit den Geisteswissenschaften und die
 Methoden stammen oft aus den Naturwissenschaften.
 
+In den Fächern der Mittelschule, welche den Sozialwissenschaften
+zugeordnet werden können, braucht es sowohl sprachliche Fertigkeiten wie
+auch Fertigkeiten, mit statistischen Daten umgehen zu können. Gerade im
+Unterricht an Mittelschulen wird viel Information via Text vermittelt.
+Zudem ist es weit verbreitete Praxis, die Lernenden Texte schreiben zu
+lassen.
+
 Die von CT geforderte algorithmische Vorgehensweise hat daher Parallelen
 zu den Methoden in den Sozialwissenschaften. Dies erklärt zum Teil,
 weshalb die Korrelation zwischen den Noten der Berufsbildenden Fächer
