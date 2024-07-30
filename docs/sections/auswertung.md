@@ -57,7 +57,10 @@ lässt nur schon optisch gut erkennen, dass die Korrelation zwischen den
 Noten der Module der Berufsausbildung und jener der BMS nicht sehr stark
 ist. Optisch etwas weniger gut zu erkennen ist, dass nur die drei Fächer
 Mathematik, Finanz- und Rechnungswesen sowie interdisziplinäres Arbeiten
-im Mittel über alle Module den Wert von 0.3 überschreiten.
+im Mittel über alle Module den Wert von 0.3 überschreiten.  
+Die als besonders CT spezifisch qualifizierten Module verteilen sich
+gleichmässig über die y-Achse der Heatmap. Damit ist die entsprechende
+Einteilung der Module statistisch bedeutungslos.
 
 Insgesamt lassen sich die Resultate grob in drei Gruppen unterteilen:
 
@@ -142,3 +145,7 @@ dagegen eher formal logisches und algorithmisches Denken.
 
 Damit verlangen die Geisteswissenschaften eine andere Art von Geduld und
 Konzentrationsfähigkeit als das in CT geschult wird.
+
+Diese unterschiedlichen Arbeitsweisen sind ein möglicher Grund für die
+schwache Korrelation der Noten aus der Berufsausbildung und jenen der
+geisteswissenschaftlichen BMS Fächern.
