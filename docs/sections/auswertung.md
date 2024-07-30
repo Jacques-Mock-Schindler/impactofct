@@ -170,3 +170,10 @@ zu den Methoden in den Sozialwissenschaften. Dies erklärt zum Teil,
 weshalb die Korrelation zwischen den Noten der Berufsbildenden Fächer
 und jenen der BMS stärker ist als in den Geisteswissenschaften aber doch
 nicht so stark, dass die Schwelle von 0.3 überschritten wird.
+
+### Anforderungen der Abstrakten Disziplinen an die Lernenden
+
+Die Unterschiede in dieser Fächergruppe sind gross. Aus diesem Grund
+wird diese Fächergruppe in Mathematik sowie Finanz- und
+Rechnungswesen einerseits und das interdisziplinäre Arbeiten in den
+Fächern andererseits aufgeteilt.
