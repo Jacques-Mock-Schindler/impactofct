@@ -1,5 +1,37 @@
 # Korrelation zwischen Noten der Berufsausbildung und der BMS
 
+Die Auswertung der Mittelwerte der Berufsausbildung und der BMS zeigt,
+wie in @fig:mittelwerte dargestellt,
+eine starke Korrelation zwischen den beiden Leistungen. Spearman's $\rho$
+liegt bei 0.623 und Pearson's $r$ gar bei 0.693.
+
+![Korrelation zwischen den Durchschnittsnoten der Berufsausbildung (EFZ)
+und der Durchschnittsnoten der BMS. Die rote Linie zeigt die
+Regressionslinie. Der blassrote Schatten um die Regressionslinie zeigt
+das Konfidenzintervall von 95%
+an.](docs/graphics/scatterplot_mittelwerte.svg){#fig:mittelwerte}
+
+Wie bei Betrachtungen von Mittelwerten zu erwarten, hat die Streuung
+gegenüber den Rohdaten deutlich abgenommen.
+
+![Visualisierung der Verteilung der Durchschnittsnoten in der BMS und in
+der Berufsausbildung. Die rote Linie zeigt den
+Median.](docs/graphics/verteilung_durchschnitte.svg){#fig:mittelwerte_boxplot}
+
+Der Effekt ist in der Darstellung @fig:mittelwerte_boxplot gut zu sehen.
+Die Ausreisser nach unten sind verschwunden. Der minimale Wert in der
+BMS liegt bei 3.75 jener in der Berufsausbildung bei 3.76. Im Gegenzug
+ist auch das Maximum etwas tiefer ausgefallen. In der BMS liegt das
+Maximum bei 5.79 und in der Berufsausbildung bei 5.86. Diese Regression
+zur Mitte[@freedmanStatistics2007, S. 170] ist in der Statistik ein
+bekanntes Phänomen. Die Gegenüberstellung von Mittelwerten zeigt daher
+nur, dass generell starke Lernende eben tatsächlich generell starke
+Lernende sind. Um diese Tautologie zu durchbrechen, wird in den
+kommenden Abschnitten auf die Resultate der Gegenüberstellung der
+Einzelnen Module und Fachnoten eingegangen.
+
+## Übersicht über die Detailauswertung
+
 Wie in der Methodenbeschreibung dargelegt, wurden die Noten der BMS mit
 jenen der Berufsausbildungsmodule korreliert. Dazu wurde Spearman's
 $\rho$ berechnet und die Resultate in einer Heatmap dargestellt.
