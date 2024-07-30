@@ -101,13 +101,44 @@ die Reihenfolge robust ist.
 ## Ursachen für die Gruppierung
 
 Die Fächergruppe mit der Schwächsten Korrelation besteht ausschliesslich
-aus Fächern, welche den Geisteswissenschaften zugeordnet werden.
-
+aus Fächern, welche den Geisteswissenschaften zugeordnet werden.  
 Die mittlere Fächergruppe kann den Sozialwissenschaften zugeordnet
-werden.
-
+werden.  
 Die Fächergruppe mit der stärksten Korrelation ist heterogener
 Zusammengesetzt. Mathematik und Finanz- und Rechnungswesen sind
 Disziplinen, welche ein hohes Abstraktionsvermögen erfordern. Beim
 interdisziplinären Arbeiten in den Fächern steht die Projektarbeit im
 Vordergrund.
+
+Im folgenden soll erläutert werden, weshalb sich die Korrelationen so
+klar gruppieren lassen.
+
+### Anforderungen von Geisteswissenschaften an Lernende
+
+Der zentrale Werkstoff der Geisteswissenschaften ist der Text.
+Entsprechend ist die wichtigste Tätigkeit einer Geisteswissenschafterin
+bzw. eines Geisteswissenschafters die Auseinandersetzung mit Texten.  
+Das verlangt von Lernenden in Fächern, die den Geisteswissenschaften
+zugeordnet werden, dass sie viel Geduld und Konzentration aufbringen.
+Sie müssen bereit sein, Fragen an Texte zu stellen und diese aus den
+Texten heraus selber zu beantworten.
+
+Dabei wird eine andere Art von Problemlösung geschult, als dies bei CT
+der Fall ist. CT verlangt zum Überwinden von Verständnisproblemen
+geradezu, dass man das Problem recherchiert. Aufgrund des hohen
+Aktualitätsdruckes am besten online. Dies steht in einem gewissen
+Gegensatz zur Vorgehensweise in den Geisteswissenschaften. Natürlich
+soll auch in den Geisteswissenschaften Wissen aus allen verfügbaren
+Quellen geschöpft werden. Aber zentral bleibt die Auseinandersetzung mit
+dem Ursprungstext.
+
+Auch wenn auf Hochschulstufe in den Geisteswissenschaften vermehrt
+quantitative Methoden und damit naturwissenschaftliche Ansätze
+Verwendung finden, ändert das nichts daran, dass Geisteswissenschaften
+eher an qualitativen Erkenntnissen interessiert sind. Insbesondere auf
+Mittelschulstufe dominiert nach wie vor das qualitative
+Erkenntnisinteresse. CT verlangt
+dagegen eher formal logisches und algorithmisches Denken.
+
+Damit verlangen die Geisteswissenschaften eine andere Art von Geduld und
+Konzentrationsfähigkeit als das in CT geschult wird.
