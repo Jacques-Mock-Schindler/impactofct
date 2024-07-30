@@ -18,8 +18,8 @@ gegenüber den Rohdaten deutlich abgenommen.
 der Berufsausbildung. Die rote Linie zeigt den
 Median.](docs/graphics/verteilung_durchschnitte.svg){#fig:mittelwerte_boxplot}
 
-Der Effekt ist in der Darstellung @fig:mittelwerte_boxplot gut zu sehen.
-Die Ausreisser nach unten sind verschwunden. Der minimale Wert in der
+Der Effekt ist in @fig:mittelwerte_boxplot gut zu sehen.
+Anders als in den Rohdaten gibt es keine Ausreisser nach unten mehr. Der minimale Wert in der
 BMS liegt bei 3.75 jener in der Berufsausbildung bei 3.76. Im Gegenzug
 ist auch das Maximum etwas tiefer ausgefallen. In der BMS liegt das
 Maximum bei 5.79 und in der Berufsausbildung bei 5.86. Diese Regression
@@ -28,7 +28,7 @@ bekanntes Phänomen. Die Gegenüberstellung von Mittelwerten zeigt daher
 nur, dass generell starke Lernende eben tatsächlich generell starke
 Lernende sind. Um diese Tautologie zu durchbrechen, wird in den
 kommenden Abschnitten auf die Resultate der Gegenüberstellung der
-Einzelnen Module und Fachnoten eingegangen.
+einzelnen Module und Fachnoten eingegangen.
 
 ## Übersicht über die Detailauswertung
 
