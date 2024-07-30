@@ -116,7 +116,7 @@ Vordergrund.
 Im folgenden soll erläutert werden, weshalb sich die Korrelationen so
 klar gruppieren lassen.
 
-### Anforderungen von Geisteswissenschaften an Lernende
+### Anforderungen der Geisteswissenschaften an Lernende
 
 Der zentrale Werkstoff der Geisteswissenschaften ist der Text.
 Entsprechend ist die wichtigste Tätigkeit einer Geisteswissenschafterin
@@ -149,3 +149,5 @@ Konzentrationsfähigkeit als das in CT geschult wird.
 Diese unterschiedlichen Arbeitsweisen sind ein möglicher Grund für die
 schwache Korrelation der Noten aus der Berufsausbildung und jenen der
 geisteswissenschaftlichen BMS Fächern.
+
+### Anforderungen der Sozialwissenschaften an Lernende
