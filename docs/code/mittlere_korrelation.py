@@ -76,3 +76,6 @@ plt.show()
 combi.min()
 
 # %%
+
+combi.max()
+# %%
