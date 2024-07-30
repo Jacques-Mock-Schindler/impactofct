@@ -151,3 +151,14 @@ schwache Korrelation der Noten aus der Berufsausbildung und jenen der
 geisteswissenschaftlichen BMS Fächern.
 
 ### Anforderungen der Sozialwissenschaften an Lernende
+
+Die Sozialwissenschaften befinden sich in vielerlei Hinsicht an der
+Schnittstelle zwischen Geistes- und Naturwissenschaften. Die Inhalte
+haben viele Berührungspunkte mit den Geisteswissenschaften und die
+Methoden stammen oft aus den Naturwissenschaften.
+
+Die von CT geforderte algorithmische Vorgehensweise hat daher Parallelen
+zu den Methoden in den Sozialwissenschaften. Dies erklärt zum Teil,
+weshalb die Korrelation zwischen den Noten der Berufsbildenden Fächer
+und jenen der BMS stärker ist als in den Geisteswissenschaften aber doch
+nicht so stark, dass die Schwelle von 0.3 überschritten wird.
