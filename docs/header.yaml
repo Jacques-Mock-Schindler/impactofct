@@ -10,6 +10,8 @@ eqnPrefix: "Gl."
 tblPrefix: "Tab."
 lstPrefix: "List."
 autoSectionLabels: true
+numberSections: true
+sectionsDepth: 5
 output: 
   pdf_document:
     papersize: a4
