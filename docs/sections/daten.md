@@ -370,8 +370,7 @@ Königsdisziplin des Programmierens bezeichnet werden. Handlungsziel
 2 entspricht denn auch fast der Definition von CT. Eine weitere
 Begründung erübrigt sich daher.
 
-#### Charakterisierung der Noten der Berufsausbildung
-{#sec:modulcharakter}
+#### Charakterisierung der Noten der Berufsausbildung {#sec:modulcharakter}
 
 In der Übersichtsdarstellung der Noten der Module der Berufsausbildung
 (@fig:boxplotsefz)
