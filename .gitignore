@@ -10,6 +10,7 @@
 !*.ipynb
 !*.svg
 !*.yaml
+!*.yml
 !*.bib
 !*.csl
 !requirements.txt
