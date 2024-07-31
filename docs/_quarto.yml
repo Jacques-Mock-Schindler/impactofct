@@ -10,7 +10,6 @@ book:
     - sections/computational_thinking.md
     - sections/arbeitshypothese.md
     - sections/methode.md
-    - sections/kern.md
     - sections/daten.md
     - sections/auswertung.md
     - sections/literatur.md
