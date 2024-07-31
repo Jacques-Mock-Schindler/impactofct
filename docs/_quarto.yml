@@ -1,0 +1,73 @@
+project: 
+  type: book
+  output-dir: text
+
+book: 
+  title: "Computational Thinking"
+  author: "Jacques Mock Schindler"
+  chapters: 
+    - index.md
+    - sections/computational_thinking.md
+    - sections/arbeitshypothese.md
+    - sections/methode.md
+    - sections/kern.md
+    - sections/daten.md
+    - sections/literatur.md
+
+
+crossref:
+  fig-title: "Abbildung"
+  tbl-title: "Tabelle"
+  eq-title: "Gleichung"
+  fig-prefix: "Abb."
+  tbl-prefix: "Tab."
+  eq-prefix: "Gl."
+
+
+bibliography: ../Abschlussarbeit.bib
+csl: ../chicago-library-list.csl
+
+format: 
+  pdf: 
+    documentclass: article
+    papersize: a4
+    toc: true
+    toc-title: "Inhaltsverzeichnis"
+    number-sections: true
+    lof: true
+    lot: true
+    top-level-division: section
+    include-in-header: 
+      text: |
+        \usepackage{float}
+        \usepackage{graphicx}
+        \usepackage{booktabs}
+        \usepackage{longtable}
+        \usepackage{array}
+        \usepackage{multirow}
+        \usepackage{wrapfig}
+        \usepackage{colortbl}
+        \usepackage{pdflscape}
+        \usepackage{tabu}
+        \usepackage{threeparttable}
+        \usepackage{threeparttablex}
+        \usepackage[normalem]{ulem}
+        \usepackage{makecell}
+        \usepackage{xcolor}
+        \usepackage{svg}
+        \usepackage{titlesec}
+        \usepackage{caption}
+        \titleformat{\section}{\normalfont\Large\bfseries}{\thesection}{1em}{}
+        \titleformat{\subsection}{\normalfont\large\bfseries}{\thesubsection}{1em}{}
+        \titleformat{\subsubsection}{\normalfont\normalsize\bfseries}{\thesubsubsection}{1em}{}
+        \titleformat{\paragraph}[runin]{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+        \titlespacing*{\paragraph}{0pt}{3.25ex plus 1ex minus .2ex}{1em}
+        \captionsetup[figure]{font=small,labelfont=small}
+        \captionsetup[table]{font=small,labelfont=small}
+        \captionsetup[table]{font=small,labelfont=small}
+    include-before-body:
+      text: |
+        \graphicspath{{.}{./graphics/}}
+        \renewcommand{\contentsname}{Inhaltsverzeichnis}
+        \renewcommand{\listfigurename}{Abbildungsverzeichnis}
+        \renewcommand{\listtablename}{Tabellenverzeichnis}
