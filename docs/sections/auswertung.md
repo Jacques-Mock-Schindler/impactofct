@@ -1,7 +1,7 @@
 # Korrelation zwischen Noten der Berufsausbildung und der BMS
 
 Die Auswertung der Mittelwerte der Berufsausbildung und der BMS zeigt,
-wie in @fig:mittelwerte dargestellt,
+wie in @fig-mittelwerte dargestellt,
 eine starke Korrelation zwischen den beiden Leistungen. Spearman's $\rho$
 liegt bei 0.623 und Pearson's $r$ gar bei 0.693.
 
@@ -9,16 +9,16 @@ liegt bei 0.623 und Pearson's $r$ gar bei 0.693.
 und der Durchschnittsnoten der BMS. Die rote Linie zeigt die
 Regressionslinie. Der blassrote Schatten um die Regressionslinie zeigt
 das Konfidenzintervall von 95%
-an.](docs/graphics/scatterplot_mittelwerte.svg){#fig:mittelwerte}
+an.](docs/graphics/scatterplot_mittelwerte.svg){#fig-mittelwerte}
 
 Wie bei Betrachtungen von Mittelwerten zu erwarten, hat die Streuung
 gegenüber den Rohdaten deutlich abgenommen.
 
 ![Visualisierung der Verteilung der Durchschnittsnoten in der BMS und in
 der Berufsausbildung. Die rote Linie zeigt den
-Median.](docs/graphics/verteilung_durchschnitte.svg){#fig:mittelwerte_boxplot}
+Median.](docs/graphics/verteilung_durchschnitte.svg){#fig-mittelwerte_boxplot}
 
-Der Effekt ist in @fig:mittelwerte_boxplot gut zu sehen.
+Der Effekt ist in @fig-mittelwerte_boxplot gut zu sehen.
 Anders als in den Rohdaten gibt es keine Ausreisser nach unten mehr. Der minimale Wert in der
 BMS liegt bei 3.75 jener in der Berufsausbildung bei 3.76. Im Gegenzug
 ist auch das Maximum etwas tiefer ausgefallen. In der BMS liegt das
@@ -49,7 +49,7 @@ sind nach steigender mittlerer Korrelation
 sortiert. Die Noten der Berufsbildung sind ebenfalls nach steigender
 mittlerer Korrelation sortiert. Die Module mit besonderem CT Bezug sind
 rot
-beschriftet.](docs/graphics/spearmankorrelationen_heatmap.svg){#fig:spearman}
+beschriftet.](docs/graphics/spearmankorrelationen_heatmap.svg){#fig-spearman}
 
 Die Modul-BMS Korrelationen mit einem Wert über 0.3 sind grün
 eingefärbt. Je höher der Wert, desto intensiver die gründe Färbung. Dies
@@ -88,13 +88,13 @@ sind nach steigender mittlerer Korrelation
 sortiert. Die Noten der Berufsbildung sind ebenfalls nach steigender
 mittlerer Korrelation sortiert. Die Module mit besonderem CT Bezug sind
 rot
-beschriftet.](docs/graphics/korrelationen_heatmap.svg){#fig:pearson}
+beschriftet.](docs/graphics/korrelationen_heatmap.svg){#fig-pearson}
 
 Die Korrelationen nach Bravais-Pearson führt bezüglich der Sortierung
 der Noten der BMS zum gleichen Resultat. Verschiebungen gibt es in der
 Reihenfolge der Module. Die Bravais-Pearson Korrelation reagiert stärker
 auf Streuungen als die Korrelation nach Perason. Wie in
-@sec:modulcharakter gezeigt, streuen die Modulnoten stärker als die
+@sec-modulcharakter gezeigt, streuen die Modulnoten stärker als die
 Noten der BMS. Damit dürfte die Verschiebung in der Reihenfolge der
 Modulnoten auf die grössere Streuung zurückzuführen sein.
 

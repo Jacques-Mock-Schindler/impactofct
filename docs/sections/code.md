@@ -1,1 +1,1 @@
-# Python Skript für die Datenauswertung {#sec:code}
+# Python Skript für die Datenauswertung {#sec-code}

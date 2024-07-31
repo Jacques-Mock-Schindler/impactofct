@@ -65,7 +65,7 @@ werden:
   Kontokorrentkontos nochmals in Erinnerung gerufen werden. Die
   Gesprächspartner erhalten ein UML-Klassendiagramm für ein
   Kontokorrentkonto als Erinnerungshilfe vorgelegt (es handelt sich um
-  das Klassendiagramm aus @fig:uml).  
+  das Klassendiagramm aus @fig-uml).  
   Die Erinnerungshilfe kann mit folgender Frage ergänzt werden:
   
   Was mussten beim Lösen dieser Aufgabenstellung alles für Probleme

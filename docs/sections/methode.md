@@ -116,7 +116,7 @@ Die Idee der Anwendungsübung kann in folgendem UML Klassendiagramm
 dargestellt werden:
 
 ![UML Diagramm
-Kontokorrentkonto](docs/graphics/uml_konotkorrentkonto.svg){#fig:uml}
+Kontokorrentkonto](docs/graphics/uml_konotkorrentkonto.svg){#fig-uml}
 
 Als Kontrollgruppe konnte im WG eine der Parallelklassen verwendet
 werden, welche das Zinsrechnen auf konventionellem Weg erarbeitet hat.
@@ -126,7 +126,7 @@ für die IMS aus einem anderen Schultyp stammte, war nicht so schlimm,
 weil beide Schultypen im Wirtschaftsunterricht über das selbe Curriculum
 verfügten.
 
-### Begründung für die Wahl des natürlichen Experiments {#sec:begr_nat_exp}
+### Begründung für die Wahl des natürlichen Experiments {#sec-begr_nat_exp}
 
 Weil es eigentlich wünschenwsert wäre, die Gültigkeit einer
 Arbeitshypothese experimentell zu überprüfen, liegt es auf der Hand,
@@ -137,7 +137,7 @@ des natürlichen Experiments für dessen Auswahl. Flossen doch
 alle Aspekte von CT in den Unterricht
 ein.  
 Wie das geschehen ist, kann mit dem Klassendiagramm illustriert
-werden (vgl. @fig:uml). Die Aufgabe, ein Kontokorrentkonto zu
+werden (vgl. @fig-uml). Die Aufgabe, ein Kontokorrentkonto zu
 modellieren, musste in Teilprobleme zerlegt werden. Die Teilprobleme
 entsprechen dabei den Klassen. Die Klassen mussten weiter analysiert und
 mit Attributen und Methoden versehen werden. Durch die Modellierung des
@@ -337,7 +337,7 @@ werden können, falls die Erzählaufforderung sich als nicht zielführend
 erweist. Da als Gesprächspartnerinnen bzw. Gesprächspartner nur
 Schülerinnen und Schüler bzw. Lernende aus den beiden Testklassen in
 Frage gekommen sind, wurde der Leitfaden mit dem UML Klassendiagramm
-aus @fig:uml ergänzt. Dieses sollte den Befragten als
+aus @fig-uml ergänzt. Dieses sollte den Befragten als
 Erinnerungshilfe vorgelegt werden können.
 Der für die Interviews verwendete Leitfaden findet sich im Anhang.
 

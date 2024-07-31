@@ -229,7 +229,7 @@ müssen.
 Insgesamt kann festgehalten werden, dass die vier Module 226, 226a, 226b
 und 326 alle Aspekte von CT abbilden.
 
-#### Modul 242 Mikroprozessoranwendung realisieren {#sec:modul242}
+#### Modul 242 Mikroprozessoranwendung realisieren {#sec-modul242}
 
 Die Modulbeschreibung definiert für das Modul 242[@modul242] fünf
 Handlungsziele:
@@ -338,7 +338,7 @@ Handlungsziel 2. Dazu ist es erforderlich, das zu Lösende Problem in
 seine Komponenten zu zerlegen um festzustellen, an welcher Stelle welche
 Daten mit welchen Datentypen erforderlich sind. Ausserdem verlangt
 Handlungsziel 5, dass Testfälle identifiziert werden. Wie bereits in
-@sec:modul242 festgehalten, erfordert dies, dass die Problemstellung
+@sec-modul242 festgehalten, erfordert dies, dass die Problemstellung
 verallgemeinert werden kann.
 
 Es werden damit die CT Teilaspekte Aufteilen von Problemen sowie
@@ -370,43 +370,43 @@ Königsdisziplin des Programmierens bezeichnet werden. Handlungsziel
 2 entspricht denn auch fast der Definition von CT. Eine weitere
 Begründung erübrigt sich daher.
 
-#### Charakterisierung der Noten der Berufsausbildung {#sec:modulcharakter}
+#### Charakterisierung der Noten der Berufsausbildung {#sec-modulcharakter}
 
 In der Übersichtsdarstellung der Noten der Module der Berufsausbildung
-(@fig:boxplotsefz)
+(@fig-boxplotsefz)
 fallen drei Aspekte auf:
 
 1. Der Median aller Modulnoten liegt bei mindestens 4.5.
 2. Mit einer Ausnahme liegt das unterste Quartil mindestens bei 4.
 3. Es gibt Module, welche eine relativ starke Streuung aufweisen.
    Insbesondere im Vergleich zu den Noten der BMS (vgl.
-   @fig:boxplotsbms).
+   @fig-boxplotsbms).
 
 ![Übersicht über die Verteilung der Noten der Berufsausbildung. Die
 Module mit starkem CT Bezug wurden hellgrün
 hervorgehoben. Der Median der erzielten Noten ist als rote Linie
-dargestellt.](docs/graphics/boxplots_efz.svg){#fig:boxplotsefz}
+dargestellt.](docs/graphics/boxplots_efz.svg){#fig-boxplotsefz}
 
 Die Noten der Berufsausbildung fliessen nur als Durchschnittsnote der in
 den jeweiligen Semester unterrichteten Fächern in die Promotion an der
 IMS ein. Die einzelnen Module an und für sich sind nicht
 Promotionsrelevant. Dies ist der Grund, weshalb die Noten der
 Module der Berufsausbildung stärker streuen als jene der BMS (vgl.
-@fig:boxplotsbms).
+@fig-boxplotsbms).
 
 ![Übersicht über die Verteilung der Semesternoten (ungerundet), wie sie
 im Abschlussjahr 2017 zustande gekommen
 wären. Der Median der erzielten Noten ist als rote Linie
-dargestellt.](docs/graphics/semesternoten_efz.svg){#fig:semesternotenefz}
+dargestellt.](docs/graphics/semesternoten_efz.svg){#fig-semesternotenefz}
 
 Das die Streuung bei einer Durchschnittsnote abnimmt zeigt
-@fig:semesternotenefz. Die Darstellung beruht auf der Fiktion, dass alle
+@fig-semesternotenefz. Die Darstellung beruht auf der Fiktion, dass alle
 Lernenden ihren Abschluss 2017 gemacht hätten und die für diesen
 Ausbildungsjahrgang geltenden Modulzusammenstellung gehabt hätten.
 
 ### Noten der BMS
 
-Die Ausbildung an der BMS orientiert sich wie in @sec:kernbegruendung
+Die Ausbildung an der BMS orientiert sich wie in @sec-kernbegruendung
 dargelegt an klassischen Fachdisziplinen. Die Archivierung der BMS Noten
 ist nicht über den ganzen Beobachtungszeitraum hinweg gleich
 organisiert. Konstant archiviert wurden lediglich die Noten, welche
@@ -422,14 +422,14 @@ Abschlüsse von 2018 bis 2022 ausgewertet werden. Damit reduziert sich
 der Datensatz gegenüber den anderen Fächer von 167 auf 108 Noten.
 
 Einen graphischen Überblick über die Verteilung der Noten ergibt
-@fig:boxplotsbms.
+@fig-boxplotsbms.
 
 ![Boxplot der Noten der BMS. Der Plot der IDAF ist abgeschwächt
 dargestellt, weil er auf weniger Noten beruht als die
 anderen. Der Median der erzielten Noten ist als rote Linie
-dargestellt.](docs/graphics/boxplots_bm.svg){#fig:boxplotsbms}
+dargestellt.](docs/graphics/boxplots_bm.svg){#fig-boxplotsbms}
 
-In der Darstellung von @fig:boxplotsbms fallen zwei Charakteristika
+In der Darstellung von @fig-boxplotsbms fallen zwei Charakteristika
 besonders ins Auge:
 
 1. Der Median liegt bei allen Fächern mindestens bei 4.5.
