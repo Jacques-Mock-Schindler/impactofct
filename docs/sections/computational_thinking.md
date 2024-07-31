@@ -77,7 +77,7 @@ Kommunikation, Kollaboration, Kreativität und kritisches Denken.
 Der Kern der Begriffsdefinition kann klar auf den Aufsatz "Comuptational
 Thinking" von Jeannette Wing von 2006 zurückgeführt werden. Sie ist mit
 den Überarbeitungen dieses Aufsatzes mit Abstand am meisten zitierte
-Autorin (vgl. @tbl:rangliste). Auch wenn nicht jeder Text von Wing die gleiche
+Autorin (vgl. @tbl-rangliste). Auch wenn nicht jeder Text von Wing die gleiche
 Wirkung erzielt hat, ist sie sicherlich die Autorin, die CT Begrifflich
 am nachhaltigsten geprägt hat.
 
@@ -116,7 +116,7 @@ Fussnote[@acevedo-borregaComputationalThinkingEducational2022;
 @wangIntegratingComputationalThinking2022;
 @xuMetaAnalysisEffectivenessProgramming2023;
 @yadavComputationalThinkingMetacognition2022;
-@yeTransferEffectsComputational2022]. {#tbl:rangliste}
+@yeTransferEffectsComputational2022]. {#tbl-rangliste}
 
 
 

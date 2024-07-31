@@ -116,7 +116,7 @@ Die Idee der Anwendungsübung kann in folgendem UML Klassendiagramm
 dargestellt werden:
 
 ![UML Diagramm
-Kontokorrentkonto](docs/graphics/uml_konotkorrentkonto.svg){#fig-uml}
+Kontokorrentkonto](../graphics/uml_konotkorrentkonto.svg){#fig-uml}
 
 Als Kontrollgruppe konnte im WG eine der Parallelklassen verwendet
 werden, welche das Zinsrechnen auf konventionellem Weg erarbeitet hat.

@@ -71,5 +71,5 @@ für das Set Up.
 
 Um das Schlussresultat mit Quarto zu rendern, muss das ganze Verzeichnis
 auf einem lokalen Laufwerk gespeichert sein. Zudem muss der Dokumentpfad
-für die Grafiken auf ../graphics/bild.svg und die Querverweise auf
+für die Grafiken auf .../graphics/bild.svg und die Querverweise auf
 #fig-bild bzw. @fig-bild angepasst werden.

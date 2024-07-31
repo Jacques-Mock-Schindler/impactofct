@@ -54,14 +54,14 @@ Fähigkeitszeugnis (BiVo)).
 
 #### Module der Berufsbildung
 
-Nicht alle der in @tbl:modulliste aufgeführten Module wurden durchgehend
+Nicht alle der in @tbl-modulliste aufgeführten Module wurden durchgehend
 während des ganzen Beobachtungszeitraums unterrichtet und geprüft. Dies
 ist eine Folge der periodisch durchgeführten Massnahmen der
 Qualitätsentwicklung nach Art. 22 Abs. 4 lit. a BiVo. Diese Massnahmen
 der Qualitätsentwicklung führt dazu, dass neue Module zum Modulbaukasten
 hinzugefügt werden und andere entfernt werden.
 
-Die Begründung, weshalb die in der @tbl:modulliste kursiv gesetzten
+Die Begründung, weshalb die in der @tbl-modulliste kursiv gesetzten
 Module für die Schulung von CT besonders wichtig sind folgt im Anschluss
 an die Tabelle.
 
@@ -101,7 +101,7 @@ an die Tabelle.
 Table: Liste der Module aus der Stichprobe. *Kursiv* sind jene Module
 dargestellt, welche einen deutlichen CT Bezug aufweisen. Die genaue
 Beschreibung aller Module findet sich im
-modulbaukasten.ch[@modulbaukasten].  {#tbl:modulliste}
+modulbaukasten.ch[@modulbaukasten].  {#tbl-modulliste}
 
 #### Modul 100: Daten charakterisieren, aufbereiten und auswerten
 
@@ -385,7 +385,7 @@ fallen drei Aspekte auf:
 ![Übersicht über die Verteilung der Noten der Berufsausbildung. Die
 Module mit starkem CT Bezug wurden hellgrün
 hervorgehoben. Der Median der erzielten Noten ist als rote Linie
-dargestellt.](docs/graphics/boxplots_efz.svg){#fig-boxplotsefz}
+dargestellt.](../graphics/boxplots_efz.svg){#fig-boxplotsefz}
 
 Die Noten der Berufsausbildung fliessen nur als Durchschnittsnote der in
 den jeweiligen Semester unterrichteten Fächern in die Promotion an der
@@ -397,7 +397,7 @@ Module der Berufsausbildung stärker streuen als jene der BMS (vgl.
 ![Übersicht über die Verteilung der Semesternoten (ungerundet), wie sie
 im Abschlussjahr 2017 zustande gekommen
 wären. Der Median der erzielten Noten ist als rote Linie
-dargestellt.](docs/graphics/semesternoten_efz.svg){#fig-semesternotenefz}
+dargestellt.](../graphics/semesternoten_efz.svg){#fig-semesternotenefz}
 
 Das die Streuung bei einer Durchschnittsnote abnimmt zeigt
 @fig-semesternotenefz. Die Darstellung beruht auf der Fiktion, dass alle
@@ -427,7 +427,7 @@ Einen graphischen Überblick über die Verteilung der Noten ergibt
 ![Boxplot der Noten der BMS. Der Plot der IDAF ist abgeschwächt
 dargestellt, weil er auf weniger Noten beruht als die
 anderen. Der Median der erzielten Noten ist als rote Linie
-dargestellt.](docs/graphics/boxplots_bm.svg){#fig-boxplotsbms}
+dargestellt.](../graphics/boxplots_bm.svg){#fig-boxplotsbms}
 
 In der Darstellung von @fig-boxplotsbms fallen zwei Charakteristika
 besonders ins Auge:
