@@ -99,7 +99,7 @@ am nachhaltigsten geprägt hat.
 | Papert (1983)	|	2 |
 | Tang et al. |	2	|
 | Weintrop et al. |	2 |
-Table: Rangliste der in den analysierten Texte zu Definitionen von CT
+: Rangliste der in den analysierten Texte zu Definitionen von CT
 mehrfach zitierten Autoren.  Eine vollständige Zusammenstellung aller ausgewerteten Texte findet
 sich in der 
 Fussnote[@acevedo-borregaComputationalThinkingEducational2022;
@@ -116,7 +116,8 @@ Fussnote[@acevedo-borregaComputationalThinkingEducational2022;
 @wangIntegratingComputationalThinking2022;
 @xuMetaAnalysisEffectivenessProgramming2023;
 @yadavComputationalThinkingMetacognition2022;
-@yeTransferEffectsComputational2022]. {#tbl-rangliste}
+@yeTransferEffectsComputational2022]. {#tbl-rangliste tbl-scap="Zitierrangliste"}
+
 
 
 
