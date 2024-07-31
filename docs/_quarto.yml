@@ -12,6 +12,7 @@ book:
     - sections/methode.md
     - sections/daten.md
     - sections/auswertung.md
+  appendices:  
     - sections/literatur.md
 
 
