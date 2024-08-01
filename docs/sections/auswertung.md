@@ -52,14 +52,17 @@ zwar gegenüber der üblichen Darstellung von unabhängigen und abhängigen
 Variablen vertauscht. In dieser Darstellung ist aber der Effekt besser
 zu erkennen.
 
-![Heatmap mit den Korrelationen zwischen der Noten der Berufsausbildung
-und der BMS. Die
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/spearmankorrelationen_heatmap.png}
+\caption[Heatmap mit den Korrelationen zwischen den Noten der
+Berufsausbildung und jenen der BMS (Spearman's $\rho$).]{Heatmap mit den Korrelationen
+zwischen den Noten der Berufsausbildung und jenen der BMS. Die
 Korrelation wird mit Spearman's $\rho$ ausgedrückt. Die Noten der BMS
-sind nach steigender mittlerer Korrelation
-sortiert. Die Noten der Berufsbildung sind ebenfalls nach steigender
-mittlerer Korrelation sortiert. Die Module mit besonderem CT Bezug sind
-rot
-beschriftet.](docs/graphics/spearmankorrelationen_heatmap.svg){#fig:spearman}
+sind aufsteigend nach der mittleren Korrelation sortiert. Die Noten der
+Berufsausbildung sind ebenfalls aufsteigend nach der mittleren
+Korrelation sortiert. Die CT relevanten Module sind rot beschriftet.}
+\label{fig:spearman}
+\end{figure}
 
 Die Modul-BMS Korrelationen mit einem Wert von über 0.3 sind grün
 eingefärbt. Je höher der Wert, desto intensiver die gründe Färbung. Dies
@@ -91,14 +94,17 @@ Trotzdem lassen sich die Resultate grob in drei Gruppen unterteilen:
 Ein ähnliches, wenn auch nicht ganz identisches Resultat ergibt sich,
 wenn statt Spearman's $\rho$ auf Pearson's $r$ abgestellt wird.
 
-![Heatmap mit den Korrelationen zwischen der Noten der Berufsausbildung
-und der BMS. Die
-Korrelation wird mit Pearson's $r$ ausgedrückt. Die Noten der BMS
-sind nach steigender mittlerer Korrelation
-sortiert. Die Noten der Berufsbildung sind ebenfalls nach steigender
-mittlerer Korrelation sortiert. Die Module mit besonderem CT Bezug sind
-rot
-beschriftet.](docs/graphics/korrelationen_heatmap.svg){#fig:pearson}
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/korrelationen_heatmap.png}
+\caption[Heatmap mit den Korrelationen zwischen den Noten der
+Berufsausbildung und jenen der BMS (Pearson's $r$).]{Heatmap mit den
+Korrelationen zwischen den Noten der Berufsausbildung und jenen der BMS.
+Die Korrelation wird mit Pearson's $r$ ausgedrückt. Die Noten der BMS
+sind aufsteigend nach der mittleren Korrelation sortiert. Die Noten der
+Berufsausbildung sind ebenfalls aufsteigend nach der mittleren
+Korrelation sortiert. Die CT relevanten Module sind rot beschriftet.}
+\label{fig:pearson}
+\end{figure}
 
 Die Korrelationen nach Bravais-Pearson führt bezüglich der Sortierung
 der Noten der BMS zum gleichen Resultat. Verschiebungen gibt es in der

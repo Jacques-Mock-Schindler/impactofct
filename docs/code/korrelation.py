@@ -103,8 +103,9 @@ for label in yticklabels:
     else:
         label.set_color('black')
         
-plt.savefig('../graphics/korrelationen_heatmap.svg',
-           dpi=600)
+plt.savefig('../graphics/korrelationen_heatmap.png',
+            format='png',
+           dpi=300)
 plt.show()
 
 # %%
@@ -170,8 +171,9 @@ for label in yticklabels:
 plt.title(f'Spearmankorrelation Noten BM - EFZ ')
 plt.ylabel('EFZ Modul Nr.')
 plt.xlabel('BM Fächer')
-plt.savefig('../graphics/spearmankorrelationen_heatmap.svg',
-           dpi=600)
+plt.savefig('../graphics/spearmankorrelationen_heatmap.png',
+            format='png',
+           dpi=300)
 plt.show()
 
 
