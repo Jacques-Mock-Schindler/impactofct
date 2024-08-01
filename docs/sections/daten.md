@@ -338,7 +338,7 @@ Handlungsziel 2. Dazu ist es erforderlich, das zu Lösende Problem in
 seine Komponenten zu zerlegen um festzustellen, an welcher Stelle welche
 Daten mit welchen Datentypen erforderlich sind. Ausserdem verlangt
 Handlungsziel 5, dass Testfälle identifiziert werden. Wie bereits in
-@sec:modul242 festgehalten, erfordert dies, dass die Problemstellung
+[@sec:modul242] festgehalten, erfordert dies, dass die Problemstellung
 verallgemeinert werden kann.
 
 Es werden damit die CT Teilaspekte Aufteilen von Problemen sowie
@@ -406,7 +406,7 @@ Ausbildungsjahrgang geltenden Modulzusammenstellung gehabt hätten.
 
 ### Noten der BMS
 
-Die Ausbildung an der BMS orientiert sich wie in @sec:kernbegruendung
+Die Ausbildung an der BMS orientiert sich wie in [@sec:kernbegruendung]
 dargelegt an klassischen Fachdisziplinen. Die Archivierung der BMS Noten
 ist nicht über den ganzen Beobachtungszeitraum hinweg gleich
 organisiert. Konstant archiviert wurden lediglich die Noten, welche

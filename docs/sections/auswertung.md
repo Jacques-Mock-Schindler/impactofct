@@ -94,7 +94,7 @@ Die Korrelationen nach Bravais-Pearson führt bezüglich der Sortierung
 der Noten der BMS zum gleichen Resultat. Verschiebungen gibt es in der
 Reihenfolge der Module. Die Bravais-Pearson Korrelation reagiert stärker
 auf Streuungen als die Korrelation nach Perason. Wie in
-@sec:modulcharakter gezeigt, streuen die Modulnoten stärker als die
+[@sec:modulcharakter] gezeigt, streuen die Modulnoten stärker als die
 Noten der BMS. Damit dürfte die Verschiebung in der Reihenfolge der
 Modulnoten auf die grössere Streuung zurückzuführen sein.
 
