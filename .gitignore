@@ -5,7 +5,6 @@
 !.gitignore
 !*.csv
 !*.md
-!*.png
 !*.py
 !*.ipynb
 !*.svg
