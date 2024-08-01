@@ -101,7 +101,7 @@ Modulnoten auf die grössere Streuung zurückzuführen sein.
 Die Übereinstimmung der Sortierreihenfolge der BMS Fächer zeigt, dass
 die Reihenfolge robust ist.
 
-## Ursachen für die Gruppierung
+## Ursachen für die Gruppierung {#sec:gruppierung}
 
 Die Fächergruppe mit der Schwächsten Korrelation besteht ausschliesslich
 aus Fächern, welche den Geisteswissenschaften zugeordnet werden.  
@@ -218,3 +218,26 @@ welche auch an der Berufsschule in der Berufsausbildung häufig zur
 Anwendung kommt. Die Korrelation der Leistungen des interdisziplinären
 Arbeiten in den Fächern mit jenen der Berufsausbildung dürfte mit der
 Übereinstimmung der Methoden zu erklären sein.
+
+## Vergleich von Spearman's $\rho$ in den Fächergruppen
+
+Die Begründung in [@sec:gruppierung] würde erwarten lassen, dass die
+nach zunehmender mittlerer Korrelation sortierten Module pro Gruppe eine
+zunehmende Konzentration von CT relevanten Modulen aufweisen - von
+Geisteswissenschaften über Sozialwissenschaften hin zu den abstrakten
+Wissenschaften.  Wie [@fig:verschiebungen] entnommen
+werden kann, entspricht dies nicht den beobachteten Resultaten.
+
+![Darstellung der durchschnittlichen Korrelation nach Spearman nach
+Fächergruppe. Je weiter unten ein Wert steht, desto stärker ist die
+Korrelation. Grün dargestellt sind die CT relevanten
+Module.](docs/graphics/verschiebung.svg){#fig:verschiebungen}
+
+Die Veränderung der Verteilung der CT relevanten
+Module von Fächergruppe zu Fächergruppe lässt kein Muster erkennen. Die
+Verteilung mutet vielmehr völlig zufällig an.
+
+## Gegenüberstellung von Arbeitshypothese und Datenauswertung
+
+Die im [@sec:arbeitshypothese] aufgestellte Arbeitshypothese lässt sich
+aufgrund der Datenauswertung nicht halten.

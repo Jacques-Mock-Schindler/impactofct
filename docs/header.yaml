@@ -10,8 +10,8 @@ eqnPrefix: "Gl."
 tblPrefix: "Tab."
 lstPrefix: "List."
 secPrefix: "Abschnitt"
-autoSectionLabels: true
-numberSections: true
+# autoSectionLabels: true
+# numberSections: true
 sectionsDepth: 5
 output: 
   pdf_document:
