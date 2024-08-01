@@ -177,3 +177,34 @@ Die Unterschiede in dieser Fächergruppe sind gross. Aus diesem Grund
 wird diese Fächergruppe in Mathematik sowie Finanz- und
 Rechnungswesen einerseits und das interdisziplinäre Arbeiten in den
 Fächern andererseits aufgeteilt.
+
+#### Mathematik und Finanz- und Rechnungswesen
+
+Der Zusammenhang zwischen Mathematik und Finanz- und Rechnungswesen ist
+grösser, als dies auf den ersten Blick den Anschein macht. Historisch
+gesehen ist dies jedoch keine Überraschung. Luciano Pacioli, der
+Erfinder des Rechnungswesens, hat sich als Mathematiker verstanden. Er
+hat ein System entwickelt, in dem Einnahmen und Ausgaben einander
+gegenübergestellt werden können, ohne dass negative Vorzeichen verwendet
+werden müssen. Damit handelt es sich beim Finanz- und Rechnungswesen im
+Kern um ein System für umfangreiche Additionen und Subtraktionen.  
+Darüber hinaus wird sowohl in der Mathematik wie auch im Finanz- und
+Rechnungswesen sehr stark von der realen Welt abstrahiert. Die
+Mathematik ist eine theoretische Disziplin, die ohne Bezug zur realen
+Welt auskommt. Im Finanz- und Rechnungswesen wird ebenfalls so stark
+abstrahiert, dass das gleiche System auf so unterschiedliche Unternehmen
+wie multinationale Grosskonzerne oder die lokale Bäckerei passen. Dies
+ist kein totaler Verzicht auf die reale Welt aber doch eine sehr starke
+Abstrahierung.  
+Ausserdem weisen Mathematik und Finanz- und Rechnungswesen starke
+Parallelen in der Problemlösung auf. In beiden Disziplinen werden
+Probleme in kleinere Teilprobleme zerlegt, die einfacher zu lösen sind.  
+Zu guter Letzt ist darauf hinzuweisen, dass in beiden Disziplinen eine
+stark regelbasierte Arbeitsweise vorherrscht.
+
+Zusammenfassend werden sowohl in der Mathematik als auch im Finanz- und
+Rechnungswesen die gleichen Fähigkeiten geschult, die auch in CT
+erforderlich sind. Dies dürfte die verhältnismässig starke Korrelation
+der Leistungen in Mathematik und Finanz- und Rechnungswesen auf der
+einen Seite sowie den Leistungen in der Berufsausbildung auf der anderen
+Seite erklären.
