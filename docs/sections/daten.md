@@ -446,10 +446,15 @@ der Datensatz gegenüber den anderen Fächer von 167 auf 108 Noten.
 Einen graphischen Überblick über die Verteilung der Noten ergibt
 @fig:boxplotsbms.
 
-![Boxplot der Noten der BMS. Der Plot der IDAF ist abgeschwächt
-dargestellt, weil er auf weniger Noten beruht als die
-anderen. Der Median der erzielten Noten ist als rote Linie
-dargestellt.](docs/graphics/boxplots_bm.svg){#fig:boxplotsbms}
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/boxplots_bm.png}
+\caption[Übersicht über die Verteilung der Noten der BMS.]{Übersicht
+über die Verteilung der Noten der BMS. Der Plot der IDAF ist
+abgeschwächt dargestellt, weil er auf einer kleineren Stichprobe beruht
+als die anderen Noten. Der Median der erzielten Noten ist als rote Linie
+dargestellt}
+\label{fig:boxplotsbms}
+\end{figure}
 
 In der Darstellung von @fig:boxplotsbms fallen zwei Charakteristika
 besonders ins Auge:
