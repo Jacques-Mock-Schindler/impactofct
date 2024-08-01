@@ -47,7 +47,7 @@ plt.ylabel('Noten')
 plt.tight_layout()
 plt.savefig('../graphics/semesternoten_efz.png',
             format='png',
-            dpi=600)
+            dpi=300)
 plt.show()
 
 # %%
