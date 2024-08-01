@@ -39,7 +39,8 @@ sns.regplot(data=combi,
 plt.title('Korrelation BMS - EFZ')
 plt.xlabel('Noten BMS')
 plt.ylabel('Noten EFZ')
-plt.savefig('../graphics/scatterplot_mittelwerte.svg',
+plt.savefig('../graphics/scatterplot_mittelwerte.png',
+            format='png',
             dpi=600)
 plt.show()
 
