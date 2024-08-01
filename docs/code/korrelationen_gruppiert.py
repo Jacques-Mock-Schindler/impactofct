@@ -202,4 +202,32 @@ unmask = ['103', '104', '114', '117',
 # %%
 
 gruppen = gruppen.replace(unmask, 0)
+
+# %%
+
+module = module.astype('string')
+
+# %%
+
+colors = ['#E0E0E0', 'mediumspringgreen']
+cmap = sns.color_palette(colors)
+
+# %%
+
+plt.figure(
+    figsize = (7, 10)
+)
+
+sns.heatmap(gruppen, annot=module.values, fmt='', cmap=cmap, cbar=False, yticklabels=False)
+
+plt.xlabel('Fächergruppen')
+plt.title('Verschiebung der CT-Module nach Fächergruppen')
+
+plt.savefig('../graphics/verschiebung.svg',
+            dpi=600)
+plt.show()
+# %%
+
+module.dtypes
+
 # %%
