@@ -393,8 +393,8 @@ fallen drei Aspekte auf:
    Insbesondere im Vergleich zu den Noten der BMS (vgl.
    @fig:boxplotsbms).
 
-![Übersicht über die Verteilung der Noten der Berufsausbildung. Die
-Module mit starkem CT Bezug wurden hellgrün
+![Übersicht über die Verteilung der Noten der
+Berufsausbildung. Die Module mit starkem CT Bezug wurden hellgrün
 hervorgehoben. Der Median der erzielten Noten ist als rote Linie
 dargestellt.](docs/graphics/boxplots_efz.svg){#fig:boxplotsefz}
 

@@ -28,6 +28,7 @@ header-includes:
     - \usepackage{pdflscape}
     - \usepackage{longtable}
     - \usepackage{booktabs}
+    - \usepackage{svg}
     - \usepackage{caption}
     - \captionsetup{font=small}
     - \usepackage{xurl}
