@@ -393,10 +393,16 @@ fallen drei Aspekte auf:
    Insbesondere im Vergleich zu den Noten der BMS (vgl.
    @fig:boxplotsbms).
 
-![Übersicht über die Verteilung der Noten der
-Berufsausbildung. Die Module mit starkem CT Bezug wurden hellgrün
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/boxplots_efz.png}
+\caption[Übersicht über die Verteilung der Noten der
+Berufsausbildung.]{Übersicht über die Verteilung der Noten der
+Berufsausbildung. Die CT relevanten Module wurden hellgrün
 hervorgehoben. Der Median der erzielten Noten ist als rote Linie
-dargestellt.](docs/graphics/boxplots_efz.svg){#fig:boxplotsefz}
+dargestellt.}
+\label{fig:boxplotsefz}
+\end{figure}
+
 
 Die Noten der Berufsausbildung fliessen nur als Durchschnittsnote der in
 den jeweiligen Semester unterrichteten Fächern in die Promotion an der
@@ -405,10 +411,15 @@ Promotionsrelevant. Dies ist der Grund, weshalb die Noten der
 Module der Berufsausbildung stärker streuen als jene der BMS (vgl.
 @fig:boxplotsbms).
 
-![Übersicht über die Verteilung der Semesternoten (ungerundet), wie sie
-im Abschlussjahr 2017 zustande gekommen
-wären. Der Median der erzielten Noten ist als rote Linie
-dargestellt.](docs/graphics/semesternoten_efz.svg){#fig:semesternotenefz}
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/semesternoten_efz.png}
+\caption[Übersicht über die Verteilung der Semesternoten in der
+Berufsausbildung]{Übersicht über die Verteilung der Semesternoten
+(ungerundet). Der Darstellung liegt die Annahme zu Grunde, dies gesamte
+Stichprobe hätte die Ausbildung im Jahr 2017 abgeschlossen. Der Median
+der erzielten Noten ist als rote Linie dargestellt.}
+\label{fig:semesternotenefz}
+\end{figure}
 
 Das die Streuung bei einer Durchschnittsnote abnimmt zeigt
 @fig:semesternotenefz. Die Darstellung beruht auf der Fiktion, dass alle

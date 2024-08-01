@@ -45,7 +45,8 @@ plt.title('Semsternoten')
 plt.xlabel('Semester')
 plt.ylabel('Noten')
 plt.tight_layout()
-plt.savefig('../graphics/semesternoten_efz.svg',
+plt.savefig('../graphics/semesternoten_efz.png',
+            format='png',
             dpi=600)
 plt.show()
 

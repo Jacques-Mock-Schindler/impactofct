@@ -58,7 +58,9 @@ plt.title('Notenverteilung in der BMS')
 plt.xlabel('Fächer')
 plt.ylabel('Noten')
 plt.tight_layout()
-plt.savefig('../graphics/boxplots_bm.svg', dpi=600)
+plt.savefig('../graphics/boxplots_bm.png',
+            format='png',
+            dpi=600)
 plt.show()
 
 # %%
@@ -104,7 +106,9 @@ plt.xlabel('Module')
 plt.ylabel('Noten')
 plt.xticks(rotation=90)
 plt.tight_layout()
-plt.savefig('../graphics/boxplots_efz.svg',
+plt.savefig('../graphics/boxplots_efz.png',
+            format='png',
+            bbox_inches='tight',
             dpi=600)
 plt.show()
 
