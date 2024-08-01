@@ -10,6 +10,8 @@ eqnPrefix: "Gl."
 tblPrefix: "Tab."
 lstPrefix: "List."
 secPrefix: "Abschnitt"
+toc: true
+toc-depth: 3
 # autoSectionLabels: true
 # numberSections: true
 sectionsDepth: 5
