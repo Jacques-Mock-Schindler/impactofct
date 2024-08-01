@@ -41,7 +41,7 @@ plt.xlabel('Noten BMS')
 plt.ylabel('Noten EFZ')
 plt.savefig('../graphics/scatterplot_mittelwerte.png',
             format='png',
-            dpi=600)
+            dpi=300)
 plt.show()
 
 # %%
@@ -68,8 +68,9 @@ plt.ylabel('Noten')
 plt.xlabel('Durchschnitte')
 ax.set_xticklabels(['BMS', 'EFZ'])
 plt.tight_layout()
-plt.savefig('../graphics/verteilung_durchschnitte.svg',
-            dpi=600)
+plt.savefig('../graphics/verteilung_durchschnitte.png',
+            format='png',
+            dpi=300)
 plt.show()
 
 # %%

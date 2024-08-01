@@ -5,18 +5,26 @@ wie in @fig:mittelwerte dargestellt,
 eine starke Korrelation zwischen den beiden Leistungen. Spearman's $\rho$
 liegt bei 0.623 und Pearson's $r$ gar bei 0.693.
 
-![Korrelation zwischen den Durchschnittsnoten der Berufsausbildung (EFZ)
-und der Durchschnittsnoten der BMS. Die rote Linie zeigt die
-Regressionslinie. Der blassrote Schatten um die Regressionslinie zeigt
-das Konfidenzintervall von 95%
-an.](docs/graphics/scatterplot_mittelwerte.svg){#fig:mittelwerte}
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/scatterplot_mittelwerte.png}
+\caption[Korrelation mittlere Noten Berufsausbildung - BMS]{Korrelation
+zwischen den Durchschnittsnoten der Berufsausbildung und der
+Durchschnittsnotne der BMS. Die rote Linie zeigt die Regressionslinie.
+Der blassrote Schatten um die Regresseionslinie zeigt das
+Konfidenzintervall von 95\% an.}
+\label{fig:mittelwerte}
+\end{figure}
 
 Wie bei Betrachtungen von Mittelwerten zu erwarten, hat die Streuung
 gegenüber den Rohdaten deutlich abgenommen.
 
-![Visualisierung der Verteilung der Durchschnittsnoten in der BMS und in
-der Berufsausbildung. Die rote Linie zeigt den
-Median.](docs/graphics/verteilung_durchschnitte.svg){#fig:mittelwerte_boxplot}
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/verteilung_durchschnitte.png}
+\caption[Übersicht über die Verteilung der Durchschnittsnoten in BMS und
+Berufsausbildung.]{Übersicht über die Verteilung der Durchschnittsnoten
+in BMS und Berufsausbildung. Die rote Linie zeigt den Median.}
+\label{fig:mittelwerte_boxplot}
+\end{figure}
 
 Der Effekt ist in @fig:mittelwerte_boxplot gut zu sehen.
 Anders als in den Rohdaten gibt es keine Ausreisser nach unten. Der minimale Wert in der
