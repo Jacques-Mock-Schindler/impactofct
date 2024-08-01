@@ -19,7 +19,7 @@ der Berufsausbildung. Die rote Linie zeigt den
 Median.](docs/graphics/verteilung_durchschnitte.svg){#fig:mittelwerte_boxplot}
 
 Der Effekt ist in @fig:mittelwerte_boxplot gut zu sehen.
-Anders als in den Rohdaten gibt es keine Ausreisser nach unten mehr. Der minimale Wert in der
+Anders als in den Rohdaten gibt es keine Ausreisser nach unten. Der minimale Wert in der
 BMS liegt bei 3.75 jener in der Berufsausbildung bei 3.76. Im Gegenzug
 ist auch das Maximum etwas tiefer ausgefallen. In der BMS liegt das
 Maximum bei 5.79 und in der Berufsausbildung bei 5.86. Diese Regression
@@ -32,15 +32,17 @@ einzelnen Module und Fachnoten eingegangen.
 
 ## Übersicht über die Detailauswertung
 
-Wie in der Methodenbeschreibung dargelegt, wurden die Noten der BMS mit
+Wie in der Methodenbeschreibung in [@sec:effektive_methode] dargelegt,
+wurden die Noten der BMS mit
 jenen der Berufsausbildungsmodule korreliert. Dazu wurde Spearman's
 $\rho$ berechnet und die Resultate in einer Heatmap dargestellt.
-Obwohl
-die Fragestellung nach den Auswirkungen von CT auf das Lernen im
-allgemeinen stellt, werden die die BMS Fächer auf der x-Achse und die
-Module aus der Berufsausbildung auf der y-Achse dargestellt. So ist der
-Effekt besser lesbar.
-
+Obwohl die Arbeitshypothese 
+die Frage nach den Auswirkungen von CT auf das Lernen im
+allgemeinen stellt, werden die BMS Fächer auf der x-Achse und die
+Module aus der Berufsausbildung auf der y-Achse dargestellt. Dies ist
+zwar gegenüber der üblichen Darstellung von unabhängigen und abhängigen
+Variablen vertauscht. In dieser Darstellung ist aber der Effekt besser
+zu erkennen.
 
 ![Heatmap mit den Korrelationen zwischen der Noten der Berufsausbildung
 und der BMS. Die
@@ -51,18 +53,18 @@ mittlerer Korrelation sortiert. Die Module mit besonderem CT Bezug sind
 rot
 beschriftet.](docs/graphics/spearmankorrelationen_heatmap.svg){#fig:spearman}
 
-Die Modul-BMS Korrelationen mit einem Wert über 0.3 sind grün
+Die Modul-BMS Korrelationen mit einem Wert von über 0.3 sind grün
 eingefärbt. Je höher der Wert, desto intensiver die gründe Färbung. Dies
 lässt nur schon optisch gut erkennen, dass die Korrelation zwischen den
 Noten der Module der Berufsausbildung und jener der BMS nicht sehr stark
 ist. Optisch etwas weniger gut zu erkennen ist, dass nur die drei Fächer
 Mathematik, Finanz- und Rechnungswesen sowie interdisziplinäres Arbeiten
 im Mittel über alle Module den Wert von 0.3 überschreiten.  
-Die als besonders CT spezifisch qualifizierten Module verteilen sich
-gleichmässig über die y-Achse der Heatmap. Damit ist die entsprechende
-Einteilung der Module statistisch bedeutungslos.
+Die als besonders CT relevanten qualifizierten Module verteilen sich
+gleichmässig über die y-Achse der Heatmap. Dies zeigt, dass die CT
+relevanten Module keine statistische Auffälligkeiten zeigen.
 
-Insgesamt lassen sich die Resultate grob in drei Gruppen unterteilen:
+Trotzdem lassen sich die Resultate grob in drei Gruppen unterteilen:
 
 1. Fächer, welche die Schwelle von 0.3 überschritten haben.
    
@@ -93,17 +95,18 @@ beschriftet.](docs/graphics/korrelationen_heatmap.svg){#fig:pearson}
 Die Korrelationen nach Bravais-Pearson führt bezüglich der Sortierung
 der Noten der BMS zum gleichen Resultat. Verschiebungen gibt es in der
 Reihenfolge der Module. Die Bravais-Pearson Korrelation reagiert stärker
-auf Streuungen als die Korrelation nach Perason. Wie in
+auf Streuungen als die Korrelation nach Separman. Wie in
 [@sec:modulcharakter] gezeigt, streuen die Modulnoten stärker als die
 Noten der BMS. Damit dürfte die Verschiebung in der Reihenfolge der
 Modulnoten auf die grössere Streuung zurückzuführen sein.
 
-Die Übereinstimmung der Sortierreihenfolge der BMS Fächer zeigt, dass
-die Reihenfolge robust ist.
+Die Übereinstimmung der Sortierreihenfolge der BMS Fächer zeigt aber
+trotzdem, dass
+die Reihenfolge der Sortierung robust ist.
 
 ## Ursachen für die Gruppierung {#sec:gruppierung}
 
-Die Fächergruppe mit der Schwächsten Korrelation besteht ausschliesslich
+Die Fächergruppe mit der schwächsten Korrelation besteht ausschliesslich
 aus Fächern, welche den Geisteswissenschaften zugeordnet werden.  
 Die mittlere Fächergruppe kann den Sozialwissenschaften zugeordnet
 werden.  
@@ -113,8 +116,11 @@ Disziplinen, welche ein hohes Abstraktionsvermögen erfordern. Beim
 interdisziplinären Arbeiten in den Fächern steht die Projektarbeit im
 Vordergrund.
 
-Im folgenden soll erläutert werden, weshalb sich die Korrelationen so
-klar gruppieren lassen.
+Die Fächergruppen stellen unterschiedliche Anforderungen an die
+Lernenden. Diese Anforderungen sollen nun genauer betrachtet werden.
+Anhand dieser Betrachtung wird erläutert, warum sich die Korrelationen
+so deutlich gruppieren lassen. Die folgende Erklärung basiert auf diesen
+fachspezifischen Anforderungen.
 
 ### Anforderungen der Geisteswissenschaften an Lernende
 
@@ -194,8 +200,8 @@ Mathematik ist eine theoretische Disziplin, die ohne Bezug zur realen
 Welt auskommt. Im Finanz- und Rechnungswesen wird ebenfalls so stark
 abstrahiert, dass das gleiche System auf so unterschiedliche Unternehmen
 wie multinationale Grosskonzerne oder die lokale Bäckerei passen. Dies
-ist kein totaler Verzicht auf die reale Welt aber doch eine sehr starke
-Abstrahierung.  
+ist zwar kein vollständiges Ausblenden der realen Welt aber doch eine sehr starke
+Abstrahierung davon.  
 Ausserdem weisen Mathematik und Finanz- und Rechnungswesen starke
 Parallelen in der Problemlösung auf. In beiden Disziplinen werden
 Probleme in kleinere Teilprobleme zerlegt, die einfacher zu lösen sind.  
@@ -240,15 +246,18 @@ Verteilung mutet vielmehr völlig zufällig an.
 ## Gegenüberstellung von Arbeitshypothese und Datenauswertung
 
 Die Auswertung der Daten zeigen keinen Zusammenhang zwischen CT und
-Lernerfolg. Es zeigt sich lediglich, dass die Leistungen in der
+allgemeinem Lernerfolg. Es zeigt sich lediglich, dass die Leistungen in der
 Berufsausbildung stärker mit jenen in den abstrakten Disziplinen der BMS
-korrelieren als in den Geistes- und Sozialwissenschaften. Allerdings nur
-im Allgemeinen und nicht speziell die als CT relevant identifizierten
-Module.  
+korrelieren als in den Geistes- und Sozialwissenschaften. Dieser Effekt
+gilt allerdings nur generell. Den als speziell CT relevant
+identifizierten Modulen
+kommt keine besondere Bedeutung zu.
+
 Die im [@sec:arbeitshypothese] aufgestellte Arbeitshypothese lässt sich
 somit nicht halten.
 
-CT ist damit keine überlegene Lehr- und Lernmethode. Dies bedeutet allerdings
+Im Umkehrschluss kann daher festgehalten werden, dass CT keine
+überlegene Lehr- und Lernmethode darstellt. Dies bedeutet allerdings
 nicht, dass CT als Methode im Unterricht keine Bedeutung zukommen soll.
 Sie ist allerdings lediglich eine Methode unter anderen. Sie soll im
 Rahmen der Methodenvielfalt dort eingesetzt werden, wo sie aufgrund
