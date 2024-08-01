@@ -56,8 +56,12 @@ A simple example:
 ## Verwendung von pandoc zur Erstellung des PDF
 
 ```powershell
-pandoc .\docs\sections\computational_thinking.md .\docs\sections\arbeitshypothese.md .\docs\sections\methode.md .\docs\sections\kern.md .\docs\sections\daten.md .\docs\sections\literatur.md --metadata-file='G:\Meine Ablage\Studium\impactofct\docs\header.yaml' --filter pandoc-crossref --citeproc -o docs/240725_II_fahne.pdf
+ pandoc .\docs\sections\computational_thinking.md .\docs\sections\arbeitshypothese.md .\docs\sections\methode.md .\docs\sections\kern.md .\docs\sections\daten.md .\docs\sections\auswertung.md .\docs\sections\literatur.md --number-sections --filter pandoc-crossref --metadata-file='G:\Meine Ablage\Studium\impactofct\docs\header.yaml' --citeproc -o docs/240801_fahne.pdf
 ```
+
+Wichtig ist die Reihenfolge der Argumente. `--number-sections` muss vor
+`--filter pandoc-crossref` muss vor `--metadata-file` muss vor
+`--citeproc` stehen.
 
 ## Git Einstellungen mit verschiedenen Accounts
 
