@@ -81,6 +81,25 @@ Autorin (vgl. @tbl:rangliste). Auch wenn nicht jeder Text von Wing die gleiche
 Wirkung erzielt hat, ist sie sicherlich die Autorin, die CT Begrifflich
 am nachhaltigsten geprägt hat.
 
+: Rangliste der in den analysierten Texte zu Definitionen von CT
+mehrfach zitierten Autoren.  Eine vollständige Zusammenstellung aller ausgewerteten Texte findet
+sich in der 
+Fussnote[@acevedo-borregaComputationalThinkingEducational2022;
+@chenFosteringComputationalThinking2023;
+@jacksonMaintainingPluralismWhen2022;
+@kiyiciMetaAnalyticReliabilityGeneralization2022;
+@laiCollaborativeIndividualProblem2022;
+@liEffectivenessUnpluggedActivities2022; @melroWhatElseCan2023;
+@merino-armeroComputationalThinkingK122022;
+@papadakisAppsPromoteComputational2022;
+@rijo-garciaComputationalThinkingUser2022; 
+@subramaniamComputationalThinkingMathematics2022;
+@sukirmanStrategyLearningComputational2022;
+@wangIntegratingComputationalThinking2022;
+@xuMetaAnalysisEffectivenessProgramming2023;
+@yadavComputationalThinkingMetacognition2022;
+@yeTransferEffectsComputational2022]. {#tbl:rangliste}
+
 | Zitierter Autor | Anzahl Zitate |
 | :--- | ---: |
 | Wing | 12 |
