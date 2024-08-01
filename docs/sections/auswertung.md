@@ -239,5 +239,17 @@ Verteilung mutet vielmehr völlig zufällig an.
 
 ## Gegenüberstellung von Arbeitshypothese und Datenauswertung
 
+Die Auswertung der Daten zeigen keinen Zusammenhang zwischen CT und
+Lernerfolg. Es zeigt sich lediglich, dass die Leistungen in der
+Berufsausbildung stärker mit jenen in den abstrakten Disziplinen der BMS
+korrelieren als in den Geistes- und Sozialwissenschaften. Allerdings nur
+im Allgemeinen und nicht speziell die als CT relevant identifizierten
+Module.  
 Die im [@sec:arbeitshypothese] aufgestellte Arbeitshypothese lässt sich
-aufgrund der Datenauswertung nicht halten.
+somit nicht halten.
+
+CT ist damit keine überlegene Lehr- und Lernmethode. Dies bedeutet allerdings
+nicht, dass CT als Methode im Unterricht keine Bedeutung zukommen soll.
+Sie ist allerdings lediglich eine Methode unter anderen. Sie soll im
+Rahmen der Methodenvielfalt dort eingesetzt werden, wo sie aufgrund
+ihrer spezifischen Stärken einen Mehrwert generieren kann.
