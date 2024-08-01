@@ -60,7 +60,7 @@ plt.ylabel('Noten')
 plt.tight_layout()
 plt.savefig('../graphics/boxplots_bm.png',
             format='png',
-            dpi=600)
+            dpi=300)
 plt.show()
 
 # %%
@@ -109,7 +109,7 @@ plt.tight_layout()
 plt.savefig('../graphics/boxplots_efz.png',
             format='png',
             bbox_inches='tight',
-            dpi=600)
+            dpi=300)
 plt.show()
 
 
