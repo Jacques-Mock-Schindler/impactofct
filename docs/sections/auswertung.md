@@ -248,10 +248,15 @@ Geisteswissenschaften über Sozialwissenschaften hin zu den abstrakten
 Wissenschaften.  Wie [@fig:verschiebungen] entnommen
 werden kann, entspricht dies nicht den beobachteten Resultaten.
 
-![Darstellung der durchschnittlichen Korrelation nach Spearman nach
-Fächergruppe. Je weiter unten ein Wert steht, desto stärker ist die
-Korrelation. Grün dargestellt sind die CT relevanten
-Module.](docs/graphics/verschiebung.svg){#fig:verschiebungen}
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/verschiebung.png}
+\caption[Darstellung der durchschnittlichen Korrelation nach Spearman
+nach Fächergruppe.]{Darstellung der durchschnittlichen Korrelation nach
+Spearman nach Fächergruppe. Je weiter unten in der Grafik ein Modul
+steht, desto stärker ist die Korrelation. Grün dargestellt sind die CT
+relevanten Module.}
+\label{fig:verschiebungen}
+\end{figure}
 
 Die Veränderung der Verteilung der CT relevanten
 Module von Fächergruppe zu Fächergruppe lässt kein Muster erkennen. Die

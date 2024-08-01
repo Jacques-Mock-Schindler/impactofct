@@ -67,8 +67,9 @@ for label in yticklabels:
 plt.title(f'Spearmankorrelation Noten Geisteswissenschaften - EFZ ')
 plt.ylabel('EFZ Modul Nr.')
 plt.xlabel('Geisteswissenschaften')
-# plt.savefig('../graphics/spearmankorrelationen_heatmap.svg',
-#            dpi=600)
+plt.savefig('../graphics/spearmankorrelationen_heatmap.png',
+            format='png',
+            dpi=300)
 plt.show()
 
 # %%
@@ -223,8 +224,9 @@ sns.heatmap(gruppen, annot=module.values, fmt='', cmap=cmap, cbar=False, ytickla
 plt.xlabel('Fächergruppen')
 plt.title('Verschiebung der CT-Module nach Fächergruppen')
 
-plt.savefig('../graphics/verschiebung.svg',
-            dpi=600)
+plt.savefig('../graphics/verschiebung.png',
+            format='png',
+            dpi=300)
 plt.show()
 # %%
 
