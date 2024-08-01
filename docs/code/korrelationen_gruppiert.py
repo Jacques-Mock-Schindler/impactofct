@@ -115,6 +115,7 @@ plt.xlabel('Sozialwissenschaften')
 # plt.savefig('../graphics/spearmankorrelationen_heatmap.svg',
 #            dpi=600)
 plt.show()
+
 # %%
 
 aw = pd.DataFrame([df['M'], df['RW'], df['IDAF']]).T
@@ -186,6 +187,19 @@ mask = ['100', '118', '122',
         '326', '335', '403',
         '411', '431']
 
-sns.heatmap(module, annot=True)
-plt.show()
+# %%
+
+gruppen = module.replace(mask, 1)
+
+# %%
+
+unmask = ['103', '104', '114', '117',
+          '120', '123', '133', '150',
+          '151', '152', '183', '184',
+          '214', '254', '304', '305',
+          '404', '426']
+
+# %%
+
+gruppen = gruppen.replace(unmask, 0)
 # %%
