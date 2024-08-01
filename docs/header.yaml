@@ -11,7 +11,8 @@ tblPrefix: "Tab."
 lstPrefix: "List."
 secPrefix: "Abschnitt"
 toc: true
-toc-depth: 3
+toc-depth: 2
+# list-tables: true
 # autoSectionLabels: true
 # numberSections: true
 sectionsDepth: 5

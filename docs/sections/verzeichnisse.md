@@ -1,0 +1,2 @@
+\renewcommand{\listtablename}{Tabellenverzeichnis}
+\listoftables
