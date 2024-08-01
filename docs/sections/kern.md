@@ -5,7 +5,7 @@ zu bestätigen oder zu verwerfen, wurde in einem nächsten Schritt die
 Noten der Berufsausbildung und der Berufsmittelschule (BMS) der
 Lernenden der IMS ausgewertet.
 
-### Beschreibung der Methode
+### Beschreibung der Methode {#sec:effektive_methode}
 
 Die im folgenden beschriebenen statistischen Berechnungen wurden in
 Python mit den Libraries pandas und SciPy vorgenommen. Die
