@@ -208,3 +208,13 @@ erforderlich sind. Dies dürfte die verhältnismässig starke Korrelation
 der Leistungen in Mathematik und Finanz- und Rechnungswesen auf der
 einen Seite sowie den Leistungen in der Berufsausbildung auf der anderen
 Seite erklären.
+
+#### Interdisziplinäres Arbeiten in den Fächern
+
+Die Note im interdisziplinären Arbeiten in den Fächern basiert auf
+mehreren Projektarbeiten, welche die Lernenden im Verlauf der
+dreijährigen Schuldauer erstellen. Projektunterricht ist eine Methode,
+welche auch an der Berufsschule in der Berufsausbildung häufig zur
+Anwendung kommt. Die Korrelation der Leistungen des interdisziplinären
+Arbeiten in den Fächern mit jenen der Berufsausbildung dürfte mit der
+Übereinstimmung der Methoden zu erklären sein.
