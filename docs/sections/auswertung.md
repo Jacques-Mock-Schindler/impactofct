@@ -33,11 +33,15 @@ BMS liegt bei 3.75 jener in der Berufsausbildung bei 3.76. Im Gegenzug
 ist auch das Maximum etwas tiefer ausgefallen. In der BMS liegt das
 Maximum bei 5.79 und in der Berufsausbildung bei 5.86. Diese Regression
 zur Mitte[@freedmanStatistics2007, S. 170] ist in der Statistik ein
-bekanntes Phänomen. Die Gegenüberstellung von Mittelwerten zeigt daher
-nur, dass generell starke Lernende eben tatsächlich generell starke
-Lernende sind. Um diese Tautologie zu durchbrechen, wird in den
-kommenden Abschnitten auf die Resultate der Gegenüberstellung der
-einzelnen Module und Fachnoten eingegangen.
+bekanntes Phänomen.
+
+*Verlust an Details durch den Mittelwert*
+In der Betrachtung von Mittelwerten gehen Details verloren.
+Die Gegenüberstellung von Mittelwerten zeigt 
+nur, dass starke Lernende nicht ausschliesslich in der
+Berufsausbildungen sondern auch in der BMS gute Leistungen erbringen.
+Aus diesem Grund wird in den kommenden Abschnitten die Gegenüberstellung
+auf Stufe einzelnes Modul bzw. einzelnes Fach ausgedehnt.
 
 ## Übersicht über die Detailauswertung
 
