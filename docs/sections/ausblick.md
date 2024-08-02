@@ -38,7 +38,5 @@ So könnten Beispielsweise
 * Messungen im Physikunterricht auf ihre Übereinstimmungen mit den
   zugrundeliegenden Modellen überprüft werden...
 
-
-* Auflistung von Methoden zur Klärung von Unterrichtswirksamkeit
-* Ansätze für CT basierte Methoden -> the programming historian
+## Methoden zur Beurteilung der Wirksamkeit von Unterrichtsmethoden
 
