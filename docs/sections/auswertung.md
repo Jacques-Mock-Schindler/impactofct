@@ -1,8 +1,9 @@
 # Korrelation zwischen Noten der Berufsausbildung und der BMS
 
-Die Auswertung der Mittelwerte der Berufsausbildung und der BMS zeigt,
-wie in @fig:mittelwerte dargestellt,
-eine starke Korrelation zwischen den beiden Leistungen. Spearman's $\rho$
+Die Darstellung in [@fig:mittelwerte] zeigt eine starke Korrelation
+zwischen den durchschnittlichen Leistungen in der Berufsausbildung und
+jenen in der BMS.
+Spearman's $\rho$
 liegt bei 0.623 und Pearson's $r$ gar bei 0.693.
 
 \begin{figure}[ht!]
