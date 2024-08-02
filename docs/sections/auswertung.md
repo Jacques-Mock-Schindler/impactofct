@@ -200,19 +200,28 @@ Schnittstelle zwischen Geistes- und Naturwissenschaften. Die Inhalte
 haben viele Berührungspunkte mit den Geisteswissenschaften und die
 Methoden stammen oft aus den Naturwissenschaften.
 
-In den den Sozialwissenschaften zuzuordnenden Fächern an Mittelschulen
-werden viele Inhalte durch Texte vermittelt. Ausserdem ist es weit
+In den den Sozialwissenschaften zugeordneten Fächern der Mittelschulen
+werden allerdings kaum je naturwissenschaftliche Methoden aktiv
+eingesetzt. Es werden vielmehr so gewonnene Erkenntnisse basierend auf
+Texten vermittelt. Ausserdem ist es weit
 verbreitete Praxis, die Lernenden selber Texte verfassen oder
-erarbeitete Erkenntnisse präsentieren zu lassen. Ebenfalls Teil des
-Unterrichtes ist es, die Lernenden bereits aufbereitete Statistiken
-interpretieren zu lassen.
+erarbeitete Erkenntnisse präsentieren zu lassen. Den Arbeitsweisen aus
+den Naturwissenschaften am nächsten kommt der Unterricht, wenn die
+Lernenden Zahlenmaterial interpretieren. Dabei handelt es sich
+allerdings regelmässig um bereits aufbereitete Statistiken. Etwas weiter
+in Richtung der naturwissenschaftlichen Arbeitsmethoden geht man bei der
+Bearbeitung von quantitativen Aufgabenstellungen.  
+-[] *Beispiele?*
 
 Die von CT geforderte algorithmische Vorgehensweise hat daher
 bescheidenen Parallelen
-zu den Methoden in den Sozialwissenschaften. Dies erklärt zum Teil,
+zu den Methoden in den sozialwissenschaftlichen Fächern an der
+Mittelschule. Dies ist eine mögliche
+Erklärung, 
 weshalb die Korrelation zwischen den Noten der Berufsbildenden Fächer
-und jenen der BMS stärker ist als in den Geisteswissenschaften aber doch
-nicht so stark, dass die Schwelle von 0.3 überschritten wird.
+und jenen der BMS in diesem Bereich stärker ist als in den
+Geisteswissenschaften aber doch nicht so stark, dass die Schwelle von
+0.3 überschritten wird.
 
 ### Anforderungen der Abstrakten Disziplinen an die Lernenden
 
