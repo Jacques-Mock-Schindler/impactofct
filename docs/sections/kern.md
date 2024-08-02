@@ -94,9 +94,17 @@ Korrelation zu finden.
 
 ### Begründung der Wahl der Methode {#sec:kernbegruendung}
 
-Damit die Arbeitshypothese überprüft werden kann, muss eine
-Gegenüberstellung von Fähigkeiten in CT und solchen in der
-Allgemeinbildung erfolgen. Wenn zwischen den Leistungen in den beiden
+Die beiden gescheiterten Methoden haben darauf basiert, den Unterschied
+im Lernerfolg bei unterschiedlichen Lehr- und Lernmethoden zu messen.
+Dabei wurde in der Testgruppe eine CT basierte Methode eingesetzt. Die
+Schülerinnen und Schüler bzw. die Lernenden mussten ein Programm
+schreiben, welches ein Problem des Faches Finanz- und Rechnungswesen
+gelöst hat. Weil die beiden Methoden keine verwertbaren Resultate
+gezeitigt haben, musste ein indirekter Ansatz gewählt werden. Dies
+geschieht indem 
+die Arbeitshypothese überprüft wird, indem die 
+Fähigkeiten in CT und solchen in der
+Allgemeinbildung gegenübergestellt werden. Wenn zwischen den Leistungen in den beiden
 Bereichen eine positive Korrelation beobachtet werden kann, ist dies
 eine Indiz für die Gültigkeit der Arbeitshypothese.
 
