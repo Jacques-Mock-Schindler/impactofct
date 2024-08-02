@@ -19,6 +19,26 @@ obligatorischen Faches Informatik zu Anwendung kommen. Wenn das der Fall
 ist, kann die Wirksamkeit dieser Methoden mit Methoden der allgemeinen
 Forschung zur Wirksamkeit von Schulunterricht überprüft werden.
 
+## Auf Computational Thinking basierende Unterrichtsmethoden
+
+Da es eine Anforderung für die Überprüfung der Arbeitshypothese ist,
+dass im Unterricht überhaupt Methoden zur Anwendung kommen, welche auf
+CT basieren, soll hier ein kurzer Überblick über Einsatzmöglichkeiten
+solcher Methoden gegeben werden.
+Ein Ansatz ist die Übernahme von Methoden aus den Digital
+Humanities[@WhatAreDigital (für die Klärung des Begriffes)]. 
+
+So könnten Beispielsweise 
+
+* Interaktive Timelines im Geschichtsunterricht erstellt werden;
+* Orte aus dem Literaturunterricht georeferenziert werden;
+* Entscheide von Gerichten statistisch ausgewertet werden;
+* Modellannahmen aus der Sozialversicherung im
+  Volkswirtschaftsunterricht überprüft werden;
+* Messungen im Physikunterricht auf ihre Übereinstimmungen mit den
+  zugrundeliegenden Modellen überprüft werden...
+
+
 * Auflistung von Methoden zur Klärung von Unterrichtswirksamkeit
 * Ansätze für CT basierte Methoden -> the programming historian
 
