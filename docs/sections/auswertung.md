@@ -50,6 +50,8 @@ Wie in der Methodenbeschreibung in [@sec:effektive_methode] dargelegt,
 wurden die Noten der BMS mit
 jenen der Berufsausbildungsmodule korreliert. Dazu wurde Spearman's
 $\rho$ berechnet und die Resultate in einer Heatmap dargestellt.
+Üblicherweise werden die unabhängigen Variablen auf der x-Achse und die
+abhängigen Variablen auf der y-Achse dargestellt.
 Obwohl die Arbeitshypothese 
 die Frage nach den Auswirkungen von CT auf das Lernen im
 allgemeinen stellt, werden die BMS Fächer auf der x-Achse und die
@@ -70,18 +72,27 @@ Korrelation sortiert. Die CT relevanten Module sind rot beschriftet.}
 \label{fig:spearman}
 \end{figure}
 
-Die Modul-BMS Korrelationen mit einem Wert von über 0.3 sind grün
-eingefärbt. Je höher der Wert, desto intensiver die gründe Färbung. Dies
-lässt nur schon optisch gut erkennen, dass die Korrelation zwischen den
+Die Korrelationen zwischen Leistungen in einem Modul der
+Berufsausbildung und einer Note in der BMS mit einem Wert von über 0.3
+sind in [@fig:spearman] grün
+eingefärbt. Je höher der Wert, desto intensiver die grüne Färbung. Die
+Sortierung der Achsen in aufsteigender Reihenfolge müsste dazu führen,
+dass die untere rechte Ecke der Darstellung am intensivsten grün
+eingefärbt ist. Dieser Effekt lässt sich jedoch nur mit viel gutem
+Willen beobachten. Damit
+lässt sich nur schon optisch erkennen, dass die Korrelation zwischen den
 Noten der Module der Berufsausbildung und jener der BMS nicht sehr stark
-ist. Optisch etwas weniger gut zu erkennen ist, dass nur die drei Fächer
+ist. Optisch nicht zu erkennen ist, dass nur die drei Fächer
 Mathematik, Finanz- und Rechnungswesen sowie interdisziplinäres Arbeiten
-im Mittel über alle Module den Wert von 0.3 überschreiten.  
+im Mittel über alle Module den in [@sec:effektive_methode] festgelegten
+Wert von 0.3 überschreiten.  
 Die als besonders CT relevanten qualifizierten Module verteilen sich
 gleichmässig über die y-Achse der Heatmap. Dies zeigt, dass die CT
 relevanten Module keine statistische Auffälligkeiten zeigen.
 
-Trotzdem lassen sich die Resultate grob in drei Gruppen unterteilen:
+Obwohl die Korrelation zwischen den Noten der Berufsausbildung und der
+Noten der BMS nicht sehr stark ist, lassen sich die Resultate grob in
+drei Gruppen unterteilen:
 
 1. Fächer, welche die Schwelle von 0.3 überschritten haben.
    
@@ -90,11 +101,11 @@ Trotzdem lassen sich die Resultate grob in drei Gruppen unterteilen:
 2. Fächer welche die Schwelle knapp verfehlt haben (mittlere
    Korrelationen von 0.25 bis 0.3).
 
-   Das sind die beiden Fächer Wirtschaft und recht sowie Technik und
+   Das sind die beiden Fächer Wirtschaft und Recht sowie Technik und
    Umwelt.
 3. Fächer mit einer schwachen Korrelation (weniger als 0.25).
 
-   Das sind die Fächer Deutsch, Geschichte und Politik, Englisch und
+   Das sind die Fächer Deutsch, Geschichte und Politik, Englisch sowie
    Französisch.
 
 Ein ähnliches, wenn auch nicht ganz identisches Resultat ergibt sich,
@@ -123,6 +134,9 @@ Modulnoten auf die grössere Streuung zurückzuführen sein.
 Die Übereinstimmung der Sortierreihenfolge der BMS Fächer zeigt aber
 trotzdem, dass
 die Reihenfolge der Sortierung robust ist.
+
+In den folgenden Abschnitten wird nach einer Begründung für die
+Gruppierung gesucht.
 
 ## Ursachen für die Gruppierung {#sec:gruppierung}
 
