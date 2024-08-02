@@ -245,7 +245,7 @@ Rechnungswesen sehr stark von der realen Welt abstrahiert. Die
 Mathematik ist eine theoretische Disziplin, die ohne Bezug zur realen
 Welt auskommt. Im Finanz- und Rechnungswesen wird ebenfalls so stark
 abstrahiert, dass das gleiche System auf so unterschiedliche Unternehmen
-wie multinationale Grosskonzerne oder die lokale Bäckerei passen. Dies
+wie multinationale Grosskonzerne oder die lokale Bäckerei passt. Dies
 ist zwar kein vollständiges Ausblenden der realen Welt aber doch eine sehr starke
 Abstrahierung davon.  
 Ausserdem weisen Mathematik und Finanz- und Rechnungswesen starke
@@ -269,7 +269,9 @@ dreijährigen Schuldauer erstellen. Projektunterricht ist eine Methode,
 welche auch an der Berufsschule in der Berufsausbildung häufig zur
 Anwendung kommt. Die Korrelation der Leistungen des interdisziplinären
 Arbeiten in den Fächern mit jenen der Berufsausbildung dürfte mit der
-Übereinstimmung der Methoden zu erklären sein.
+Übereinstimmung der Methoden zu erklären sein. Die Methodik wird hier
+zur Störvariablen und die Korrelation hat wahrscheinlich nichts mit CT
+zu tun.
 
 ## Vergleich von Spearman's $\rho$ in den Fächergruppen
 
@@ -305,11 +307,15 @@ identifizierten Modulen
 kommt keine besondere Bedeutung zu.
 
 Die im [@sec:arbeitshypothese] aufgestellte Arbeitshypothese lässt sich
-somit nicht halten.
+somit vor dem Hintergrund dieser Beobachtungen nicht halten.
 
-Im Umkehrschluss kann daher festgehalten werden, dass CT keine
-überlegene Lehr- und Lernmethode darstellt. Dies bedeutet allerdings
-nicht, dass CT als Methode im Unterricht keine Bedeutung zukommen soll.
-Sie ist allerdings lediglich eine Methode unter anderen. Sie soll im
+In Umkehrung der Eingangs aufgestellten Arbeitshypothese muss daher
+festgehalten werden, dass CT basierte Unterrichtsmethoden keine
+grundsätzlich
+überlegenen Lehr- und Lernmethoden darstellen. Dies bedeutet allerdings
+nicht, dass CT basierte Methoden im Unterricht keine Bedeutung zukommen
+soll.
+Sie stellen allerdings lediglich eine Gruppe von Methoden unter anderen
+dar. Solche Methoden sollen im
 Rahmen der Methodenvielfalt dort eingesetzt werden, wo sie aufgrund
-ihrer spezifischen Stärken einen Mehrwert generieren kann.
+ihrer spezifischen Stärken einen Mehrwert generieren können.
