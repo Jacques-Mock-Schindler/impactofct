@@ -307,15 +307,17 @@ identifizierten Modulen
 kommt keine besondere Bedeutung zu.
 
 Die im [@sec:arbeitshypothese] aufgestellte Arbeitshypothese lässt sich
-somit vor dem Hintergrund dieser Beobachtungen nicht halten.
+somit vor dem Hintergrund dieser Beobachtungen nicht bestätigen. Da die
+Vorgehensweise die Gültigkeit der Arbeitshypothese allerdings nur
+indirekt hätte bestätigen können, kann sie noch nicht als widerlegt
+gelten.
 
-In Umkehrung der Eingangs aufgestellten Arbeitshypothese muss daher
-festgehalten werden, dass CT basierte Unterrichtsmethoden keine
-grundsätzlich
-überlegenen Lehr- und Lernmethoden darstellen. Dies bedeutet allerdings
-nicht, dass CT basierte Methoden im Unterricht keine Bedeutung zukommen
-soll.
-Sie stellen allerdings lediglich eine Gruppe von Methoden unter anderen
-dar. Solche Methoden sollen im
+Auch wenn CT basierte Unterrichtsmethoden wahrscheinlich keine generell
+überlegenen Lehr- und Lernmethoden darstellen, besteht für den Moment
+kein Grund, solche Unterrichtsmethoden
+generell aufzugeben.
+Sie stellen eine Gruppe von Methoden unter anderen
+dar, die mit der gleichen Berechtigung im Unterricht zum Einsatz kommen
+sollen. Sie sollen im
 Rahmen der Methodenvielfalt dort eingesetzt werden, wo sie aufgrund
 ihrer spezifischen Stärken einen Mehrwert generieren können.
