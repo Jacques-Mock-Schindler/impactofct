@@ -35,11 +35,12 @@ Maximum bei 5.79 und in der Berufsausbildung bei 5.86. Diese Regression
 zur Mitte[@freedmanStatistics2007, S. 170] ist in der Statistik ein
 bekanntes Phänomen.
 
-*Verlust an Details durch den Mittelwert*
-In der Betrachtung von Mittelwerten gehen Details verloren.
-Die Gegenüberstellung von Mittelwerten zeigt 
-nur, dass starke Lernende nicht ausschliesslich in der
-Berufsausbildungen sondern auch in der BMS gute Leistungen erbringen.
+In der Betrachtung von Mittelwerten gehen Details verloren. Dies liegt
+in der Natur der Sache, soll doch in einem Mittelwert eine ganze
+Stichprobe in einer Zahl zusammengefasst werden.
+Entsprechend zeigt die Gegenüberstellung der Mittelwerte lediglich, 
+dass starke Lernende nicht ausschliesslich in einem der beiden
+einander gegenübergestellten Ausbildungsgänge gute Leistungen erbringen.
 Aus diesem Grund wird in den kommenden Abschnitten die Gegenüberstellung
 auf Stufe einzelnes Modul bzw. einzelnes Fach ausgedehnt.
 
