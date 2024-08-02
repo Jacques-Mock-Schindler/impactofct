@@ -19,4 +19,6 @@ obligatorischen Faches Informatik zu Anwendung kommen. Wenn das der Fall
 ist, kann die Wirksamkeit dieser Methoden mit Methoden der allgemeinen
 Forschung zur Wirksamkeit von Schulunterricht überprüft werden.
 
+* Auflistung von Methoden zur Klärung von Unterrichtswirksamkeit
+* Ansätze für CT basierte Methoden -> the programming historian
 
