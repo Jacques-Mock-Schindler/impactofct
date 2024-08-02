@@ -147,29 +147,33 @@ werden.
 Die Fächergruppe mit der stärksten Korrelation ist heterogener
 Zusammengesetzt. Mathematik und Finanz- und Rechnungswesen sind
 Disziplinen, welche ein hohes Abstraktionsvermögen erfordern. Beim
-interdisziplinären Arbeiten in den Fächern steht die Projektarbeit im
-Vordergrund.
+interdisziplinären Arbeiten in den Fächern geht es um Projektarbeiten. 
 
 Die Fächergruppen stellen unterschiedliche Anforderungen an die
 Lernenden. Diese Anforderungen sollen nun genauer betrachtet werden.
-Anhand dieser Betrachtung wird erläutert, warum sich die Korrelationen
-so deutlich gruppieren lassen. Die folgende Erklärung basiert auf diesen
-fachspezifischen Anforderungen.
 
 ### Anforderungen der Geisteswissenschaften an Lernende
 
 Der zentrale Werkstoff der Geisteswissenschaften ist der Text.
 Entsprechend ist die wichtigste Tätigkeit einer Geisteswissenschafterin
 bzw. eines Geisteswissenschafters die Auseinandersetzung mit Texten.  
-Das verlangt von Lernenden in Fächern, die den Geisteswissenschaften
-zugeordnet werden, dass sie viel Geduld und Konzentration aufbringen.
 Sie müssen bereit sein, Fragen an Texte zu stellen und diese aus den
-Texten heraus selber zu beantworten.
+Texten heraus selber zu beantworten. Diese hermeneutische Vorgehensweise 
+verlangt von Lernenden in Fächern, die den Geisteswissenschaften
+zugeordnet werden, dass sie viel Geduld und Konzentration aufbringen.
 
-Dabei wird eine andere Art von Problemlösung geschult, als dies bei CT
-der Fall ist. CT verlangt zum Überwinden von Verständnisproblemen
-geradezu, dass man das Problem recherchiert. Aufgrund des hohen
-Aktualitätsdruckes am besten online. Dies steht in einem gewissen
+Im Unterschied zur Arbeitsweise in in den Geisteswissenschaften
+verlangt CT eher formal logisches und algorithmisches
+Denken. 
+Dabei wird eine andere Art von Problemlösung geschult als dies in den
+Geisteswissenschaften
+der Fall ist. CT verlangt zum Überwinden von Verständnisproblemen nicht
+die wiederholte Auseinandersetzung mit einem Ursprungstext. Mit dem
+Quellcode von Computerprogrammen gäbe es zwar einen solchen
+Ursprungstext, zur Überwindung von Schwierigkeiten ist man aber
+regelmässig darauf angewiesen, externe Quellen zu Rate zu ziehen.
+Aufgrund des hohen
+Aktualitätsdruckes am besten Onlinequellen. Dies steht in einem gewissen
 Gegensatz zur Vorgehensweise in den Geisteswissenschaften. Natürlich
 soll auch in den Geisteswissenschaften Wissen aus allen verfügbaren
 Quellen geschöpft werden. Aber zentral bleibt die Auseinandersetzung mit
@@ -180,8 +184,7 @@ quantitative Methoden und damit naturwissenschaftliche Ansätze
 Verwendung finden, ändert das nichts daran, dass Geisteswissenschaften
 eher an qualitativen Erkenntnissen interessiert sind. Insbesondere auf
 Mittelschulstufe dominiert nach wie vor das qualitative
-Erkenntnisinteresse. CT verlangt
-dagegen eher formal logisches und algorithmisches Denken.
+Erkenntnisinteresse. 
 
 Damit verlangen die Geisteswissenschaften eine andere Art von Geduld und
 Konzentrationsfähigkeit als das in CT geschult wird.
