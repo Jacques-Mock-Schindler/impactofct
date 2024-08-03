@@ -158,7 +158,7 @@ kaufmännischen Rechnen der beiden Klassen, welche diese
 Untrrichtseinheit durchlaufen haben, besser ausfallen würden, als jene
 ihrer jeweiligen Kontrollklassen. Ein wesentlicher Vorteil des
 Experiments lag daher in der einfachen Auswertung des Resultates. Es
-mussten lediglich die Prüfungsleistungen der beteilligten Klassen
+mussten lediglich die Prüfungsleistungen der beteiligten Klassen
 miteinander verglichen werden.
 
 Dem standen allerdings mehrere Schwächen gegenüber.
@@ -176,10 +176,29 @@ mit
 * $S$ = Stichprobengrösse
 * $Z$ = $Z$-Wert (hier 1.96 für 95%)
 * $P$ = Populationsanteil (hier 0,5 weil unbekannt)
-* $M$ = Fehlermarge (hier 0.05 für 5%)[@perenFormelsammlungWirtschaftsstatistikWissen2022]
+* $M$ = Fehlermarge (hier 0.05 für 
+    5%)[@perenFormelsammlungWirtschaftsstatistikWissen2022, S. 147]
 
-hätte die Stichprobe $n=385$ sein müssen. Mit der aktuellen
-Stichprobengrösse muss man im WG mit einer Fehlermarge von knapp 20% und
+hätte die Stichprobe $n=385$ sein müssen. 
+
+Da die Stichprobe viel kleiner ist, soll hier der Stichprobenfehler
+berechnet werden. Die Berechnung des Stichprobenfehlers erfolgt nach der
+Formel
+
+$$
+Stichprobenfehler = z \cdot \sqrt{\frac{p(1-p)}{n}\cdot \frac{N-n}{N-1}}
+$$
+
+wobei
+
+* $z =$ z-Wert für das Konfidenzniveau ist (für 95% ist z  1.96),
+* $p =$ die geschätzte Erfolgswahrscheinlichkeit (wenn unbekannt, wird oft
+  0.5 verwendet, da dies die maximale Variabilität darstellt),
+* $n =$ die Stichprobengrösse ist,
+* $N =$ die Populationsgröße ist.
+
+Mit der aktuellen
+Stichprobengrösse muss man im WG mit einer Fehlermarge von knapp 19% und
 in der IMS gar mit einer solchen von etwas mehr als 30% rechnen.
 
 Zudem gibt es verschiedene Störvariabeln, welche das Resultat
