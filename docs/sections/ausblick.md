@@ -40,3 +40,16 @@ So könnten Beispielsweise
 
 ## Methoden zur Beurteilung der Wirksamkeit von Unterrichtsmethoden
 
+Eine Möglichkeit, die Arbeitshypothese zu überprüfen basiert auf dem
+gescheiterten natürlichen Experiment. Damit dieses natürliche Experiment
+doch noch verwertbar Resultate hervorbringt, muss in einem ersten
+Schritt nach Schulen gesucht werden, welche zu einem bestimmten
+Zeitpunkt im Curriculum für alle Klassen einheitliche Prüfungen
+vorsehen. Idealerweise zu einem bestimmten, eingeschränkten Thema. In
+einem zweiten Schritt muss innerhalb dieser Schulen nach Lehrpersonen
+gesucht werden, welche Ihre Schülerinnen und Schüler mit Hilfe von CT
+basierten Methoden auf dieses Prüfungen vorbereiten. Bei einer genügend
+grossen Stichprobe könnte so möglicherweise aus dem natürlichen
+Experiment ein verwertbares Resultat gewonnen werden. Allerdings
+erfordert dieses Vorgehen erhebliche personelle und zeitliche
+Ressourcen.
