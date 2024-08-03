@@ -59,7 +59,10 @@ während des ganzen Beobachtungszeitraums unterrichtet und geprüft. Dies
 ist eine Folge der periodisch durchgeführten Massnahmen der
 Qualitätsentwicklung nach Art. 22 Abs. 4 lit. a BiVo. Diese Massnahmen
 der Qualitätsentwicklung führt dazu, dass neue Module zum Modulbaukasten
-hinzugefügt werden und andere entfernt werden.
+hinzugefügt werden und andere entfernt werden. Als Konsequenz der
+Anpassung der ausgebildeten Module ergeben sich unterschiedlich grosse
+Stichproben pro Modul. Die Grösse der Stichprobe ist in der
+Zusammenstellung der Module in [@tbl:modulliste] ausgewiesen.
 
 Die Begründung, weshalb die in der @tbl:modulliste kursiv gesetzten
 Module für die Schulung von CT besonders wichtig sind folgt im Anschluss
