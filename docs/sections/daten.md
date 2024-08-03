@@ -74,18 +74,18 @@ der [@tbl:stichprobenfehler] zusammengestellt.
 \toprule
 Stichprobengrösse&Stichprobenfehler\\
 \midrule
- 47&13.45%\\
-118& 7.58%\\
-119& 7.54%\\
-120& 7.49%\\
-132& 6.99%\\
-155& 6.17%\\
-159& 6.04%\\
-163& 5.92%\\
-164& 5.89%\\
-165& 5.86%\\
-166& 5.82%\\
-167& 5.80%\\
+ 47&13.45\%\\
+118& 7.58\%\\
+119& 7.54\%\\
+120& 7.49\%\\
+132& 6.99\%\\
+155& 6.17\%\\
+159& 6.04\%\\
+163& 5.92\%\\
+164& 5.89\%\\
+165& 5.86\%\\
+166& 5.82\%\\
+167& 5.80\%\\
 \bottomrule
 \end{tabular}
 \caption[Stichprobenfehler der Module.]{Zusammenstellung der
@@ -93,7 +93,7 @@ Stichprobenfehler der verschiedenen Stichprobengrössen bei der Analyse
 der Leistungen in den Modulen der Berufsausbildung.}
 \label{tbl:stichprobenfehler}
 \end{table}
-`````
+```
 
 Die Begründung, weshalb die in der @tbl:modulliste kursiv gesetzten
 Module für die Schulung von CT besonders wichtig sind folgt im Anschluss

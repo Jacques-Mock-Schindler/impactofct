@@ -197,6 +197,8 @@ wobei
 * $n =$ die Stichprobengrösse ist,
 * $N =$ die Populationsgröße ist.
 
+*Beleg?*
+
 Mit der aktuellen
 Stichprobengrösse muss man im WG mit einer Fehlermarge von knapp 19% und
 in der IMS gar mit einer solchen von etwas mehr als 30% rechnen.

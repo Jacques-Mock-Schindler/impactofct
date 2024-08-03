@@ -20,7 +20,8 @@ efz = pd.read_csv('../data/noten_efz.csv',
 
 # %%
 
-efz.count(axis='index')
+stichprobengroessen = efz.count(axis='index')
+stichprobengroessen.sort_values(ascending=True)
 
 # %%
 
