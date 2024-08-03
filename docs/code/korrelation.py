@@ -20,6 +20,10 @@ efz = pd.read_csv('../data/noten_efz.csv',
 
 # %%
 
+efz.count(axis='index')
+
+# %%
+
 threshod = 20
 columns_counts = efz.count()
 columns_to_drop = columns_counts[columns_counts < threshod].index.to_list()
