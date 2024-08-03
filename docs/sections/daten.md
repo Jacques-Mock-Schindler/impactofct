@@ -112,9 +112,10 @@ an die Tabelle.
  \end{longtable}
  \caption[Liste der Module der Berufsausbildung]{Liste der Module aus
  der Stichprobe. \textit{kursiv} sind jene Module
-dargestellt, welche einen deutlichen CT Bezug aufweisen. Die genaue
-Beschreibung aller Module findet sich im
-modulbaukasten.ch.}
+dargestellt, welche einen deutlichen CT Bezug aufweisen. In der Spalte
+$n$ wird die grösse der Stichprobe pro Modul angegeben.
+
+Die genaue Beschreibung aller Module findet sich im modulbaukasten.ch.}
 \label{tbl:modulliste}
 \end{table}
 ```
