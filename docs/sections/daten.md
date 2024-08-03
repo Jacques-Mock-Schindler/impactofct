@@ -66,7 +66,7 @@ Module für die Schulung von CT besonders wichtig sind folgt im Anschluss
 an die Tabelle.
 
 ```{=latex}
-\begin{table}[!ht]
+\begin{table}[ht!]
 \begin{longtable}{llr}
 \toprule
  Nr. & Titel & $n$ \\
@@ -115,7 +115,8 @@ an die Tabelle.
 dargestellt, welche einen deutlichen CT Bezug aufweisen. In der Spalte
 $n$ wird die grösse der Stichprobe pro Modul angegeben.
 
-Die genaue Beschreibung aller Module findet sich im modulbaukasten.ch.}
+Die genaue Beschreibung aller Module findet sich auf der von
+ICT-Berufsbildung Schweiz betreuten Website modulbaukasten.ch.}
 \label{tbl:modulliste}
 \end{table}
 ```
