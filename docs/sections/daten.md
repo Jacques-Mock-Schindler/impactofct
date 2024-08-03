@@ -116,7 +116,7 @@ an die Tabelle.
  \caption[Liste der Module der Berufsausbildung]{Liste der Module aus
  der Stichprobe. \textit{kursiv} sind jene Module
 dargestellt, welche einen deutlichen CT Bezug aufweisen. In der Spalte
-$n$ wird die grösse der Stichprobe pro Modul angegeben.
+$n$ wird die Grösse der Stichprobe pro Modul angegeben.
 
 Die genaue Beschreibung aller Module findet sich auf der von
 ICT-Berufsbildung Schweiz betreuten Website modulbaukasten.ch.}
