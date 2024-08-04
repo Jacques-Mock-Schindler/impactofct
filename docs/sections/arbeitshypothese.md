@@ -99,16 +99,6 @@ werden.
 
 ### Lernen im allgemeinen
 
-#### Kognitionspsychologie
-wurde in der Mitte des 20. Jahrhundert als moderne Wissenschaft
-etabliert.[@goldsteinCognitivePsychologyConnecting2019, S. 10 ff.] Dies
-hat nicht zu Letzt auch mit den Möglichkeiten bildgebender Verfahren für
-die Beobachtung der Vorgänge im menschlichen Gehirn zu
-tun. In der Kognitionspsychologie geht es unter Anderem darum, wie
-Wissen dauerhaft im Gedächtnis abgelegt werden kann.  
-Die hier aufgestellte Arbeitshypothese stützt sich daher vor allem auf
-kognitionspsychologische Modelle des Lernens ab.
-
 ### Lernen vor dem Hintergrund kognitionspsychologischer Erkenntnisse
 
 Aktuell wird in der Kognitionspsychologie das Gedächtnis als
