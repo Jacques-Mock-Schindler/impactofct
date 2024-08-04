@@ -5,7 +5,7 @@ werden. In einem ersten Teil wird die Stichprobe näher Beschrieben und
 in einem zweiten Teil die Datensätze "Noten der Berufsausbildung"
 und "Noten der BMS".
 
-## Beschreibung der Stichprobe
+## Beschreibung der Stichprobe {#sec:stichprobe}
 
 Die Daten umfassen Noten von insgesamt 167 Lernenden. 12 davon sind
 Frauen. Das Durchschnittsalter zum Zeitpunkt der BMS Prüfungen betrug
@@ -61,8 +61,11 @@ Qualitätsentwicklung nach Art. 22 Abs. 4 lit. a BiVo. Diese Massnahmen
 der Qualitätsentwicklung führt dazu, dass neue Module zum Modulbaukasten
 hinzugefügt werden und andere entfernt werden. Als Konsequenz der
 Anpassung der ausgebildeten Module ergeben sich unterschiedlich grosse
-Stichproben pro Modul. Die Grösse der Stichprobe ist in der
-Zusammenstellung der Module in [@tbl:modulliste] ausgewiesen.
+Stichproben pro Modul. Die Grösse der Stichprobe sowie der sich daraus
+ergebende Fehlerbereich ist in der
+Zusammenstellung der Module in [@tbl:modulliste] ausgewiesen. Die
+Berechnung des Fehlerbereichs basiert im Sinne einer Worst Case Annahme
+auf auf einer Gesamtpopulation von 400 Lernenden (vgl. [@sec:stichprobe]).
 
 Die Begründung, weshalb die in der @tbl:modulliste kursiv gesetzten
 Module für die Schulung von CT besonders wichtig sind folgt im Anschluss
@@ -70,7 +73,7 @@ an die Tabelle.
 
 ```{=latex}
 \begin{table}[ht!]
-\begin{longtable}{lp{10cm}rr}
+\begin{longtable}{lp{8cm}rr}
 \toprule
  Nr. & Titel & $n$ &MoE\\
 \midrule
@@ -103,7 +106,7 @@ an die Tabelle.
  & 47 & 13.45\% \\
  306 & \textit{Kleinprojekte im eigenen Berufsumfeld abwickeln} & 164 & 5.89\% \\
  326 & \textit{Objektorientiert entwerfen und implementieren} & 167 & 5.80\% \\
- 335 & \textit{Mobile-Applikation realisieren} & 25 \\
+ 335 & \textit{Mobile-Applikation realisieren} & 25 & 19.00\% \\
  403 & \textit{Programmabläufe prozedural implementieren} & 119 & 7.54\% \\
  404 & Objektbasiert programmieren nach Vorgabe & 120 & 7.49\% \\
  411 & \textit{Datenstrukturen und Algorithmen entwerfen und anwenden}
@@ -117,7 +120,7 @@ an die Tabelle.
  der Stichprobe. \textit{kursiv} sind jene Module
 dargestellt, welche einen deutlichen CT Bezug aufweisen. In der Spalte
 $n$ wird die Grösse der Stichprobe pro Modul angegeben. MoE steht für
-\textit{Margin of Error} oder Stichprobenfehler. Die Berechnung erflgte unter
+\textit{Margin of Error} oder Fehlberbereich. Die Berechnung erflgte unter
 der Annahme, dass die Gesamtpopulation eine Grösse von 400 aufweist.
 
 Die genaue Beschreibung aller Module findet sich auf der von
