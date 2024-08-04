@@ -1,25 +1,41 @@
 # Arbeitshypothese {#sec:arbeitshypothese}
 
-
-
-Bevor die dieser Arbeit zu Grunde liegende Arbeitshypothese erläutert
-werden kann, muss als Vorfrage geklärt werden, weshalb Computerprogramme
+In diesem Abschnitt soll die Bedeutung des Begriffes Computational
+Thinking im Bildungskontext dargelegt werden. Aus der Bedeutung des
+Begriffs ergibt sich die der Arbeit zu Grunde liegende Arbeitshypothese.
+Dazu muss als Vorfrage geklärt werden, 
+weshalb Computerprogramme
 geschrieben werden. Die Beantwortung dieser Frage ergibt sich aus der
-Definition der wissenschaftlichen Disziplin "Informatik" gemäss Wikipedia:
+gängigen
+Definition der wissenschaftlichen Disziplin "Informatik":
 
->"Die Informatik ist die Wissenschaft der systematischen Darstellung,
+>Die Informatik ist die Wissenschaft der systematischen Darstellung,
 >Speicherung, Verarbeitung und Übertragung von Daten, wobei besonders die
 >*automatische Verarbeitung mit Computern* betrachtet
->wird[@wikipediaInformatik2024, Hervorhebung durch den Verfasser]."
+>wird.
 
 Computerprogramme dienen gemäss dieser Definition der automatisierten
-Verarbeitung von Daten.
+Verarbeitung von Daten. Damit sind Computerprogramme das Resultat der
+Anwendung von Computational Thinking.
 
-Da seit kurzem Informatik als obligatorisches Fach an den
-Schweizerischen Gymnasien unterrichtet wird, liegt es nahe, die dort
-erworbenen Kenntnisse für das Lernen auch in anderen Fächern nutzbar zu
-machen. Basierend auf dieser Ausgangslage wurde die folgende
-Arbeitshypothese formuliert:
+Der Definition von Informatik als wissenschaftlicher Disziplin sowie
+Computerprogrammen als Umsetzung von Computational Thininking kommt
+aufgrund der vom Lehrplan 21 geforderten informatischen Bildung für den
+Schulunterricht eine
+besondere Bedeutung zu. Für die Gymnasien, die aufgrund der in Art.
+6 der Maturitätsanerkennungsverordnung (MAV) definierten Bildungsziele
+eine wissenschaftspropädeutische Aufgabe haben, gilt dies noch viel
+stärker. Mit der Änderung der MAV von 2018 wurde Informatik als
+obligatorisches Fach an allen Gymnasien eingeführt. Am 1. August 2024
+wurde der Status des Faches Informatik von einem obligatorischen Fach zu
+einem Grundlagenfach geändert (Art. 11 Abs. 2 lit. e MAV). Als
+Grundlagenfach erscheint die Note im Maturitätszeugnis und ist Teil der
+Bestehensvraussetzungen (Art. 25 Abs. 1 MAV).
+
+Aufgrund dieses formellen Bedeutungsgewinnes des Faches Informatik im
+Schweizerischen Schulsystems in den vergangenen zehn Jahren, stellt sich
+die Frage, welche Bedeutung Computational Thinking für den Unterricht
+hat.
 
 >Damit Probleme algorithmisch gelöst werden können, ist es erforderlich,
 >diese gedanklich zu durchdringen. Wenn Schülerinnen und Schüler
