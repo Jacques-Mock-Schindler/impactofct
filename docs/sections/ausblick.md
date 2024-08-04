@@ -40,6 +40,8 @@ So könnten Beispielsweise
 
 ## Methoden zur Beurteilung der Wirksamkeit von Unterrichtsmethoden
 
+### Quantitativer Ansatz
+
 Eine Möglichkeit, die Arbeitshypothese zu überprüfen basiert auf dem
 gescheiterten natürlichen Experiment (vgl. [@sec:nat_exp]). Damit dieses
 natürliche Experiment
@@ -54,6 +56,8 @@ grossen Stichprobe könnte so möglicherweise aus dem natürlichen
 Experiment ein verwertbares Resultat gewonnen werden. Allerdings
 erfordert dieses Vorgehen erhebliche personelle und zeitliche
 Ressourcen.
+
+### Qualitativer Ansatz
 
 Die Schweizerische Bevölkerung ist seit dem zweiten Weltkrieg stetig
 heterogener geworden. 2023 betrug der Anteil von Menschen ohne Schweizer
