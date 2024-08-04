@@ -181,12 +181,13 @@ mit
 
 hätte die Stichprobe $n=385$ sein müssen. 
 
-Da die Stichprobe viel kleiner ist, soll hier der Stichprobenfehler
-berechnet werden. Die Berechnung des Stichprobenfehlers erfolgt nach der
+Da die Stichprobe viel kleiner ist, soll hier der Fehlerbereich (Margin
+of Error, MoE)
+berechnet werden. Die Berechnung des Fehlerbereichs erfolgt nach der
 Formel
 
 $$
-Stichprobenfehler = z \cdot \sqrt{\frac{p(1-p)}{n}\cdot \frac{N-n}{N-1}}
+MoE = z \cdot \sqrt{\frac{p(1-p)}{n}\cdot \frac{N-n}{N-1}}
 $$
 
 wobei
