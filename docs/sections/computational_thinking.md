@@ -143,7 +143,7 @@ folgenden Texte ausgewertet:
 \normalfont
 ```
 
-Für die spezifische Situation im deutschschweizer Bildungskonzept soll
+Für die spezifische Situation im deutschschweizer Bildungskontext soll
 neben der internationalen wissenschaftlichen Diskussion noch kurz auf
 den Einfluss des Lehrplan 21 eingegangen werden.
 
