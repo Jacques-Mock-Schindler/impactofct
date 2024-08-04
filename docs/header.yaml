@@ -19,11 +19,6 @@ sectionsDepth: 5
 output: 
   pdf_document:
     papersize: a4
-    geometry: 
-      - left=4cm
-      - right=2.5cm
-      - top=3cm
-      - bottom=3cm
     md_extensions: +fenced_code_blocks
 bibliography: Abschlussarbeit.bib
 csl: chicago-library-list.csl 
@@ -40,6 +35,8 @@ header-includes:
     - \hypersetup{breaklinks=true}
     - \usepackage[all]{nowidow}
     - \usepackage{float}
+    - \usepackage{geometry}
+    - \geometry{a4paper, left=4cm, right=3cm, top=3cm, bottom=3cm}
     - \let\origfigure=\figure
     - \let\endorigfigure=\endfigure
     - \renewenvironment{figure}[1][]{\origfigure[H]}{\endorigfigure}
