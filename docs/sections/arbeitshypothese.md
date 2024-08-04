@@ -35,7 +35,52 @@ Bestehensvraussetzungen (Art. 25 Abs. 1 MAV).
 Aufgrund dieses formellen Bedeutungsgewinnes des Faches Informatik im
 Schweizerischen Schulsystems in den vergangenen zehn Jahren, stellt sich
 die Frage, welche Bedeutung Computational Thinking für den Unterricht
-hat.
+hat. Um diese Frage beantworten zu können, soll im nächsten Abschnitt
+kurz auf die kognitionspsychologischen Grundlagen des Lernens
+eingegangen werden.
+
+## Psychologische Grundlagen des Lernens
+
+Praktisch alle haben eine Vorstellung davon, was Lernen bedeutet. In
+lernpsychologischer Hinsicht werden im Wesentlichen zwei Ansätze für die
+Erklärung wie Lernen funktioniert unterschieden:
+
+- verhaltenspsychologische Erklärung und
+- kognitionspsychologische
+  Erklärung[@woolfolkanitaEducationalPsychology2021, S. 289].
+
+### Verhaltenspsychologische Erklärungen
+
+Die Verhaltenspsychologie ist in wissenschaftshistorischer Hinsicht der
+Versuch, der Psychologie eine empirische Grundlage zu geben. Weil zum
+Wechsel vom 19. zum 20. Jahrhundert keine befriedigende Möglichkeit bestand, die
+Vorgänge im Gehirn zu beobachten, hat man den Fokus auf das beobachtbare
+Verhalten
+gerichtet. Verhaltenspsychologen erklären Lernen vor allem mit
+Konditionierung[@woolfolkanitaEducationalPsychology2021, S. 292 ff.].
+Das wohl berühmteste Beispiel für Konditionierung ist 
+der Pawlowsche Hund. Konditionierung funktioniert nicht nur bei Tieren
+sondern auch bei Menschen. Allerdings geht es bei der Konditionierung in
+erster Linie um die Etablierung von
+Verhalten und weniger um das Vermitteln von Wissen. Aus diesem Grund
+spielen verhaltenspsychologische Überlegungen in diesem Text keine
+Rolle.
+
+#### Kognitionspsychologische Erklärungen
+
+Die Kognitionspsychologie wurde in der Mitte des 20. Jahrhundert als moderne Wissenschaft
+etabliert[@goldsteinCognitivePsychologyConnecting2019, S. 10 ff.]. Am
+Anfang der Kognitionspsychologie als Wissenschaft stand die Beobachtung
+von Patienten mit Hirnverletzungen im Vergleich zu Gesunden. So konnten
+Hirnregionen bestimmten kognitiven Fähigkeiten zugeordnet werden. In der
+zweiten Hälfte des 20. Jahrhunderts setzten sich bildgebende Verfahren
+zur 
+Beobachtung der Vorgänge im menschlichen Gehirn durch.
+Eine Fragestellung, mit der sich die Kognitionspsychologie beschäftigt,
+ist der Vorgang,  wie
+Wissen dauerhaft im Gedächtnis abgelegt werden kann.  
+Die hier aufgestellte Arbeitshypothese stützt sich vor allem auf
+kognitionspsychologische Modelle des Lernens ab.
 
 >Damit Probleme algorithmisch gelöst werden können, ist es erforderlich,
 >diese gedanklich zu durchdringen. Wenn Schülerinnen und Schüler
@@ -53,27 +98,6 @@ Plausibilität vor dem Hintergrund psychologischer Erkenntnisse geprüft
 werden.
 
 ### Lernen im allgemeinen
-
-Praktisch alle haben eine Vorstellung davon, was Lernen bedeutet. In
-lernpsychologischer Hinsicht werden im Wesentlichen zwei Ansätze für die
-Erklärung wie Lernen funktioniert unterschieden:
-
-- verhaltenspsychologische Erklärung und
-- kognitionspsychologische
-  Erklärung[@woolfolkanitaEducationalPsychology2021, S. 289].
- 
-#### Verhaltenspsychologie
-ist in wissenschaftshistorischer Hinsicht der
-Versuch, der Psychologie eine empirische Grundlage zu geben. Weil zum
-Wechsel vom 19. zum 20. Jahrhundert keine befriedigende Möglichkeit bestand, die
-Vorgänge im Gehirn zu beobachten, hat man den Fokus auf das Verhalten
-gerichtet. Verhaltenspsychologen erklären Lernen vor allem mit
-Konditionierung[@woolfolkanitaEducationalPsychology2021, S. 292 ff.].
-Das wohl berühmteste Beispiel für Konditionierung ist 
-der Pawlowsche Hund. Obwohl Konditionierung nicht nur mit Tieren
-funktioniert, geht es hier in erster Linie um die Etablierung von
-Verhalten und weniger um das Vermitteln von Wissen. Aus diesem Grund
-spielen verhaltenspsychologische Überlegungen hier keine Rolle.
 
 #### Kognitionspsychologie
 wurde in der Mitte des 20. Jahrhundert als moderne Wissenschaft
@@ -135,4 +159,13 @@ Fragestellung.
 
 
 
+
+>Damit Probleme algorithmisch gelöst werden können, ist es erforderlich,
+>diese gedanklich zu durchdringen. Wenn Schülerinnen und Schüler
+>allgemeingültige Programme für die Lösung einer bestimmten Kategorie von
+>Problemen schreiben, findet eine solche gedankliche Durchdringung statt.
+>Dies ist eine Anwendung von Computational Thinking im Sinne der
+>aktuellen Auffassung dieses Begriffes Definition und führt zu einem
+>tieferen Verständnis der so gelösten 
+>Probleme und damit zu einem nachhaltigen Lernerfolg. 
 
