@@ -41,7 +41,8 @@ So könnten Beispielsweise
 ## Methoden zur Beurteilung der Wirksamkeit von Unterrichtsmethoden
 
 Eine Möglichkeit, die Arbeitshypothese zu überprüfen basiert auf dem
-gescheiterten natürlichen Experiment. Damit dieses natürliche Experiment
+gescheiterten natürlichen Experiment (vgl. [@sec:nat_exp]). Damit dieses
+natürliche Experiment
 doch noch verwertbar Resultate hervorbringt, muss in einem ersten
 Schritt nach Schulen gesucht werden, welche zu einem bestimmten
 Zeitpunkt im Curriculum für alle Klassen einheitliche Prüfungen
@@ -53,3 +54,25 @@ grossen Stichprobe könnte so möglicherweise aus dem natürlichen
 Experiment ein verwertbares Resultat gewonnen werden. Allerdings
 erfordert dieses Vorgehen erhebliche personelle und zeitliche
 Ressourcen.
+
+Die Schweizerische Bevölkerung ist seit dem zweiten Weltkrieg stetig
+heterogener geworden. 2023 betrug der Anteil von Menschen ohne Schweizer
+Staatsbürgerschaft an der Ständigen Wohnbevölkerung mehr als ein
+Viertel[@statistikStandUndEntwicklung]. Wenn man darüber hinaus auch
+noch jenen Teil der Bevölkerung berücksichtigt, welcher das Schweizer
+Bürgerrecht erst seit einer oder zwei Generationen besitzt, so hat knapp
+40% der ständigen Wohnbevölkerung einen
+Migrationshintergrund[@statistikBevoelkerungNachMigrationsstatus].
+Der sich daraus ergebende vielfältige kulturelle Hintergrund macht den
+Einsatz quantitativer Methoden
+schwierig[@flickIntroductionQualitativeResearch2014, S. 12].
+
+Vor diesem Hintergrund kommt der Anwendung qualitativer Methoden eine
+grössere Bedeutung zu. Dass wie in [@sec:leitfadeninterview]
+geschildert ein erster Versuch
+der Datenbeschaffung mit qualitativen Methoden gescheitert ist, tut dem
+keinen Abbruch. Der Einsatz qualitativer Interviews scheint nach wie vor
+grundsätzlich erfolgversprechend. Ein Beispiel für den erfolgreichen
+Einsatz qualitativer Interviews in der Schweizerischen Bildungsforschung
+bildet die Studie EVAMAR II[@evamarii, S. 45]. Allerdings erfordert der
+Einsatz dieser Methode entsprechend geschultes Personal.

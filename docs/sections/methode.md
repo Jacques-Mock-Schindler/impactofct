@@ -17,7 +17,7 @@ verwendet.
    solchen aus der Allgemeinbildung von Lernenden des Berufes
    Informatiker/in, Fachrichtung Applikationsentwicklung.
 
-## Natürliche Experimente 
+## Natürliche Experimente {#sec:nat_exp}
 
 Grundsätzlich wäre es wünschenswert, wenn die Arbeitshypothese mit einem
 Experiment überprüft werden könnte.
@@ -314,7 +314,7 @@ Weil das Problem der Stichprobengrösse bereits in der Planung erkannt
 worden ist, sollte das natürliche Experiment durch Leitfadenintervies
 ergänzt werden.
 
-## Leitfadeninterview
+## Leitfadeninterview {#sec:leitfadeninterview}
 
 Leitfadeninterviews entsprechen nicht der gängigen Vorstellung von
 Interviews, wie man sie aus den Medien kennt. Leitfadeninterviews
