@@ -19,7 +19,11 @@ sectionsDepth: 5
 output: 
   pdf_document:
     papersize: a4
-    geometry: margin=1in
+    geometry: 
+      - left=4cm
+      - right=2.5cm
+      - top=3cm
+      - bottom=3cm
     md_extensions: +fenced_code_blocks
 bibliography: Abschlussarbeit.bib
 csl: chicago-library-list.csl 
