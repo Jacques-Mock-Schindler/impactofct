@@ -66,7 +66,7 @@ Verhalten und weniger um das Vermitteln von Wissen. Aus diesem Grund
 spielen verhaltenspsychologische Überlegungen in diesem Text keine
 Rolle.
 
-#### Kognitionspsychologische Erklärungen
+### Kognitionspsychologische Erklärungen
 
 Die Kognitionspsychologie wurde in der Mitte des 20. Jahrhundert als moderne Wissenschaft
 etabliert[@goldsteinCognitivePsychologyConnecting2019, S. 10 ff.]. Am
