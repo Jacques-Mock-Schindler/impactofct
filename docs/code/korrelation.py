@@ -103,7 +103,7 @@ for label in yticklabels:
     else:
         label.set_color('black')
         
-plt.savefig('../graphics/korrelationen_heatmap.png',
+plt.savefig('../graphics/pearson_heatmap.png',
             format='png',
            dpi=300)
 plt.show()
