@@ -346,23 +346,24 @@ Schülerinnen und Schüler der Kontrollklasse 80.4%. Die
 Gegenüberstellungen der Leistungen von IMS und HMS haben die Lernenden
 der IMS 77.1% und die Lernenden der HMS 80.4% erreicht.  
 
-Aufgrund des durch die Stichprobe möglichen Fehlers wäre es möglich,
+Aufgrund der durch die Grösse der Stichprobe möglichen Fehlerspanne wäre es möglich,
 dass die Leistungen in der Gesamtpopulation durch die Anwendungsübung
-tatsächlich verbessert werden könnte. Allerdings müssten Test- und
-Kontrollgruppe sich im WG mit den erzielten Resultaten je am äussersten
-Rand der jeweiligen Bandbreite an Resutlaten bewegen. In der IMS müsste
-die Bandbreite aufgrund des grösseren Fehlers etwas weniger stark
-ausgereizt worden sein.   
+tatsächlich verbessert worden sind. Allerdings müssten sich Test- und
+Kontrollgruppe im WG mit den erzielten Resultaten je am äussersten
+Rand der jeweiligen Bandbreite der möglichen Resultate bewegen. In der IMS müsste
+die Bandbreite aufgrund der grösseren Fehlerspanne etwas weniger stark
+ausgereizt worden sein.
+
 Unabhängig von dem, was statistisch denkbar wäre, entsprachen die
 Resultate nicht den Erwartungen.
 
-Dass das natürliche Experiment dazu geführt hat, dass die Testklassen
-schlechter abgeschnitten haben, als die Kontrollklassen scheint trotz
+Dass das natürliche Experiment ursächlich dafür war, dass die Testklassen
+schlechter abgeschnitten haben als die Kontrollklassen, scheint trotz
 der Resultate wenig plausibel. Wahrscheinlicher ist, dass die
-Störvariabeln doch einen viel grösseren Einfluss haten, als das zu
+Störvariabeln doch einen viel grösseren Einfluss hatten, als das zu
 Beginn vermutet worden ist. Das würde lediglich bestätigen, dass die
 Varianz in der Leistung zwischen Klassen oft gross ist, oft sogar
-grösser als die Varianz zwischen einzelnene
+grösser als die Varianz zwischen einzelnen
 Schulen[@wurstersebastianSchulUndUnterrichtsqualitaet2022, S. 28].
 
 Weil das Problem der Stichprobengrösse bereits in der Planung erkannt
@@ -372,7 +373,7 @@ ergänzt werden.
 ## Leitfadeninterview {#sec:leitfadeninterview}
 
 Leitfadeninterviews entsprechen nicht der gängigen Vorstellung von
-Interviews, wie man sie aus den Medien kennt. Leitfadeninterviews
+Interviews wie man sie aus den Medien kennt. Leitfadeninterviews
 sind eher durch den Interviewer moderierte Erzählungen des Interviewten.  
 
 >Der grösste Fehler qualitativer Interviewführung liegt [denn auch]
@@ -393,25 +394,22 @@ Befragung der sorgfältigen Planung.
 Um dem Leitfadeninterview Struktur zu geben, wird vor der Durchführung
 ein Leitfaden für das Interview verfasst. Dieser Leitfaden kann entweder
 aus einer Reihe
-offener Fragen oder aus mehreren Erzählaufforderungen bestehen.
-Verbreitet ist eine Kombination aus konkreten Fragen und
-Erzählaufforderungen. Wichtig ist, dass die Fragen offen formuliert
-sind, so dass der Interviewte von der eigenen Erfahrung und seinem
-Empfinden erzählen kann[@misochQualitativeInterviews2019, S. 66].
-Der Leitfaden dient nicht nur als
-Gedankenstütze, er soll ebenso dazu beitragen den Fokus auf der
+offener Fragen oder aus mehreren Erzählaufforderungen bestehen. Für die
+im Rahmen dieser Arbeit durchgeführten Interviews wurde
+eine Kombination aus konkreten Fragen und
+Erzählaufforderungen vorbereitet. Dabei wurden die Fragen offen
+formuliert,
+so dass der Interviewte von der eigenen Erfahrung und seinem
+Empfinden erzählen konnte[@misochQualitativeInterviews2019, S. 66].
+Der Leitfaden diente dabei nicht nur als
+Gedankenstütze, er sollte ebenso dazu beitragen den Fokus auf der
 Forschungsfrage zu
 behalten[@helfferichLeitfadenUndExperteninterviews2022, S. 881;
 @misochQualitativeInterviews2019, S. 66].
-Der Leitfaden soll als Anleitung an den Gesprächsmoderatoren dienen.  
+Der Leitfaden sollte als Anleitung an den Gesprächsmoderatoren dienen.  
 Damit eine vergleichende Auswertung mehrerer Interviews möglich ist,
-wird in allen Interviews der gleiche Leitfaden verwendet.
-
-Der Interviewleitfaden besteht aus einer Kombination von
-Erzählaufforderungen und ausformulierten Fragen. Die ausformulierten
-Fragen dienen als Gedächtnisstützen. Ausserdem sollen sie gestellt
-werden können, falls die Erzählaufforderung sich als nicht zielführend
-erweist. Da als Gesprächspartnerinnen bzw. Gesprächspartner nur
+wurde in allen Interviews der gleiche Leitfaden verwendet.
+Da als Gesprächspartnerinnen bzw. Gesprächspartner nur
 Schülerinnen und Schüler bzw. Lernende aus den beiden Testklassen in
 Frage gekommen sind, wurde der Leitfaden mit dem UML Klassendiagramm
 aus @fig:uml ergänzt. Dieses sollte den Befragten als
@@ -428,12 +426,12 @@ Diskretion unter den Angehörigen der Testklassen sicherstellen.
 
 Da Lernen ein psychologischer Prozess ist, der nicht direkt beobachtet
 werden kann, muss der Vorgang des Lernens indirekt erschlossen werden.
-Standardmässig gechieht dies durch die Kontrolle des Lernerfolges in
-Prüfungen. Das hätte duch das natürliche Experiment ausgenutzt werden
+Standardmässig geschieht dies durch die Kontrolle des Lernerfolges in
+Prüfungen. Das hätte durch das natürliche Experiment ausgenutzt werden
 sollen. Allerdings hätte dies lediglich ermöglicht, die Gültigkeit
-der Arbeitshypothse zu belegen. Selbst wenn dies gelungen wäre, hätte
+der Arbeitshypothese zu belegen. Selbst wenn dies gelungen wäre, hätte
 damit die Frage, warum die Arbeitshypothese bestätigt worden ist, nicht
-beantwortet werden können. Dies ist eine qualitative Frage.
+beantwortet werden können. Diese Frage ist qualitativer Natur.
 
 Um diese Frage beantworten zu können, muss auf das Erleben der
 Schülerinnen und Schüler bzw. der Lernenden abgestellt werden. Da dieses
@@ -441,15 +439,16 @@ genausowenig direkt beobachtbar ist wie das Lernen, muss es erfragt
 werden. Das Erleben einer Lernsituation ist allerdings zu individuell,
 als das es mit einem standardisierten Fragebogen erhoben werden könnte.
 Das Leitfadeninterview bietet hier eine Möglichkeit, diesem Umstand
-zu begegnen. Mit dem Erfragen des Lernerlebnisses kann die
-möglicherweise die Frage, weshalb die Arbeitshyptohese gilt, beantwortet
-werden.
+zu begegnen. Mit dem Erfragen des Lernerlebnisses besteht die
+Möglichkeit, die Frage weshalb die Arbeitshyptohese gilt, beantworten
+zu können.
 
 ### Durchführung der Leitfadeninterviews
 
 Die Rekrutierung von Gesprächspartnerinnen und Gesprächspartnern
-gestaltete sich schwieriger als geplant. Auf die allgemeine Einladung
-hat zuerst niemand reagiert. Erst auf gezielte Einladung haben sich
+gestaltete sich schwieriger als erwartet. Auf die allgemeine Einladung,
+an einem Leitfandeninterview teilzunehmen,
+hat zuerst niemand reagiert. Erst auf gezielte Einladung hin haben sich
 einzelne Schülerinnen und Lernende zu einem Gespräch bereit erklärt. Die
 angestrebte Zahl an Gesprächspartnerinnen und Gesprächspartnern konnte
 nicht erreicht werden. Insgesamt wurden lediglich vier Gespräche
@@ -470,7 +469,9 @@ Ausserdem war stets ihr Bemühen zu erkennen, den Befrager mit ihren
 Antworten zufrieden zu stellen.
 
 Nach der Durchführung ist beim Befrager der Eindruck zurückgeblieben, er
-hätte eine einzige grosse Suggestivfrage gestellt.
+hätte eine einzige grosse Suggestivfrage gestellt. Dem hätte allenfalls
+durch den Einsatz von geschulten externen Interviewern begegnet werden
+können.
 
 ### Auswertung der Interviews
 
@@ -490,13 +491,14 @@ Dies ist hier allerdings ein Grund, am Wert der Aussagen zu zweifeln.
 Wie bei der Beschreibung der Durchführung bereits festgehalten, ist
 keine spontane Erzählung zustande gekommen. Die Gesprächspartnerinnen
 und Gesprächspartner waren zu stark darauf bedacht, zu erzählen, was der
-Befrager hören wollte, dass den Aussagen kein eigener Wert zukommt. Sie
+Befrager hören wollte. So kommt den Aussagen kein eigener Wert zu. Sie
 haben lediglich die der Arbeitshypothese zu Grunde liegenden Annahmen
-verstärkt.
+wiederholt.
 
 Aus den Interviews ergab sich daher kein Erkenntnisgewinn.  
 Dies führte dazu, dass nach einer weiteren Möglichkeit gesucht wurde, um
-die Arbeitshypothese zu überprüfen. Diese hat sich aus der Natur der
+die Arbeitshypothese zu überprüfen. Wie im Folgenden zu zeigen sein
+wird, hat sich eine solche Möglichkeit aus der Natur der
 Ausbildung an der IMS ergeben.
 
 ## Fazit zu den verworfenen Methoden
@@ -504,7 +506,7 @@ Ausbildung an der IMS ergeben.
 Mit den verworfenen Methoden hätte ein sogenannter *Mixed Methods*
 Ansatz empirischer Sozialforschung[@schreierMixedMethods2020, S. 164]
 verfolgt werden sollen. Es hat sich allerdings gezeigt, dass der
-Mittelansatz dazu unzureichend ist. Für das natürliche Experiment war
+Mittelansatz dazu unzureichend war. Für das natürliche Experiment war
 die Population zu klein und für die Leitfadeninterviews konnte keine
 Gesprächssituation geschaffen werden, in welcher die
 Gesprächspartnerinnen und Gesprächspartner unbeeinflusst vom Befrager
