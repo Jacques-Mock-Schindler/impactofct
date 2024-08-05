@@ -12,7 +12,8 @@ Definition der wissenschaftlichen Disziplin "Informatik":
 >Die Informatik ist die Wissenschaft der systematischen Darstellung,
 >Speicherung, Verarbeitung und Übertragung von Daten, wobei besonders die
 >*automatische Verarbeitung mit Computern* betrachtet
->wird.
+>wird[@muellerVorkursInformatikEinstieg2023a, S. 7 (Zusammenfassung der
+dortigen Definitionen)].
 
 Computerprogramme dienen gemäss dieser Definition der automatisierten
 Verarbeitung von Daten. Damit sind Computerprogramme das Resultat der
@@ -45,25 +46,33 @@ Praktisch alle haben eine Vorstellung davon, was Lernen bedeutet. In
 lernpsychologischer Hinsicht werden im Wesentlichen zwei Ansätze für die
 Erklärung wie Lernen funktioniert unterschieden:
 
-- verhaltenspsychologische Erklärung und
+- behavioristische Erklärung und
 - kognitionspsychologische
   Erklärung[@woolfolkanitaEducationalPsychology2021, S. 289].
 
-### Verhaltenspsychologische Erklärungen
+### Behavioristische Erklärungen
 
-Die Verhaltenspsychologie ist in wissenschaftshistorischer Hinsicht der
+Der Behaviorismus wissenschaftshistorischer Hinsicht der
 Versuch, der Psychologie eine empirische Grundlage zu geben. Weil zum
 Wechsel vom 19. zum 20. Jahrhundert keine befriedigende Möglichkeit bestand, die
 Vorgänge im Gehirn zu beobachten, hat man den Fokus auf das beobachtbare
 Verhalten
-gerichtet. Verhaltenspsychologen erklären Lernen vor allem mit
+gerichtet. Der Behaviorismus erklärt Lernen vor allem mit
 Konditionierung[@woolfolkanitaEducationalPsychology2021, S. 292 ff.].
 Das wohl berühmteste Beispiel für Konditionierung ist 
-der Pawlowsche Hund. Konditionierung funktioniert nicht nur bei Tieren
+der Pawlowsche Hund. In diesem Experiment hat der russische Psychologe
+Iwan Pawlow zu Beginn des 20. Jahrhunderts Hunde so konditioniert, dass sie den Ton einer Glocke fest
+mit Futter assoziierten. Als Reaktion auf das Futter hatten die Hunde
+einen gesteigerten Speichelfluss. Durch die Assoziation von Glocke und
+Futter hatten die Hunde in der Folge auch dann einen
+gesteigerten Speichelfluss, wenn die Glocke ertönte ohne dass
+Futter dargereicht wurde. Diese feste Verbindung von Reiz und Reaktion
+ist das Phänomen der Konditionierung.
+Konditionierung funktioniert nicht nur bei Tieren
 sondern auch bei Menschen. Allerdings geht es bei der Konditionierung in
 erster Linie um die Etablierung von
 Verhalten und weniger um das Vermitteln von Wissen. Aus diesem Grund
-spielen verhaltenspsychologische Überlegungen in diesem Text keine
+spielen behavioristische Überlegungen in diesem Text keine weitere
 Rolle.
 
 ### Kognitionspsychologische Erklärungen
