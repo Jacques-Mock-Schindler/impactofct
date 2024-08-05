@@ -179,7 +179,7 @@ offensichtlich erfolgreich gelöst worden.
 
 Das Experiment liess erwarten, dass die Prüfungsleistungen im
 kaufmännischen Rechnen der beiden Klassen, welche diese
-Untrrichtseinheit durchlaufen haben, besser ausfallen würden, als jene
+Unterrichtseinheit durchlaufen haben, besser ausfallen würden als jene
 ihrer jeweiligen Kontrollklassen. Ein wesentlicher Vorteil des
 Experiments lag daher in der einfachen Auswertung des Resultates. Es
 mussten lediglich die Prüfungsleistungen der beteiligten Klassen
@@ -220,9 +220,7 @@ wobei
 * $p =$ die geschätzte Erfolgswahrscheinlichkeit (wenn unbekannt, wird oft
   0.5 verwendet, da dies die maximale Variabilität darstellt),
 * $n =$ die Stichprobengrösse ist,
-* $N =$ die Populationsgröße ist.
-
-*Beleg?*
+* $N =$ die Populationsgröße ist[@ramachandranStatisticalEstimation2021, S. 223].
 
 Mit der aktuellen
 Stichprobengrösse muss man im WG mit einer Fehlermarge von knapp 19% und
