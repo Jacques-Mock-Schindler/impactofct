@@ -3,19 +3,23 @@
 In diesem Abschnitt wird dargelegt, wie die Arbeitshypothese überprüft
 wird. Aus der Arbeitshypothese ergibt sich folgende Frage:
 
-Ist Computational Thinking eine hilfreiche Grundlage für das Lernen im
-Allgemeinen?
+Hilft die Anwendung von Computational Thinking beim Lernen?
 
-Um diese Frage zu beantworten, wurden drei methodische Ansätze
-verwendet.
+Um diese Frage zu beantworten, wurde auf drei unterschiedliche
+methodische Ansätze abgestellt.
 
-1. Ein natürliches Experiment, in welchem die Auswirkungen von CT auf
-   den Lernerfolg von Schulklassen überprüft wird.
-2. Leitfadeninterviews, mit welchen erhoben wird, wie Schülerinnen
-   und Schüler die Auswirkungen von CT auf den Lernerfolg beurteilen.
-3. Die Gegenüberstellung von Noten aus der beruflichen Grundbildung und
+1. Ein natürliches Experiment, mit welchem versucht wurde die
+   Auswirkungen von Computational Thinking auf den Lernerfolg von
+   Schulklassen zu überprüfen.
+2. Leitfadeninterviews, mit welchen versucht wurde zu erheben, wie
+   Schülerinnen und Schüler die Auswirkungen von Computational Thinking
+   auf den Lernerfolg beurteilen.
+3. Die Gegenüberstellung von Noten aus der Berufsausbildung und
    solchen aus der Allgemeinbildung von Lernenden des Berufes
-   Informatiker/in, Fachrichtung Applikationsentwicklung.
+   Informatiker/in, Fachrichtung Applikationsentwicklung um zu
+   versuchen, einen statistischen Zusammenhang zwischen angewandten
+   Fähigkeiten in Computational Thinking und dem Lernerfolg in der
+   Allgemeinbildung zu erkennen.
 
 ## Natürliche Experimente {#sec:nat_exp}
 
@@ -134,7 +138,7 @@ entdeckte natürliche Experimente zu verwenden.
 
 Neben der Verfügbarkeit sprachen aber auch die inhaltliche Ausgestaltung
 des natürlichen Experiments für dessen Auswahl. Flossen doch
-alle Aspekte von CT in den Unterricht
+alle Aspekte von Computational Thinking in den Unterricht
 ein.  
 Wie das geschehen ist, kann mit dem Klassendiagramm illustriert
 werden (vgl. @fig:uml). Die Aufgabe, ein Kontokorrentkonto zu
@@ -221,7 +225,7 @@ den Aufnahmebedingungen zu den beiden Schultypen. Für den Eintritt in
 die HMS muss eine Aufnahmeprüfung nach der zweiten oder dritten
 Sekundarklasse abgelegt werden. Für die Aufnahme an die IMS muss eine
 Aufnahmeprüfung nach der dritten Sekundarklasse abgelegt werden sowie
-zusätzlich ein Multichck "ICT Informatiker/in EFZ Fachricthung
+zusätzlich ein Multichck "IComputational Thinking Informatiker/in EFZ Fachricthung
 Applikationsentwicklung" in den Bereichen "Potenzial" und
 "berufsspezifische Fähigkeiten" mit mindestens 50 Punkten bestanden
 werden[@ZentraleAufnahmepruefungFuer]. Die IMS richtet sich damit
