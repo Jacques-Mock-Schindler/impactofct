@@ -28,6 +28,8 @@ header-includes:
     - \usepackage{longtable}
     - \usepackage{booktabs}
     - \usepackage{svg}
+    - \usepackage{listings}
+    - \usepackage{xcolor}
     - \usepackage{caption}
     - \captionsetup{font=small}
     - \usepackage{xurl}
