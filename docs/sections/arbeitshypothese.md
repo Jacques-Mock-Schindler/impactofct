@@ -46,9 +46,9 @@ Praktisch alle haben eine Vorstellung davon, was Lernen bedeutet. In
 lernpsychologischer Hinsicht werden im Wesentlichen zwei Ansätze für die
 Erklärung wie Lernen funktioniert unterschieden:
 
-- behavioristische Erklärung und
+- behavioristische Erklärung[@woolfolkanitaEducationalPsychology2021, S. 289] und
 - kognitionspsychologische
-  Erklärung[@woolfolkanitaEducationalPsychology2021, S. 289].
+  Erklärung[@woolfolkanitaEducationalPsychology2021, S. 326].
 
 ### Behavioristische Erklärungen
 
@@ -88,6 +88,72 @@ Beobachtung der Vorgänge im menschlichen Gehirn durch.
 Eine Fragestellung, mit der sich die Kognitionspsychologie beschäftigt,
 ist der Vorgang,  wie
 Wissen dauerhaft im Gedächtnis abgelegt werden kann.  
+
+Aktuell wird in der Kognitionspsychologie das Gedächtnis als
+Arbeitsgedächtnis und
+Langzeitgedächtnis modelliert[@eysenckCognitivePsychologyStudent2020, S. 246;
+@goldsteinCognitivePsychologyConnecting2019, S. 143;
+@woolfolkanitaEducationalPsychology2021, S. 330]. Das Modell wurde von
+Alan Baddeley und Graham Hitch entwickelt[@baddeleyWorkingMemory1974, S.
+74]. 
+Dieses Modell erklärt das Zusammenspiel von
+Sinneswahrnehmungen, deren Verarbeitung und allfälligen Ablage im
+Langzeitgedächtnis. Dies bietet eine theoretische Basis für das Konzept
+der *Levels of Processing*[@craikLevelsProcessingFramework1972, S. 675], welches
+Fergus Craik und Robert Lockhart in ihrem Aufsatz *Levels of
+processing: A framework for memory
+research* beschrieben haben.
+Im ursprünglichen Aufsatz werden
+ausschliesslich schon bestehende
+Datensätze vor dem Hintergrund dieses Konzepts neu ausgewertet. Seither
+wurden das Konzept jedoch in weiteren Studien überprüft und
+verifiziert[@goldsteinCognitivePsychologyConnecting2019, S. 193 und dort
+zitierte Studien; @eysenckCognitivePsychologyStudent2020, S. 262 und
+dort zitierte Studien].
+
+Gemäss diesem Konzept werden Lerninhalte, mit deren Inhalten
+man sich vertieft auseinandergesetzt hat, dauerhafter im
+Langzeitgedächtnis abgelegt. Eine vertiefte Auseinandersetzung bedeutet
+in diesem Zusammenhang, dass man die Lerninhalte nicht ausschliesslich
+lesend oder in Form eines konventionellen Lehrgesprächs zur Kenntnis
+nimmt, sondern aktiv etwas mit den Inhalten macht. Dieser Ansatz wurde
+in der Schweiz im Rahmen einer Studie zu anwendungs- und
+problemorientierten Unterricht weiter untersucht[@APUIGB]. In der
+Besprechung der Resultate bekennen sich die Verfasser der Studie zu
+einem "gemässigten Konstruktivismus[@APUIGB, S. 112]". Dieses Bekenntnis
+ermöglicht, wenn auch über mehrere Etappen, einen Bogen zurück zu
+Comuptational Thinking. Wer sich zu einem "gemässigten" Konstruktivismus
+bekennt, nimmt damit implizit Bezug auf den radikalen Konstruktivismus
+und damit auch auf den Schweizer Biologen und Pionier der kognitiven
+Entwicklungspsychologie Jean Piaget. Dies ist im aktuellen Kontext
+von Bedeutung, weil Jean Piaget der Lehrer von Seymour Papert war.
+
+APU -> Konstruktivismus -> Piaget -> Papert -> Wing -> CT
+
+Die Arbeitshypothese nimmt diese Überlegung implizit auf. Wenn
+Schülerinnen und Schüler Problemlösungen programmieren, müssen sie die
+Problemstellung im Vorfeld gedanklich in alle Richtungen durchdrungen
+haben. Insbesondere müssen die SuS sich auch mit der Abgrenzung der
+Problemstellung sowie mit Grenz- und Extremfällen des Problems
+auseinandergesetzt haben. Dass eine Vorstellung über die Grenzen der
+Problemstellung für einen nachhaltigen Lerneffekt wichtig ist, wird auch
+in Lehrmitteln zur Lernpsychologie
+festgehalten[@woolfolkanitaEducationalPsychology2021, S. 347].
+
+Die Arbeitshypothese wird theoretisch weiter gestützt durch die
+Bedeutung 
+des Verständnisses der Konzepte die den zu lösenden Problemstellungen zu
+Grunde liegen. Das Verständnis dieser Konzepte hilft, das Wesentliche
+der jeweiligen Fragestellungen zu
+erfassen.[@woolfolkanitaEducationalPsychology2021, S. 347]  
+Auch hier leistet das Programmieren einer allgemeinen Lösung für eine
+Problemstellung einen Beitrag. Um ein Programm zu schreiben, werden in
+der Planung schematische Darstellungen zur Analyse des Problems
+verwendet. Die für die schematische Darstellung erforderliche
+Abstraktion erfordert die konzeptionelle Durchdringung der
+Fragestellung. 
+
+
 Die hier aufgestellte Arbeitshypothese stützt sich vor allem auf
 kognitionspsychologische Modelle des Lernens ab.
 
