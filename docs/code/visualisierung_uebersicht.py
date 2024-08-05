@@ -11,20 +11,6 @@ bm = pd.read_csv('../data/noten_bm.csv', sep=';', index_col=0)
 
 # %%
 
-plt.figure(
-    figsize=(12, 6)
-)
-
-sns.boxplot(data=bm, color='skyblue')
-plt.title('Notenverteilung in der BMS')
-plt.xlabel('Fächer')
-plt.ylabel('Noten')
-plt.xticks(rotation=45)
-plt.tight_layout()
-plt.show()
-
-# %%
-
 main_color = 'springgreen'
 last_color = 'mediumaquamarine'
 
@@ -111,6 +97,5 @@ plt.savefig('../graphics/boxplots_efz.png',
             bbox_inches='tight',
             dpi=300)
 plt.show()
-
 
 # %%
