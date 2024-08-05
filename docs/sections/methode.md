@@ -149,16 +149,18 @@ Kontrollklasse.
 
 ### Begründung für die Wahl des natürlichen Experiments {#sec:begr_nat_exp}
 
-Weil es eigentlich wünschenwsert wäre, die Gültigkeit einer
+Weil es eigentlich wünschenswert wäre, die Gültigkeit einer
 Arbeitshypothese experimentell zu überprüfen, liegt es auf der Hand,
 entdeckte natürliche Experimente zu verwenden.
 
 Neben der Verfügbarkeit sprachen aber auch die inhaltliche Ausgestaltung
-des natürlichen Experiments für dessen Auswahl. Flossen doch
-alle Aspekte von Computational Thinking in den Unterricht
-ein.  
-Wie das geschehen ist, kann mit dem Klassendiagramm illustriert
-werden (vgl. @fig:uml). Die Aufgabe, ein Kontokorrentkonto zu
+des natürlichen Experiments für dessen Auswahl. Die Anwendungsübung hat
+alle Aspekte von Computational Thinking in den Unterricht einfliessen
+lassen.
+
+Wie das geschehen ist, kann mit dem UML Klassendiagramm aus [@fig:uml]
+illustriert
+werden. Die Aufgabe, ein Kontokorrentkonto zu
 modellieren, musste in Teilprobleme zerlegt werden. Die Teilprobleme
 entsprechen dabei den Klassen. Die Klassen mussten weiter analysiert und
 mit Attributen und Methoden versehen werden. Durch die Modellierung des
@@ -166,10 +168,11 @@ Problems in Klassen und Unterklassen mit Attributen und Methoden musste
 ausserdem von konkreten Beispielen abstrahiert werden. Nur dieses auf
 das Notwendige reduzierte Modell eignete sich, wiederkehrende Probleme
 zu erkennen und diese einer durch einen Algorithmus gesteuerten Lösung
-zuzuführen.  
+zuzuführen. Die Implementierung in den Programmiersprachen Python und
+Java stellte dann die konkretisierte algorithmische Lösung dar.  
 Ausserdem war die Unterrichtseinheit selbstüberprüfend. Wenn es den
 Schülerinnen und Schülern nach der Implementierung in Python oder Java
-möglich war, Zinsberechnungen durchzufürhen, war die Aufgabenstellung
+möglich war, Zinsberechnungen durchzuführen, war die Aufgabenstellung
 offensichtlich erfolgreich gelöst worden.
 
 ### Stärken und Schwächen der Untersuchungsanlage
