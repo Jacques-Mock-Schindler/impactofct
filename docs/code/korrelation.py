@@ -18,10 +18,6 @@ efz = pd.read_csv('../data/noten_efz.csv',
                   sep=';',
                   index_col=0)
 
-# %%
-
-stichprobengroessen = efz.count(axis='index')
-stichprobengroessen.sort_values(ascending=True)
 
 # %%
 
@@ -33,13 +29,12 @@ efz_reduced = efz.drop(columns=columns_to_drop)
 # %%
 
 headers = list(bm)
-#headers = headers[:8]
 indices = list(efz_reduced)
     
     
 # %%
     
-correlations = pd.DataFrame(index=indices, columns=headers)
+pearson = pd.DataFrame(index=indices, columns=headers)
 
 # %%
 
@@ -48,32 +43,32 @@ for header in headers:
         tmp = pd.concat([bm[header], efz[index]], axis="columns")
         tmp.dropna(axis="index", inplace=True)
         r = tmp[index].corr(tmp[header])
-        correlations.loc[index, header] = r
+        pearson.loc[index, header] = r
         
 # %%
 
-correlations.to_csv('../data/korrelationen.csv', sep=';')
+pearson.to_csv('../data/korrelationen.csv', sep=';')
 
 # %%
 
-correlations = correlations.select_dtypes(include=['object']).astype(float)
+pearson = pearson.select_dtypes(include=['object']).astype(float)
 
 # %%
 
-mittelwerte = correlations.median()
+mittelwerte = pearson.median()
 mittelwerte.sort_values(inplace=True)
 sortierreihenfolge = mittelwerte.index.to_list()
 
 # %%
 
-querwerte = correlations.median(axis=1)
+querwerte = pearson.median(axis=1)
 querwerte.sort_values(inplace=True)
 sortierreihenfolge_quer = querwerte.index.to_list()
 
 # %%
 
-correlations = correlations[sortierreihenfolge]
-correlations = correlations.reindex(sortierreihenfolge_quer)
+pearson = pearson[sortierreihenfolge]
+pearson = pearson.reindex(sortierreihenfolge_quer)
 
 # %%
 
@@ -88,12 +83,12 @@ grey_to_green = LinearSegmentedColormap.from_list('custom_grey_green', colors, N
 plt.figure(
     figsize = (7, 10)
 )
-ax = sns.heatmap(correlations, annot=True, 
+ax = sns.heatmap(pearson, annot=True, 
             cmap=grey_to_green, 
             vmin=-.2, vmax=.6, center=0.3)
 for col in range(1, 9):
     ax.axvline(x=col, color='black', linewidth=.5)
-plt.title(f'Pearsonkorrelation Noten BM - EFZ ')
+plt.title(f'Pearson\'s r Noten BM - EFZ ')
 plt.ylabel('EFZ Modul Nr.')
 plt.xlabel('BM Fächer')
     
@@ -173,21 +168,12 @@ for label in yticklabels:
     else:
         label.set_color('black')
 
-plt.title(f'Spearmankorrelation Noten BM - EFZ ')
+plt.title(r'Spearman\'s $\rho$ Noten BM - EFZ ')
 plt.ylabel('EFZ Modul Nr.')
 plt.xlabel('BM Fächer')
-plt.savefig('../graphics/spearmankorrelationen_heatmap.png',
+plt.savefig('../graphics/spearman_heatmap.png',
             format='png',
            dpi=300)
 plt.show()
-
-
-# %%
-
-mittelwerte
-
-# %%
-
-spearman.median()
 
 # %%
