@@ -36,11 +36,9 @@ Bestehensvraussetzungen (Art. 25 Abs. 1 MAV).
 Aufgrund dieses formellen Bedeutungsgewinnes des Faches Informatik im
 Schweizerischen Schulsystems in den vergangenen zehn Jahren, stellt sich
 die Frage, welche Bedeutung Computational Thinking für den Unterricht
-hat. Um diese Frage beantworten zu können, soll im nächsten Abschnitt
-kurz auf die kognitionspsychologischen Grundlagen des Lernens
+hat. Um diese Frage beantworten zu können, soll im folgenden
+kurz auf die psychologischen Grundlagen des Lernens
 eingegangen werden.
-
-## Psychologische Grundlagen des Lernens
 
 Praktisch alle haben eine Vorstellung davon, was Lernen bedeutet. In
 lernpsychologischer Hinsicht werden im Wesentlichen zwei Ansätze für die
@@ -50,7 +48,7 @@ Erklärung wie Lernen funktioniert unterschieden:
 - kognitionspsychologische
   Erklärung[@woolfolkanitaEducationalPsychology2021, S. 326].
 
-### Behavioristische Erklärungen
+## Behavioristische Erklärungen
 
 Der Behaviorismus wissenschaftshistorischer Hinsicht der
 Versuch, der Psychologie eine empirische Grundlage zu geben. Weil zum
@@ -75,7 +73,7 @@ Verhalten und weniger um das Vermitteln von Wissen. Aus diesem Grund
 spielen behavioristische Überlegungen in diesem Text keine weitere
 Rolle.
 
-### Kognitionspsychologische Erklärungen
+## Kognitionspsychologische Erklärungen
 
 Die Kognitionspsychologie wurde in der Mitte des 20. Jahrhundert als moderne Wissenschaft
 etabliert[@goldsteinCognitivePsychologyConnecting2019, S. 10 ff.]. Am
