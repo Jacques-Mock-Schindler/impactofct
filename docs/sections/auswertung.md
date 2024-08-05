@@ -61,7 +61,7 @@ Variablen vertauscht. In dieser Darstellung ist aber der Effekt besser
 zu erkennen.
 
 \begin{figure}[ht!]
-\includegraphics[width=\textwidth]{docs/graphics/spearmankorrelationen_heatmap.png}
+\includegraphics[width=\textwidth]{docs/graphics/spearman_heatmap.png}
 \caption[Heatmap mit den Korrelationen zwischen den Noten der
 Berufsausbildung und jenen der BMS (Spearman's $\rho$).]{Heatmap mit den Korrelationen
 zwischen den Noten der Berufsausbildung und jenen der BMS. Die
@@ -112,7 +112,7 @@ Ein ähnliches, wenn auch nicht ganz identisches Resultat ergibt sich,
 wenn statt Spearman's $\rho$ auf Pearson's $r$ abgestellt wird.
 
 \begin{figure}[ht!]
-\includegraphics[width=\textwidth]{docs/graphics/korrelationen_heatmap.png}
+\includegraphics[width=\textwidth]{docs/graphics/pearson_heatmap.png}
 \caption[Heatmap mit den Korrelationen zwischen den Noten der
 Berufsausbildung und jenen der BMS (Pearson's $r$).]{Heatmap mit den
 Korrelationen zwischen den Noten der Berufsausbildung und jenen der BMS.
