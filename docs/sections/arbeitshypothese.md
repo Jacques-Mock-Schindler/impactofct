@@ -118,22 +118,43 @@ in diesem Zusammenhang, dass man die Lerninhalte nicht ausschliesslich
 lesend oder in Form eines konventionellen Lehrgesprächs zur Kenntnis
 nimmt, sondern aktiv etwas mit den Inhalten macht. Dieser Ansatz wurde
 in der Schweiz im Rahmen einer Studie zu anwendungs- und
-problemorientierten Unterricht weiter untersucht[@APUIGB]. In der
+problemorientierten Unterricht untersucht[@APUIGB]. In der
 Besprechung der Resultate bekennen sich die Verfasser der Studie zu
 einem "gemässigten Konstruktivismus[@APUIGB, S. 112]". Dieses Bekenntnis
 ermöglicht, wenn auch über mehrere Etappen, einen Bogen zurück zu
 Comuptational Thinking. Wer sich zu einem "gemässigten" Konstruktivismus
-bekennt, nimmt damit implizit Bezug auf den radikalen Konstruktivismus
-und damit auch auf den Schweizer Biologen und Pionier der kognitiven
+bekennt, grenzt sich bewusst vom "radikalen" Konstruktivismus ab und
+nimmt damit direkt Bezug auf den radikalen Konstruktivismus. Einer der
+Väter des radikalen Konstruktivismus ist der Schweizer Biologe und
+Pionier der kognitiven
 Entwicklungspsychologie Jean Piaget. Dies ist im aktuellen Kontext
 von Bedeutung, weil Jean Piaget der Lehrer von Seymour Papert war.
+Seymour Papert war Mathematiker und Psychologe und der Autor von
+"Mindstorms: children, computers, and powerful ideas". Er verwendet in
+diesem 1980 erschienenen Buch das erste Mal den Begriff Computational
+Thinking im Zusammenhang mit
+Lernen[@papertMindstormsChildrenComputers1980, S. 180]. Damit schliesst
+sich über den Begriff Computational Thinking der Bogen zu Jeannette
+Wing.
 
-APU -> Konstruktivismus -> Piaget -> Papert -> Wing -> CT
+Lehr- und Lernmethoden, welche auf Computational Thinking basieren, sind
+daher dem Level of Processing Modell verpflichtet.
+
+Dieser Gedankengang führt im Resultat zu folgender Arbeitshypothese:
+
+>Damit Probleme algorithmisch gelöst werden können, ist es erforderlich,
+>diese gedanklich zu durchdringen. Wenn Schülerinnen und Schüler
+>allgemeingültige Programme für die Lösung einer bestimmten Kategorie von
+>Problemen schreiben, findet eine solche gedankliche Durchdringung statt.
+>Dies ist eine Anwendung von Computational Thinking im Sinne der
+>aktuellen Auffassung dieses Begriffes und führt zu einem
+>tieferen Verständnis der so gelösten 
+>Probleme und damit zu einem nachhaltigen Lernerfolg. 
 
 Die Arbeitshypothese nimmt diese Überlegung implizit auf. Wenn
 Schülerinnen und Schüler Problemlösungen programmieren, müssen sie die
 Problemstellung im Vorfeld gedanklich in alle Richtungen durchdrungen
-haben. Insbesondere müssen die SuS sich auch mit der Abgrenzung der
+haben. Insbesondere müssen die Schülerinnen und Schüler sich auch mit der Abgrenzung der
 Problemstellung sowie mit Grenz- und Extremfällen des Problems
 auseinandergesetzt haben. Dass eine Vorstellung über die Grenzen der
 Problemstellung für einen nachhaltigen Lerneffekt wichtig ist, wird auch
@@ -153,18 +174,6 @@ verwendet. Die für die schematische Darstellung erforderliche
 Abstraktion erfordert die konzeptionelle Durchdringung der
 Fragestellung. 
 
-
-Die hier aufgestellte Arbeitshypothese stützt sich vor allem auf
-kognitionspsychologische Modelle des Lernens ab.
-
->Damit Probleme algorithmisch gelöst werden können, ist es erforderlich,
->diese gedanklich zu durchdringen. Wenn Schülerinnen und Schüler
->allgemeingültige Programme für die Lösung einer bestimmten Kategorie von
->Problemen schreiben, findet eine solche gedankliche Durchdringung statt.
->Dies ist eine Anwendung von Computational Thinking im Sinne der
->aktuellen Auffassung dieses Begriffes Definition und führt zu einem
->tieferen Verständnis der so gelösten 
->Probleme und damit zu einem nachhaltigen Lernerfolg. 
 
 ## Psychologischer Hintergrund der Arbeitshypothese
 
