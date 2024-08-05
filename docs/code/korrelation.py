@@ -168,7 +168,7 @@ for label in yticklabels:
     else:
         label.set_color('black')
 
-plt.title(r'Spearman\'s $\rho$ Noten BM - EFZ ')
+plt.title(r"Spearman's $\rho$ Noten BM - EFZ")
 plt.ylabel('EFZ Modul Nr.')
 plt.xlabel('BM Fächer')
 plt.savefig('../graphics/spearman_heatmap.png',
