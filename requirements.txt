@@ -11,8 +11,10 @@ bleach==6.1.0
 certifi==2024.7.4
 cffi==1.16.0
 charset-normalizer==3.3.2
+click==8.1.7
 colorama==0.4.6
 comm==0.2.2
+comment_parser==1.2.4
 contourpy==1.2.1
 cycler==0.12.1
 debugpy==1.8.2
@@ -63,7 +65,9 @@ numpy==2.0.0
 overrides==7.7.0
 packaging==24.1
 pandas==2.2.2
+pandoc-import-code==1.0.0
 pandocfilters==1.5.1
+panflute==2.3.1
 parso==0.8.4
 pillow==10.4.0
 platformdirs==4.2.2
@@ -76,6 +80,7 @@ Pygments==2.18.0
 pyparsing==3.1.2
 python-dateutil==2.9.0.post0
 python-json-logger==2.0.7
+python-magic==0.4.24
 pytz==2024.1
 pywin32==306
 pywinpty==2.0.13
