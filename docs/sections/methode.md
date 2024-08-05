@@ -228,26 +228,31 @@ in der IMS gar mit einer solchen von etwas mehr als 30% rechnen.
 
 Zudem gibt es verschiedene Störvariabeln, welche das Resultat
 verfälschen. Zu nennen ist insbesondere die unterschiedliche
-Klassenzusammensetzung. Dies hat nicht nur mit der Stichprobengrösse zu
-tun. Jede Schulklasse hat eine eigene Gruppendynamik. Diese
+Klassenzusammensetzung. Jede Schulklasse hat eine eigene Gruppendynamik. Diese
 Gruppendynamik kann den Lernerfolg massgeblich beeinflussen. Dieses
-Phänomen beeinträchtigt die Aussagekraft des Vergleiches der
-Parallelklassen des WG. Noch viel stärker kommt dieses Phänomen zum
-Tragen beim Vergleich von Klassen zweier Schultypen. Die HMS und die IMS
-haben wohl das selbe Curriculum im Wirtschaftsunterricht, sie stellen
-aber ganzu unterschiedliche Soziotope dar. Eine kaufmännische Ausbildung
+Phänomen beeinträchtigt bereits die Aussagekraft des Vergleiches der
+Parallelklassen im WG. Noch viel stärker kommt dieses Phänomen jedoch
+beim Vergleich von Klassen zweier Schultypen zum Tragen. Die HMS und die IMS
+haben wohl im Wirtschaftsunterricht das selbe Curriculum, sie stellen
+aber ganz unterschiedliche Soziotope dar. Eine kaufmännische Ausbildung
 zieht eher kommunikative Menschen an wohingegen eine Ausbildung als
 Applikationsentwickler/in eher technisch interessierte Menschen anzieht.
 Dass es sich dabei nicht um ein blosses Cliché handelt, zeigt sich an
-den Aufnahmebedingungen zu den beiden Schultypen. Für den Eintritt in
-die HMS muss eine Aufnahmeprüfung nach der zweiten oder dritten
-Sekundarklasse abgelegt werden. Für die Aufnahme an die IMS muss eine
-Aufnahmeprüfung nach der dritten Sekundarklasse abgelegt werden sowie
-zusätzlich ein Multichck "IComputational Thinking Informatiker/in EFZ Fachricthung
+den Aufnahmebedingungen zu den beiden Schultypen. Der Eintritt in die
+HMS ist im Anschluss an die zweite oder dritte Klasse der Sekundarschule
+möglich. Damit man zur Ausbildung an der HMS zugelassen wird, muss eine
+Aufnahmeprüfung abgelegt werden. An dieser Aufnahmeprüfung werden die
+Fächer Deutsch und Mathematik geprüft[@ZAPHMS]. Der Eintritt in die IMS
+ist ausschliesslich nach der dritten Klasse der Sekundarschule möglich.
+Auch für die Zulassung zu diesem Ausbildungsgang muss eine
+Aufnahmeprüfung in den Fächern Deutsch und Mathematik abgelegt
+werden[@ZAPIMS]. Zusätzlich muss für die Zulassung zur IMS 
+ein Multichck "ICT Informatiker/in EFZ Fachricthung
 Applikationsentwicklung" in den Bereichen "Potenzial" und
 "berufsspezifische Fähigkeiten" mit mindestens 50 Punkten bestanden
-werden[@ZentraleAufnahmepruefungFuer]. Die IMS richtet sich damit
-erklärtermassen an eine spezifische Gruppe von Lernenden.  
+werden[@ZAPIMS]. Die IMS richtet sich damit
+erklärtermassen an eine spezifische Gruppe von Lernenden.
+
 Ausserdem ist auch die Methodenfreiheit, welche das Experiment
 eigentlich erst ermöglicht hat, auch eine Störvariabel. Nicht allen
 Lehrpersonen liegen alle Themen gleich gut. Der Einfluss dieses
@@ -269,32 +274,60 @@ durchgeführt werden konnte.
 
 Die Anwendungsübung zum Kontokorrenktonto bildete gleichzeitig den
 Anlass zur Einführung in die objektiorientierte Programmierung in
-Python. Mit der Idee den Schülerinnen und Schülern Unterstützung zu
+Python. Mit der Idee, den Schülerinnen und Schülern Unterstützung zu
 bieten, wurde ihnen ein fertiges UML Klassendiagramm abgegeben. Anhand
 dieses Diagrammes wurden sowohl die inhaltlichen Aspekte des
 Kontokrrentkontos wie auch die technischen Aspekte der
-objektkorientierten Programmierung besprochen.  
-Anschliessend haben die Schülerinnen und Schüler eine Einführung in die
-Programmierung von Klassen erhalten und haben versucht, die neuen
+objektkorientierten Programmierung besprochen. 
+Anschliessend an die Einführung in die Objektorientierte Programmierung
+wurde deren Umsetzung in Python besprochen. Sowohl die Einführung in die
+objektorientierte Programmierung wie auch die Einführung in deren
+Umsetzung erfolgte in konventionellen Lehrgesprächen.
+Im Anschluss an die Einführungen haben die Schülerinnen und Schüler
+versucht, die neuen
 Kenntnisse am Beispiel des Kontokorrentkontos anzuwenden.
 
 Es hat sich, im Rückblick wenig überraschend, gezeigt, dass die
 Informatikkenntnisse der Schülerinnen und Schüler nicht gut genug waren,
-um die Aufgabe lösen zu können. Die Komplexität des Werkzeuges
-Informatik war so gross, dass es den Blick auf die Probleme der
-Zinsrechnung verstellt hat.
+um die Aufgabe lösen zu können. Die Komplexität des Werkzeugs
+objektorientierte Programmierung war so gross, dass es den Blick auf die
+Probleme der Zinsrechnung verstellt hat.
 
-In der Klasse der IMS konnte auf die Informatikkenntnissen der
+In der Klasse der IMS war die Ausgangslage deutlich günstiger. Hier
+konnte auf die Informatikkenntnissen aus der
 Berufsausbildung zurückgegriffen werden. Die Lernenden der IMS hatten zu
 diesem Zeitpunkt bereits sechs mal Mehr Informatikunterricht erhalten
 als die Schülerinnen und Schüler des WG. In der IMS sind 12
-Wochenlektionen für den Informatikunterricht vorgesehen, im WG 2. Die
-Lernenden der IMS waren also mit den Grundzügen der objektorientierten
-Programmierung bereits vertraut. Aussesrdem wird in der IMS
-Programmieren mit Java unterrichtet.  
+Wochenlektionen für den Informatikunterricht vorgesehen, im WG zwei.
+Darüber hinaus wird in der IMS
+Programmieren mit Java unterrichtet. Für das Verständnis der
+objektorientierten Programmierung weist Java gegenüber Python deutliche
+didaktische Vorteile auf. Selbst in einem einfachen "Hello, World!"
+Programm kommt in Java die Objektorientierung zum Ausdruck.
+
+```java
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+```
+
+Im Gegensatz
+dazu wird das gleiche Programm in Python in der Regel in einem einfachen
+REPL (read-eval-print-loop) ausgeführt.
+
+```python
+>>>print("Hello, World!")
+```
+
+Die Lernenden der IMS waren also mit den Grundzügen der
+objektorientierten Programmierung bereits vertraut.
+
 Obwohl also die Ausgangslage für das Untrrichtsmodul Kontokorrentkonto
 deutlich besser waren als im WG, wurde das Klassendiagramm zusammen mit
-den Lernenden entwickelt.  
+den Lernenden entwickelt. Dies hat zusätzlich zu einem besseren
+Verständnis der Aufgabenstellung beigetragen. 
 Die Lernenden waren denn auch in der Lage, das Modell zu implementieren.
 Nach Aussagen der Lernenden, hat ihnen die Implementation des Modells
 den Blick für die Details des Zinsrechnens und die Grenzfälle der
