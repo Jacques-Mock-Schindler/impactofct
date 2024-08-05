@@ -33,7 +33,7 @@ Experiment überprüft werden könnte.
 Eine Form einer beobachtenden Studie ist das natürliche Experiment.
 Dabei ist ein natürliches Experiment eine
 Situation, in welcher sich eine Population zufällig in eine
-Behandlungs- und eine Kontrollgruppe
+Test- und eine Kontrollgruppe
 aufteilen[@dunningNaturalExperimentsSocial2012,
 S. 15 f; @gerringAppliedSocialScience2017, S. 208 f]. Die Bedingungen
 werden vom Beobachter dabei grundsätzlich nicht beeinflusst. Das
@@ -45,9 +45,15 @@ entdeckt[@dunningNaturalExperimentsSocial2012, 39 ff].
 
 An der Kantonsschule Büelrain wurden zwei Situationen gefunden, die sich
 als natürliche Experimente zur Beantwortung der Forschungsfrage
-eigneten. Die Kantonsschule Büelrain ist eine Zürcher Mittelschule, an
-welcher zum Zeitpunkt der Verfassung des vorliegenden Textes drei
-Schultypen unterrichtet wurden:
+grundsätzlich eigneten. 
+Damit die Rahmenbedingungen der entdeckten Experimente nachvollzogen
+werden können, werden hier die Rahmenbedingungen an der Kantonsschule
+Büelrain kurz beschrieben.
+
+Die Kantonsschule Büelrain ist eine Zürcher Mittelschule mit ungefähr
+750 Schülerinnen und Schülern. Zum Zeitpunkt der der Verfassung des
+vorliegenden Textes wurden an der Kantonsschule Büelrain drei
+Schultypen unterrichtet:
 
 1. Das Wirtschaftsgymnasium (WG)
    
@@ -67,9 +73,10 @@ Schultypen unterrichtet wurden:
    
    Die IMS führt ebenfalls nach drei Jahren Vollzeitschule und einem
    anschliessenden betrieblichen Praktikum in einem
-   Informatikunternehmen zu einem EFZ als Informatiker/in, Fachrichtung
-   Applikationsentwicklung, mit kaufmännischer Berufsmatur. Die IMS wird
-   in der Regel mit einer Klasse pro Jahrgang geführt.
+   Informatikunternehmen oder der Informatikabteilung eines Unternehmens
+   aus einer anderen Branche zu einem EFZ als Informatiker/in,
+   Fachrichtung Applikationsentwicklung, mit kaufmännischer Berufsmatur.
+   Die IMS wird in der Regel mit einer Klasse pro Jahrgang geführt.
 
 Die Parallelklassen werden in Fächern mit hohen Stundendotaionen
 (drei Lektionen pro Woche und mehr) nach  Möglichkeit von
@@ -78,11 +85,12 @@ gelten Klassen des gleichen Schultyps im Gleichen Schuljahr.
 Das bedeutet, dass beispielsweise das Fach Mathematik in jeder
 dritten WG Klasse von jemand anderem unterrichtet wird. In Fächern mit
 tiefen Stundendotationen kann dieser Grundsatz nicht aufrecht erhalten
-werden.  
+werden.
+
 Weil an Zürcher Mittelschulen eine ausgeprägte Methodenfreiheit gilt,
-führt das in den einzelnen Klassen zu beträchtlichen Unterschieden
-darin, wie bestimmte Inhalte vermittelt werden. Diese Varianz hat die
-folgenden natürlichen Experimente ergeben.
+führt das in den einzelnen Klassen zu beträchtlichen Unterschieden,
+wie bestimmte Inhalte vermittelt werden. Diese Unterschiede haben
+die folgenden natürlichen Experimente ergeben.
 
 ### Beschreibung der natürlichen Experimente
 
@@ -99,36 +107,45 @@ obligatorische Fach Informatik (OFI) unterrichtet.
 Im Rechnungswesen ist kaufmännisches Rechnen teil des Curriculums.
 Kaufmännisches Rechnen ist im Wesentlichen Zinsrechnen. Dabei wird
 insbesondere die deutsche Zinsusanz
-eingeführt[@hischerKaufmaennischesRechnenWichtigsten2018, S. 102].
+eingeführt[@hischerKaufmaennischesRechnenWichtigsten2018, S. 102]. Die
+deutsche Zinsusanz ist eine Vereinfachung der Zinsberechnung. In dieser
+Methode wird mit zwölf Monaten à 30 Tagen und einem Jahr mit 360 Tagen
+gerechnet.
 Üblicherweise wird die deutsche Zinsusanz zuerst theoretisch eingeführt
-und anschliessen mit Anwendungsübungen vertieft.  
+und anschliessen mit Anwendungsübungen vertieft.
+
+Die konkreten Experimente bestanden darin, dass die Testklassen als
+Anwendungsübung einen Programmierauftrag zur deutschen Zinsusanz
+bearbeiteten. Der Auftrag hat vorgesehen, dass ein Kontokorrentkonto
+objektorientiert modelliert wurde. Dabei sollte das Kontokorrentkonto
+Methoden zur Verfügung stellen, um Tagegenau den Zins auf dem jeweiligen
+Saldo des Kontokorrentkontos zu berechnen. Das Konzept des
+Programmierauftrags kann dem UML-Klassendiagramm in [@fig:uml] entnommen
+werden.
+
+![UML Diagramm Kontokorrentkonto](docs/graphics/uml_konotkorrentkonto.svg){#fig:uml}
+
+Zur Überprüfung der Auswirkung der zusätzlichen Anwendungsübung wurden
+die Prüfungsergebnisse von Aufgaben zum Zinsrechnen aus Prüfungen der
+Testklassen mit solchen aus Kontrollklassen verglichen.
+
 Da im WG parallel zum WR-Unterricht das OFI unterrichtet wird, hat dies
-die Möglichkeit geboten, die deutsche Zinsusanz mit zusätzlichen
-methodischen Ansätzen weiter zu vertiefen. Das
-Thema wurde in eine Anwendungsübung für objektorientierte Programmierung
-in Python integriert. Die Schülerinnen und Schüler sollten ein
-Kontokorrentkonto modellieren und das Modell objektorientiert in Python
-implementieren. Dabei sollte das Modell in der Lage sein, den Zins auf
-den aktuellen Saldo unter Anwendung der deutschen Zinsusanz auf Tage
-genau zu berechnen.  
+die Möglichkeit geboten, im Rahmen des OFI die deutsche Zinsusanz in
+Pyhton zu implementieren. Hier wurde von den Grundsätzen des natürlichen
+Experiments insofern abgewichen, als dass diese Anwendungsübung bewusst
+im Hinblick auf die Beantwortung der Forschungsfrage angelegt worden
+ist. Dies ist war im Rahmen der Methodenfreiheit zu verantworten.  
+Als Kontrollklasse diente eine WG Klasse, welche im OFI andere
+Anwendungsübungen zur objektorientierten Programmierung gemacht hat.
+
 In der IMS wurde die gleiche Anwendungsübung im Rahmen des Unterrichts
-im Fach FRW durchgeführt. Weil die Lernenden der IMS in ihrer
+im Fach FRW durchgeführt. Hier stellte das Programmiren einfach eine
+Methodische Variante zu den konventionellen Anwendungsübungen aus dem
+Lehrmittel dar. Weil die Lernenden der IMS in ihrer
 beruflichen Ausbildung das Programmieren in Java lernen, erfolgte die
-Implementation in Java.
-
-Die Idee der Anwendungsübung kann in folgendem UML Klassendiagramm
-dargestellt werden:
-
-![UML Diagramm
-Kontokorrentkonto](docs/graphics/uml_konotkorrentkonto.svg){#fig:uml}
-
-Als Kontrollgruppe konnte im WG eine der Parallelklassen verwendet
-werden, welche das Zinsrechnen auf konventionellem Weg erarbeitet hat.
-In der IMS musste in Ermangelung von Paralleklassen auf eine Klasse der
-HMS als Kontrollgruppe zurückgegriffen werden. Dass die Kontrollgruppe
-für die IMS aus einem anderen Schultyp stammte, war nicht so schlimm,
-weil beide Schultypen im Wirtschaftsunterricht über das selbe Curriculum
-verfügten.
+Implementation in Java.  
+Weil die IMS keine Parallelklasse hat, diente eine Klasse der HMS als
+Kontrollklasse.
 
 ### Begründung für die Wahl des natürlichen Experiments {#sec:begr_nat_exp}
 
