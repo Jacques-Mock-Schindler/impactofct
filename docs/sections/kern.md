@@ -251,14 +251,13 @@ def hash_column(df, column_name, hash_length=16):
     return df
 ```
 
-Die anonymisierten Daten wurden in CSV-Dateien zur Weiterverarbeitung abgespeichert. Es
-wurden dazu die folgenden drei Tabellen erstellt:
+Die anonymisierten Daten wurden in CSV-Dateien zur Weiterverarbeitung
+abgespeichert. Die Daten wurden in die folgenden drei Tabellen
+aufgeteilt: 
 
 * Personalien
 
-    In dieser Tabelle wurden Name, Klasse, Gender und Alter erfasst. Aus
-    Gründen des Persönlichkeitsschutzes wurden Namen und Klassen mit
-    SHA256 gehasht und nur der Hashwert abgespeichert. Dies ermöglicht
+    In dieser Tabelle wurden Name, Klasse, Gender und Alter erfasst. Dies ermöglicht
     trotz Anonymisierung die Zuordnung der erfasste Noten zu einer
     Person. Ausserdem würde die Erfassung von Alter und Gender
     gegebenenfalls weitere Auswertungen zulassen.
@@ -284,8 +283,8 @@ der Analyse der Resultate.
 
 Die Auswertung der Daten erfolgte in einem Python Skript. In diesem
 Skript wurden die Daten in pandas Datafram geladen. Die Analyse erfolgte
-mit den durch SciPy.stats zur Verfügung gestellten Funktionen
-`normaltest()`, `shapiro()` und `kstest()` sowie die durch pandas zur
+mit den durch SciPy.stats zur Verfügung gestellte Funktion
+`shapiro()` sowie die durch pandas zur
 Verfügung gestellten Funktionen `spearman()` und `df.corr()`.  
 
 Die Visualisierung als Heatmap wurde mit Hilfe der Libraries matplotlib
@@ -294,6 +293,6 @@ sichtbar zu machen, wurde ein eigenes Farbschema angelegt. Dieses
 Farbschema wechselt von Grau zu Grün. Die Schwelle des für den Umschlag
 der Farbe wurde dabei auf 0.3 festgelegt.
 
-Das Skript wird im Anhang abgedruckt. Ebenfalls im Anhang findet sich
+Die verwendeten Python Skripten sind im Anhang abgedruckt. Ebenfalls im Anhang findet sich
 ein Abdruck der Ausgabe von pip freeze. Damit soll die
 Nachvollziehbarkeit der Resultate sichergestellt werden.
