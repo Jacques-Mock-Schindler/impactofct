@@ -35,8 +35,9 @@ repräsentativ angesehen werden. Der Anteil junger Frauen hat auf die
 ganze Dauer der Existenz der IMS ganz leicht abgenommen. Hat es doch in
 der allerersten IMS Klasse mit einem Bestand von 15 Schülerinnen und
 Schüler drei Frauen gehabt. Dieser Höchststand wurde nachher nie mehr
-erreicht. Damit dürfte die Geschlechterverteilung der Gesamtpopulation
-entsprechen. Das gleiche gilt für die Altersverteilung. Nach Abschluss
+erreicht. Damit dürfte die Geschlechterverteilung der Stichprobe jener
+der Gesamtpopulation entsprechen.  
+Das gleiche gilt für die Altersverteilung. Nach Abschluss
 der dritten Klasse der Sekundarschule sind die Meisten Schülerinnen und
 Schüler 16 Jahre alt. Nach Abschluss des schulischen Teils ihrer
 Ausbildung entsprechend 19 Jahre. Die Abweichungen vom
@@ -68,7 +69,7 @@ Fähigkeitszeugnis (BiVo)).
 
 #### Module der Berufsbildung {#sec:begruendung}
 
-Nicht alle der in @tbl:modulliste aufgeführten Module wurden durchgehend
+Nicht alle der in [@tbl:modulliste] aufgeführten Module wurden durchgehend
 während des ganzen Beobachtungszeitraums unterrichtet und geprüft. Dies
 ist eine Folge der periodisch durchgeführten Massnahmen der
 Qualitätsentwicklung nach Art. 22 Abs. 4 lit. a BiVo. Diese Massnahmen
@@ -81,9 +82,9 @@ Zusammenstellung der Module in [@tbl:modulliste] ausgewiesen. Die
 Berechnung des Fehlerbereichs basiert im Sinne einer Worst Case Annahme
 auf auf einer Gesamtpopulation von 400 Lernenden (vgl. [@sec:stichprobe]).
 
-Die Begründung, weshalb die in der @tbl:modulliste kursiv gesetzten
-Module für die Schulung von CT besonders wichtig sind folgt im Anschluss
-an die Tabelle.
+Die Begründung, weshalb die in der [@tbl:modulliste] kursiv gesetzten
+Module für die Schulung von Computational Thinking besonders wichtig
+sind folgt im Anschluss an die Tabelle.
 
 ```{=latex}
 \begin{table}[ht!]
@@ -169,15 +170,22 @@ Mehrheit von Situationen herauszuarbeiten. Darüber hinaus müssen diese
 Charakteristika so aufbereitet werden, dass eine automatisierte
 Verarbeitung möglich wird.
 
-Damit wird von CT der Teilaspekt Verallgemeinerung und Automatisierung
-geschult.
+Damit werden von den in der Definition von Computational Thinking
+identifizierten Aspekten die Teilaspekte Verallgemeinerung und
+Automatisierung geschult.
 
 #### Modul 118: Analysieren und strukturiert implementieren
 
 Das Modul 118 ist eines jener Module, welche durch Massnahmen der
-Qualitätsentwicklung aus dem Modulbaukasten entfernt worden ist.
-Aufgrund des Titels des Moduls wurde es aber trotzdem als eines der
-Module identifiziert, welche CT Fördern.
+Qualitätsentwicklung aus dem Modulbaukasten entfernt worden ist. Die
+Entfernung erfolgte zu Beginn des Beobachtungszeitraums. Aus diesem
+Grund ist via ICT Berufsbildung Schweiz keine detaillierte
+Modulbeschreibung mehr erhältlich zu machen. Der Titel des Moduls, der
+hier als Beschreibung dienen muss, konnte aus den archivierten
+Zeugnissen erhoben werden.
+
+Aufgrund des Titels des Moduls wurde es als eines jener
+Module identifiziert, welche Computational Thinking fördern.
 
 #### Modul 122: Abläufe mit einer Scriptsprache automatisieren
 
@@ -193,11 +201,18 @@ Handlungsziele:
    erforderlichen Funktionalität bzw. des Ablaufs testen.
 5. Dokumentation für den Einsatz des Scripts erstellen.
 
-Das Handlungsziel erfordert die Fähigkeit, das zu automatisierende
+Das Handlungsziel 1 erfordert die Fähigkeit, das zu automatisierende
 Problem in Teilprobleme zu zerlegen. Das Zerlegen von Problemen in
-Teilprobleme ist ein Aspekt von CT. Im zweiten und dritten Handlungsziel
+Teilprobleme ist ein Aspekt gemäss der Definition von Computational
+Thinking. Im zweiten und dritten Handlungsziel
 geht es darum, die gefundene Lösung zu implementieren und damit effektiv
-zu automatisieren. Automatisieren ist ebenfalls ein Teilaspekt von CT.
+zu automatisieren. Automatisieren ist ebenfalls ein Teilaspekt gemäss
+der Definition von Computational Thinking. Die in Handlusngsziel
+4 verlangten Tests erfordern, dass die zu automatisierenden Abläufe in
+ihrer Gesamtheit erfasst werden. Damit alle denkbaren Grenzfälle
+getestet werden können, müssen die Abläufe von ihrer konkreten
+Ausprägung abstrahiert werden. Diese Fähigkeit der Abstraktion ist ein
+weiterer Teilaspekt der Definition von Computational Thinking.
 
 #### Modul 153: Datenmodelle entwickeln
 
