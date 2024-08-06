@@ -164,7 +164,9 @@ Handlungsziele:
 6. Bedeutung und Aussagekraft der Auswertung kritisch hinterfragen und
    kommentieren.
 
-Diese Handlungsziele erfordern, dass man in der Lage ist, von konkreten
+Die in Handlungsziel 3 verlangte Auswahl von Daten erfordert, dass
+die konkret vorliegenden Daten auf ein Modell reduziert werden können.
+Das erstellen von Modellen verlangt, von konkreten
 Situationen zu abstrahieren und die generellen Charakteristika einer
 Mehrheit von Situationen herauszuarbeiten. Darüber hinaus müssen diese
 Charakteristika so aufbereitet werden, dass eine automatisierte
@@ -357,7 +359,14 @@ Handlungszielen konsolidiert werden[@modul306; @modul335; @modul431].
 
 Wie den Handlungszielen entnommen werden kann, übernehmen die Lernenden
 in den hier zusammengefassten Modulen
-die Rolle eines Projektleiters. Als Projektleiter muss man Aufgaben in
+die Rolle eines Projektleiters. 
+In der IT-Branche kommen eine Vielzahl von
+Projektmanagement-Methoden zum Einsatz. Auch wenn man in solchen
+Methoden geschult ist, muss man sich für die Detailaspekte einen eigenen
+Arbeitsablauf erarbeiten. Solche allgemeinen Arbeitsabläufe können als
+Algorithmus verstanden werden.  
+Als Projektleiter muss man, um alle Teammitglieder in die Arbeit
+einzubeziehen, zudem Aufgaben in
 Teilprobleme zerlegen. Ausserdem müssen äussere Abhängigkeiten
 berücksichtigt werden. Handlungsziel 2 schreibt für die
 Mobile-Applikation vor, dass die Vorgaben zu analysieren seien.
@@ -367,8 +376,9 @@ Interessen der
 Stakeholder und der Faktor Zeit zu berücksichtigen sind.
 Die dafür erforderliche Analyse der
 Aufgabenstellung übt insbesondere den Aspekt Aufteilen von Problemen in
-kleinere Teilprobleme. Diese Aufteilung von Problemen in Teilproblem ist
-ein Teilaspekt gemäss der Defintion von Computational Thinking. 
+kleinere Teilprobleme. Das Erarbeiten von Algorithmen und die Aufteilung
+von Problemen in Teilproblem sind Teilaspekte
+der Definition von Computational Thinking. 
 
 #### Modul 403: Programmabläufe prozedural implementieren
 
@@ -390,7 +400,8 @@ Handlungsziele:
 Die Implementation von prozeduralen Programmabläufen ist möglicherweise
 etwas weniger anspruchsvoll als die Implementation von
 objektorientierten Programmen. Trotzdem werden auch in diesem Modul
-Teilaspekte von Computational Thinking geschult. Insbesondere gilt dies für Feststellung der für
+Teilaspekte von Computational Thinking geschult. Insbesondere gilt dies
+für die Feststellung der für
 das Programm erforderlichen Daten mit deren Datentypen nach
 Handlungsziel 2. Dazu ist es erforderlich, das zu Lösende Problem in
 seine Komponenten zu zerlegen um festzustellen, an welcher Stelle welche
