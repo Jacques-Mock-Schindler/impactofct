@@ -3,36 +3,79 @@
 Die in dieser Arbeit zur Anwendung gekommene Methode basiert auf einem
 indirekten Ansatz. Es sollte ausgenutzt werden, dass in der
 Berufsausbildung von Informatiker/innen EFZ, Fachrichtung
-Applikationsentwicklung, Module unterrichtet werden, welche CT Bezüge
-aufweisen. Dieser Ansatz wurde gewählt, weil im Schulunterricht eine
-sehr starke Fachorientierung vorherrscht. Dies gilt besonders ausgeprägt
-an den Gymnasien. Dies liegt am dort herrschenden System der Fachlehrer.
+Applikationsentwicklung, Module unterrichtet werden, welche Bezüge zu
+Computational Thinking
+aufweisen. Dieser indirekte Ansatz wurde gewählt, weil die direkten
+Vorgehensweisen ihr Ziel verfehlten. Neben den in xxx erwähnten Gründen
+für das Scheitern der direkten Vorgehensweise gibt es auch systematische
+Gründe, die eine direkte Vorgehensweise zumindest erschweren. Trotz
+gebetsmühlenartigen Wiederholungen fristet interdisziplinäres Arbeiten
+an Mittelschulen ein Nischendasein[@rahmenlehrplan, Als neuestes
+Beispiel widmet der Rahmenlehrplan
+Gymnasiale Maturitässchulen der Interdisziplinarität gar einen eigenen
+Abschnitt]. Die Mittelschulen werden dominiert von einem ausgeprägten
+System des Fachunterrichts. Dies dürfte nicht zu Letzt dem dort
+herrschenden System der Fachlehrer geschuldet sein.
 So ist es schwierig, nur schon interdisziplinäre Unterrichtseinheiten
 umzusetzen. Noch viel schwieriger ist es, Methoden von einer
 Fachdisziplin in eine andere zu übertragen. Dies dürfte der Grund sein,
-weshalb an den Gymnasien keine CT basierten Methoden ausserhalb des
-obligatorischen Faches Informatik gibt.
+weshalb an den Gymnasien keine auf Computational Thinking basierenden Methoden ausserhalb des
+obligatorischen Faches Informatik zur Anwendung kommen.
 
-Ein Ansatz zur direkten Überprüfung der Arbeitshypothese würde als
-erstes erfordern, dass CT basierte Methoden in Fächern ausserhalb des
+Um die in [@sec:arbeitshypothese] aufgestellte Arbeitshypothese direkt überprüfen zu können,
+müssten als erstes auf Computational Thinking basierende
+Unterrichtsmethoden ausserhalb des
 obligatorischen Faches Informatik zu Anwendung kommen. Wenn das der Fall
 ist, kann die Wirksamkeit dieser Methoden mit Methoden der allgemeinen
-Forschung zur Wirksamkeit von Schulunterricht überprüft werden.
+Forschung zur Wirksamkeit von Schulunterricht überprüft werden. So
+könnte dann die Arbeitshypothese direkt geprüft werden.
+
+Wegen der überragenden Bedeutung der auf Computational Thinking
+beruhenden Unterrichtsmethoden zur Prüfung der Arbeitshypothse, soll im
+folgenden Abschnitt eine Auswahl solcher Methoden skizziert werden.
 
 ## Auf Computational Thinking basierende Unterrichtsmethoden
 
-Da es eine Anforderung für die Überprüfung der Arbeitshypothese ist,
-dass im Unterricht überhaupt Methoden zur Anwendung kommen, welche auf
-CT basieren, soll hier ein kurzer Überblick über Einsatzmöglichkeiten
-solcher Methoden gegeben werden.
-Ein Ansatz ist die Übernahme von Methoden aus den Digital
-Humanities[@WhatAreDigital (für die Klärung des Begriffes)]. 
+Bevor man sich mit auf Computational Thinking beruhenden
+Unterrichtsmethoden beschäftigen kann, muss generell nach
+Arbeitsmethoden gesucht werden, die das gleiche Fähigkteisprofil
+erfordern wie Computational Thinking. Für den Unterricht drängt es sich
+auf, sich mit den Arbeitsmethoden der Digital Humanities
+auseinanderzusetzen. Digital Humanities versuchen Computer basierte
+Arbeitsmethoden auf die Geisteswissenschaften
+anzuwenden[@WhatAreDigital]. Damit beschäftigen sich die Digital
+Humanities über weite Strecken mit Fragen, die man auch klären muss,
+wenn man auf Computational Thinking basierende Unterrichtsmethoden an
+der Mittelschule einführen will.
 
-So könnten Beispielsweise 
+Ein Blick auf vorgeschlagenen Arbeitsmethoden für Digital Humanities
+ergibt die in der Tabelle [@tab:methode] zusammengestellten Beispiele.
+
+```{=latex}
+\begin{table}[ht!]
+\begin{tabular}{lp{8cm}}
+\toprule
+Methode&Beschreibung\\
+\midrule
+  Datenvisualisierung & Ein grosses Thema in den Digital Humanities ist
+  die Datenvisualisierung. Im Mittelschulunterricht könnte
+  ein Projekt zur Visualisierung von Beziehungen zwischen Personen und
+  Orten aus Werken der Literatur durchgeführt werden.\\
+  Text Mining & Mit Text Mining werden Texte mit statistischen Methoden
+  ausgewertet. Eine Anwendung davon könnte die Auswertung von
+  Gerichtsentscheiden sein.\\
+  Modellierung & Nicht unbedingt aus den Digital Humanities, aber
+  interessant für die Sozialwissenschaften. Es könnten die Auswirkungen
+  der verschiedenen Szenarien des Bevölkerungswachstums auf die
+  Sozialversicherungen überprüft werden.\\
+\bottomrule
+\end{tabular}
+\label{tab:methode}
+\end{table}
+```
+
 
 * Interaktive Timelines im Geschichtsunterricht erstellt werden;
-* Orte aus dem Literaturunterricht georeferenziert werden;
-* Entscheide von Gerichten statistisch ausgewertet werden;
 * Modellannahmen aus der Sozialversicherung im
   Volkswirtschaftsunterricht überprüft werden;
 * Messungen im Physikunterricht auf ihre Übereinstimmungen mit den
