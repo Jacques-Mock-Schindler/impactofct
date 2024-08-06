@@ -103,7 +103,7 @@ berechnet[@RangkorrelationNachSpearman].
 
 $$
 \rho = 1 - \frac{6 \cdot \sum_{i=1}^{n} d_{i}^{2}}{n \cdot (n^2 - 1)}
-$$
+$$ {#eq:spearman}
 
 wobei
 
@@ -116,11 +116,12 @@ sind[@kuckartzStatistikVerstaendlicheEinfuehrung2013, S. 217].
 Obwohl Noten nicht intervallskaliert sind, werden in Untersuchungen zu
 Noten oft Korrelationen nach
 Bravais-Pearson berechnet. Zur Überprüfung der Robustheit der Auswertung
-wurde diese Berechnung ebenfalls vorgenommen.
+wurde diese Berechnung ebenfalls vorgenommen. Die Berechnung erfolgt
+nach der Formel
 
 $$
 r = \frac{cov(x,y)}{s_x \cdot s_y}
-$$
+$$ {#eq:pearson}
 
 wobei
 

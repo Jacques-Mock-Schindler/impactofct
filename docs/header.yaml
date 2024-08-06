@@ -27,7 +27,7 @@ header-includes:
     - \usepackage{pdflscape}
     - \usepackage{longtable}
     - \usepackage{booktabs}
-    - \usepackage{svg}
+    - \usepackage[inkscapearea=page]{svg}
     - \usepackage{listings}
     - \usepackage{xcolor}
     - \usepackage{caption}

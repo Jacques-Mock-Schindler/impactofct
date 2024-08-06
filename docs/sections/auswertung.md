@@ -27,7 +27,7 @@ in BMS und Berufsausbildung. Die rote Linie zeigt den Median.}
 \label{fig:mittelwerte_boxplot}
 \end{figure}
 
-Der Effekt ist in @fig:mittelwerte_boxplot gut zu sehen.
+Der Effekt ist in [@fig:mittelwerte_boxplot] gut zu sehen.
 Anders als in den Rohdaten gibt es keine Ausreisser nach unten. Der minimale Wert in der
 BMS liegt bei 3.75 jener in der Berufsausbildung bei 3.76. Im Gegenzug
 ist auch das Maximum etwas tiefer ausgefallen. In der BMS liegt das
@@ -37,12 +37,13 @@ bekanntes Phänomen.
 
 In der Betrachtung von Mittelwerten gehen Details verloren. Dies liegt
 in der Natur der Sache, soll doch in einem Mittelwert eine ganze
-Stichprobe in einer Zahl zusammengefasst werden.
+Stichprobe in einer einzigen Zahl zusammengefasst werden.
 Entsprechend zeigt die Gegenüberstellung der Mittelwerte lediglich, 
 dass starke Lernende nicht ausschliesslich in einem der beiden
 einander gegenübergestellten Ausbildungsgänge gute Leistungen erbringen.
-Aus diesem Grund wird in den kommenden Abschnitten die Gegenüberstellung
-auf Stufe einzelnes Modul bzw. einzelnes Fach ausgedehnt.
+Um auch Aussagen zu den Details machen zu können, werden in den
+kommenden Abschnitten jedes Modul der Berufsausbildung jedem Fach der
+BMS gegenübergestellt.
 
 ## Übersicht über die Detailauswertung
 
@@ -52,9 +53,10 @@ jenen der Berufsausbildungsmodule korreliert. Dazu wurde Spearman's
 $\rho$ berechnet und die Resultate in einer Heatmap dargestellt.
 Üblicherweise werden die unabhängigen Variablen auf der x-Achse und die
 abhängigen Variablen auf der y-Achse dargestellt.
-Obwohl die Arbeitshypothese 
-die Frage nach den Auswirkungen von CT auf das Lernen im
-allgemeinen stellt, werden die BMS Fächer auf der x-Achse und die
+Die Arbeitshypothese behauptet eine Auswirkung von Computational
+Thinking auf das Lernen im Allgemeinen. Damit sind die Fähigkeiten in
+Computational Thinking die unabhängige Variabel und die Noten der BMS
+die abhängige. Trotzdem werden die BMS Fächer auf der x-Achse und die
 Module aus der Berufsausbildung auf der y-Achse dargestellt. Dies ist
 zwar gegenüber der üblichen Darstellung von unabhängigen und abhängigen
 Variablen vertauscht. In dieser Darstellung ist aber der Effekt besser
@@ -86,8 +88,9 @@ ist. Optisch nicht zu erkennen ist, dass nur die drei Fächer
 Mathematik, Finanz- und Rechnungswesen sowie interdisziplinäres Arbeiten
 im Mittel über alle Module den in [@sec:effektive_methode] festgelegten
 Wert von 0.3 überschreiten.  
-Die als besonders CT relevanten qualifizierten Module verteilen sich
-gleichmässig über die y-Achse der Heatmap. Dies zeigt, dass die CT
+Die als besonders Computaitonal Thinking relevant qualifizierten Module verteilen sich
+gleichmässig über die y-Achse der Heatmap. Dies zeigt, dass die
+Computational Thinking
 relevanten Module keine statistische Auffälligkeiten zeigen.
 
 Obwohl die Korrelation zwischen den Noten der Berufsausbildung und der
@@ -125,11 +128,15 @@ Korrelation sortiert. Die CT relevanten Module sind rot beschriftet.}
 
 Die Korrelationen nach Bravais-Pearson führt bezüglich der Sortierung
 der Noten der BMS zum gleichen Resultat. Verschiebungen gibt es in der
-Reihenfolge der Module. Die Bravais-Pearson Korrelation reagiert stärker
-auf Streuungen als die Korrelation nach Separman. Wie in
-[@sec:modulcharakter] gezeigt, streuen die Modulnoten stärker als die
-Noten der BMS. Damit dürfte die Verschiebung in der Reihenfolge der
-Modulnoten auf die grössere Streuung zurückzuführen sein.
+Reihenfolge der Module. 
+Dies könnte auf die grössere Streuung der Modulnoten zurückzuführen
+sein. Bei der Berechnung der Korrelation nach Bravais-Pearson erscheint
+die Standardabweichung der miteinander zu korrelierenden Werte im Nenner
+der Formel (vgl. [@eq:pearson]). Die Standardabweichung ist ein Mass für
+die Streuung eines Datensatzes. Deshalb reagiert die Bravais-Pearson
+Korrelation stärker
+auf Streuungen als die Korrelation nach Separman. Dass die Modulnoten
+stärker streuen wurde in [@sec:modulcharakter] gezeigt. 
 
 Die Übereinstimmung der Sortierreihenfolge der BMS Fächer zeigt aber
 trotzdem, dass
