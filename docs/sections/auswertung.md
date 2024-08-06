@@ -341,3 +341,8 @@ sind zu lösen oder in Mathematik oder Finanz- und Rechnungswesen Modelle
 durchzurechnen. Dieser Ansatz deckt sich mit der Erkenntnis, dass es die
 eine Unterrichtsmethode schlechterdings nicht
 gibt[@APUIGB, S. 113; @brophyTeachingEducationalPractices2000, S. 6].
+
+Nachdem die Arbeitshypothese weder widerlegt noch bestätigt werden
+konnte, soll im nächsten Abschnitt darauf eingegangen werden, was für
+Schritte zur Klärung der Gültigkeit der Arbeitshypothese in Zukunft
+unternommen werden könnten.
