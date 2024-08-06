@@ -72,29 +72,18 @@ sind (Teil 3).}
 \label{fig:normalverteilung_efz3}
 \end{figure}
 ```
-Damit ein Verfahren für die statistische Auswertung der Noten festgelegt
-werden konnte, wurde in einem ersten Schritt visuell überprüft, ob die
-Noten normalverteilt sind. Weil die optische Prüfung die
-Normalverteilung nur unzureichend wiedergibt wurden die Daten
-anschliessend mit entsprechenden statistischen Testverfahren daraufhin
-überprüft, ob sie normalverteilt sind.
 
-mit dem
-Shapiro-Wilk-Test[@chattamvelliDescriptiveStatisticsScientists2023, S. 29 (als
-Begründung für die Wahl des Shapiro-Wilk-Tests)],
-dem
-Kolmogorov-Smirnov-Test[@kenettModernStatisticsComputerBased2022, S. 175
-f.; @chattamvelliDescriptiveStatisticsScientists2023,
-S. 29 (je als Begründung für die Wahl des Kolmogorov-Smirnov-Test)] und
-dem D'Agostino's K$^2$ Test[@KstestSciPyV1 (als Begründung für die Wahl
-des D'Agostino's K$^2$ Test)] überprüft,
-ob die Noten der Stichprobe normal verteilt sind.  
-Diese Überprüfung hat
-schon für die Noten der BMS ergeben, dass nicht garantiert werden kann,
-dass die Noten normal verteilt sind. Aus diesem Grund konnte auf eine
-Überprüfung der Noten der Berufsausbildung verzichtet werden.
+Obwohl bereits die optische Überprüfung der Normalverteilung der Noten
+in vielen Fällen zweifel daran aufkommen lässt, dass die Datensätze
+normalverteilt sind, wurde die Normalverteilung auch noch rechnerisch
+überprüft. Die rechnerische Überprüfung ist zuverlässiger, weil sie auch
+Verletzungen der Normalverteilungen überprüft, die optisch nur schwer zu
+erkennen sind[@chattamvelliDescriptiveStatisticsScientists2023, S. 28
+f]. Die Resultate des Shapiro-Wilk Test sowohl für die Noten der BMS wie
+auch für jene der Berufsausbildung liegen deutlich unter der Schwelle,
+welche eine Annahme der Normalverteilung zulassen würde.
 
-Anschliessend wurden die Noten jedes Moduls der Berufsausbildung 
+Anschliessend an diese Vorprüfung wurden die Noten jedes Moduls der Berufsausbildung 
 den Noten jedes Fachs der BMS gegenübergestellt und die Korrelation
 zwischen diesen Notenpaaren berechnet.  
 Oft werden Korrelationen nach Bravais-Pearson berechnet. Das setzt
@@ -124,7 +113,8 @@ wobei
 
 sind[@kuckartzStatistikVerstaendlicheEinfuehrung2013, S. 217].
 
-Obwohl Noten nicht intervallskaliert sind, werden oft Korrelationen nach
+Obwohl Noten nicht intervallskaliert sind, werden in Untersuchungen zu
+Noten oft Korrelationen nach
 Bravais-Pearson berechnet. Zur Überprüfung der Robustheit der Auswertung
 wurde diese Berechnung ebenfalls vorgenommen.
 
@@ -161,15 +151,15 @@ Korrelation zu finden.
 
 Die beiden gescheiterten Methoden haben darauf basiert, den Unterschied
 im Lernerfolg bei unterschiedlichen Lehr- und Lernmethoden zu messen.
-Dabei wurde in der Testgruppe eine CT basierte Methode eingesetzt. Die
+Dabei wurde in der Testgruppe eine Computational Thinking basierte Methode eingesetzt. Die
 Schülerinnen und Schüler bzw. die Lernenden mussten ein Programm
 schreiben, welches ein Problem des Faches Finanz- und Rechnungswesen
 gelöst hat. Weil die beiden Methoden keine verwertbaren Resultate
-gezeitigt haben, musste ein indirekter Ansatz gewählt werden. Dies
-geschieht indem 
-die Arbeitshypothese überprüft wird, indem die 
-Fähigkeiten in CT und solchen in der
-Allgemeinbildung gegenübergestellt werden. Wenn zwischen den Leistungen in den beiden
+gezeitigt haben, musste ein indirekter Ansatz gewählt werden. Dieser
+indirekte Ansatz basiert auf der Gegenüberstellung von ausgewiesenen
+Fähigkeiten in Computational Thinking und 
+solchen in der
+Allgemeinbildung. Wenn zwischen den Leistungen in den beiden
 Bereichen eine positive Korrelation beobachtet werden kann, ist dies
 eine Indiz für die Gültigkeit der Arbeitshypothese.
 
@@ -179,7 +169,8 @@ Applikationsentwicklung, eine kaufmännische Berufsmatur. Angehende
 Applikationsentwicklerinnen und Applikationsentwickler in der
 betrieblich orientierten Grundbildung (BOG) erwerben, wenn sie das den
 wollen, in der Regel eine Berufsmatur mit technischer
-Ausrichtung[@sbfiBerufsmaturitaet]. Diese Besonderheit hat sich ergeben,
+Ausrichtung[@sbfiBerufsmaturitaet]. Damit weist die IMS gegenüber der
+BOG eine Besonderheit auf. Diese Besonderheit hat sich ergeben,
 weil sich die IMS aus historischen Gründen sehr stark am Modell der
 Handelsmittelschule im Kanton Zürich orientiert.
 
@@ -193,17 +184,21 @@ wären. Die Lernenden der IMS belegen überdurchschnittlich oft
 Spitzenplätze bei der kantonalen Rangierung aller Lernenden in den
 ICT-Berufen. 
 
-Diese Ausgangslage hat es erst ermöglicht, Leistungen im Fachbereich
-Informatik mit Leistungen im Bereich Allgemeinbildung zu korrelieren.
+Diese Ausgangslage hat es ermöglicht, Leistungen im Fachbereich
+Informatik, die mit Computational Thinking in Verbindung gebracht werden
+können, mit Leistungen im Bereich Allgemeinbildung zu korrelieren.
 Die Noten der Module werden dabei als Ursache und jene der BMS als
 Wirkung behandelt.  
-An der für die Berufsausbildung zuständigen Berufsschule wurden
-insgesamt 31 Module unterrichtet.
+31 der an der für die Berufsausbildung zuständigen Berufsschule
+unterrichteten Module hatten mehr als 20 Teilnehmer.
 Damit standen aus der Berufsausbildung 31 Noten zur Verfügung. 15
-davon stammen aus Modulen, welche Fähigkeiten in CT erfordern. 16 Noten
+davon stammen aus Modulen, welche Fähigkeiten in Computational Thinking erfordern. 16 Noten
 sind in Modulen vergeben worden, welche allgemeine berufliche
 Fähigkeiten von Informatiker/innen, Fachrichtung
-Applikationsentwicklung, vermitteln. Das Berufsmaturzeugnis beinhaltet
+Applikationsentwicklung, vermitteln. Eine Begründung für die Gruppierung
+der Module folgt in [@sec:begruendung].
+
+Das Berufsmaturzeugnis beinhaltet
 neun Noten. Diese Noten Gruppieren sich in Grundlagenbereich (erste
 Landessprache, zweite Landessprache, dritte Sprache, Mathematik; Art.
 8 Abs. 1 Verordnung über die eidgenössische Berufsmaturität, BMV),
@@ -217,7 +212,7 @@ für die Einteilung der Module in solche mit starkem CT-Bezug und solche
 mit ausschliesslich berufsspezifischen Inhalten erfolgt im Abschnitt mit
 der Auswertung der Resultate.
 
-Die Möglichkeit, CT-spezifische Fähigkeiten mit allgemeinbildenden
+Die Möglichkeit, Computational Thinking spezifische Fähigkeiten mit allgemeinbildenden
 Fächern zu korrelieren, ist der Grund für die Wahl des Vorgehens.
 
 ### Beschreibung der Vorgehensweise
@@ -227,19 +222,36 @@ nicht öffentlich verfügbar. Möglicherweise hätten die Daten gestützt auf
 § 18 des Gesetzes über die Information und den Datenschutz (IDG) des
 Kantons Zürich verfügbar gemacht werden können. Dieser Schritt war
 vorliegend allerdings nicht erforderlich, da der Verfasser als
-Mitarbeiter Zugriff auf den Datenbestand hatte.
+Mitarbeiter dieser Schule Zugriff auf den Datenbestand hatte.
 
-Die Daten waren der IMS waren auf Papier, jene der HMS als PDF
-archiviert. Damit jederzeit wieder auf die Daten der IMS zugegriffen
+Zusammenstellungen von Leistungsbeurteilungen sind nach 
+§ 3 Abs. 4 lit. b IDG als besondere Personendaten. Besondere
+Personendaten müssen speziell geschützt werden. Aus diesem Grund wurden
+die Daten anonymisiert. Allerdings erforderte die Art der Archivierung
+der Daten ein zweistufiges Vorgehen.
+
+Die Daten der IMS waren auf Papier, jene der HMS als PDF
+archiviert. Damit im Rahmen der vorliegenden Untersuchung jederzeit wieder auf die Daten der IMS zugegriffen
 werden kann, wurden diese vor der eigentlichen Erfassung eingescannt.  
 Die Form der Archivierung machte es in einem ersten Schritt nötig, die
 relevanten Informationen abzuschreiben. Die manuelle Datenerfassung ist
 Fehleranfällig und musste daher aus Konzentrationsgründen in mehrere
 Phasen unterteilt werden. Ausserdem mussten die erfassten Daten
 kontrolliert werden. Damit diese Kontrolle einfacher erfolgen konnte,
-wurden die Namen und Klassen erst nach erfolgter Kontrolle gehasht. 
+wurden die Namen und Klassen erst nach erfolgter Kontrolle anonymisiert.
+Um trotz Anonymisierung die Nachvollziehbarkeit zu erhalten, wurden die
+Namen und die Klasse mit folgender Funktion gehasht:
 
-Die Daten wurden in CSV-Dateien zur Weiterverarbeitung abgespeichert. Es
+```python
+def hash_column(df, column_name, hash_length=16):
+    def short_hash(value):
+        return hashlib.sha256(str(value).encode()).hexdigest()[:hash_length]
+    
+    df[f'{column_name}_hash'] = df[column_name].apply(short_hash)
+    return df
+```
+
+Die anonymisierten Daten wurden in CSV-Dateien zur Weiterverarbeitung abgespeichert. Es
 wurden dazu die folgenden drei Tabellen erstellt:
 
 * Personalien
