@@ -338,4 +338,6 @@ ihrer spezifischen Stärken einen Mehrwert generieren können. Dies dürfte
 Resultate zu generieren oder aufwändige Tätigkeiten zu automatisieren.
 Also um Aufgaben wie sie in [@sec:soz] als Beispiel angeführt worden
 sind zu lösen oder in Mathematik oder Finanz- und Rechnungswesen Modelle
-durchzurechnen.
+durchzurechnen. Dieser Ansatz deckt sich mit der Erkenntnis, dass es die
+eine Unterrichtsmethode schlechterdings nicht
+gibt[@APUIGB, S. 113; @brophyTeachingEducationalPractices2000, S. 6].
