@@ -43,13 +43,13 @@ erfordern wie Computational Thinking. Für den Unterricht drängt es sich
 auf, sich mit den Arbeitsmethoden der Digital Humanities
 auseinanderzusetzen. Digital Humanities versuchen Computer basierte
 Arbeitsmethoden auf die Geisteswissenschaften
-anzuwenden[@WhatAreDigital]. Damit beschäftigen sich die Digital
+anzuwenden[@berryWhatAreDigital]. Damit beschäftigen sich die Digital
 Humanities über weite Strecken mit Fragen, die man auch klären muss,
 wenn man auf Computational Thinking basierende Unterrichtsmethoden an
 der Mittelschule einführen will.
 
 Ein Blick auf vorgeschlagenen Arbeitsmethoden für Digital Humanities
-ergibt die in der Tabelle [@tab:methode] zusammengestellten Beispiele.
+ergibt die in der Tabelle [@tbl:methode] zusammengestellten Beispiele.
 
 ```{=latex}
 \begin{table}[ht!]
@@ -70,7 +70,7 @@ Methode&Beschreibung\\
   Sozialversicherungen überprüft werden.\\
 \bottomrule
 \end{tabular}
-\label{tab:methode}
+\label{tbl:methode}
 \end{table}
 ```
 
