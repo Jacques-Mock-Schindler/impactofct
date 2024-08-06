@@ -216,7 +216,7 @@ weiterer Teilaspekt der Definition von Computational Thinking.
 
 #### Modul 153: Datenmodelle entwickeln
 
-Die Modulbeschreibung definiert für das Modul 122[@modul153] fünf
+Die Modulbeschreibung definiert für das Modul 153[@modul153] fünf
 Handlungsziele:
 
 1. Informationsbedürfnisse und Anforderungen an die Datenhaltung
@@ -237,7 +237,7 @@ diesem Modul darum, aus den Informationsbedürfnissen eines Kunden, eine
 Datenbank zu erstellen. Die Transformation von Informationsbedürfnissen
 in das Datenschema einer Datenbank erfordert ein hohes
 Abstraktionsvermögen. Diese Fähigkeit zu abstrahieren ist eine der
-Komponenten von CT.
+Komponenten  gemäss Definition von Computational Thinking.
 
 #### Module 226 bw. Modul 326: Objektorientiert implementieren
 
@@ -245,7 +245,7 @@ Das Modul 226 ist im Rahmen der Qualitätsentwicklung in die Module 226a
 und 226b Objektorientiert implementieren (mit und ohne Vererbung)
 aufgeteilt werden. Das Modul 326 vertieft die beiden Module 226a und
 226b mit einem Businessbezug. Die Begründung für die Aufnahme in die
-Liste der Module mit starkem CT Bezug wird deshalb hier für alle Module
+Liste der Module mit starkem Bezug zu Computational Thinking wird deshalb hier für alle Module
 zur objektorientierten Programmierung zusammengefasst.
 
 Die Modulbeschreibung definiert für die Module 226a, 226b sowie 326 die
@@ -272,17 +272,18 @@ folgenden zehn konsolidierten Handlungsziele [@modul226a; @modul226b;
 10. Applikations-Architektur nachvollziehbar dokumentieren.
 
 Die objektorientierte Programmierung ist ein gutes Beispiel für die
-Anwendung von CT.  
+Anwendung von Computational Thinking.  
 Die Modellierung von Situationen des realen Lebens als Klassen mit
-Attributen und Methoden entspricht genau dem in der Definition von CT
+Attributen und Methoden entspricht genau dem in der Definition von
+Computational Thinking
 beschriebenen Zerlegen von Problemen in lösbare Teilprobleme. Dadurch,
 dass im Modul 226b explizit mit Vererbung gearbeitet wird, wird auch die
-als Teilkomponente von CT identifizierte Abstraktion geübt. Dies wird
+als Teilkomponente von Computational Thinking identifizierte Abstraktion geübt. Dies wird
 noch verstärkt, in dem Testfälle identifiziert und implementiert werden
 müssen.
 
 Insgesamt kann festgehalten werden, dass die vier Module 226, 226a, 226b
-und 326 alle Aspekte von CT abbilden.
+und 326 alle Aspekte von Computational Thinking gemäss Definition abbilden.
 
 #### Modul 242 Mikroprozessoranwendung realisieren {#sec:modul242}
 
@@ -305,18 +306,20 @@ Handlungsziele:
 In diesem Modul sticht insbesondere das vierte Handlungsziel heraus. Das
 identifizieren von Testfällen erfordert ein tiefes Verständnis der
 gestellten Aufgabe. Man muss dazu das Problem so weit verallgemeinern,
-dass alle möglichen Grenzfälle bedacht werden. Das bedeutet, dass man
+dass alle möglichen Grenzfälle bedacht werden können. Das bedeutet, dass man
 von der konkreten Probleminstanz abstrahieren, und alle
 erdenklichen Ausprägungen bedenken muss. Dazu muss das Gesamtproblem in
 Teilprobleme zerlegt werden.  
-Damit werden zwei wesentliche Aspekte von CT geschult.
+Mit dem hier verlangten Abstraktionsvermögen und der Fähigkeit Probleme
+in Teilprobleme zu zerlegen werden zwei wesentliche Aspekte von
+Computational Thinking gemäss Definition geschult.
 
 #### Modul 306, 431 und 335: Kleinere Projekte und Mobile-Applikationen
 
 Die Module 306, 431 und 335 befassen sich alle mit der Planung und Umsetzung
 kleinerer Projekte. Wegen den sich daraus ergebenden Parallelen wurden
-die beiden Module zur Begründung ihres Zusammenhangs mit CT
-zusammengefasst.  
+die drei Module zur Begründung ihres Zusammenhangs mit Computational
+Thinking zusammengefasst.  
 Die Handlungsziele können für die drei Module zu folgenden 12
 Handlungszielen konsolidiert werden[@modul306; @modul335; @modul431].
 
@@ -353,9 +356,8 @@ Handlungszielen konsolidiert werden[@modul306; @modul335; @modul431].
    kann.
 
 Wie den Handlungszielen entnommen werden kann, übernehmen die Lernenden
-die Rolle eines Projektleiters; sei es für die Abwicklung eines
-Kleinprojektes im eigenen beruflichen Umfeld oder für die Entwicklung
-einer Mobile-Applikation. Als Projektleiter muss man Aufgaben in
+in den hier zusammengefassten Modulen
+die Rolle eines Projektleiters. Als Projektleiter muss man Aufgaben in
 Teilprobleme zerlegen. Ausserdem müssen äussere Abhängigkeiten
 berücksichtigt werden. Handlungsziel 2 schreibt für die
 Mobile-Applikation vor, dass die Vorgaben zu analysieren seien.
@@ -365,7 +367,8 @@ Interessen der
 Stakeholder und der Faktor Zeit zu berücksichtigen sind.
 Die dafür erforderliche Analyse der
 Aufgabenstellung übt insbesondere den Aspekt Aufteilen von Problemen in
-kleinere Teilprobleme von CT. 
+kleinere Teilprobleme. Diese Aufteilung von Problemen in Teilproblem ist
+ein Teilaspekt gemäss der Defintion von Computational Thinking. 
 
 #### Modul 403: Programmabläufe prozedural implementieren
 
@@ -387,7 +390,7 @@ Handlungsziele:
 Die Implementation von prozeduralen Programmabläufen ist möglicherweise
 etwas weniger anspruchsvoll als die Implementation von
 objektorientierten Programmen. Trotzdem werden auch in diesem Modul
-Aspekte von CT geschult. Insbesondere gilt dies für Feststellung der für
+Teilaspekte von Computational Thinking geschult. Insbesondere gilt dies für Feststellung der für
 das Programm erforderlichen Daten mit deren Datentypen nach
 Handlungsziel 2. Dazu ist es erforderlich, das zu Lösende Problem in
 seine Komponenten zu zerlegen um festzustellen, an welcher Stelle welche
@@ -396,7 +399,7 @@ Handlungsziel 5, dass Testfälle identifiziert werden. Wie bereits in
 [@sec:modul242] festgehalten, erfordert dies, dass die Problemstellung
 verallgemeinert werden kann.
 
-Es werden damit die CT Teilaspekte Aufteilen von Problemen sowie
+Es werden damit die Computational Thinking Teilaspekte Aufteilen von Problemen sowie
 Verallgemeinern von konkreten Probleminstanzen geschult.
 
 #### Modul 411: Datenstrukturen und Algorithmen entwerfen und anwenden
@@ -422,7 +425,7 @@ Handlungsziele:
 
 Selbständig Datenstrukturen und Algorithmen entwerfen darf wohl als
 Königsdisziplin des Programmierens bezeichnet werden. Handlungsziel
-2 entspricht denn auch fast der Definition von CT. Eine weitere
+2 entspricht denn auch fast der Definition von Computational Thinking. Eine weitere
 Begründung erübrigt sich daher.
 
 #### Charakterisierung der Noten der Berufsausbildung {#sec:modulcharakter}
@@ -466,14 +469,14 @@ der erzielten Noten ist als rote Linie dargestellt.}
 \end{figure}
 
 Das die Streuung bei einer Durchschnittsnote abnimmt zeigt
-@fig:semesternotenefz. Die Darstellung beruht auf der Fiktion, dass alle
+[@fig:semesternotenefz]. Die Darstellung beruht auf der Fiktion, dass alle
 Lernenden ihren Abschluss 2017 gemacht hätten und die für diesen
 Ausbildungsjahrgang geltenden Modulzusammenstellung gehabt hätten.
 
 ### Noten der BMS
 
 Die Ausbildung an der BMS orientiert sich wie in [@sec:kernbegruendung]
-dargelegt an klassischen Fachdisziplinen. Die Archivierung der BMS Noten
+dargelegt, an klassischen Fachdisziplinen. Die Archivierung der BMS Noten
 ist nicht über den ganzen Beobachtungszeitraum hinweg gleich
 organisiert. Konstant archiviert wurden lediglich die Noten, welche
 eingang ins Berufsmaturzeugnis gefunden haben. Aus diesem Grund wurde
@@ -488,7 +491,7 @@ Abschlüsse von 2018 bis 2022 ausgewertet werden. Damit reduziert sich
 der Datensatz gegenüber den anderen Fächer von 167 auf 108 Noten.
 
 Einen graphischen Überblick über die Verteilung der Noten ergibt
-@fig:boxplotsbms.
+[@fig:boxplotsbms].
 
 \begin{figure}[ht!]
 \includegraphics[width=\textwidth]{docs/graphics/boxplots_bm.png}
@@ -500,7 +503,7 @@ dargestellt}
 \label{fig:boxplotsbms}
 \end{figure}
 
-In der Darstellung von @fig:boxplotsbms fallen zwei Charakteristika
+In der Darstellung von [@fig:boxplotsbms] fallen zwei Charakteristika
 besonders ins Auge:
 
 1. Der Median liegt bei allen Fächern mindestens bei 4.5.
