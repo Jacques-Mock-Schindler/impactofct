@@ -1,19 +1,11 @@
 # Daten
 
 In diesem Abschnitt sollen die Ausgewerteten Daten näher beschrieben
-werden. In einem ersten Teil wird die Stichprobe näher Beschrieben und
-in einem zweiten Teil die Datensätze "Noten der Berufsausbildung"
+werden. In einem ersten Teil wird die Stichprobe als ganzes näher Beschrieben und
+in einem zweiten Teil die beiden Datensätze "Noten der Berufsausbildung"
 und "Noten der BMS".
 
 ## Beschreibung der Stichprobe {#sec:stichprobe}
-
-Die Daten umfassen Noten von insgesamt 167 Lernenden. 12 davon sind
-Frauen. Das Durchschnittsalter zum Zeitpunkt der BMS Prüfungen betrug
-19.2 Jahre. Der jüngste Lernende war 17 Jahre alt, der älteste 22. Die
-Standardabweichung liegt bei 0.9 Jahren.
-Die Stichprobe besteht aus allen Lernend des Beobachtungszeitraums von
-2009 bis 2022. Aufgrund der Schuldauer von drei Jahren entspricht dies
-10 Prüfungsjahrgängen.
 
 Die Kantonsschule Büelrain war die erste Kantonsschule welche eine IMS
 angeboten hat. Begonnen hat das Programm im Jahr 2000. Mittlerweile gibt
@@ -22,12 +14,34 @@ Kompetenz der Kantone liegt, ergeben sich zum Teil erhebliche regionale
 Unterschiede in den Zubringerschulen. Diese Unterschiede rechtfertigen
 es, die Absolventen der IMS an der Kantonsschule Büelrain als
 eigenständige Population zu verstehen.
+
 Beim Start der IMS an der Kantonsschule Büelrain 
 waren die Klassen etwas grösser als sie es aktuell sind. Damit kann die
 Gesamtpopulation von Absolventen der IMS an der Kantonsschule Büelrain
 bis 2022 auf zwischen 350 und 400 geschätzt werden. Die
 Stichprobengrösse ist daher etwas kleiner als 50% der gesamten
 Population.
+
+Die Daten umfassen Noten von insgesamt 167 Lernenden. 12 davon sind
+Frauen. Das Durchschnittsalter zum Zeitpunkt der BMS Prüfungen betrug
+19.2 Jahre. Der jüngste Lernende war 17 Jahre alt, der älteste 22. Die
+Standardabweichung liegt beim Alter bei 0.9 Jahren.
+Die Stichprobe besteht aus allen Lernend des Beobachtungszeitraums von
+2009 bis 2022. Aufgrund der Schuldauer von drei Jahren entspricht dies
+10 Prüfungsjahrgängen.
+
+Die Stichprobe darf als für die IMS an der Kantonsschule Büelrain
+repräsentativ angesehen werden. Der Anteil junger Frauen hat auf die
+ganze Dauer der Existenz der IMS ganz leicht abgenommen. Hat es doch in
+der allerersten IMS Klasse mit einem Bestand von 15 Schülerinnen und
+Schüler drei Frauen gehabt. Dieser Höchststand wurde nachher nie mehr
+erreicht. Damit dürfte die Geschlechterverteilung der Gesamtpopulation
+entsprechen. Das gleiche gilt für die Altersverteilung. Nach Abschluss
+der dritten Klasse der Sekundarschule sind die Meisten Schülerinnen und
+Schüler 16 Jahre alt. Nach Abschluss des schulischen Teils ihrer
+Ausbildung entsprechend 19 Jahre. Die Abweichungen vom
+Durchschnittsalter sind auf Repetitionen und übersprungene Klassen in
+zurückzuführen.
 
 ## Beschreibung der Datensätze
 
@@ -52,7 +66,7 @@ Abs. 2 lit. d und Abs. 4 lit. a der Verordnung des SBFI über die
 berufliche Grundbildung Informatikerin/Informatiker mit eidgenössischem
 Fähigkeitszeugnis (BiVo)).
 
-#### Module der Berufsbildung
+#### Module der Berufsbildung {#sec:begruendung}
 
 Nicht alle der in @tbl:modulliste aufgeführten Module wurden durchgehend
 während des ganzen Beobachtungszeitraums unterrichtet und geprüft. Dies

@@ -25,6 +25,12 @@ efz.drop(columns=columns_to_drop, inplace=True)
 
 # %%
 
+efz1 = efz.iloc[:,:12]
+efz2 = efz.iloc[:,12:24]
+efz3 = efz.iloc[:,24:]
+
+# %%
+
 def create_histogramms(dataframe):
     # Vorbereitung für die Einteilung in halbe Noten und Aufbereitung
     # der Datenspalten
@@ -129,9 +135,10 @@ def create_histogramms_grid_efz(dataframe):
     num_rows = math.ceil(num_cols / 3)
     
     # Erstelle eine Figur mit der berechneten Anzahl von Zeilen und 3 Spalten
-    fig, axs = plt.subplots(num_rows, 3, figsize=(15, 5*num_rows + 1))
+    fig, axs = plt.subplots(num_rows, 3, figsize=(15, 5*num_rows + 2))
     
-    fig.suptitle('Histogramme und Normalverteilungen', fontsize=16, y=1.005)
+    fig.suptitle('Histogramme und Normalverteilungen der Noten der Berufsausbildung (Teil 3)',
+                 fontsize=16, y=1)
     
     for idx, column in enumerate(dataframe.columns):
         row = idx // 3
@@ -180,10 +187,10 @@ def create_histogramms_grid_efz(dataframe):
             fig.delaxes(axs[col])
     
     plt.tight_layout()
-    plt.savefig('../graphics/normalverteilung_efz.png',
+    plt.savefig('../graphics/normalverteilung_efz_3.png',
                 dpi=300)
     plt.show()
 # %%
 
-create_histogramms_grid_efz(efz)
+create_histogramms_grid_efz(efz3)
 # %%
