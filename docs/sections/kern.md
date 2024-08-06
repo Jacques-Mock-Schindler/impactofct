@@ -37,10 +37,41 @@ kommt. Bei den anderen Fächern gibt es mehr oder weniger starke
 Abweichungen.
 
 Die optische Überprüfung der Normalverteilung in der BMS ergibt für die
-Module 122, 123, 151, 214, 304 und 431 eine Verteilung, welche der
+Module 122, 123, 151 (vgl. [@fig:normalverteilung_efz1]), 214, 304 (vgl.
+[@fig:normalverteilung_efz2]) und 431 (vgl.
+[@fig:normalverteilung_efz3]) eine Verteilung, welche der
 Normalverteilung recht nahe kommt. Alle anderen Fächer weichen mehr oder
 weniger stark von der Normalverteilung ab.
 
+```{=latex}
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/normalverteilung_efz_1.png}
+\caption[Normalverteilung der Noten des EFZ (Teil 1)]{Grafiken zur
+optischen Überprüfung, ob die Noten der Berufsausbildung normalverteilt
+sind (Teil 1).}
+\label{fig:normalverteilung_efz1}
+\end{figure}
+```
+
+```{=latex}
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/normalverteilung_efz_2.png}
+\caption[Normalverteilung der Noten des EFZ (Teil 2)]{Grafiken zur
+optischen Überprüfung, ob die Noten der Berufsausbildung normalverteilt
+sind (Teil 2).}
+\label{fig:normalverteilung_efz2}
+\end{figure}
+```
+
+```{=latex}
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/normalverteilung_efz_3.png}
+\caption[Normalverteilung der Noten des EFZ (Teil 3)]{Grafiken zur
+optischen Überprüfung, ob die Noten der Berufsausbildung normalverteilt
+sind (Teil 3).}
+\label{fig:normalverteilung_efz3}
+\end{figure}
+```
 Damit ein Verfahren für die statistische Auswertung der Noten festgelegt
 werden konnte, wurde in einem ersten Schritt visuell überprüft, ob die
 Noten normalverteilt sind. Weil die optische Prüfung die
