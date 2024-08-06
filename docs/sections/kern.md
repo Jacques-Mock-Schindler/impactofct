@@ -36,6 +36,11 @@ Politik (GuP) eine Verteilung, die der Normalverteilung recht nahe
 kommt. Bei den anderen Fächern gibt es mehr oder weniger starke
 Abweichungen.
 
+Die optische Überprüfung der Normalverteilung in der BMS ergibt für die
+Module 122, 123, 151, 214, 304 und 431 eine Verteilung, welche der
+Normalverteilung recht nahe kommt. Alle anderen Fächer weichen mehr oder
+weniger stark von der Normalverteilung ab.
+
 Damit ein Verfahren für die statistische Auswertung der Noten festgelegt
 werden konnte, wurde in einem ersten Schritt visuell überprüft, ob die
 Noten normalverteilt sind. Weil die optische Prüfung die
