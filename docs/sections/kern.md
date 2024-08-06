@@ -12,6 +12,30 @@ Python mit den Libraries pandas und SciPy vorgenommen. Die
 Visualisierungen wurden ebenfalls in Python mit den Libraries
 matplotlib und seaborn erstellt.
 
+Mit der Gegenüberstellung der Noten aus der Berufsausbildung und der BMS
+soll festgestellt werden, ob und gegebenenfalls wie stark die beiden
+Notensätze miteinander korrelieren. Damit das richtige Mass der
+Korrelation gewählt werden kann, muss als Vorfrage geklärt werden, ob
+die Noten normalverteilt sind. Diese Kontrolle erfolgte in einer ersten
+Phase optisch mit der Darstellung der Noten als Histogramm und
+darübergelegter theoretischer Normalverteilung (vgl.
+[@fig:normalverteilung_bm]).
+
+```{=latex}
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/normalverteilung_bm}
+\caption[Normalverteilung der Noten der BMS]{Grafiken zur optischen
+Überprüfung, ob die Noten der BMS normalverteilt sind.}
+\label{fig:normalverteilung_bm}
+\end{figure}
+```
+
+Für die BMS ergibt die optische Überprüfung für die Fächer Finanz- und
+Rechnungswesen (RW), Wirtschaft und Recht (WR) sowie Geschichte und
+Politik (GuP) eine Verteilung, die der Normalverteilung recht nahe
+kommt. Bei den anderen Fächern gibt es mehr oder weniger starke
+Abweichungen.
+
 Damit ein Verfahren für die statistische Auswertung der Noten festgelegt
 werden konnte, wurde in einem ersten Schritt visuell überprüft, ob die
 Noten normalverteilt sind. Weil die optische Prüfung die
