@@ -13,9 +13,14 @@ Visualisierungen wurden ebenfalls in Python mit den Libraries
 matplotlib und seaborn erstellt.
 
 Damit ein Verfahren für die statistische Auswertung der Noten festgelegt
-werden konnte, wurde in einem ersten Schritt mit dem
-Shapiro-Wilk-Test[@kronthalerDataAnalysisRstudio2021, S. 72;
-@chattamvelliDescriptiveStatisticsScientists2023, S. 29 (je als
+werden konnte, wurde in einem ersten Schritt visuell überprüft, ob die
+Noten normalverteilt sind. Weil die optische Prüfung die
+Normalverteilung nur unzureichend wiedergibt wurden die Daten
+anschliessend mit entsprechenden statistischen Testverfahren daraufhin
+überprüft, ob sie normalverteilt sind.
+
+mit dem
+Shapiro-Wilk-Test[@chattamvelliDescriptiveStatisticsScientists2023, S. 29 (als
 Begründung für die Wahl des Shapiro-Wilk-Tests)],
 dem
 Kolmogorov-Smirnov-Test[@kenettModernStatisticsComputerBased2022, S. 175
