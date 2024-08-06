@@ -129,14 +129,14 @@ Korrelation sortiert. Die CT relevanten Module sind rot beschriftet.}
 Die Korrelationen nach Bravais-Pearson führt bezüglich der Sortierung
 der Noten der BMS zum gleichen Resultat. Verschiebungen gibt es in der
 Reihenfolge der Module. 
-Dies könnte auf die grössere Streuung der Modulnoten zurückzuführen
+Dies könnte auf die Streuung der Modulnoten zurückzuführen
 sein. Bei der Berechnung der Korrelation nach Bravais-Pearson erscheint
 die Standardabweichung der miteinander zu korrelierenden Werte im Nenner
 der Formel (vgl. [@eq:pearson]). Die Standardabweichung ist ein Mass für
 die Streuung eines Datensatzes. Deshalb reagiert die Bravais-Pearson
 Korrelation stärker
-auf Streuungen als die Korrelation nach Separman. Dass die Modulnoten
-stärker streuen wurde in [@sec:modulcharakter] gezeigt. 
+auf Streuungen als die Korrelation nach Spearman. Dass die Modulnoten
+relativ stark streuen wurde in [@sec:modulcharakter] gezeigt. 
 
 Die Übereinstimmung der Sortierreihenfolge der BMS Fächer zeigt aber
 trotzdem, dass
