@@ -162,19 +162,19 @@ Lernenden. Diese Anforderungen sollen nun genauer betrachtet werden.
 ### Anforderungen der Geisteswissenschaften an Lernende
 
 Der zentrale Werkstoff der Geisteswissenschaften ist der Text.
-Entsprechend ist die wichtigste Tätigkeit einer Geisteswissenschafterin
-bzw. eines Geisteswissenschafters die Auseinandersetzung mit Texten.  
-Sie müssen bereit sein, Fragen an Texte zu stellen und diese aus den
-Texten heraus selber zu beantworten. Diese hermeneutische Vorgehensweise 
+Entsprechend ist die wichtigste Tätigkeit in den Geisteswissenschaften
+die Auseinandersetzung mit Texten.  
+Geisteswissenschafterinnen und Geisteswissenschafter müssen bereit sein, Fragen an Texte zu stellen und diese aus den
+Texten selber heraus zu beantworten. Diese hermeneutische Vorgehensweise 
 verlangt von Lernenden in Fächern, die den Geisteswissenschaften
-zugeordnet werden, dass sie viel Geduld und Konzentration aufbringen.
+zugeordnet werden, dass sie bereit sind, sich auf Texte einzulassen.
 
 Im Unterschied zur Arbeitsweise in in den Geisteswissenschaften
-verlangt CT eher formal logisches und algorithmisches
-Denken. 
+verlangt Computational Thinking eher formal logisches und algorithmisches
+Denken. Man könnte auch von prozessorientiertem Denken sprechen.
 Dabei wird eine andere Art von Problemlösung geschult als dies in den
 Geisteswissenschaften
-der Fall ist. CT verlangt zum Überwinden von Verständnisproblemen nicht
+der Fall ist. Computational Thinking verlangt zum Überwinden von Verständnisproblemen nicht
 die wiederholte Auseinandersetzung mit einem Ursprungstext. Mit dem
 Quellcode von Computerprogrammen gäbe es zwar einen solchen
 Ursprungstext, zur Überwindung von Schwierigkeiten ist man aber
@@ -193,14 +193,11 @@ eher an qualitativen Erkenntnissen interessiert sind. Insbesondere auf
 Mittelschulstufe dominiert nach wie vor das qualitative
 Erkenntnisinteresse. 
 
-Damit verlangen die Geisteswissenschaften eine andere Art von Geduld und
-Konzentrationsfähigkeit als das in CT geschult wird.
-
 Diese unterschiedlichen Arbeitsweisen sind ein möglicher Grund für die
 schwache Korrelation der Noten aus der Berufsausbildung und jenen der
 geisteswissenschaftlichen BMS Fächern.
 
-### Anforderungen der Sozialwissenschaften an Lernende
+### Anforderungen der Sozialwissenschaften an Lernende {#sec:soz}
 
 Die Sozialwissenschaften befinden sich in vielerlei Hinsicht an der
 Schnittstelle zwischen Geistes- und Naturwissenschaften. Die Inhalte
@@ -209,18 +206,24 @@ Methoden stammen oft aus den Naturwissenschaften.
 
 In den den Sozialwissenschaften zugeordneten Fächern der Mittelschulen
 werden allerdings kaum je naturwissenschaftliche Methoden aktiv
-eingesetzt. Es werden vielmehr so gewonnene Erkenntnisse basierend auf
+eingesetzt. Es werden vielmehr die durch naturwissenschaftliche Methoden
+gewonnenen Erkenntnisse basierend auf
 Texten vermittelt. Ausserdem ist es weit
 verbreitete Praxis, die Lernenden selber Texte verfassen oder
 erarbeitete Erkenntnisse präsentieren zu lassen. Den Arbeitsweisen aus
-den Naturwissenschaften am nächsten kommt der Unterricht, wenn die
+den Naturwissenschaften am nächsten kommt der Unterricht in jenen
+Fällen, in denen die
 Lernenden Zahlenmaterial interpretieren. Dabei handelt es sich
 allerdings regelmässig um bereits aufbereitete Statistiken. Etwas weiter
 in Richtung der naturwissenschaftlichen Arbeitsmethoden geht man bei der
 Bearbeitung von quantitativen Aufgabenstellungen.  
--[] *Beispiele?*
+Für den Unterricht in Technik und Umwelt wäre Beispielsweise daran zu
+denken, wie man die zu erwartende Energiemenge, die durch ein
+Solarkraftwerk an einem bestimmten Standort gewonnen werden kann,
+berechnet. Oder im Fach Wirtschaft und Recht die Berechnung eines Return
+on Investment einer zu beschaffenden Maschine.
 
-Die von CT geforderte algorithmische Vorgehensweise hat daher
+Die von Computational Thinking geforderte algorithmische Vorgehensweise hat daher
 bescheidenen Parallelen
 zu den Methoden in den sozialwissenschaftlichen Fächern an der
 Mittelschule. Dies ist eine mögliche
@@ -232,7 +235,7 @@ Geisteswissenschaften aber doch nicht so stark, dass die Schwelle von
 
 ### Anforderungen der Abstrakten Disziplinen an die Lernenden
 
-Die Unterschiede in dieser Fächergruppe sind gross. Aus diesem Grund
+Die Unterschiede zwischen den Fächern in dieser Fächergruppe sind gross. Aus diesem Grund
 wird diese Fächergruppe in Mathematik sowie Finanz- und
 Rechnungswesen einerseits und das interdisziplinäre Arbeiten in den
 Fächern andererseits aufgeteilt.
@@ -241,7 +244,7 @@ Fächern andererseits aufgeteilt.
 
 Der Zusammenhang zwischen Mathematik und Finanz- und Rechnungswesen ist
 grösser, als dies auf den ersten Blick den Anschein macht. Historisch
-gesehen ist dies jedoch keine Überraschung. Luciano Pacioli, der
+gesehen ist dies jedoch keine Überraschung. Luca Pacioli, der
 Erfinder des Rechnungswesens, hat sich als Mathematiker verstanden. Er
 hat ein System entwickelt, in dem Einnahmen und Ausgaben einander
 gegenübergestellt werden können, ohne dass negative Vorzeichen verwendet
@@ -255,14 +258,15 @@ abstrahiert, dass das gleiche System auf so unterschiedliche Unternehmen
 wie multinationale Grosskonzerne oder die lokale Bäckerei passt. Dies
 ist zwar kein vollständiges Ausblenden der realen Welt aber doch eine sehr starke
 Abstrahierung davon.  
-Ausserdem weisen Mathematik und Finanz- und Rechnungswesen starke
+Ausserdem weisen Mathematik und Finanz- und Rechnungswesen untereinander starke
 Parallelen in der Problemlösung auf. In beiden Disziplinen werden
 Probleme in kleinere Teilprobleme zerlegt, die einfacher zu lösen sind.  
 Zu guter Letzt ist darauf hinzuweisen, dass in beiden Disziplinen eine
 stark regelbasierte Arbeitsweise vorherrscht.
 
 Zusammenfassend werden sowohl in der Mathematik als auch im Finanz- und
-Rechnungswesen die gleichen Fähigkeiten geschult, die auch in CT
+Rechnungswesen die gleichen Fähigkeiten geschult, die auch in
+Computaitonal Thinking
 erforderlich sind. Dies dürfte die verhältnismässig starke Korrelation
 der Leistungen in Mathematik und Finanz- und Rechnungswesen auf der
 einen Seite sowie den Leistungen in der Berufsausbildung auf der anderen
@@ -275,16 +279,16 @@ mehreren Projektarbeiten, welche die Lernenden im Verlauf der
 dreijährigen Schuldauer erstellen. Projektunterricht ist eine Methode,
 welche auch an der Berufsschule in der Berufsausbildung häufig zur
 Anwendung kommt. Die Korrelation der Leistungen des interdisziplinären
-Arbeiten in den Fächern mit jenen der Berufsausbildung dürfte mit der
+Arbeitens in den Fächern mit jenen der Berufsausbildung dürfte mit der
 Übereinstimmung der Methoden zu erklären sein. Die Methodik wird hier
-zur Störvariablen und die Korrelation hat wahrscheinlich nichts mit CT
-zu tun.
+zur Störvariablen und die Korrelation hat wahrscheinlich nichts mit
+Computational Thinking zu tun.
 
 ## Vergleich von Spearman's $\rho$ in den Fächergruppen
 
 Die Begründung in [@sec:gruppierung] würde erwarten lassen, dass die
 nach zunehmender mittlerer Korrelation sortierten Module pro Gruppe eine
-zunehmende Konzentration von CT relevanten Modulen aufweisen - von
+zunehmende Konzentration von für Computational Thinking relevanten Modulen aufweisen - von
 Geisteswissenschaften über Sozialwissenschaften hin zu den abstrakten
 Wissenschaften.  Wie [@fig:verschiebungen] entnommen
 werden kann, entspricht dies nicht den beobachteten Resultaten.
@@ -294,23 +298,25 @@ werden kann, entspricht dies nicht den beobachteten Resultaten.
 \caption[Darstellung der durchschnittlichen Korrelation nach Spearman
 nach Fächergruppe.]{Darstellung der durchschnittlichen Korrelation nach
 Spearman nach Fächergruppe. Je weiter unten in der Grafik ein Modul
-steht, desto stärker ist die Korrelation. Grün dargestellt sind die CT
+steht, desto stärker ist die Korrelation. Grün dargestellt sind die für
+Computational Thinking
 relevanten Module.}
 \label{fig:verschiebungen}
 \end{figure}
 
-Die Veränderung der Verteilung der CT relevanten
+Die Veränderung der Verteilung der für Computational Thinking relevanten
 Module von Fächergruppe zu Fächergruppe lässt kein Muster erkennen. Die
 Verteilung mutet vielmehr völlig zufällig an.
 
 ## Gegenüberstellung von Arbeitshypothese und Datenauswertung
 
-Die Auswertung der Daten zeigen keinen Zusammenhang zwischen CT und
+Die Auswertung der Daten zeigen keinen Zusammenhang zwischen
+Computational Thinking und
 allgemeinem Lernerfolg. Es zeigt sich lediglich, dass die Leistungen in der
 Berufsausbildung stärker mit jenen in den abstrakten Disziplinen der BMS
 korrelieren als in den Geistes- und Sozialwissenschaften. Dieser Effekt
-gilt allerdings nur generell. Den als speziell CT relevant
-identifizierten Modulen
+gilt allerdings nur generell. Den Modulen, die für Computational
+Thinking als besonders relevant identifiziert worden sind,
 kommt keine besondere Bedeutung zu.
 
 Die im [@sec:arbeitshypothese] aufgestellte Arbeitshypothese lässt sich
@@ -319,7 +325,7 @@ Vorgehensweise die Gültigkeit der Arbeitshypothese allerdings nur
 indirekt hätte bestätigen können, kann sie noch nicht als widerlegt
 gelten.
 
-Auch wenn CT basierte Unterrichtsmethoden wahrscheinlich keine generell
+Auch wenn auf Computational Thinking basierende Unterrichtsmethoden wahrscheinlich keine generell
 überlegenen Lehr- und Lernmethoden darstellen, besteht für den Moment
 kein Grund, solche Unterrichtsmethoden
 generell aufzugeben.
@@ -327,4 +333,9 @@ Sie stellen eine Gruppe von Methoden unter anderen
 dar, die mit der gleichen Berechtigung im Unterricht zum Einsatz kommen
 sollen. Sie sollen im
 Rahmen der Methodenvielfalt dort eingesetzt werden, wo sie aufgrund
-ihrer spezifischen Stärken einen Mehrwert generieren können.
+ihrer spezifischen Stärken einen Mehrwert generieren können. Dies dürfte
+überall dort der Fall sein, wo es entweder darum geht, quantitative
+Resultate zu generieren oder aufwändige Tätigkeiten zu automatisieren.
+Also um Aufgaben wie sie in [@sec:soz] als Beispiel angeführt worden
+sind zu lösen oder in Mathematik oder Finanz- und Rechnungswesen Modelle
+durchzurechnen.
