@@ -53,7 +53,7 @@ ergibt die in der Tabelle [@tbl:methode] zusammengestellten Beispiele.
 
 ```{=latex}
 \begin{table}[ht!]
-\begin{tabular}{lp{8cm}}
+\begin{tabular}{lp{10cm}}
 \toprule
 Methode&Beschreibung\\
 \midrule
@@ -70,6 +70,8 @@ Methode&Beschreibung\\
   Sozialversicherungen überprüft werden.\\
 \bottomrule
 \end{tabular}
+\caption[Vorschläge Unterrichtsmethoden]{Vorschläge für auf
+Computational Thinking basierenden Unterrihctsmethoden.}
 \label{tbl:methode}
 \end{table}
 ```
