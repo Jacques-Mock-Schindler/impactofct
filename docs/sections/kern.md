@@ -48,7 +48,9 @@ weniger stark von der Normalverteilung ab.
 \includegraphics[width=\textwidth]{docs/graphics/normalverteilung_efz_1.png}
 \caption[Normalverteilung der Noten des EFZ (Teil 1)]{Grafiken zur
 optischen Überprüfung, ob die Noten der Berufsausbildung normalverteilt
-sind (Teil 1).}
+sind (Teil 1).
+$n$ ist die Stichprobengrösse, $\mu$ der Mittelwert und $\sigma$ die
+Standardabweichung.}
 \label{fig:normalverteilung_efz1}
 \end{figure}
 ```
@@ -58,7 +60,9 @@ sind (Teil 1).}
 \includegraphics[width=\textwidth]{docs/graphics/normalverteilung_efz_2.png}
 \caption[Normalverteilung der Noten des EFZ (Teil 2)]{Grafiken zur
 optischen Überprüfung, ob die Noten der Berufsausbildung normalverteilt
-sind (Teil 2).}
+sind (Teil 2).
+$n$ ist die Stichprobengrösse, $\mu$ der Mittelwert und $\sigma$ die
+Standardabweichung.}
 \label{fig:normalverteilung_efz2}
 \end{figure}
 ```
@@ -68,7 +72,9 @@ sind (Teil 2).}
 \includegraphics[width=\textwidth]{docs/graphics/normalverteilung_efz_3.png}
 \caption[Normalverteilung der Noten des EFZ (Teil 3)]{Grafiken zur
 optischen Überprüfung, ob die Noten der Berufsausbildung normalverteilt
-sind (Teil 3).}
+sind (Teil 3).
+$n$ ist die Stichprobengrösse, $\mu$ der Mittelwert und $\sigma$ die
+Standardabweichung.}
 \label{fig:normalverteilung_efz3}
 \end{figure}
 ```
