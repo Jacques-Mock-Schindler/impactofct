@@ -6,7 +6,7 @@ reflektiert. Daher beschränkt sich die Reflexion im engeren Sinn auf die
 theoretischen Implikationen, die praktische Relevanz, ethische
 Überlegungen sowie eine persönliche Reflexion.
 
-## Theoretische Implikationen:
+## Theoretische Implikationen
 
 Bereits bei der Herausarbeitung des Begriffs Computational Thinking hat
 sich gezeigt, dass sich viele Arbeiten im Zusammenhang mit Computational
@@ -23,12 +23,23 @@ haben, so wurde immerhin die aus der Forschung zu Unterrichtswirksamkeit
 stammende Erkenntnis, dass es die eine Unterrichtsmethode nicht gibt,
 bestätigt.
 
+## Praktische Relevanz
 
-## Praktische Relevanz:
+Da sich die Arbeitshypothese weder bestätigen noch widerlegen liess,
+besteht in erster Linie Bedarf an zusätzlichen Untersuchungen.
 
-Erörterung der Bedeutung der Ergebnisse für die Praxis
-Mögliche Anwendungsfelder oder Handlungsempfehlungen
-
+Für den Verfasser hat sich als weitere praktische Erkenntnis ergeben,
+dass Computational Thinking in der Schule eine Möglichkeit
+interdisziplinären Arbeitens ergibt. Genau so, wie die Textredaktion in
+vielen Fächern Teil der täglichen Arbeit der Schülerinnen und Schüler
+darstellt, muss das auch für Computational Thinking gelten. Wenn immer
+möglich soll im Unterricht auf die Gelegenheit automatisierte
+Problemlösungen zu erarbeiten hingewiesen werden und diese auch
+eingesetzt werden. Dazu wäre es wünschenswert, wenn in den einzelnen
+Fachdisziplinen der Computer nicht ausschliessliche als Schreib- bzw.
+Rechenmaschine verstanden würde. Solange Schule jedoch in fachlich
+abgegrenzten Einheiten von 45 Minuten Dauer abspielt, wird sich daran
+wohl nicht so schnell etwas ändern.
 
 ## Ethische Überlegungen:
 
