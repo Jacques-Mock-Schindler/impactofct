@@ -79,10 +79,14 @@ Standardabweichung.}
 \end{figure}
 ```
 
-Obwohl bereits die optische Überprüfung der Normalverteilung der Noten
-in vielen Fällen zweifel daran aufkommen lässt, dass die Datensätze
-normalverteilt sind, wurde die Normalverteilung auch noch rechnerisch
-überprüft. Die rechnerische Überprüfung ist zuverlässiger, weil sie auch
+Aufgrund des zentralen Grenzwertsatzes ist eigentlich davon auszugehen,
+dass ab einer Stichprobengrösse von $n \geq 30$ eine gute Annäherung an
+eine Normalverteilung erwartet werden kann[@oestreichKeinePanikVor2018,
+S. 234].
+Allerdings wirft bereits die optische Überprüfung der Normalverteilung der Noten
+in vielen Fällen Zweifel an deren Normalverteilung auf. Zur Sicherheit
+wird daher die Normalverteilung mit dem Shapiro-Wilk Test auch
+rechnerisch überprüft. Die rechnerische Überprüfung ist zuverlässiger, weil sie auch
 Verletzungen der Normalverteilungen überprüft, die optisch nur schwer zu
 erkennen sind[@chattamvelliDescriptiveStatisticsScientists2023, S. 28
 f]. Die Resultate des Shapiro-Wilk Test sowohl für die Noten der BMS wie
