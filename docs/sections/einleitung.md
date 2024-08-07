@@ -1,17 +1,17 @@
 # Einleitung
 
-In der Bildungslandschaft wird aktuell oft von den 21st Century Skills
+In der Bildungslandschaft wird aktuell oft von den 21$^{st}$ Century Skills
 gesprochen. Damit ist ein ganzes Bündel von Fähigkeiten gemeint, das die
 aktuelle Generation von Schülerinnen und Schülern erwerben soll, um auf
 die Herausforderungen des aktuellen Jahrhunderts vorbereitet zu sein.
-Die 21st Century Skills zerfallen in die drei Teilbereiche "Learning and
+Die 21$^{st}$ Century Skills zerfallen in die drei Teilbereiche "Learning and
 Innovation (The 4 C's)", "Digital Literacy" sowie "Career and Life".
 Eine Zusammenstellung aller Skills kann der [@tbl:4c] entnommen werden.
 
 ```{=latex}
 \begin{table}[ht!]
 \centering
-\begin{tabular}{lll}
+\begin{tabular}{p{4cm}p{4cm}p{4cm}}
 \toprule
 \multicolumn{1}{c}{Learning and Innovation}&
 \multicolumn{1}{c}{Digital Literacy}&
@@ -19,9 +19,11 @@ Eine Zusammenstellung aller Skills kann der [@tbl:4c] entnommen werden.
 \midrule
 Critical thinking \& problem solving&Information literacy&Flexibility \&
 adaptability\\
+\midrule
 Creativity and innovation&Media literacy&Initiative \& self-direction\\
 Communication&ICT literacy&Social \& cross-cultural interaction\\
 Collaboration&&Productivity \& Accountability\\
+\midrule
 &&Leadership \& respronsibility\\
 \bottomrule
 \end{tabular}
