@@ -25,7 +25,9 @@ darübergelegter theoretischer Normalverteilung (vgl.
 \begin{figure}[ht!]
 \includegraphics[width=\textwidth]{docs/graphics/normalverteilung_bm}
 \caption[Normalverteilung der Noten der BMS]{Grafiken zur optischen
-Überprüfung, ob die Noten der BMS normalverteilt sind.}
+Überprüfung, ob die Noten der BMS normalverteilt sind.
+$n$ ist die Stichprobengrösse, $\mu$ der Mittelwert und $\sigma$ die
+Standardabweichung.}
 \label{fig:normalverteilung_bm}
 \end{figure}
 ```

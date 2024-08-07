@@ -93,6 +93,9 @@ def create_histogramms_grid(dataframe):
                                    edgecolor='black', 
                                    density=True)
         
+        # Grösse der Stichprobe
+        size = len(dataframe[column].dropna())
+        
         # Normalverteilungskurve berechnen
         mu, std = norm.fit(dataframe[column].dropna())
         xmin, xmax = ax.get_xlim()
@@ -104,8 +107,9 @@ def create_histogramms_grid(dataframe):
                 linewidth=1, linestyle='--',
                 label='Normalverteilung')
         ax.set_title(f'{column}\n' 
-                     + r' $\mu=$' +f'{mu:.2f}' 
-                     + r' $\sigma=$' +f'{std:.2f}')
+                     + r' $n=$'      + f'{size},'
+                     + r' $\mu=$'    + f'{mu:.2f},' 
+                     + r' $\sigma=$' + f'{std:.2f}')
         
         # Beschriftungen und Darstellung
         ax.set_xlabel('Noten')
@@ -196,5 +200,5 @@ def create_histogramms_grid_efz(dataframe):
     plt.show()
 # %%
 
-create_histogramms_grid_efz(efz)
+create_histogramms_grid_efz(efz1)
 # %%
