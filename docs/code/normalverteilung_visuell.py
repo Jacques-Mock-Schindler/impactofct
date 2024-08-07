@@ -137,7 +137,7 @@ def create_histogramms_grid_efz(dataframe):
     # Erstelle eine Figur mit der berechneten Anzahl von Zeilen und 3 Spalten
     fig, axs = plt.subplots(num_rows, 3, figsize=(15, 5*num_rows + 2))
     
-    fig.suptitle('Histogramme und Normalverteilungen der Noten der Berufsausbildung (Teil 3)',
+    fig.suptitle('Histogramme und Normalverteilungen der Noten der Berufsausbildung (Teil 1)',
                  fontsize=16, y=1)
     
     for idx, column in enumerate(dataframe.columns):
@@ -156,6 +156,9 @@ def create_histogramms_grid_efz(dataframe):
                                    edgecolor='black', 
                                    density=True)
         
+        # Grösse der Stichprobe
+        size = len(dataframe[column].dropna())
+        
         # Normalverteilungskurve berechnen
         mu, std = norm.fit(dataframe[column].dropna())
         xmin, xmax = ax.get_xlim()
@@ -167,8 +170,9 @@ def create_histogramms_grid_efz(dataframe):
                 linewidth=1, linestyle='--',
                 label='Normalverteilung')
         ax.set_title(f'Modul {column}\n' 
-                     + r' $\mu=$' +f'{mu:.2f}' 
-                     + r' $\sigma=$' +f'{std:.2f}')
+                     + r' $n$ ' + f'{size},'
+                     + r' $\mu=$' + f'{mu:.2f},' 
+                     + r' $\sigma=$' + f'{std:.2f}')
         
         # Beschriftungen und Darstellung
         ax.set_xlabel('Noten')
@@ -187,10 +191,10 @@ def create_histogramms_grid_efz(dataframe):
             fig.delaxes(axs[col])
     
     plt.tight_layout()
-    plt.savefig('../graphics/normalverteilung_efz_3.png',
+    plt.savefig('../graphics/normalverteilung_efz_1.png',
                 dpi=300)
     plt.show()
 # %%
 
-create_histogramms_grid_efz(efz3)
+create_histogramms_grid_efz(efz)
 # %%
