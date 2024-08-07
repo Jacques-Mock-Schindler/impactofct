@@ -1,10 +1,41 @@
-Der beiliegende Text "Der Einfluss von Computational Thinking auf das Lernen im allgemeinen" von Jacques Mock Schindler ist eine wissenschaftliche Arbeit, die sich mit der Rolle von Computational Thinking (CT) im Bildungsbereich auseinandersetzt. Eine geeignete Einleitung für diesen Text sollte folgende Elemente beinhalten:
+# Einleitung
 
-## **Einleitung**
+In der Bildungslandschaft wird aktuell oft von den 21st Century Skills
+gesprochen. Damit ist ein ganzes Bündel von Fähigkeiten gemeint, das die
+aktuelle Generation von Schülerinnen und Schülern erwerben soll, um auf
+die Herausforderungen des aktuellen Jahrhunderts vorbereitet zu sein.
+Die 21st Century Skills zerfallen in die drei Teilbereiche "Learning and
+Innovation (The 4 C's)", "Digital Literacy" sowie "Career and Life".
+Eine Zusammenstellung aller Skills kann der [@tbl:4c] entnommen werden.
 
-### **Einstieg**
-Beginnen Sie mit einem spannenden Einstieg, der das Interesse der Leser weckt. Dies könnte durch die Darstellung der aktuellen Bedeutung von Computational Thinking im Bildungsbereich geschehen:
-*Beispiel:* "In den letzten Jahren hat der Begriff 'Computational Thinking' zunehmend an Bedeutung gewonnen. Im Bildungsbereich wird er oft als Schlüsselkompetenz für das 21. Jahrhundert bezeichnet."
+```{=latex}
+\begin{table}[ht!]
+\centering
+\begin{tabular}{lll}
+\toprule
+\multicolumn{1}{c}{Learning and Innovation}&
+\multicolumn{1}{c}{Digital Literacy}&
+\multicolumn{1}{c}{Career and Live}\\
+\midrule
+Critical thinking \& problem solving&Information literacy&Flexibility \&
+adaptability\\
+Creativity and innovation&Media literacy&Initiative \& self-direction\\
+Communication&ICT literacy&Social \& cross-cultural interaction\\
+Collaboration&&Productivity \& Accountability\\
+&&Leadership \& respronsibility\\
+\bottomrule
+\end{tabular}
+\caption{Übersicht 21$^{st}$ Century Skills}
+\label{tbl:4c}
+\end{table}
+```
+
+Viele dieser hier aufgelisteten Fähigkeiten finden sich auch in der
+Definition von Computational Thinking, wie er in dieser Arbeit
+verwendet wird, wieder. Es drängt sich daher nachgerade auf, in einem
+Studiengang zum Erwerb der Lehrberechtigung im Fach Informatik an
+Gymnasien sich mit den Auswirkungen von Computational Thinking auf das
+Lernen auseinanderzusetzen.
 
 ### **Themendarstellung und Relevanz**
 Erklären Sie, was Computational Thinking ist und warum es relevant ist. Geben Sie eine kurze Übersicht über den Forschungsstand und die Motivation hinter der Arbeit:
