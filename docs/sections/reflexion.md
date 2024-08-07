@@ -8,8 +8,20 @@ theoretischen Implikationen, die praktische Relevanz, ethische
 
 ## Theoretische Implikationen:
 
-Einordnung der Ergebnisse in den breiteren theoretischen Kontext
-Diskussion, wie die Erkenntnisse bestehende Theorien stützen oder herausfordern
+Bereits bei der Herausarbeitung des Begriffs Computational Thinking hat
+sich gezeigt, dass sich viele Arbeiten im Zusammenhang mit Computational
+Thinking in der Schule auf Anwendungen in MINT Fächern beschränken. Im
+Sinne eines Ausblicks haben sich etliche dieser Arbeit eine Ausdehnung
+von Computational Thinking auf Fächer ausserhalb des MINT Bereiches
+gewünscht. Dabei haben sich die Autoren erhofft, dass Computational
+Thinking eine positive Auswirkung auf das Lernen in diesen Fächern haben
+würde.
+
+Die Auswertung der Resultate hat diese erhoffte Wirkung jedoch nicht
+zeigen können. Wenn sich auch die diesbezüglichen Hoffnungen zerschlagen
+haben, so wurde immerhin die aus der Forschung zu Unterrichtswirksamkeit
+stammende Erkenntnis, dass es die eine Unterrichtsmethode nicht gibt,
+bestätigt.
 
 
 ## Praktische Relevanz:
