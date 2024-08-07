@@ -1,0 +1,59 @@
+---
+author: Jacques Mock Schindler
+title: Der Einfluss von Computational Thinking auf das Lernen im allgemeinen
+lang: de-CH
+figureTitle: "Abbildung"
+tableTitle: "Tabelle"
+listingTitle: "Listing"
+figPrefix: "Abb."
+eqnPrefix: "Gl."
+tblPrefix: "Tab."
+lstPrefix: "List."
+secPrefix: "Abschnitt"
+toc: true
+toc-depth: 2
+sectionsDepth: 5
+output: 
+  pdf_document:
+    papersize: a4
+    md_extensions: +fenced_code_blocks
+bibliography: Abschlussarbeit.bib
+csl: chicago-library-list.csl 
+
+header-includes:
+  # Grundlegende Pakete
+  - \usepackage{pdflscape}
+  - \usepackage{longtable}
+  - \usepackage{booktabs}
+  - \usepackage[inkscapearea=page]{svg}
+  - \usepackage{xcolor}
+  - \usepackage{listings}
+  - \usepackage{caption}
+  - \usepackage{xurl}
+  - \usepackage[breaklinks]{hyperref}
+  - \usepackage[all]{nowidow}
+  - \usepackage{float}
+  - \usepackage{geometry}
+
+  # Seitengeometrie
+  - |
+    \geometry{
+      a4paper,
+      left=4cm,
+      right=3cm,
+      top=3cm,
+      bottom=3cm
+    }
+
+  # Bildeinstellungen
+  - |
+    \let\origfigure=\figure
+    \let\endorigfigure=\endfigure
+    \renewenvironment{figure}[1][]{\origfigure[H]}{\endorigfigure}
+
+  # Beschriftungseinstellungen
+  - \captionsetup{font=small}
+
+  # Hyperlink-Einstellungen
+  - \hypersetup{breaklinks=true}
+---

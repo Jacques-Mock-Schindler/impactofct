@@ -1,4 +1,3 @@
-\appendix
 
 # Für die Auswertung verwendete Python Scirpts
 
