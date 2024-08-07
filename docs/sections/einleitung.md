@@ -39,9 +39,21 @@ Studiengang zum Erwerb der Lehrberechtigung im Fach Informatik an
 Gymnasien sich mit den Auswirkungen von Computational Thinking auf das
 Lernen auseinanderzusetzen.
 
-### **Themendarstellung und Relevanz**
-Erklären Sie, was Computational Thinking ist und warum es relevant ist. Geben Sie eine kurze Übersicht über den Forschungsstand und die Motivation hinter der Arbeit:
-*Beispiel:* "Computational Thinking umfasst die Fähigkeit, Probleme so zu lösen, dass sie von Computern verarbeitet werden können. Diese Fähigkeit ist nicht nur für Informatiker:innen relevant, sondern wird zunehmend als grundlegende Kompetenz in verschiedenen Bildungsbereichen angesehen. Trotz der wachsenden Bedeutung gibt es jedoch keine einheitliche Definition des Begriffs, was zu Verwirrung und unterschiedlichen Interpretationen führt."
+Nachdem 2018 das obligatorische Fach Informatik für die Gymnasien
+eingeführt wurde und bereits 2024 in ein Grundlagenfach mit eigener
+Maturnote aufgewertet wurde, hat das Thema Computational Thinking im
+Zusammenhang mit Lernen an zusätzlicher Aktualität gewonnen. An vielen
+Schulen sind zudem Initiativen zur Digitalisierung des Unterrichts
+entstanden. In einzelnen Kantonen wurden diese Initiativen gebündelt und
+mit erheblichen finanziellen Ressourcen ausgestattet.  
+Allerdings fehlt vielen dieser Initiativen ein gemeinsames Verständnis,
+was die Digitalisierung des Unterrichts über den Einsatz von Computern
+als Notizbüchern hinaus ausmachen soll. Mit der vorliegenden Arbeit soll
+gezeigt werden, welchen Nutzen aus Denkweisen der Informatik für den
+Unterricht in den anderen Fächern gezogen werden kann. Darüber hinaus
+will die vorliegende Arbeit 
+einen Beitrag dazu liefern, den Mehrwert der Digitalisierung im
+Unterricht beurteilen zu können.
 
 ### **Problembeschreibung und Forschungsfrage**
 Stellen Sie die spezifische Problematik dar, die in der Arbeit behandelt wird, und formulieren Sie die Forschungsfrage oder Hypothese:
