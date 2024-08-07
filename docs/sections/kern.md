@@ -101,7 +101,7 @@ den Noten jedes Fachs der BMS gegenübergestellt und die Korrelation
 zwischen diesen Notenpaaren berechnet.  
 Oft werden Korrelationen nach Bravais-Pearson berechnet. Das setzt
 allerdings voraus, dass es sich um normalverteilte intervallskalierte
-Daten handelt[@KorrelationNachBravaisPearsona]. Die einleitende
+Daten handelt[@uzh_pearson]. Die einleitende
 Überprüfung der Daten hat jedoch ergeben, dass sie nicht normalverteilt
 sind.
 Zudem sind Noten grundsätzlich nicht intervallskaliert. Das wäre nur dann der
@@ -112,7 +112,7 @@ begründet, warum die Noten hier als ordinal skaliert behandelt werden.
 Aus diesem Grund wurde von jeder gebildeten 
 Paarung der Rangkorrelationskoeffizient
 nach Spearman ($\rho$)
-berechnet[@RangkorrelationNachSpearman].
+berechnet[@uzh_spearman].
 
 $$
 \rho = 1 - \frac{6 \cdot \sum_{i=1}^{n} d_{i}^{2}}{n \cdot (n^2 - 1)}

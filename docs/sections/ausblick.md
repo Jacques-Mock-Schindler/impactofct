@@ -111,7 +111,7 @@ Viertel[@statistikStandUndEntwicklung]. Wenn man darüber hinaus auch
 noch jenen Teil der Bevölkerung berücksichtigt, welcher das Schweizer
 Bürgerrecht erst seit einer oder zwei Generationen besitzt, so hat knapp
 40% der ständigen Wohnbevölkerung einen
-Migrationshintergrund[@statistikBevoelkerungNachMigrationsstatus].
+Migrationshintergrund[@bfs_migrationsstatus].
 Der sich daraus ergebende vielfältige kulturelle Hintergrund macht den
 Einsatz quantitativer Methoden
 schwierig[@flickIntroductionQualitativeResearch2014, S. 12].
