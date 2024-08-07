@@ -23,6 +23,7 @@ csl: chicago-library-list.csl
 header-includes:
   # Grundlegende Pakete
   - \usepackage{pdflscape}
+  - \usepackage{csvsimple}
   - \usepackage{longtable}
   - \usepackage{booktabs}
   - \usepackage[inkscapearea=page]{svg}

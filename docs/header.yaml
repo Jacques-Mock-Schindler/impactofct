@@ -25,6 +25,7 @@ csl: chicago-library-list.csl
 
 header-includes:
     - \usepackage{pdflscape}
+    - \usepackage{csvsimple}
     - \usepackage{longtable}
     - \usepackage{booktabs}
     - \usepackage[inkscapearea=page]{svg}
