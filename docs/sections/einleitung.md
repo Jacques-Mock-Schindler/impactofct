@@ -55,20 +55,21 @@ will die vorliegende Arbeit
 einen Beitrag dazu liefern, den Mehrwert der Digitalisierung im
 Unterricht beurteilen zu können.
 
-### **Problembeschreibung und Forschungsfrage**
-Stellen Sie die spezifische Problematik dar, die in der Arbeit behandelt wird, und formulieren Sie die Forschungsfrage oder Hypothese:
-*Beispiel:* "Diese Arbeit untersucht, wie Computational Thinking das Lernen im Allgemeinen beeinflusst. Die zentrale Forschungsfrage lautet: Inwiefern trägt Computational Thinking zu einem besseren Verständnis und nachhaltigen Lernerfolg bei?"
+Um diese Ziele zu erreichen soll die Frage geklärt werden, ob
+Computational Thinking beim lernen hilft.
 
-### **Zielsetzung**
-Definieren Sie klar die Ziele der Arbeit und was Sie mit der Untersuchung erreichen möchten:
-*Beispiel:* "Ziel dieser Arbeit ist es, die verschiedenen Definitionen von Computational Thinking zu konsolidieren und deren Einfluss auf das Lernen zu analysieren. Dabei soll untersucht werden, wie Computational Thinking im Lehrplan 21 integriert wurde und welche Auswirkungen dies auf die Lernenden hat."
+Zur Beantwortung der Frage wird auf die statistische Auswertung
+erzielter Leistungen von angehenden Informatiker/innen EFZ, Fachrichtung
+Applikationsentwicklung, welche in den letzten rund 10 Jahren ihre
+Ausbildung an der Informatikmittelschule der Kantonsschule Büelrain in
+Winterthur absolviert haben.
 
-### **Methodik**
-Beschreiben Sie die Methodik, die in der Arbeit verwendet wird, und begründen Sie die Wahl der Methoden:
-*Beispiel:* "Zur Beantwortung der Forschungsfrage werden verschiedene methodische Ansätze verwendet, darunter eine systematische Literaturrecherche, natürliche Experimente und Leitfadeninterviews. Diese Methoden ermöglichen es, sowohl quantitative als auch qualitative Daten zu sammeln und zu analysieren."
-
-### **Aufbau der Arbeit**
-Geben Sie einen Überblick über den Aufbau der Arbeit, um den Lesenden eine Orientierung zu bieten:
-*Beispiel:* "Die Arbeit gliedert sich in sieben Hauptkapitel. Nach der Einleitung folgt eine detaillierte Begriffsdefinition von Computational Thinking. Anschließend werden die Arbeitshypothese und die verwendeten Methoden vorgestellt. Die darauf folgenden Kapitel widmen sich der Datenerhebung und -analyse sowie der Diskussion der Ergebnisse. Abschließend werden die Implikationen der Ergebnisse und mögliche zukünftige Forschungsrichtungen diskutiert."
-
-Diese Struktur stellt sicher, dass die Einleitung alle wesentlichen Bestandteile enthält und den Lesenden einen klaren Überblick über die Arbeit und deren Zielsetzung bietet.
+In der Arbeit wird in einem ersten Teil eine allgemein akzeptierte
+Definition des Begriffs Computational Thinking erarbeitet. Anschliessend
+wird die der oben formulierten Frage zu Grunde liegende Arbeitshypothese
+dargelegt. Im folgenden Abschnitt werden die Methoden diskutiert, mit
+denen die Beantwortung der Frage versucht wurde. Nach der
+Methodendiskussion werden die Resultate der statistischen Auswertung der
+Leistungen der Lernenden der Informatikmittelschule besprochen.
+Abgeschlossen wird die Arbeit mit einem Ausblick auf weitere Arbeiten
+und mit einer persönlichen Reflexion.
