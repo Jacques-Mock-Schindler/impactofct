@@ -3,8 +3,8 @@
 In der Diskussion der verworfenen Methoden bzw. in der Begründung der
 effektiv gewählten Methode wurden die methodischen Überlegungen bereits
 reflektiert. Daher beschränkt sich die Reflexion im engeren Sinn auf die
-theoretischen Implikationen, die praktische Relevanz, ethische
-Überlegungen sowie eine persönliche Reflexion.
+theoretischen Implikationen, die praktische Relevanz
+sowie eine persönliche Reflexion.
 
 ## Theoretische Implikationen
 
@@ -40,11 +40,6 @@ Fachdisziplinen der Computer nicht ausschliessliche als Schreib- bzw.
 Rechenmaschine verstanden würde. Solange Schule jedoch in fachlich
 abgegrenzten Einheiten von 45 Minuten Dauer abspielt, wird sich daran
 wohl nicht so schnell etwas ändern.
-
-## Ethische Überlegungen:
-
-Reflexion über ethische Aspekte der Forschung und deren mögliche Auswirkungen
-
 
 ## Persönliche Reflexion:
 
