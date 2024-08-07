@@ -12,6 +12,7 @@
 !*.bib
 !*.csl
 !requirements.txt
+!*.tex
 
 # ...even if they are in subdirectories
 !*/

@@ -29,6 +29,22 @@ header-includes:
     - \usepackage{booktabs}
     - \usepackage[inkscapearea=page]{svg}
     - \usepackage{listings}
+    - \lstset{
+       numbers=left,
+       numberstyle=\tiny,
+       numbersep=5pt,
+       stepnumber=2,
+       breaklines=true,
+       breakatwhitespace=true,
+       prebreak=\raisebox{-0.75ex}[0ex][0ex]{\color{red}\ensuremath{\hookleftarrow}},
+       showstringspaces=false,
+       basicstyle=\ttfamily\footnotesize,
+       keywordstyle=\color{blue},
+       commentstyle=\color{green!40!black},
+       stringstyle=\color{orange},
+       frame=single,
+       language=Python
+       }
     - \usepackage{xcolor}
     - \usepackage{caption}
     - \captionsetup{font=small}

@@ -117,7 +117,9 @@ plt.figure(
     figsize = (7, 10)
 )
 
-sns.heatmap(gruppen, annot=module.values, fmt='', cmap=cmap, cbar=False, yticklabels=False)
+sns.heatmap(gruppen, annot=module.values,
+            fmt='', cmap=cmap, cbar=False,
+            yticklabels=False)
 
 plt.xlabel('Fächergruppen')
 plt.title('Verschiebung der CT-Module nach Fächergruppen')
@@ -126,5 +128,6 @@ plt.savefig('../graphics/verschiebung.png',
             format='png',
             dpi=300)
 plt.show()
+
 # %%
 
