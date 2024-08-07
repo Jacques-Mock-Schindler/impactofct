@@ -91,9 +91,10 @@ wird daher die Normalverteilung mit dem Shapiro-Wilk Test auch
 rechnerisch überprüft. Die rechnerische Überprüfung ist zuverlässiger, weil sie auch
 Verletzungen der Normalverteilungen überprüft, die optisch nur schwer zu
 erkennen sind[@chattamvelliDescriptiveStatisticsScientists2023, S. 28
-f]. Die Resultate des Shapiro-Wilk Test sowohl für die Noten der BMS wie
-auch für jene der Berufsausbildung liegen deutlich unter der Schwelle,
-welche eine Annahme der Normalverteilung zulassen würde.
+f]. Die $p$-Werte des Shapiro-Wilk Test sowohl für die Noten der BMS wie
+auch für jene der Berufsausbildung liegen alle deutlich unter 0.05.
+Damit ist die Annahme der Normalverteilung der Stichproben zu
+verwerfen[@hollingStatistikTestverfahren2016, S. 105].
 
 Anschliessend an diese Vorprüfung wurden die Noten jedes Moduls der Berufsausbildung 
 den Noten jedes Fachs der BMS gegenübergestellt und die Korrelation
