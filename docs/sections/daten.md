@@ -44,18 +44,73 @@ Ausbildung entsprechend 19 Jahre. Die Abweichungen vom
 Durchschnittsalter sind auf Repetitionen und übersprungene Klassen in
 zurückzuführen.
 
+## Beurteilung der Qualität der Datensätze
+
+Die Aussagekraft Noten von wird in der Öffentlichkeit immer wieder
+angezweifelt[@nzz_schulnoten].  Dass es keinen objektiven Notenmassstab
+gibt ist eine Binsenwahrheit. Trotzdem sind Noten "*eine bewährte Form
+von Feedback und für die Kommunikation der Schulen nach aussen
+– Arbeitgeber, Eltern et al. – ohne ebenbürtigen
+Ersatz*"[@condorcet_noten]. Deshalb kommt Noten durchaus eine gewisse
+Verlässlichkeit zu. Darüber hinaus hilft in der vorliegenden Arbeit die Grösse der
+Stichprobe, einzelne Extremwerte auszugleichen. Allfällige Unterschiede
+in den Bewertungsmassstäben durch unterschiedliche Lehrpersonen in den
+gleichen Modulen oder Fächern gleichen sich aus.
+
+Bei fehlenden Werten wurde der Datensatz entsprechend gekürzt. Da die
+Beurteilung der Korrelation auf Datenpaaren beruht, weisen die
+Korrelationen mit unvollständigen Paaren eine kleinere Stichprobe auf.
+Als Konsequenz daraus, weisen diese eine grössere Fehlerspanne auf.
+
+Zur Bereinigung der Datensätze wurde in den Python Scripts folgender
+Abschnitt verwendet:
+
+```pyhton
+threshod = 20
+columns_counts = df.count()
+columns_to_drop = columns_counts[columns_counts < threshod].index.to_list()
+df.drop(columns=columns_to_drop, inplace=True)
+```
+
+Wobei `df` für den pandas DataFrame mit dem jeweiligen Notensatz steht.
+Die Schwelle von 20 für die Elimination von kleinen Datensätzen wurde
+gewählt, weil dies einer durchschnittlichen angestrebten Klassengrösse
+entspricht. Damit konnten Wahlmodule, welche nur von einigen wenigen
+Lernenden gewählt worden sind, ausgeschlossen werden.
+
+Die Paarung erfolgte in Schlaufen, wie der unten dargestellten:
+
+```python
+for index in indices:
+        tmp = pd.concat([bm[header], efz[index]], axis="columns")
+        tmp.dropna(axis="index", inplace=True)
+        r = tmp[index].corr(tmp[header])
+        pearson.loc[index, header] = r
+```
+
+Wobei hier `bm` bzw. `efz` für den DataFrame mit den Noten der BMS bzw.
+der Berufsausbildung steht. Entscheidend ist die Zeile
+`tmp.dropna(axis="index", inplace=True)`. In dieser Zeile werden aus dem
+Temporären DataFrame `tmp` alle Notenpaare mit fehlenden Werten
+entfernt.
+
 ## Beschreibung der Datensätze
 
-Die Beurteilung in der Berufsausbildung erfolgt in einem anderen System
-als in der BMS. Aus diesem Grund werden die beiden Datensätze im
+Das Notensystem in der Berufsausbildung und in der BMS ist das gleiche.
+Die Notenskala reicht von 1 bis 6. Die Tiefste Note liegt bei 1, die
+beste bei 6. Noten über 4 sind genügend, Noten unter 4 ungenügend.
+Allerdings kennt die Berufsausbildung, anders als die BMS kein strenges
+Fachsystem. Aus diesem Grund werden die beiden Datensätze im
 Folgenden getrennt besprochen.
 
-### Noten der Berufsbildung
+### Noten der Berufsbildung {#sec:begruendung}
 
 Wie in allen Lehrberufen erfolgt die theoretische Ausbildung der
 Lernenden in den ICT-Berufen an einer Berufsschule. Anders als in der
 klassischen Schulbildung und in vielen Lehrberufen ist diese
-theoretische Ausbildung vollständig modularisiert[@modulbaukasten]. Der
+theoretische Ausbildung vollständig modularisiert[@modulbaukasten]. Eine
+Auflistung aller an der Berufsschule unterrichteten Module findet sich
+in [@tbl:modulliste]. Der
 für die inhaltlichen Aspekte der Berufsausbildung zuständige Verband
 ICT-Berufsbildung Schweiz, hat alle Module im Modulbaukasten.ch
 zusammengestellt.  
@@ -66,8 +121,6 @@ Berufsausbildung dienen die Noten aus den einzelnen Modulen (Art. 19
 Abs. 2 lit. d und Abs. 4 lit. a der Verordnung des SBFI über die
 berufliche Grundbildung Informatikerin/Informatiker mit eidgenössischem
 Fähigkeitszeugnis (BiVo)).
-
-#### Module der Berufsbildung {#sec:begruendung}
 
 Nicht alle der in [@tbl:modulliste] aufgeführten Module wurden durchgehend
 während des ganzen Beobachtungszeitraums unterrichtet und geprüft. Dies
@@ -80,11 +133,12 @@ Stichproben pro Modul. Die Grösse der Stichprobe sowie der sich daraus
 ergebende Fehlerbereich ist in der
 Zusammenstellung der Module in [@tbl:modulliste] ausgewiesen. Die
 Berechnung des Fehlerbereichs basiert im Sinne einer Worst Case Annahme
-auf auf einer Gesamtpopulation von 400 Lernenden (vgl. [@sec:stichprobe]).
-
-Die Begründung, weshalb die in der [@tbl:modulliste] kursiv gesetzten
-Module für die Schulung von Computational Thinking besonders wichtig
-sind folgt im Anschluss an die Tabelle.
+auf dem oberen Rand der Schätzung der Gesamtpopulation von 400 Lernenden
+(vgl. [@sec:stichprobe]). In der Zusammenstellung der an der
+Berufsschule unterrichteten Module wurden jene Module, welche für die
+Schulung von Fähigkeiten in Computational Thinking besonders wichtig
+sind *kursiv* gesetzt. Die Auswahl wird in den folgenden Abschnitten
+begründet.
 
 ```{=latex}
 \begin{table}[ht!]
