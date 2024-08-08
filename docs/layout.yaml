@@ -7,7 +7,7 @@ tableTitle: "Tabelle"
 listingTitle: "Listing"
 figPrefix: "Abb."
 eqnPrefix: "Gl."
-tblPrefix: "Tab."
+tblPrefix: "Tbl."
 lstPrefix: "List."
 secPrefix: "Abschnitt"
 toc: true
