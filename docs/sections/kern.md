@@ -256,14 +256,9 @@ wurden die Namen und Klassen erst nach erfolgter Kontrolle anonymisiert.
 Um trotz Anonymisierung die Nachvollziehbarkeit zu erhalten, wurden die
 Namen und die Klasse mit folgender Funktion gehasht:
 
-```python
-def hash_column(df, column_name, hash_length=16):
-    def short_hash(value):
-        return hashlib.sha256(str(value).encode()).hexdigest()[:hash_length]
-    
-    df[f'{column_name}_hash'] = df[column_name].apply(short_hash)
-    return df
-```
+```{=latex}
+\lstinputlisting[language=Python, firstline=8, lastline=13]{docs/code/anonymisierung.py}
+`````
 
 Die anonymisierten Daten wurden in CSV-Dateien zur Weiterverarbeitung
 abgespeichert. Die Daten wurden in die folgenden drei Tabellen
