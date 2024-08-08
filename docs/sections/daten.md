@@ -65,14 +65,13 @@ Als Konsequenz daraus, weisen diese eine grössere Fehlerspanne auf.
 Zur Bereinigung der Datensätze wurde in den Python Scripts folgender
 Abschnitt verwendet:
 
-```pyhton
-threshod = 20
-columns_counts = df.count()
-columns_to_drop = columns_counts[columns_counts < threshod].index.to_list()
-df.drop(columns=columns_to_drop, inplace=True)
-```
 
-Wobei `df` für den pandas DataFrame mit dem jeweiligen Notensatz steht.
+```{=latex}
+\lstinputlisting[language=Python, firstline=24, lastline=27]{docs/code/korrelation.py}
+`````
+
+Wobei `efz` im Beispiel für den pandas DataFrame mit dem Notensatz der
+Berufsausbildung steht.
 Die Schwelle von 20 für die Elimination von kleinen Datensätzen wurde
 gewählt, weil dies einer durchschnittlichen angestrebten Klassengrösse
 entspricht. Damit konnten Wahlmodule, welche nur von einigen wenigen
@@ -80,16 +79,12 @@ Lernenden gewählt worden sind, ausgeschlossen werden.
 
 Die Paarung erfolgte in Schlaufen, wie der unten dargestellten:
 
-```python
-for index in indices:
-        tmp = pd.concat([bm[header], efz[index]], axis="columns")
-        tmp.dropna(axis="index", inplace=True)
-        r = tmp[index].corr(tmp[header])
-        pearson.loc[index, header] = r
-```
+```{=latex}
+\lstinputlisting[language=Python, firstline=42, lastline=46]{docs/code/korrelation.py}
+`````
 
 Wobei hier `bm` bzw. `efz` für den DataFrame mit den Noten der BMS bzw.
-der Berufsausbildung steht. Entscheidend ist die Zeile
+der Berufsausbildung steht. Entscheidend ist die Zeile 3:
 `tmp.dropna(axis="index", inplace=True)`. In dieser Zeile werden aus dem
 Temporären DataFrame `tmp` alle Notenpaare mit fehlenden Werten
 entfernt.
