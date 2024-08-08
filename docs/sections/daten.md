@@ -94,6 +94,16 @@ der Berufsausbildung steht. Entscheidend ist die Zeile
 Temporären DataFrame `tmp` alle Notenpaare mit fehlenden Werten
 entfernt.
 
+Da der Datensatz ausschliesslich auf Noten basiert, können viele
+Störvariabeln nicht identifiziert werden. Mögliche Störvariabeln sind
+beispielsweise der sozioökonomische Hintergrund der Lernenden. Dieser
+hat sich im Verlauf des Beobachtungszeitraums deutlich verändert. Der
+Anteil an Lernenden mit Migrationshintergrund hat gegenüber der
+Gesamtbevölkerung der Schweiz überproportional stark zugenommen.
+Dies schränkt die Analyse der Resultate entsprechend ein. Da Noten
+eben ausschliesslich eine von allen Störvariabeln befreite Lernleistung
+zum Ausdruck bringen, sind trotzdem Aussagen möglich.
+
 ## Beschreibung der Datensätze
 
 Das Notensystem in der Berufsausbildung und in der BMS ist das gleiche.
