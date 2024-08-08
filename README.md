@@ -63,6 +63,14 @@ Wichtig ist die Reihenfolge der Argumente. `--number-sections` muss vor
 `--filter pandoc-crossref` muss vor `--metadata-file` muss vor
 `--citeproc` stehen.
 
+Die verarbeiteten Dateien stehen neu am Ende der Datei layout.yaml.
+
+Der Befehl für die Konvertierung lautet daher:
+
+```pwoershell
+ pandoc (yq e '.input-files[]' 'G:\Meine Ablage\Studium\impactofct\docs\layout.yaml') --number-sections --filter pandoc-crossref --metadata-file='G:\Meine Ablage\Studium\impactofct\docs\layout.yaml' --citeproc -o docs/240808_fahne.pdf --pdf-engine=xelatex --highlight-style=pygments
+```
+
 ## Git Einstellungen mit verschiedenen Accounts
 
 Damit der Accountauswahl Dialog bei git push nicht jedesmal durchlaufen
