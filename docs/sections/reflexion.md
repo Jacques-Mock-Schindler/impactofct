@@ -32,18 +32,25 @@ es die eine Unterrichtsmethode nicht gibt, bestätigt.
 Da sich die Arbeitshypothese weder bestätigen noch widerlegen liess,
 besteht in erster Linie Bedarf an zusätzlichen Untersuchungen.
 
-Für den Verfasser hat sich als weitere praktische Erkenntnis ergeben,
-dass Computational Thinking in der Schule eine Möglichkeit
-interdisziplinären Arbeitens ergibt. Genau so, wie die Textredaktion in
-vielen Fächern Teil der täglichen Arbeit der Schülerinnen und Schüler
-darstellt, muss das auch für Computational Thinking gelten. Wenn immer
-möglich soll im Unterricht auf die Gelegenheit automatisierte
-Problemlösungen zu erarbeiten hingewiesen werden und diese auch
-eingesetzt werden. Dazu wäre es wünschenswert, wenn in den einzelnen
-Fachdisziplinen der Computer nicht ausschliessliche als Schreib- bzw.
-Rechenmaschine verstanden würde. Solange Schule jedoch in fachlich
-abgegrenzten Einheiten von 45 Minuten Dauer abspielt, wird sich daran
-wohl nicht so schnell etwas ändern.
+Allenfalls handelt es sich bei Computational Thinking weniger um eine
+Grundlage für spezielle Unterrichtsmethoden als viel mehr um eine
+allgemeine Kulturtechnik. Damit verhält es sich mit Computational
+Thinking wie mit Lesen und Schreiben oder den Grundfertigkeiten in
+Mathematik. Lesen und Schreiben bzw. die Durchführung grundlegender
+Berechnungen werden in der Regel auch nicht als spezielle
+Unterrichtsmethode verstanden.  
+Damit diese Einsicht auch Auswirkungen auf den Unterricht hat, ist es
+allerdings erforderlich, dass nicht nur die Schüler und Schülerinnen die
+über die in der Einleitung erwähnten 21$^{st}$ Century Skills verfügen
+sondern insbesondere und vor allem auch die Lehrpersonen. Aktuell ist
+das sicher nicht Flächendeckend der Fall. Im Moment gibt es unter den
+Lehrpersonen so etwas wie einen digital divide. Der Graben verläuft
+erstaunlicherweise nicht zwischen den Altersgruppen. Trotzdem dürfte es sich
+dabei um ein Generationenproblem handeln, das sich im verlauf der
+nächsten Jahre durch die nachrückenden Lehrpersonen von selber erledigt.
+Viele der sich aktuell im Studium befindenden potentiellen Lehrpersonen
+werden in ihren Studiengängen gezwungenermassen in Computational
+Thinking geschult.
 
 ## Persönliche Reflexion
 
