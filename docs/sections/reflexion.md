@@ -1,6 +1,6 @@
 # Reflexion
 
-Eine Diskussion zur Wahl bzw. dem Auschluss bestimmter Methoden findet
+Eine Diskussion zur Wahl bzw. dem Ausschluss bestimmter Methoden findet
 sich in [@sec:methode]. Daher beschränkt sich die Reflexion im engeren Sinn auf die
 theoretischen Implikationen, die praktische Relevanz
 sowie eine persönliche Reflexion.
@@ -43,13 +43,13 @@ Damit diese Einsicht auch Auswirkungen auf den Unterricht hat, ist es
 allerdings erforderlich, dass nicht nur die Schüler und Schülerinnen die
 über die in der Einleitung erwähnten 21$^{st}$ Century Skills verfügen
 sondern insbesondere und vor allem auch die Lehrpersonen. Aktuell ist
-das sicher nicht Flächendeckend der Fall. Im Moment gibt es unter den
+das sicher nicht flächendeckend der Fall. Im Moment gibt es unter den
 Lehrpersonen so etwas wie einen digital divide. Der Graben verläuft
 erstaunlicherweise nicht zwischen den Altersgruppen. Trotzdem dürfte es sich
-dabei um ein Generationenproblem handeln, das sich im verlauf der
+dabei um ein Generationenproblem handeln, das sich im Verlauf der
 nächsten Jahre durch die nachrückenden Lehrpersonen von selber erledigt.
 Viele der sich aktuell im Studium befindenden potentiellen Lehrpersonen
-werden in ihren Studiengängen gezwungenermassen in Computational
+werden in ihren Studiengängen zwangsläufig in Computational
 Thinking geschult.
 
 ## Persönliche Reflexion
