@@ -9,7 +9,7 @@ sowie eine persönliche Reflexion.
 
 Bereits die Lektüre der Metastudien zu Computational Thinking hat
 gezeigt, dass bei vielen Arbeiten zu Computational Thinking im
-Unterricht die MINT Fächer im Vordergrund stehen (vgl. im [@sec:def]
+Unterricht die MINT Fächer im Vordergrund stehen (vgl. im [@sec:definition]
 angeführte Arbeiten).
 Im
 Sinne eines Ausblicks haben sich etliche dieser Arbeit eine Ausdehnung

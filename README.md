@@ -56,7 +56,7 @@ A simple example:
 ## Verwendung von pandoc zur Erstellung des PDF
 
 ```powershell
- pandoc .\docs\sections\computational_thinking.md .\docs\sections\arbeitshypothese.md .\docs\sections\methode.md .\docs\sections\kern.md .\docs\sections\daten.md .\docs\sections\auswertung.md .\docs\sections\literatur.md --number-sections --filter pandoc-crossref --metadata-file='G:\Meine Ablage\Studium\impactofct\docs\header.yaml' --citeproc -o docs/240801_fahne.pdf
+ pandoc .\docs\sections\einleitung.md .\docs\sections\verzeichnisse.md .\docs\sections\computational_thinking.md .\docs\sections\arbeitshypothese.md .\docs\sections\methode.md .\docs\sections\kern.md .\docs\sections\daten.md .\docs\sections\auswertung.md .\docs\sections\ausblick.md .\docs\sections\reflexion.md .\docs\sections\literatur.md .\docs\sections\import_code.md --number-sections --filter pandoc-crossref --metadata-file='G:\Meine Ablage\Studium\impactofct\docs\layout.yaml' --citeproc -o docs/240808_fahne.pdf --pdf-engine=xelatex --highlight-style=pygments
 ```
 
 Wichtig ist die Reihenfolge der Argumente. `--number-sections` muss vor

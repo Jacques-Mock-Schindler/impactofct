@@ -1,17 +1,6 @@
+# Für die Auswertung verwendete Python Scripts
 
-# Für die Auswertung verwendete Python Scirpts
-
-## Darstellung der Normalverteilung der Noten von BMS und Berufsausbildung
-
-```{=latex}
-\lstinputlisting[language=Python]{docs/code/normalverteilung_visuell.py}
-```
-
-## Darstellung der Übersicht
-
-
-## Darstellung der Korrelation der Mittelwerte
-
-```{=latex}
-\lstinputlisting[language=Python]{docs/code/korrelationen_gruppiert.py}
-```
+Wie in [@sec:effektive_methode] (Beschreibung der Methode) erwähnt,
+erfolgte die Auswertung der Daten mit Hilfe von Python Scripts. Alle
+Scripts finden sich im GitHub Repository
+[https://github.com/Jacques-Mock-Schindler/impactofct](https://github.com/Jacques-Mock-Schindler/impactofct/tree/main/docs/code).
