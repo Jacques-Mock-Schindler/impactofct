@@ -1,0 +1,13 @@
+input-files:
+  - docs/sections/verzeichnisse.md
+  - docs/sections/einleitung.md
+  - docs/sections/computational_thinking.md
+  - docs/sections/arbeitshypothese.md
+  - docs/sections/methode.md
+  - docs/sections/kern.md
+  - docs/sections/daten.md
+  - docs/sections/auswertung.md
+  - docs/sections/ausblick.md
+  - docs/sections/reflexion.md
+  - docs/sections/literatur.md
+  - docs/sections/code_und_daten.md

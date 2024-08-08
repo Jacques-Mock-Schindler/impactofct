@@ -11,21 +11,24 @@ Bereits die Lektüre der Metastudien zu Computational Thinking hat
 gezeigt, dass bei vielen Arbeiten zu Computational Thinking im
 Unterricht die MINT Fächer im Vordergrund stehen (vgl. im [@sec:definition]
 angeführte Arbeiten).
-Im
-Sinne eines Ausblicks haben sich etliche dieser Arbeit eine Ausdehnung
-von auf Computational Thinking basierenden Unterrichtsmethoden auf Fächer ausserhalb des MINT Bereiches
-gewünscht. Dabei haben sich die Autoren erhofft, dass Computational
-Thinking eine positive Auswirkung auf das Lernen in diesen Fächern haben
-würde.
+Etliche der ausgewerteten Autorinnen und Autoren hätten sich gewünscht,
+dass die auf Computational Thinking basierenden
+Unterrichtsmethoden nicht nur in MINT Fächern zum Einsatz kommen würden.
+Sie hätten sich deren Einsatz insbesondere auch in den
+Geisteswissenschaften angehörenden Fächern gewünscht. Dabei haben sich
+die Autoren erhofft, dass Computational Thinking eine positive
+Auswirkung auf das Lernen in diesen Fächern haben würde.
 
 Die vorliegende Arbeit hat keine Möglichkeit gehabt, diesem Wunsch
 nachzukommen. Es konnte aber geprüft werden, ob die Leistungen in stark
 von Computational Thinking geprägten Unterrichtsmodulen mit jenen aus Fächern der
 Allgemeinbildung korrelieren. Leider konnte dieser Zusammenhang nicht
-nachgewiesen werden. Wenn sich auch damit die von den ausgewerteten Autoren
-geäusserte Hoffnung nicht direkt bestätigt hat, so wurde immerhin die
+nachgewiesen werden. Die Hoffnung der ausgewerteten Autoren hatte sich
+nicht erfüllt. Immerhin wurde die 
 aus der Forschung zu Unterrichtswirksamkeit stammende Erkenntnis, dass
-es die eine Unterrichtsmethode nicht gibt, bestätigt.
+es die eine Unterrichtsmethode nicht gibt, bestätigt. Damit gibt es
+weiterhin gute Argumente, auf Computational Thinking beruhende
+Unterrichtsmethoden in allen Fächern gelegentlich Anzuwenden.
 
 ## Praktische Relevanz
 
@@ -40,9 +43,10 @@ Mathematik. Lesen und Schreiben bzw. die Durchführung grundlegender
 Berechnungen werden in der Regel auch nicht als spezielle
 Unterrichtsmethode verstanden.  
 Damit diese Einsicht auch Auswirkungen auf den Unterricht hat, ist es
-allerdings erforderlich, dass nicht nur die Schüler und Schülerinnen die
-über die in der Einleitung erwähnten 21$^{st}$ Century Skills verfügen
-sondern insbesondere und vor allem auch die Lehrpersonen. Aktuell ist
+nicht ausreichend, dass die Schüler und Schülerinnen 
+über die in der Einleitung erwähnten 21$^{st}$ Century Skills verfügen.
+Es sind viel mehr und insbesondere die Lehrpersonen, welche über diese
+Fähigkeiten verfügen müssen. Aktuell ist
 das sicher nicht flächendeckend der Fall. Im Moment gibt es unter den
 Lehrpersonen so etwas wie einen digital divide. Der Graben verläuft
 erstaunlicherweise nicht zwischen den Altersgruppen. Trotzdem dürfte es sich
@@ -96,9 +100,10 @@ deren gesellschaftliche Relevanz im Schulzimmer zu vermitteln.
 
 Als unmittelbare Konsequenz für meine Arbeit als Gymnasiallehrer ist
 mein Respekt für die Leistung meiner Schülerinnen und Schüler gestiegen.
-Wir verlangen im Rahmen des allgemeinen Unterrichts immer wieder, dass
-sie Produkte vorlegen, für deren Erstellungen sie deutlich weniger gut
-vorbereitet sind, als ich es für die vorliegende Arbeit war. Erschwerend
+Wir verlangen von unseren Schülerinnen und Schülern immer wieder
+Arbeiten, für deren Erstellung sie unzureichend vorbereitet sind. Trotz
+dieser unzureichenden Vorbereitung liefern sie in der Regel brauchbare
+Resultate ab. Erschwerend
 kommt für sie noch dazu, dass sie diese Produkte in einer Lebensphase
 erstellen müssen, in der sie über deutlich weniger gefestigte
 Persönlichkeiten verfügen. Das stellt extrem hohe Anforderungen an die
