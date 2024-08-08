@@ -76,8 +76,9 @@ zwischen den Noten der Berufsausbildung und jenen der BMS. Die
 Korrelation wird mit Spearman's $\rho$ ausgedrückt. Die Noten der BMS
 sind aufsteigend nach der mittleren Korrelation sortiert. Die Noten der
 Berufsausbildung sind ebenfalls aufsteigend nach der mittleren
-Korrelation sortiert. Die CT relevanten Module sind rot beschriftet. Rot
-umrandet sind die Felder mit statistisch nicht signifikanten Werten.}
+Korrelation sortiert. Die CT relevanten Module sind rot beschriftet.
+Grau durchgestrichen sind die Felder mit statistisch nicht signifikanten
+Werten.}
 \label{fig:spearman}
 \end{figure}
 

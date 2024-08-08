@@ -160,7 +160,8 @@ for label in yticklabels:
 for cell in cells_to_highlight:
     col, row = cell
     col_idx = spearman.columns.get_loc(col)
-    plt.gca().add_patch(plt.Rectangle((col_idx, spearman.index.get_loc(row)), 1, 1, fill=False, edgecolor='red', lw=1))
+    row_idx = spearman.index.get_loc(row)
+    ax.add_line(plt.Line2D([col_idx, col_idx+1], [row_idx, row_idx+1], color='gray', lw=1))
 
 plt.title(r"Spearman's $\rho$ Noten BM - EFZ")
 plt.ylabel('EFZ Modul Nr.')
