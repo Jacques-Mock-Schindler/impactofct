@@ -49,8 +49,13 @@ BMS gegenübergestellt.
 
 Wie in der Methodenbeschreibung in [@sec:effektive_methode] dargelegt,
 wurden die Noten der BMS mit
-jenen der Berufsausbildungsmodule korreliert. Dazu wurde Spearman's
-$\rho$ berechnet und die Resultate in einer Heatmap dargestellt.
+jenen der Berufsausbildungsmodule korreliert. 
+Das heisst die Notenliste jedes Moduls der Berufsausbildung wurde mit
+jeder Notenliste der BMS korreliert. Berechnet wurde Spearman's $\rho$.
+Allerdings sind die Resultate von 74 dieser
+insgesamt 279 Paarungen statistisch nicht Signifikant. Das heisst der
+p-Wert für diese Paare ist grösser oder gleich 0.05. Die Resultate
+werden in einer Heatmap dargestellt.
 Üblicherweise werden die unabhängigen Variablen auf der x-Achse und die
 abhängigen Variablen auf der y-Achse dargestellt.
 Die Arbeitshypothese behauptet eine Auswirkung von Computational
@@ -60,7 +65,8 @@ die abhängige. Trotzdem werden die BMS Fächer auf der x-Achse und die
 Module aus der Berufsausbildung auf der y-Achse dargestellt. Dies ist
 zwar gegenüber der üblichen Darstellung von unabhängigen und abhängigen
 Variablen vertauscht. In dieser Darstellung ist aber der Effekt besser
-zu erkennen.
+zu erkennen. Die als statistisch nicht signifikant zu betrachtenden
+Werte sind rot umrandet.
 
 \begin{figure}[ht!]
 \includegraphics[width=\textwidth]{docs/graphics/spearman_heatmap.png}
@@ -70,7 +76,8 @@ zwischen den Noten der Berufsausbildung und jenen der BMS. Die
 Korrelation wird mit Spearman's $\rho$ ausgedrückt. Die Noten der BMS
 sind aufsteigend nach der mittleren Korrelation sortiert. Die Noten der
 Berufsausbildung sind ebenfalls aufsteigend nach der mittleren
-Korrelation sortiert. Die CT relevanten Module sind rot beschriftet.}
+Korrelation sortiert. Die CT relevanten Module sind rot beschriftet. Rot
+umrandet sind die Felder mit statistisch nicht signifikanten Werten.}
 \label{fig:spearman}
 \end{figure}
 
@@ -84,7 +91,14 @@ eingefärbt ist. Dieser Effekt lässt sich jedoch nur mit viel gutem
 Willen beobachten. Damit
 lässt sich nur schon optisch erkennen, dass die Korrelation zwischen den
 Noten der Module der Berufsausbildung und jener der BMS nicht sehr stark
-ist. Optisch nicht zu erkennen ist, dass nur die drei Fächer
+ist. 
+Immerhin sind so gut wie alle Paare mit relevanter Korrelation
+statistisch Signifikant. Eine Ausnahme bildet die Paarung "Technik und
+Umwelt - Modul 335 Mobile-Applikation realisieren". Da sonst die stark
+korrelierenden Notenpaare alle statistisch signifikant sind, braucht für
+die weiteren Ausführungen die Beurteilung der Signifikanz nicht weiter
+verfolgt zu werden.  
+Optisch nicht zu erkennen ist, dass nur die drei Fächer
 Mathematik, Finanz- und Rechnungswesen sowie interdisziplinäres Arbeiten
 im Mittel über alle Module den in [@sec:effektive_methode] festgelegten
 Wert von 0.3 überschreiten.  
