@@ -74,7 +74,7 @@ Um diesen allgemein akzeptieren Kern dessen, was Computational Thinking ausmacht
 weitere Aspekte, die als zu Computational Thinking gehörig erwähnt
 werden. Wenn diese weiteren Elemente auch berücksichtigt werden, landet
 man allerdings
-sehr schnell bei den allgemeinen 21th Century Skills
+sehr schnell bei den allgemeinen 21$^{st}$ Century Skills
 Kommunikation, Kollaboration, Kreativität und kritisches Denken.
 
 Der Kern der Begriffsdefinition kann klar auf den Aufsatz "Comuptational

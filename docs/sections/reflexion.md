@@ -54,50 +54,65 @@ Thinking geschult.
 
 ## Persönliche Reflexion
 
-Verschiedene Dinge, die ich theoretisch gewusst habe, sind mir durch die
-Erfahrung der letzten Monate deutlich in Erinnerung gerufen worden. Eine
-der banalsten aber daher wahrscheinlich um so wichtigeren Re-Erfahrung
-der vergangenen Monate ist, dass sich Arbeiten nur beschränkt nach Plan
-entwickeln. Bei der ersten Planung war ich felsenfest davon überzeugt,
-dass das von mir vorgesehene natürliche Experiment erstens reibungslos funktionieren
-werde und zweitens die Arbeitshypothese bestätigen würde. Weder das Eine
-noch das Andere ist eingetreten. Auch der zweite Versuch ist nicht so
-verlaufen, wie ich mir das gewünscht habe. Weder haben sich
-Gesprächspartner in genügender Zahl finden lassen, noch war aus den
-Gesprächen ein Erkenntnisgewinn möglich. Erst mit dem letzten Versuch
-konnte ein auswertbares Resultat erzeugt werden. Aus meiner Perspektive
-war damit der Wille ein Resultat zu erzeugen eine entscheidende
-Voraussetzung.
+In den vergangenen Monaten ist mir der Unterschied zwischen
+theoretischem Wissen und konkreter Erfahrung wieder einmal deutlich
+bewusst gemacht worden. Ein simples Beispiel dafür bildet die Tatsache,
+dass sich Projekte nur sehr beschränkt nach Plan entwickeln. Bei der
+Konzeption dieser Arbeit war ich der festen Überzeugung, dass die
+erkannten natürlichen Experimente sowohl reibungslos funktionieren
+wie auch die Arbeitshypothese bestätigen würden. Wenig überraschend war
+weder das Eine noch das Andere der Fall. Das gleiche Schicksal ereilte
+der zweite methodische Ansatz. So hätte ich es mir im Vorfeld nie
+vorstellen können, dass es schwierig werden würde, für die
+Leitfadeninterviews genügend Gesprächspartner zu finden.  
+Umgekehrt hat sich die frühe Formulierung der Arbeitshypothese als
+hilfreich herausgestellt. Diese bot während der ganzen Arbeit ein klares
+Ziel. Diese Zielvorgabe hat es mir ermöglicht,
+nach den beiden gescheiterten Methoden eine weitere Methode zur 
+Überprüfung der Arbeitshypothese zu suchen.
 
-Übertragen auf meine tägliche Arbeit als Gymnasiallehrer verlangt mir
-das einen grossen Respekt vor meinen Schülerinnen und Schülern ab.
-Müssen sie doch mit einer altersbedingt deutlich weniger gefestigten
-Persönlichkeit immer wieder ähnliche Herausforderungen meistern. Wir als
-Lehrer unterstellen dabei, dass sie alles was wir von ihnen verlangen,
-bereits können. Ein typisches Beispiel dafür ist die Maturarbeit. Wir
-sind weit davon entfernt, unsere Schülerinnen und Schüler wirklich
-darauf vorzubereiten, was sie in diesem Zusammenhang leisten müssen.
+In inhaltlicher Hinsicht hat mich die vorliegende Arbeit gezwungen, mich
+mit Themen auseinanderzusetzen, von denen ich keine Ahnung hatte. Obwohl
+ich seit mehr als zwanzig Jahre als Gymnasiallehrer arbeite, hatte ich
+so gut wie keine theoretischen psychologischen Kenntnisse. Genausowenig
+von Statistik. Meine diesbezüglichen Kenntnisse beschränkten sich auf
+den Unterschied zwischen Mittelwert und Median. Dank meiner
+ungebrochenen Neugierde konnte ich mir die erforderlichen Kenntnisse
+aneignen. Dabei haben auch die Umwege grundsätzlich Freude gemacht.
 
-Ich bin allerdings froh, dass ich vieles von dem, was ich im Rahmen des
-GymInf Programms gelernt habe, anwenden konnte. Frustrierend ist
-allenfalls, dass dies nur sehr mittelbar sichtbar geworden ist. Aber vor
-meinem Hintergrund als Jurist wäre ich ohne das Programm nicht in der
-Lage gewesen, die statistischen Auswertungen vorzunehmen und in
-geeigneter Form darzustellen. Ich fühle mich dank GymInf in der Lage
-Data Driven - Dinge zu tun und diese auch zu vermitteln.
+Auch wenn es sich bei der vorliegenden Arbeit um eine empirische
+sozialwissenschaftliche Arbeit handelt, konnte ich vieles von dem,
+was ich im Rahmen des GymInf Programms gelernt habe, unmittelbar
+anwenden. Frustrierend ist allenfalls, dass dies nur sehr mittelbar
+sichtbar geworden ist. Vor dem Hintergrund meiner ursprünglichen
+Ausbildung als Jurist wäre ich ohne das GymInf Programm kaum in der Lage
+gewesen, die für dieses Arbeit erforderlichen statistischen Auswertungen
+vorzunehmen, geschweige denn, dir Resultate in geeigneter Form
+darzustellen. Das GymInf Programm hat mir auch die gesellschaftliche
+Relevanz der entsprechenden Fähigkeiten aufgezeigt. In das Programm
+gestartet bin ich vor allem aus technischem Interesse. Nun fühle ich
+mich aber durchaus in der Lage über die technischen Aspekte hinaus auch
+deren gesellschaftliche Relevanz im Schulzimmer zu vermitteln. 
 
-Es hat sich mir auch in aller Deutlichkeit gezeigt, dass man immer
-wieder bereit sein muss, sich auf neue Themen einzulassen, bzw. sich in
-neue Themen einzuarbeiten. Ich hatte vor dem Beginn dieser Arbeit keine
-Ahnung von Psychologie - obwohl ich als Lehrer arbeite. Ich hatte auch
-keine Ahnung von Statistik welche über die Berechnung von Durchschnitten
-und Standardabweichungen hinausging. Aber ich darf auch festhalten,
-dass mir die Auseinandersetzung mit diesen neuen Themen Freude gemacht
-hat.
+Als unmittelbare Konsequenz für meine Arbeit als Gymnasiallehrer ist
+mein Respekt für die Leistung meiner Schülerinnen und Schüler gestiegen.
+Wir verlangen im Rahmen des allgemeinen Unterrichts immer wieder, dass
+sie Produkte vorlegen, für deren Erstellungen sie deutlich weniger gut
+vorbereitet sind, als ich es für die vorliegende Arbeit war. Erschwerend
+kommt für sie noch dazu, dass sie diese Produkte in einer Lebensphase
+erstellen müssen, in der sie über deutlich weniger gefestigte
+Persönlichkeiten verfügen. Das stellt extrem hohe Anforderungen an die
+Frustrationstoleranz. Im Zusammenhang mit der Situation an Gymnasien ist
+mir zudem bewusst geworden, wie wichtig es für grössere
+Arbeiten ist, mehrere Wochen am Stück hinsitzen zu können und sich
+ausschliesslich mit der Arbeit zu befassen. Etwas was im Rahmen des 45
+Minuten Takt des Stundenplans der Schülerinnen und Schüler oder von
+Teilzeitbeschäftigungen nur sehr schwer möglich ist. Die
+Reibungsverluste bei der Wiederaufnahme der Arbeit sind nach jedem
+Unterbruch so gross, dass sie den Prozess ungemein in die Länge ziehen.
 
-Mir ist darüber hinaus bewusst geworden, wie wichtig es für grössere
-Arbeiten ist, mehrere Wochen am Stück hinzusitzen und sich
-ausschliesslich mit der Arbeit zu befassen. Es zeigt deutlich die
-Grenzen von Teilzeitbeschäftigungen auf. Die Reibungsverluste bei der
-Wiederaufnahme der Arbeit sind so gross, dass sie den Prozess ungemein
-in die Länge ziehen.
+Zu guter Letzt möchte ich noch festhalten, dass sich der von mir
+gewählte git-Versionierte Markdown - Pandoc - Workflow bewährt hat. Die
+Trennung von Inhalt und Form hat es mir ermöglicht, mich wirklich auf
+den Inhalt oder die Form zu konzentrieren ohne dass das eine dem anderen
+in die Quere gekommen wäre.
