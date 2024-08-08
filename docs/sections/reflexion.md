@@ -1,27 +1,31 @@
 # Reflexion
 
-In der Diskussion der verworfenen Methoden bzw. in der Begründung der
-effektiv gewählten Methode wurden die methodischen Überlegungen bereits
-reflektiert. Daher beschränkt sich die Reflexion im engeren Sinn auf die
+Eine Diskussion zur Wahl bzw. dem Auschluss bestimmter Methoden findet
+sich in [@sec:methode]. Daher beschränkt sich die Reflexion im engeren Sinn auf die
 theoretischen Implikationen, die praktische Relevanz
 sowie eine persönliche Reflexion.
 
 ## Theoretische Implikationen
 
-Bereits bei der Herausarbeitung des Begriffs Computational Thinking hat
-sich gezeigt, dass sich viele Arbeiten im Zusammenhang mit Computational
-Thinking in der Schule auf Anwendungen in MINT Fächern beschränken. Im
+Bereits die Lektüre der Metastudien zu Computational Thinking hat
+gezeigt, dass bei vielen Arbeiten zu Computational Thinking im
+Unterricht die MINT Fächer im Vordergrund stehen (vgl. im [@sec:def]
+angeführte Arbeiten).
+Im
 Sinne eines Ausblicks haben sich etliche dieser Arbeit eine Ausdehnung
-von Computational Thinking auf Fächer ausserhalb des MINT Bereiches
+von auf Computational Thinking basierenden Unterrichtsmethoden auf Fächer ausserhalb des MINT Bereiches
 gewünscht. Dabei haben sich die Autoren erhofft, dass Computational
 Thinking eine positive Auswirkung auf das Lernen in diesen Fächern haben
 würde.
 
-Die Auswertung der Resultate hat diese erhoffte Wirkung jedoch nicht
-zeigen können. Wenn sich auch die diesbezüglichen Hoffnungen zerschlagen
-haben, so wurde immerhin die aus der Forschung zu Unterrichtswirksamkeit
-stammende Erkenntnis, dass es die eine Unterrichtsmethode nicht gibt,
-bestätigt.
+Die vorliegende Arbeit hat keine Möglichkeit gehabt, diesem Wunsch
+nachzukommen. Es konnte aber geprüft werden, ob die Leistungen in stark
+von Computational Thinking geprägten Unterrichtsmodulen mit jenen aus Fächern der
+Allgemeinbildung korrelieren. Leider konnte dieser Zusammenhang nicht
+nachgewiesen werden. Wenn sich auch damit die von den ausgewerteten Autoren
+geäusserte Hoffnung nicht direkt bestätigt hat, so wurde immerhin die
+aus der Forschung zu Unterrichtswirksamkeit stammende Erkenntnis, dass
+es die eine Unterrichtsmethode nicht gibt, bestätigt.
 
 ## Praktische Relevanz
 

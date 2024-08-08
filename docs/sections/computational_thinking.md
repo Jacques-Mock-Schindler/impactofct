@@ -48,7 +48,7 @@ nochmals drei
 Texte Ausgeschlossen, weil Sie den Begriff Computational Thinking ohne Definition
 einfach voraussetzen.
 
-## Konsolidierte Definition des Begriffs Computational Thinking
+## Konsolidierte Definition des Begriffs Computational Thinking {sec:def}
 
 Nach der Analyse ist festzuhalten, dass es aktuell immer noch keine
 einheitliche Definition des Begriffs Computational Thinking gibt. 

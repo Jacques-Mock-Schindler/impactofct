@@ -1,4 +1,4 @@
-# Methode
+# Methode {#sec:methode}
 
 In diesem Abschnitt wird dargelegt, wie die Arbeitshypothese überprüft
 wird. Aus der Arbeitshypothese ergibt sich folgende Frage:
