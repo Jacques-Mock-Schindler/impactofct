@@ -1,4 +1,4 @@
-# Korrelation zwischen Noten der Berufsausbildung und der BMS
+# Besprechung der Resultate
 
 Die Darstellung in [@fig:mittelwerte] zeigt eine starke Korrelation
 zwischen den durchschnittlichen Leistungen in der Berufsausbildung und
