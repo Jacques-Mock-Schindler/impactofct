@@ -34,6 +34,22 @@ Form im GitHub Repositroy
 ## Für die Auswertung verwendete Python Scripts
 
 Wie in [@sec:effektive_methode] (Beschreibung der Methode) erwähnt,
-erfolgte die Auswertung der Daten mit Hilfe von Python Scripts. Alle
-Scripts finden sich im GitHub Repository
-[https://github.com/Jacques-Mock-Schindler/impactofct](https://github.com/Jacques-Mock-Schindler/impactofct/tree/main/docs/code).
+erfolgte die Auswertung der Daten mit Hilfe von Python Scripts. Hier
+eine Auflistung der erstellten Scripts:
+
+
+* anonymisierung.py
+* csv2tex.py
+* korrelation.py
+* korrelationen_gruppiert.py
+* mittlere_korrelation.py
+* modul_signifikanz.py
+* normalverteilung.py
+* normalverteilung_visuell.py
+* semesterwerte_efz.py
+* signifikanz.py
+* visualisierung_uebersicht.py
+
+Alle Scripts finden sich im GitHub Repository
+[https://github.com/Jacques-Mock-Schindler/impactofct](https://github.com/Jacques-Mock-Schindler/impactofct/tree/main/docs/code)
+(der Link führt direkt in den Unterordner mit den Scripts).
