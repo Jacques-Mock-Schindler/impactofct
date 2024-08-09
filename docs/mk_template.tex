@@ -1,0 +1,49 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{appendix}
+
+% Für eventuelle zusätzliche Pakete und Befehle
+$for(header-includes)$
+$header-includes$
+$endfor$
+
+% Sprachspezifische Anpassungen
+\addto\captionsgerman{%
+  \renewcommand{\contentsname}{Inhaltsverzeichnis}%
+  \renewcommand{\appendixname}{Anhang}%
+  \renewcommand{\abstractname}{Abstract}% Hier behalten wir "Abstract" bei
+}
+
+\begin{document}
+
+$if(title)$
+\title{$title$}
+\author{$author$}
+\date{$date$}
+\maketitle
+$endif$
+
+% Abstract
+\begin{abstract}
+$abstract$
+\end{abstract}
+
+% Inhaltsverzeichnis
+$if(toc)$
+\tableofcontents
+\newpage
+$endif$
+
+% Eigentlicher Text
+$body$
+
+% Anhang
+$if(appendix)$
+\appendix
+\section*{Anhang}
+\addcontentsline{toc}{section}{Anhang}
+$appendix$
+$endif$
+
+\end{document}
