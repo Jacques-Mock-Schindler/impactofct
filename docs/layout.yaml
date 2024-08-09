@@ -22,6 +22,8 @@ csl: chicago-library-list.csl
 
 header-includes:
   # Grundlegende Pakete
+  - \usepackage{abstract}
+  - \renewcommand{\abstractname}{Abstract}
   - \usepackage{pdflscape}
   - \usepackage{csvsimple}
   - \usepackage{longtable}
@@ -63,6 +65,7 @@ header-includes:
   - \input{docs/listings-setup.tex}
 
 input-files:
+- docs/sections/abstract.md
 - docs/sections/verzeichnisse.md
 - docs/sections/einleitung.md
 - docs/sections/computational_thinking.md
