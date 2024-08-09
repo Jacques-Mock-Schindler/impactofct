@@ -9,8 +9,27 @@ diesen beiden Gründen wurde im Juli 2024 ein neues Repository angelegt.
 
 ## Datengrundlage
 
-Die der Arbeit zu Grunde liegenden Daten finden sich in anonymisierter
-Form im GitHub Repositroy [https://github.com/Jacques-Mock-Schindler/impactofct](https://github.com/Jacques-Mock-Schindler/impactofct/tree/main/docs/data).
+Der Arbeit liegen die folgenden Daten Tabellen zu Grunde:
+
+* personalien.csv
+* noten_bm.csv
+* noten_efz.csv
+
+Aus diesen Rohdaten wurden die folgenden Daten Tabellen errechnet:
+
+* korrelationen.csv
+* normalverteilung_bm.csv
+* normalverteilung_bm_zahlen.csv
+* normalverteilung_efz_zahlen.csv
+* pearson_signifikanztest.csv
+* pearson.csv
+* spearman.csv
+* spearman_signifikanz.csv
+
+Alle diese Daten Tabellen finden sich in anonymisierter
+Form im GitHub Repositroy
+[https://github.com/Jacques-Mock-Schindler/impactofct](https://github.com/Jacques-Mock-Schindler/impactofct/tree/main/docs/data)
+(der Link führt direkt in den Unterordner mit den Tabellen).
 
 ## Für die Auswertung verwendete Python Scripts
 
