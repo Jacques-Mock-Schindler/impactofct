@@ -193,7 +193,7 @@ Ausgehend von der
 allgemeinen für die Abschätzung der Stichprobengrösse verwendeten
 Formel
 
- $$S = \frac{Z^2 \times P \times (1-P)}{M^2}$$
+ $$S = \frac{Z^2 \times P \times (1-P)}{M^2}$$ {#eq:stichprobe}
 
 mit
 
@@ -212,7 +212,7 @@ Formel
 
 $$
 MoE = z \cdot \sqrt{\frac{p(1-p)}{n}\cdot \frac{N-n}{N-1}}
-$$
+$$ {#eq:moe}
 
 wobei
 
