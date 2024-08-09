@@ -1,6 +1,6 @@
 ---
 author: Jacques Mock Schindler
-title: Der Einfluss von Computational Thinking auf das Lernen im allgemeinen
+title: Der Einfluss von Computational Thinking auf das Lernen im Allgemeinen
 lang: de-CH
 figureTitle: "Abbildung"
 tableTitle: "Tabelle"
@@ -10,6 +10,7 @@ eqnPrefix: "Gl."
 tblPrefix: "Tbl."
 lstPrefix: "List."
 secPrefix: "Abschnitt"
+abstract-title: "Abstract"
 toc: true
 toc-depth: 2
 sectionsDepth: 5
