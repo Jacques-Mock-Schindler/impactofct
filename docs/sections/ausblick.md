@@ -6,7 +6,7 @@ Berufsausbildung von Informatiker/innen EFZ, Fachrichtung
 Applikationsentwicklung, Module unterrichtet werden, welche Bezüge zu
 Computational Thinking
 aufweisen. Dieser indirekte Ansatz wurde gewählt, weil die direkten
-Vorgehensweisen ihr Ziel verfehlten. Neben den in [@sec:nat_exp] f. erwähnten Gründen
+Vorgehensweisen ihr Ziel verfehlten. Neben den in [@sec:nat_exp; @sec:leitfadeninterview] erwähnten Gründen
 für das Scheitern der direkten Vorgehensweise gibt es auch systematische
 Gründe, die eine direkte Vorgehensweise zumindest erschweren. Trotz
 gebetsmühlenartigen Wiederholungen fristet interdisziplinäres Arbeiten
