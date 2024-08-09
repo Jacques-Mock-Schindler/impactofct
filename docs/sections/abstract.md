@@ -1,5 +1,8 @@
----
-abstract: |
+\renewcommand{\abstractname}{Abstract}
+
+\vspace{4cm}
+
+\begin{abstract}
     Die vorliegende Arbeit untersucht die Auswirkungen von Computational
     Thinking auf den Lernerfolg im Allgemeinen. Basierend auf einer
     Auswertung aktueller Publikationen wird der Begriff Computational
@@ -31,4 +34,6 @@ abstract: |
     Um die Arbeitshypothese direkt zu überprüfen sind weitere
     Untersuchungen erforderlich. Diese erfordern allerdings einen
     erheblich grösseren Mittelansatz als die vorliegende Arbeit.
----
+\end{abstract}
+
+\newpage
