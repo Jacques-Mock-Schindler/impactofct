@@ -56,6 +56,36 @@ Viele der sich aktuell im Studium befindenden potentiellen Lehrpersonen
 werden in ihren Studiengängen zwangsläufig in Computational
 Thinking geschult.
 
+## Ethische Überlegungen
+
+Immer wenn mit besonderen Personendaten im Sinne von \S\ 3 Abs. 4 IDG
+gearbeitet wird, stellen sich neben rechtlichen auch ethische Fragen.
+Nicht alles, was erlaubt ist, ist auch ethisch vertretbar. Das Gesetz
+stellt immer nur den kleinsten gemeinsamen Nenner dar.
+
+Die gesetzlichen Auflagen sind eingehalten. In der Arbeit selber
+werden die Rohdaten nicht abgedruckt und die auf GitHub zur Verfügung
+gestellten Daten sind hinreichend anonymisiert. In ethischer Hinsicht
+ergeben sich im vorliegenden Fall ein grundsätzliches Problem. Die von
+der Datenerhebung betroffenen Schülerinnen und Schüler konnten sich
+nicht gegen die Auswertung ihrer Daten zur wehr setzen (Informed
+Consent). Dieses rechtlich zulässige aber ethisch nicht ganz
+einwandfreie Vorgehen, kann durch das überwiegende Forschungsinteresse
+gerechtfertigt werden. Die erzielten Resultate können einen Beitrag zur
+Verbesserung des Unterrichts leisten. Damit profitieren zukünftige
+Schülerinnen und Schüler stärker von der Untersuchung, als die
+beobachteten Schülerinnen und Schüler verletzt worden wären. Dies zumal
+da die Privatsphäre der Schülerinnen und Schüler
+geschützt ist, und für sie die Untersuchung ohne feststellbaren Eingriff
+in ihre Persönlichkeit erfolgte.
+
+Etwas anders stellt sich die Situation bei den Leitfadeninterviews dar.
+Die Gesprächspartnerinnen und Gesprächspartner haben sich dort erst auf
+Nachfrage "freiwillig" gemeldet. Dies ist im konkreten Fall allerdings
+auch kein Problem, weil die Interviews sich als nicht auswertbar
+herausgestellt haben und daher hier auch nicht publiziert werden.
+
+
 ## Persönliche Reflexion
 
 In den vergangenen Monaten ist mir der Unterschied zwischen
