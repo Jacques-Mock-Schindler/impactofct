@@ -54,7 +54,8 @@ Das heisst die Notenliste jedes Moduls der Berufsausbildung wurde mit
 jeder Notenliste der BMS korreliert. Berechnet wurde Spearman's $\rho$.
 Allerdings sind die Resultate von 74 dieser
 insgesamt 279 Paarungen statistisch nicht Signifikant. Das heisst der
-p-Wert für diese Paare ist grösser oder gleich 0.05. Die Resultate
+p-Wert für diese Paare ist grösser oder gleich
+0.05[@hollingStatistikTestverfahren2016, S. 35]. Die Resultate
 werden in einer Heatmap dargestellt.
 Üblicherweise werden die unabhängigen Variablen auf der x-Achse und die
 abhängigen Variablen auf der y-Achse dargestellt.
