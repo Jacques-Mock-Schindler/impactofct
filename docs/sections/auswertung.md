@@ -325,7 +325,7 @@ Verteilung mutet vielmehr völlig zufällig an.
 
 ## Gegenüberstellung von Arbeitshypothese und Datenauswertung
 
-Die Auswertung der Daten zeigen keinen Zusammenhang zwischen
+Die statistische Auswertung der Daten zeigen keinen Zusammenhang zwischen
 Computational Thinking und
 allgemeinem Lernerfolg. Es zeigt sich lediglich, dass die Leistungen in der
 Berufsausbildung stärker mit jenen in den abstrakten Disziplinen der BMS
