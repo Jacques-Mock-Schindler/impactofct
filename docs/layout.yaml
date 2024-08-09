@@ -3,6 +3,7 @@ author: Jacques Mock Schindler
 affiliation: GymInf Universität Fribourg
 date: \today
 title: Der Einfluss von Computational Thinking auf das Lernen im Allgemeinen
+subtitle: Abschlussarbeit im Programm GymInf der Universtität Fribourg
 lang: de-CH
 figureTitle: "Abbildung"
 tableTitle: "Tabelle"
@@ -12,8 +13,6 @@ eqnPrefix: "Gl."
 tblPrefix: "Tbl."
 lstPrefix: "List."
 secPrefix: "Abschnitt"
-abstract-title: "Abstract"
-toc: true
 toc-depth: 2
 sectionsDepth: 5
 output: 
@@ -38,6 +37,7 @@ header-includes:
   - \usepackage{xurl}
   - \usepackage[breaklinks]{hyperref}
   - \usepackage[all]{nowidow}
+  - \usepackage{afterpage}
   - \usepackage{float}
   - \usepackage{geometry}
 
@@ -66,6 +66,9 @@ header-includes:
   # Farbdefinitionen und Listings-Einstellungen
   - \input{docs/solarized-colors.tex}
   - \input{docs/listings-setup.tex}
+
+  - |
+    \AfterEndEnvironment{abstract}{\afterpage{\clearpage}}
 
 input-files:
 - docs/sections/abstract.md
