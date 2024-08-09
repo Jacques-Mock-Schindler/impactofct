@@ -96,11 +96,12 @@ Alan Baddeley und Graham Hitch entwickelt[@baddeleyWorkingMemory1974, S.
 74]. 
 Dieses Modell erklärt das Zusammenspiel von
 Sinneswahrnehmungen, deren Verarbeitung und allfälligen Ablage im
-Langzeitgedächtnis. Dies bietet eine theoretische Basis für das Konzept
+Langzeitgedächtnis. 
+Dies bietet eine theoretische Basis für das Konzept
 der *Levels of Processing*[@craikLevelsProcessingFramework1972, S. 675], welches
 Fergus Craik und Robert Lockhart in ihrem Aufsatz *Levels of
 processing: A framework for memory
-research* beschrieben haben.
+research* beschrieben haben. 
 Im ursprünglichen Aufsatz werden
 ausschliesslich schon bestehende
 Datensätze vor dem Hintergrund dieses Konzepts neu ausgewertet. Seither
@@ -109,21 +110,32 @@ verifiziert[@goldsteinCognitivePsychologyConnecting2019, S. 193 und dort
 zitierte Studien; @eysenckCognitivePsychologyStudent2020, S. 262 und
 dort zitierte Studien].
 
-Gemäss diesem Konzept werden Lerninhalte, mit deren Inhalten
-man sich vertieft auseinandergesetzt hat, dauerhafter im
-Langzeitgedächtnis abgelegt. Eine vertiefte Auseinandersetzung bedeutet
+Das Modell der Levels of Processing beschreibt, dass Lerninhalte, welche
+im Arbeitsgedächtnis intensiver bearbeitet werden, dauerhafter im
+Langzeitgedächtnis abgelegt werden. Eine intensivere Bearbeitung bedeutet
 in diesem Zusammenhang, dass man die Lerninhalte nicht ausschliesslich
 lesend oder in Form eines konventionellen Lehrgesprächs zur Kenntnis
-nimmt, sondern aktiv etwas mit den Inhalten macht. Dieser Ansatz wurde
+nimmt, sondern aktiv etwas mit den Inhalten macht. Idealerweise werden
+die Lerninhalte zu etwas für die Schülerinnen und Schüler neuem
+zusammengesetzt oder zur Lösung konkreter Probleme verwendet. Der zweite Ansatz wurde
 in der Schweiz im Rahmen einer Studie zu anwendungs- und
-problemorientierten Unterricht untersucht[@APUIGB]. In der
-Besprechung der Resultate bekennen sich die Verfasser der Studie zu
+problemorientierten Unterricht untersucht[@APUIGB]. Im anwendungs- und
+problemorientierten Unterricht geht es darum, dass sich die Schülerinnen
+und Schüler damit auseinandersetzen, wie neu erworbenes Wissen zur
+Lösung konkreter Probleme eingesetzt werden kann. Damit findet eine
+intensive Auseinandersetzung mit neuen Inhalten im Arbeitsgedächtnis
+statt, was in der Konsequenz zu einer dauerhafteren Verankerung im
+Langzeitgedächtnis führt. In der
+Besprechung der Resultate bekennen sich die Verfasser der Studie mit
+ihrem Unterrichtsansatz explizit zu
 einem "gemässigten Konstruktivismus[@APUIGB, S. 112]". Dieses Bekenntnis
 ermöglicht, wenn auch über mehrere Etappen, einen Bogen zurück zu
 Comuptational Thinking. Wer sich zu einem "gemässigten" Konstruktivismus
-bekennt, grenzt sich bewusst vom "radikalen" Konstruktivismus ab und
-nimmt damit direkt Bezug auf den radikalen Konstruktivismus. Einer der
-Väter des radikalen Konstruktivismus ist der Schweizer Biologe und
+bekennt, grenzt sich bewusst vom "radikalen" Konstruktivismus ab. Jede
+Abgrenzung ist notwendigerweise immer eine Bezugnahme auf das Objekt der Abgrenzung.
+Damit nehmen die Autoren der Studie zum anwendungs- und
+problemorientierten Unterricht Bezug auf einen der 
+Väter des radikalen Konstruktivismus, den Schweizer Biologen und
 Pionier der kognitiven
 Entwicklungspsychologie Jean Piaget. Dies ist im aktuellen Kontext
 von Bedeutung, weil Jean Piaget der Lehrer von Seymour Papert war.
@@ -131,9 +143,17 @@ Seymour Papert war Mathematiker und Psychologe und der Autor von
 "Mindstorms: children, computers, and powerful ideas". Er verwendet in
 diesem 1980 erschienenen Buch das erste Mal den Begriff Computational
 Thinking im Zusammenhang mit
-Lernen[@papertMindstormsChildrenComputers1980, S. 180]. Damit schliesst
+Lernen[@papertMindstormsChildrenComputers1980, S. 180]. Papert geht ganz
+im Sinne von Piaget davon aus, dass mit Computational Thinking als
+Lernmethode, Kinder in der Lage sind, sich ihr eigenes Wissen zu
+"erschaffen". Damit schliesst
 sich über den Begriff Computational Thinking der Bogen zu Jeannette
-Wing.
+Wing. Auch sie geht davon aus, dass mit Hilfe von Computational Thinking
+Lernprozesse verbessert werden können. Wing betont allerdings mehr den
+Aspekt der Kulturtechnik von Computational Thinking, wenn sie den
+Begriff auf die gleiche Ebene wie Lesen, Schreiben und Rechnen
+hebt[@wingComputationalThinking2006, S. 33 (Three Rs: reading, 'riting,
+'rithmetic)].
 
 Lehr- und Lernmethoden, welche auf Computational Thinking basieren, sind
 daher dem Level of Processing Modell verpflichtet.
