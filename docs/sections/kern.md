@@ -1,4 +1,4 @@
-## Gegenüberstellung der Noten der Berufsausbildung und solchen aus der Berufsmittelschule
+## Statistische Auswertung von Noten der Berufsausbildung und solcher der Berufsmittelschule
 
 Als Reaktion auf die beiden gescheiterten Versuche, die Arbeitshypothese
 zu bestätigen oder zu verwerfen, wurde in einem nächsten Schritt die
