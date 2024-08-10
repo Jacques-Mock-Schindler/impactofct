@@ -8,12 +8,13 @@
     Auswertung aktueller Publikationen wird der Begriff Computational
     Thinking im Bildungskontext geklärt. Die Arbeitshypothese
     postuliert, dass auf Computational Thinking basierende
-    Unterrichtsmethoden zu einem tieferen Verständnis und damit zu einem
+    Unterrichtsmethoden zu einem vertieften Verständnis und damit zu einem
     nachhaltigeren Lernerfolg führen.  Zur Überprüfung der
     Arbeitshypothese wurde auf drei Methoden abgestellt: natürliche
     Experimente, Leitfadeninterviews und die statistische Auswertung
     einer Gegenüberstellung von Noten aus der Berufsausbildung und
-    solchen aus der Berufsmittelschule (Allgemeinbildung).
+    solchen aus der Berufsmittelschule (Allgemeinbildung) von
+    Informatiker/innen EFZ, Fachrichtung Applikationsentwicklung.
 
     Die an der Kantonsschule Büelrain beobachteten natürlichen
     Experimente zeigten keinen signifikanten Unterschied im Lernerfolg
@@ -28,7 +29,8 @@
     beruhende Unterrichtsmethoden anderen Unterrichtsmethoden nicht
     generell überlegen sind. Im Sinne einer möglichst grossen
     Methodenvielfalt sollten jedoch auf Computational Thinking
-    basierende Methoden da eingesetzt werden, wo sie aufgrund ihrer
+    basierende Methoden im Unterricht da eingesetzt werden, wo sie
+    aufgrund ihrer
     spezifischen Eigenheiten einen Mehrwert erbringen.
 
     Um die Arbeitshypothese direkt zu überprüfen sind weitere
