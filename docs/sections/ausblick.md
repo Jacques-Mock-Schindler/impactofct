@@ -105,7 +105,7 @@ Ressourcen.
 Die Schweizerische Bevölkerung ist seit dem zweiten Weltkrieg stetig
 heterogener geworden. 2023 betrug der Anteil von Menschen ohne Schweizer
 Staatsbürgerschaft an der Ständigen Wohnbevölkerung mehr als ein
-Viertel[@statistikStandUndEntwicklung]. Wenn man darüber hinaus auch
+Viertel[@bundesamtfuerstatistikStandUndEntwicklung]. Wenn man darüber hinaus auch
 noch jenen Teil der Bevölkerung berücksichtigt, welcher das Schweizer
 Bürgerrecht erst seit einer oder zwei Generationen besitzt, so hat knapp
 40% der ständigen Wohnbevölkerung einen
