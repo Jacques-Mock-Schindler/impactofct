@@ -1,9 +1,10 @@
-# Methode {#sec:methode}
+# Methoden {#sec:methode}
 
 In diesem Abschnitt wird dargelegt, wie die Arbeitshypothese überprüft
-wird. Aus der Arbeitshypothese ergibt sich folgende Frage:
+werden soll. Damit dies einfacher möglich ist, kann die Arbeitshypothese
+in die folgende Forschungsfrage umformuliert werden:
 
-Hilft die Anwendung von Computational Thinking beim Lernen?
+>Hilft die Anwendung von Computational Thinking beim Lernen?
 
 Um diese Frage zu beantworten, wurde auf drei unterschiedliche
 methodische Ansätze abgestellt.
@@ -16,10 +17,10 @@ methodische Ansätze abgestellt.
    auf den Lernerfolg beurteilen.
 3. Die Gegenüberstellung von Noten aus der Berufsausbildung und
    solchen aus der Allgemeinbildung von Lernenden des Berufes
-   Informatiker/in, Fachrichtung Applikationsentwicklung um zu
-   versuchen, einen statistischen Zusammenhang zwischen angewandten
+   Informatiker/in, Fachrichtung Applikationsentwicklung, um
+   einen statistischen Zusammenhang zwischen angewandten
    Fähigkeiten in Computational Thinking und dem Lernerfolg in der
-   Allgemeinbildung zu erkennen.
+   Allgemeinbildung zu erkennen zu versuchen.
 
 ## Natürliche Experimente {#sec:nat_exp}
 
@@ -39,7 +40,8 @@ S. 15 f; @gerringAppliedSocialScience2017, S. 208 f]. Die Bedingungen
 werden vom Beobachter dabei grundsätzlich nicht beeinflusst. Das
 bedeutet, dass natürliche Experimente nicht durchgeführt werden können.
 Natürliche Experimente werden
-entdeckt[@dunningNaturalExperimentsSocial2012, 39 ff].
+entdeckt[@dunningNaturalExperimentsSocial2012, 39 ff] und dann
+beobachtet.
 
 ### Entdeckte natürliche Experimente
 
@@ -47,7 +49,7 @@ An der Kantonsschule Büelrain wurden zwei Situationen gefunden, die sich
 als natürliche Experimente zur Beantwortung der Forschungsfrage
 grundsätzlich eigneten. 
 Damit die Rahmenbedingungen der entdeckten Experimente nachvollzogen
-werden können, werden hier die Rahmenbedingungen an der Kantonsschule
+werden können, werden hier die Eckdaten der Kantonsschule
 Büelrain kurz beschrieben.
 
 Die Kantonsschule Büelrain ist eine Zürcher Mittelschule mit ungefähr
@@ -81,14 +83,16 @@ Schultypen unterrichtet:
 Die Parallelklassen werden in Fächern mit hohen Stundendotaionen
 (drei Lektionen pro Woche und mehr) nach  Möglichkeit von
 unterschiedlichen Fachlehrpersonen unterrichtet. Als Parallelklassen
-gelten Klassen des gleichen Schultyps im Gleichen Schuljahr.  
+gelten Klassen des gleichen Schultyps im gleichen Schuljahr.  
 Das bedeutet, dass beispielsweise das Fach Mathematik in jeder
-dritten WG Klasse von jemand anderem unterrichtet wird. In Fächern mit
+WG Klasse im dritten Schuljahr von jemand anderem unterrichtet wird. In
+Fächern mit
 tiefen Stundendotationen kann dieser Grundsatz nicht aufrecht erhalten
 werden.
 
 Weil an Zürcher Mittelschulen eine ausgeprägte Methodenfreiheit gilt,
-führt das in den einzelnen Klassen zu beträchtlichen Unterschieden,
+führt diese Organisation in den einzelnen Klassen zu beträchtlichen
+Unterschieden,
 wie bestimmte Inhalte vermittelt werden. Diese Unterschiede haben
 die folgenden natürlichen Experimente ergeben.
 
@@ -101,8 +105,9 @@ Im WG findet der Unterricht im Rechnungswesen als Teil des Faches
 Wirtschaft und Recht (WR) statt. In den beiden Schultypen HMS und IMS
 wird Rechnungswesen in einem eigenen Fach, Finanz- und Rechnungswesen
 (FRW), unterrichtet.  
-Im WG wird ausserdem in den ersten zwei Jahren das
-obligatorische Fach Informatik (OFI) unterrichtet.
+Für das natürliche Experiment ist ausserdem von Bedeutung, dass im WG in
+den ersten zwei Jahren das obligatorische Fach Informatik (OFI)
+unterrichtet wird. 
 
 Im Rechnungswesen ist kaufmännisches Rechnen teil des Curriculums.
 Kaufmännisches Rechnen ist im Wesentlichen Zinsrechnen. Dabei wird
@@ -123,7 +128,19 @@ Saldo des Kontokorrentkontos zu berechnen. Das Konzept des
 Programmierauftrags kann dem UML-Klassendiagramm in [@fig:uml] entnommen
 werden.
 
-![UML Diagramm Kontokorrentkonto](docs/graphics/uml_konotkorrentkonto.svg){#fig:uml}
+```{=latex}
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/uml_kontokorrentkonto.png}
+\caption[UML Diagramm Kontokorrentkono]{Das UML Diagramm zeigt das
+Klassendiagramm, das im natürlichen Experiment implementiert werden
+sollte. Das Design wurde so gestaltet, damit das Problem zergliedert
+werden musste. Die Vererbung Konto $\leftarrow$ Bilanzkonot $\leftarrow$
+Kontokorrentkonto erzwang darüber hinaus eine gewisse Verallgemeinerung.
+Die grau hinterlegte Klasse Erfolgskonto soll lediglich andeuten, dass
+weitere Kontenklassen implementiert werden könnten.}
+\label{fig:uml}
+\end{figure}
+```
 
 Zur Überprüfung der Auswirkung der zusätzlichen Anwendungsübung wurden
 die Prüfungsergebnisse von Aufgaben zum Zinsrechnen aus Prüfungen der
@@ -134,12 +151,12 @@ die Möglichkeit geboten, im Rahmen des OFI die deutsche Zinsusanz in
 Pyhton zu implementieren. Hier wurde von den Grundsätzen des natürlichen
 Experiments insofern abgewichen, als dass diese Anwendungsübung bewusst
 im Hinblick auf die Beantwortung der Forschungsfrage angelegt worden
-ist. Dies ist war im Rahmen der Methodenfreiheit zu verantworten.  
+ist. Dies war im Rahmen der Methodenfreiheit zu verantworten.  
 Als Kontrollklasse diente eine WG Klasse, welche im OFI andere
 Anwendungsübungen zur objektorientierten Programmierung gemacht hat.
 
 In der IMS wurde die gleiche Anwendungsübung im Rahmen des Unterrichts
-im Fach FRW durchgeführt. Hier stellte das Programmiren einfach eine
+im Fach FRW durchgeführt. Hier stellte das Programmieren einfach eine
 Methodische Variante zu den konventionellen Anwendungsübungen aus dem
 Lehrmittel dar. Weil die Lernenden der IMS in ihrer
 beruflichen Ausbildung das Programmieren in Java lernen, erfolgte die
@@ -168,7 +185,7 @@ Problems in Klassen und Unterklassen mit Attributen und Methoden musste
 ausserdem von konkreten Beispielen abstrahiert werden. Nur dieses auf
 das Notwendige reduzierte Modell eignete sich, wiederkehrende Probleme
 zu erkennen und diese einer durch einen Algorithmus gesteuerten Lösung
-zuzuführen. Die Implementierung in den Programmiersprachen Python und
+zuzuführen. Die Implementierung in den Programmiersprachen Python bzw.
 Java stellte dann die konkretisierte algorithmische Lösung dar.  
 Ausserdem war die Unterrichtseinheit selbstüberprüfend. Wenn es den
 Schülerinnen und Schülern nach der Implementierung in Python oder Java
@@ -179,11 +196,12 @@ offensichtlich erfolgreich gelöst worden.
 
 Das Experiment liess erwarten, dass die Prüfungsleistungen im
 kaufmännischen Rechnen der beiden Klassen, welche diese
-Unterrichtseinheit durchlaufen haben, besser ausfallen würden als jene
+Unterrichtseinheit durchlaufen haben, besser ausfallen würden, als jene
 ihrer jeweiligen Kontrollklassen. Ein wesentlicher Vorteil des
 Experiments lag daher in der einfachen Auswertung des Resultates. Es
-mussten lediglich die Prüfungsleistungen der beteiligten Klassen
-miteinander verglichen werden.
+mussten lediglich die Prüfungsleistungen der Test- mit jener der
+Kontrollklasse
+verglichen werden.
 
 Dem standen allerdings mehrere Schwächen gegenüber.
 
@@ -193,11 +211,11 @@ Ausgehend von der
 allgemeinen für die Abschätzung der Stichprobengrösse verwendeten
 Formel
 
- $$S = \frac{Z^2 \times P \times (1-P)}{M^2}$$ {#eq:stichprobe}
+ $$n = \frac{Z^2 \times P \times (1-P)}{M^2}$$ {#eq:stichprobe}
 
 mit
 
-* $S$ = Stichprobengrösse
+* $n$ = Stichprobengrösse
 * $Z$ = $Z$-Wert (hier 1.96 für 95%)
 * $P$ = Populationsanteil (hier 0,5 weil unbekannt)
 * $M$ = Fehlermarge (hier 0.05 für 
@@ -216,7 +234,7 @@ $$ {#eq:moe}
 
 wobei
 
-* $z =$ z-Wert für das Konfidenzniveau ist (für 95% ist z  1.96),
+* $z =$ z-Wert für das Konfidenzniveau (für 95% ist z  1.96),
 * $p =$ die geschätzte Erfolgswahrscheinlichkeit (wenn unbekannt, wird oft
   0.5 verwendet, da dies die maximale Variabilität darstellt),
 * $n =$ die Stichprobengrösse ist,
@@ -237,8 +255,9 @@ haben wohl im Wirtschaftsunterricht das selbe Curriculum, sie stellen
 aber ganz unterschiedliche Soziotope dar. Eine kaufmännische Ausbildung
 zieht eher kommunikative Menschen an wohingegen eine Ausbildung als
 Applikationsentwickler/in eher technisch interessierte Menschen anzieht.
-Dass es sich dabei nicht um ein blosses Cliché handelt, zeigt sich an
-den Aufnahmebedingungen zu den beiden Schultypen. Der Eintritt in die
+Dass es sich dabei um mehr als ein blosses Cliché handelt, zeigt sich an
+den Aufnahmebedingungen zu den beiden Schultypen.  
+Der Eintritt in die
 HMS ist im Anschluss an die zweite oder dritte Klasse der Sekundarschule
 möglich. Damit man zur Ausbildung an der HMS zugelassen wird, muss eine
 Aufnahmeprüfung abgelegt werden. An dieser Aufnahmeprüfung werden die
@@ -247,9 +266,9 @@ ist ausschliesslich nach der dritten Klasse der Sekundarschule möglich.
 Auch für die Zulassung zu diesem Ausbildungsgang muss eine
 Aufnahmeprüfung in den Fächern Deutsch und Mathematik abgelegt
 werden[@ZAPIMS]. Zusätzlich muss für die Zulassung zur IMS 
-ein Multichck "ICT Informatiker/in EFZ Fachricthung
+ein Multicheck "ICT Informatiker/in EFZ Fachricthung
 Applikationsentwicklung" in den Bereichen "Potenzial" und
-"berufsspezifische Fähigkeiten" mit mindestens 50 Punkten bestanden
+"berufsspezifische Fähigkeiten" mit je mindestens 50 Punkten bestanden
 werden[@ZAPIMS]. Die IMS richtet sich damit
 erklärtermassen an eine spezifische Gruppe von Lernenden.
 
@@ -288,9 +307,11 @@ versucht, die neuen
 Kenntnisse am Beispiel des Kontokorrentkontos anzuwenden.
 
 Es hat sich, im Rückblick wenig überraschend, gezeigt, dass die
-Informatikkenntnisse der Schülerinnen und Schüler nicht gut genug waren,
-um die Aufgabe lösen zu können. Die Komplexität des Werkzeugs
-objektorientierte Programmierung war so gross, dass es den Blick auf die
+Informatikkenntnisse der Schülerinnen und Schüler nicht annähernd
+ausreichend waren,
+um die Aufgabe lösen zu können. Die Komplexität des "Werkzeugs"
+objektorientierte Programmierung war so gross, dass das Werkzeug den
+Blick auf die
 Probleme der Zinsrechnung verstellt hat.
 
 In der Klasse der IMS war die Ausgangslage deutlich günstiger. Hier
@@ -298,12 +319,15 @@ konnte auf die Informatikkenntnissen aus der
 Berufsausbildung zurückgegriffen werden. Die Lernenden der IMS hatten zu
 diesem Zeitpunkt bereits sechs mal Mehr Informatikunterricht erhalten
 als die Schülerinnen und Schüler des WG. In der IMS sind 12
-Wochenlektionen für den Informatikunterricht vorgesehen, im WG zwei.
+Wochenlektionen für den Informatikunterricht bzw. die Berufsausbildung
+vorgesehen, im WG zwei.
 Darüber hinaus wird in der IMS
 Programmieren mit Java unterrichtet. Für das Verständnis der
 objektorientierten Programmierung weist Java gegenüber Python deutliche
 didaktische Vorteile auf. Selbst in einem einfachen "Hello, World!"
-Programm kommt in Java die Objektorientierung zum Ausdruck.
+Programm kommt in Java die Objektorientierung zum Ausdruck. Muss doch,
+wie das folgende Listing zeigt, bereits dafür eine Klasse mit einer
+`main`-Methode geschrieben werden.
 
 ```java
 class HelloWorld {
@@ -315,7 +339,7 @@ class HelloWorld {
 
 Im Gegensatz
 dazu wird das gleiche Programm in Python in der Regel in einem einfachen
-REPL (read-eval-print-loop) ausgeführt.
+REPL (read-eval-print-loop) in einem Terminal ausgeführt.
 
 ```python
 >>>print("Hello, World!")
@@ -324,7 +348,7 @@ REPL (read-eval-print-loop) ausgeführt.
 Die Lernenden der IMS waren also mit den Grundzügen der
 objektorientierten Programmierung bereits vertraut.
 
-Obwohl also die Ausgangslage für das Untrrichtsmodul Kontokorrentkonto
+Obwohl die Ausgangslage für das Untrrichtsmodul Kontokorrentkonto
 deutlich besser waren als im WG, wurde das Klassendiagramm zusammen mit
 den Lernenden entwickelt. Dies hat zusätzlich zu einem besseren
 Verständnis der Aufgabenstellung beigetragen. 
@@ -373,12 +397,12 @@ ergänzt werden.
 ## Leitfadeninterview {#sec:leitfadeninterview}
 
 Leitfadeninterviews entsprechen nicht der gängigen Vorstellung von
-Interviews wie man sie aus den Medien kennt. Leitfadeninterviews
+Interviews, wie man sie aus den Medien kennt. Leitfadeninterviews
 sind eher durch den Interviewer moderierte Erzählungen des Interviewten.  
 
->Der grösste Fehler qualitativer Interviewführung liegt [denn auch]
+>"Der grösste Fehler qualitativer Interviewführung liegt [denn auch]
 >darin, zu viel vorzugeben und abzufragen
->[...][@helfferichLeitfadenUndExperteninterviews2022, S. 878].
+>[...][@helfferichLeitfadenUndExperteninterviews2022, S. 878]."
 
 Das bedeutet allerdings nicht, dass das Leitfadeninterview völlig
 unstrukturiert ist. Es bedarf wie jede andere wissenschaftliche
@@ -386,13 +410,14 @@ Befragung der sorgfältigen Planung.
 
 ### Planung der Leitfadeninterviews
 
->Je stärker das Forschungsinteresse auf konkrete, offen erhobene
+>"Je stärker das Forschungsinteresse auf konkrete, offen erhobene
 >Informationen ausgerichtet ist, desto mehr Strukturierung verträgt das
 >Interview und desto mehr Vorgaben sind
->gerechtfertigt[@helfferichLeitfadenUndExperteninterviews2022, S. 880]. 
+>gerechtfertigt[@helfferichLeitfadenUndExperteninterviews2022, S.
+880]." 
 
 Um dem Leitfadeninterview Struktur zu geben, wird vor der Durchführung
-ein Leitfaden für das Interview verfasst. Dieser Leitfaden kann entweder
+der dem Interviewtyp den Namen gebende Leitfaden für das Interview verfasst. Dieser Leitfaden kann entweder
 aus einer Reihe
 offener Fragen oder aus mehreren Erzählaufforderungen bestehen. Für die
 im Rahmen dieser Arbeit durchgeführten Interviews wurde
@@ -402,7 +427,7 @@ formuliert,
 so dass der Interviewte von der eigenen Erfahrung und seinem
 Empfinden erzählen konnte[@misochQualitativeInterviews2019, S. 66].
 Der Leitfaden diente dabei nicht nur als
-Gedankenstütze, er sollte ebenso dazu beitragen den Fokus auf der
+Gedankenstütze, er sollte ebenso dazu beitragen, den Fokus auf der
 Forschungsfrage zu
 behalten[@helfferichLeitfadenUndExperteninterviews2022, S. 881;
 @misochQualitativeInterviews2019, S. 66].
@@ -414,7 +439,7 @@ Schülerinnen und Schüler bzw. Lernende aus den beiden Testklassen in
 Frage gekommen sind, wurde der Leitfaden mit dem UML Klassendiagramm
 aus @fig:uml ergänzt. Dieses sollte den Befragten als
 Erinnerungshilfe vorgelegt werden können.
-Der für die Interviews verwendete Leitfaden findet sich im Anhang.
+Der für die Interviews verwendete Leitfaden findet sich im Anhang.xxx
 
 Wie bereits erwähnt, kamen als Gesprächspartnerinnen bzw.
 Gesprächspartner nur Angehörige der Testklassen in Frage.
@@ -431,7 +456,8 @@ Prüfungen. Das hätte durch das natürliche Experiment ausgenutzt werden
 sollen. Allerdings hätte dies lediglich ermöglicht, die Gültigkeit
 der Arbeitshypothese zu belegen. Selbst wenn dies gelungen wäre, hätte
 damit die Frage, warum die Arbeitshypothese bestätigt worden ist, nicht
-beantwortet werden können. Diese Frage ist qualitativer Natur.
+beantwortet werden können. Die Frage nach der Begründung ist
+qualitativer Natur.
 
 Um diese Frage beantworten zu können, muss auf das Erleben der
 Schülerinnen und Schüler bzw. der Lernenden abgestellt werden. Da dieses
@@ -453,7 +479,7 @@ einzelne Schülerinnen und Lernende zu einem Gespräch bereit erklärt. Die
 angestrebte Zahl an Gesprächspartnerinnen und Gesprächspartnern konnte
 nicht erreicht werden. Insgesamt wurden lediglich vier Gespräche
 geführt. Alle vier
-Interviews haben das gleiche Resultat hervorgebracht.  
+Interviews haben zum gleichen Resultat geführt.  
 
 Im Rahmen dieser Gespräche hat sich allerdings
 gezeigt, dass das Gefälle zwischen Schülerinnen und Schülern auf der
@@ -487,7 +513,7 @@ vorhanden sein müssen, damit von diesem Effekt profitiert werden kann.
 
 Die Aussagen deckten sich damit mit den Erwartungen.
 
-Dies ist hier allerdings ein Grund, am Wert der Aussagen zu zweifeln.
+Dies ist hier allerdings eher ein Grund, am Wert der Aussagen zu zweifeln.
 Wie bei der Beschreibung der Durchführung bereits festgehalten, ist
 keine spontane Erzählung zustande gekommen. Die Gesprächspartnerinnen
 und Gesprächspartner waren zu stark darauf bedacht, zu erzählen, was der
@@ -496,6 +522,7 @@ haben lediglich die der Arbeitshypothese zu Grunde liegenden Annahmen
 wiederholt.
 
 Aus den Interviews ergab sich daher kein Erkenntnisgewinn.  
+
 Dies führte dazu, dass nach einer weiteren Möglichkeit gesucht wurde, um
 die Arbeitshypothese zu überprüfen. Wie im Folgenden zu zeigen sein
 wird, hat sich eine solche Möglichkeit aus der Natur der
