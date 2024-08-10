@@ -1,15 +1,17 @@
 # Ausblick 
 
-Die in dieser Arbeit zur Anwendung gekommene Methode basiert auf einem
-indirekten Ansatz. Es sollte ausgenutzt werden, dass in der
+Die Resultate, die in dieser Arbeit ausgewertet werden konnten, basieren
+auf einer Methode mit einem indierekten Ansatz.
+Es sollte ausgenutzt werden, dass in der
 Berufsausbildung von Informatiker/innen EFZ, Fachrichtung
 Applikationsentwicklung, Module unterrichtet werden, welche Bezüge zu
 Computational Thinking
 aufweisen. Dieser indirekte Ansatz wurde gewählt, weil die direkten
-Vorgehensweisen ihr Ziel verfehlten. Neben den in [@sec:nat_exp; @sec:leitfadeninterview] erwähnten Gründen
+Vorgehensweisen ihr Ziel verfehlten. Neben den in [@sec:nat_exp] und
+[@sec:leitfadeninterview] erwähnten Gründen
 für das Scheitern der direkten Vorgehensweise gibt es auch systematische
 Gründe, die eine direkte Vorgehensweise zumindest erschweren. Trotz
-gebetsmühlenartigen Wiederholungen fristet interdisziplinäres Arbeiten
+gebetsmühlenartigen Wiederholungen, fristet interdisziplinäres Arbeiten
 an Mittelschulen ein Nischendasein[@rahmenlehrplan, Als neuestes
 Beispiel widmet der Rahmenlehrplan
 Gymnasiale Maturitässchulen der Interdisziplinarität gar einen eigenen
@@ -19,16 +21,17 @@ herrschenden System der Fachlehrer geschuldet sein.
 So ist es schwierig, nur schon interdisziplinäre Unterrichtseinheiten
 umzusetzen. Noch viel schwieriger ist es, Methoden von einer
 Fachdisziplin in eine andere zu übertragen. Dies dürfte der Grund sein,
-weshalb an den Gymnasien keine auf Computational Thinking basierenden Methoden ausserhalb des
+weshalb an den Gymnasien so gut wie keine auf Computational Thinking
+basierenden Methoden ausserhalb des
 obligatorischen Faches Informatik zur Anwendung kommen.
 
 Um die in [@sec:arbeitshypothese] aufgestellte Arbeitshypothese direkt überprüfen zu können,
 müssten als erstes auf Computational Thinking basierende
 Unterrichtsmethoden ausserhalb des
 obligatorischen Faches Informatik zu Anwendung kommen. Wenn das der Fall
-ist, kann die Wirksamkeit dieser Methoden mit Methoden der allgemeinen
+ist, kann die Wirksamkeit dieser Unterrichtsmethoden mit Methoden der allgemeinen
 Forschung zur Wirksamkeit von Schulunterricht überprüft werden. So
-könnte dann die Arbeitshypothese direkt geprüft werden.
+könnte dann die Arbeitshypothese direkt getestet werden.
 
 Wegen der überragenden Bedeutung der auf Computational Thinking
 beruhenden Unterrichtsmethoden zur Prüfung der Arbeitshypothse, soll im
@@ -49,7 +52,7 @@ wenn man auf Computational Thinking basierende Unterrichtsmethoden an
 der Mittelschule einführen will.
 
 Ein Blick auf vorgeschlagenen Arbeitsmethoden für Digital Humanities
-ergibt die in der Tabelle [@tbl:methode] zusammengestellten Beispiele.
+ergibt die in der [@tbl:methode] zusammengestellten Beispiele.
 
 ```{=latex}
 \begin{table}[ht!]
@@ -77,12 +80,6 @@ Computational Thinking basierenden Unterrihctsmethoden.}
 ```
 
 
-* Interaktive Timelines im Geschichtsunterricht erstellt werden;
-* Modellannahmen aus der Sozialversicherung im
-  Volkswirtschaftsunterricht überprüft werden;
-* Messungen im Physikunterricht auf ihre Übereinstimmungen mit den
-  zugrundeliegenden Modellen überprüft werden...
-
 ## Methoden zur Beurteilung der Wirksamkeit von Unterrichtsmethoden
 
 ### Quantitativer Ansatz
@@ -95,8 +92,9 @@ Schritt nach Schulen gesucht werden, welche zu einem bestimmten
 Zeitpunkt im Curriculum für alle Klassen einheitliche Prüfungen
 vorsehen. Idealerweise zu einem bestimmten, eingeschränkten Thema. In
 einem zweiten Schritt muss innerhalb dieser Schulen nach Lehrpersonen
-gesucht werden, welche Ihre Schülerinnen und Schüler mit Hilfe von CT
-basierten Methoden auf dieses Prüfungen vorbereiten. Bei einer genügend
+gesucht werden, welche ihre Schülerinnen und Schüler mit Hilfe von
+auf Computational Thinking
+basierenden Methoden auf dieses Prüfungen vorbereiten. Bei einer genügend
 grossen Stichprobe könnte so möglicherweise aus dem natürlichen
 Experiment ein verwertbares Resultat gewonnen werden. Allerdings
 erfordert dieses Vorgehen erhebliche personelle und zeitliche
