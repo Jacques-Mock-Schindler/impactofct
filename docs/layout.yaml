@@ -39,6 +39,7 @@ header-includes:
   - \usepackage[all]{nowidow}
   - \usepackage{afterpage}
   - \usepackage{float}
+  - \setcounter{tocdepth}{2}
   - \usepackage{geometry}
 
   # Seitengeometrie
