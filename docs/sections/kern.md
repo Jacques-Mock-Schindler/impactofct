@@ -1,8 +1,9 @@
-## Statistische Auswertung von Noten der Berufsausbildung und solcher der Berufsmittelschule
+## Statistische Auswertung von Noten
 
 Als Reaktion auf die beiden gescheiterten Versuche, die Arbeitshypothese
 zu bestätigen oder zu verwerfen, wurde in einem nächsten Schritt die
-Noten der Berufsausbildung und der Berufsmittelschule (BMS) der
+Noten der Berufsausbildung (Eidgenössisches Fähigkeitszeugnis, EFZ) und
+der Berufsmittelschule (BMS) der
 Lernenden der IMS ausgewertet.
 
 ### Beschreibung der Methode {#sec:effektive_methode}
@@ -10,16 +11,17 @@ Lernenden der IMS ausgewertet.
 Die im folgenden beschriebenen statistischen Berechnungen wurden in
 Python mit den Libraries pandas und SciPy vorgenommen. Die
 Visualisierungen wurden ebenfalls in Python mit den Libraries
-matplotlib und seaborn erstellt.
+matplotlib und seaborn erstellt. Eine Liste der verwendeten Scripts
+findet sich im Anhang. xxx
 
-Mit der Gegenüberstellung der Noten aus der Berufsausbildung und der BMS
+Mit der Gegenüberstellung der Noten des EFZ und jener der BMS
 soll festgestellt werden, ob und gegebenenfalls wie stark die beiden
 Notensätze miteinander korrelieren. Damit das richtige Mass der
 Korrelation gewählt werden kann, muss als Vorfrage geklärt werden, ob
 die Noten normalverteilt sind. Diese Kontrolle erfolgte in einer ersten
 Phase optisch mit der Darstellung der Noten als Histogramm und
 darübergelegter theoretischer Normalverteilung (vgl.
-[@fig:normalverteilung_bm]).
+[@fig:normalverteilung_bm und @fig:normalverteilung_efz1]).
 
 ```{=latex}
 \begin{figure}[ht!]
