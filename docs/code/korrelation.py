@@ -21,9 +21,9 @@ efz = pd.read_csv('../data/noten_efz.csv',
 
 # %%
 
-threshod = 20
+threshlod = 20
 columns_counts = efz.count()
-columns_to_drop = columns_counts[columns_counts < threshod].index.to_list()
+columns_to_drop = columns_counts[columns_counts < threshlod].index.to_list()
 efz_reduced = efz.drop(columns=columns_to_drop)
 
 # %%

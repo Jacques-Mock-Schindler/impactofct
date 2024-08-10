@@ -2,7 +2,7 @@
 
 In diesem Abschnitt sollen die Ausgewerteten Daten näher beschrieben
 werden. In einem ersten Teil wird die Stichprobe als ganzes näher Beschrieben und
-in einem zweiten Teil die beiden Datensätze "Noten der Berufsausbildung"
+in einem zweiten Teil die beiden Datensätze "Noten des EFZ"
 und "Noten der BMS".
 
 ## Beschreibung der Stichprobe {#sec:stichprobe}
@@ -38,10 +38,11 @@ Schüler drei Frauen gehabt. Dieser Höchststand wurde nachher nie mehr
 erreicht. Damit dürfte die Geschlechterverteilung der Stichprobe jener
 der Gesamtpopulation entsprechen.  
 Das gleiche gilt für die Altersverteilung. Nach Abschluss
-der dritten Klasse der Sekundarschule sind die Meisten Schülerinnen und
+der dritten Klasse der Sekundarschule sind die meisten Schülerinnen und
 Schüler 16 Jahre alt. Nach Abschluss des schulischen Teils ihrer
 Ausbildung entsprechend 19 Jahre. Die Abweichungen vom
-Durchschnittsalter sind auf Repetitionen und übersprungene Klassen in
+Durchschnittsalter sind auf Repetitionen und in der Volksschule
+übersprungene Klassen 
 zurückzuführen.
 
 ## Beurteilung der Qualität der Datensätze
@@ -96,8 +97,8 @@ hat sich im Verlauf des Beobachtungszeitraums deutlich verändert. Der
 Anteil an Lernenden mit Migrationshintergrund hat gegenüber der
 Gesamtbevölkerung der Schweiz überproportional stark zugenommen.
 Dies schränkt die Analyse der Resultate entsprechend ein. Da Noten
-eben ausschliesslich eine von allen Störvariabeln befreite Lernleistung
-zum Ausdruck bringen, sind trotzdem Aussagen möglich.
+aber grundsätzliche ausdrücken, ob jemand den beruflichen Anforderungen
+genügt, werden hier trotzdem vorsichtige Schlussfolgerungen gezogen. 
 
 ## Beschreibung der Datensätze
 
@@ -117,7 +118,7 @@ theoretische Ausbildung vollständig modularisiert[@modulbaukasten]. Eine
 Auflistung aller an der Berufsschule unterrichteten Module findet sich
 in [@tbl:modulliste]. Der
 für die inhaltlichen Aspekte der Berufsausbildung zuständige Verband
-ICT-Berufsbildung Schweiz, hat alle Module im Modulbaukasten.ch
+ICT-Berufsbildung Schweiz hat alle Module im Modulbaukasten.ch
 zusammengestellt.  
 Aufgrund dieser Modularisierung absolvieren die Lernenden der IMS in der
 Berufsausbildung keine theoretische Abschlussprüfung. Als
@@ -132,7 +133,7 @@ während des ganzen Beobachtungszeitraums unterrichtet und geprüft. Dies
 ist eine Folge der periodisch durchgeführten Massnahmen der
 Qualitätsentwicklung nach Art. 22 Abs. 4 lit. a BiVo. Diese Massnahmen
 der Qualitätsentwicklung führt dazu, dass neue Module zum Modulbaukasten
-hinzugefügt werden und andere entfernt werden. Als Konsequenz der
+hinzugefügt und andere entfernt worden sind. Als Konsequenz der
 Anpassung der ausgebildeten Module ergeben sich unterschiedlich grosse
 Stichproben pro Modul. Die Grösse der Stichprobe sowie der sich daraus
 ergebende Fehlerbereich ist in der
@@ -191,10 +192,10 @@ begründet.
  \bottomrule
  \end{longtable}
  \caption[Liste der Module der Berufsausbildung]{Liste der Module aus
- der Stichprobe. \textit{kursiv} sind jene Module
-dargestellt, welche einen deutlichen CT Bezug aufweisen. In der Spalte
+ der Stichprobe. \textit{Kursiv} sind jene Module
+dargestellt, welche einen deutlichen Bezug zu Computational Thinking aufweisen. In der Spalte
 $n$ wird die Grösse der Stichprobe pro Modul angegeben. MoE steht für
-\textit{Margin of Error} oder Fehlberbereich. Die Berechnung erflgte unter
+\textit{Margin of Error} oder Fehlerberbereich. Die Berechnung erfolgte unter
 der Annahme, dass die Gesamtpopulation eine Grösse von 400 aufweist.
 
 Die genaue Beschreibung aller Module findet sich auf der von
@@ -248,7 +249,7 @@ Zeugnissen erhoben werden.
 Aufgrund des Titels des Moduls wurde es als eines jener
 Module identifiziert, welche Computational Thinking fördern.
 
-#### Modul 122: Abläufe mit einer Scriptsprache automatisieren
+#### Modul 122: Abläufe mit einer Scriptsprache automatisieren {#sec:m122}
 
 Die Modulbeschreibung definiert für das Modul 122[@modul122] fünf
 Handlungsziele:
@@ -272,7 +273,7 @@ der Definition von Computational Thinking. Die in Handlusngsziel
 4 verlangten Tests erfordern, dass die zu automatisierenden Abläufe in
 ihrer Gesamtheit erfasst werden. Damit alle denkbaren Grenzfälle
 getestet werden können, müssen die Abläufe von ihrer konkreten
-Ausprägung abstrahiert werden. Diese Fähigkeit der Abstraktion ist ein
+Ausprägung abstrahiert werden. Die Fähigkeit der Abstraktion ist ein
 weiterer Teilaspekt der Definition von Computational Thinking.
 
 #### Modul 153: Datenmodelle entwickeln
@@ -341,7 +342,7 @@ beschriebenen Zerlegen von Problemen in lösbare Teilprobleme. Dadurch,
 dass im Modul 226b explizit mit Vererbung gearbeitet wird, wird auch die
 als Teilkomponente von Computational Thinking identifizierte Abstraktion geübt. Dies wird
 noch verstärkt, in dem Testfälle identifiziert und implementiert werden
-müssen.
+müssen (vgl. [@sec:m122]).
 
 Insgesamt kann festgehalten werden, dass die vier Module 226, 226a, 226b
 und 326 alle Aspekte von Computational Thinking gemäss Definition abbilden.
@@ -370,7 +371,7 @@ gestellten Aufgabe. Man muss dazu das Problem so weit verallgemeinern,
 dass alle möglichen Grenzfälle bedacht werden können. Das bedeutet, dass man
 von der konkreten Probleminstanz abstrahieren, und alle
 erdenklichen Ausprägungen bedenken muss. Dazu muss das Gesamtproblem in
-Teilprobleme zerlegt werden.  
+Teilprobleme zerlegt werden (vgl. [@sec:m122]).  
 Mit dem hier verlangten Abstraktionsvermögen und der Fähigkeit Probleme
 in Teilprobleme zu zerlegen werden zwei wesentliche Aspekte von
 Computational Thinking gemäss Definition geschult.
@@ -434,7 +435,7 @@ beruflichen Umfeld dahingehend, dass insbesondere die
 Interessen der
 Stakeholder und der Faktor Zeit zu berücksichtigen sind.
 Die dafür erforderliche Analyse der
-Aufgabenstellung übt insbesondere den Aspekt Aufteilen von Problemen in
+Aufgabenstellung übt ebenfalls den Aspekt Aufteilen von Problemen in
 kleinere Teilprobleme. Das Erarbeiten von Algorithmen und die Aufteilung
 von Problemen in Teilproblem sind Teilaspekte
 der Definition von Computational Thinking. 
@@ -466,7 +467,7 @@ Handlungsziel 2. Dazu ist es erforderlich, das zu Lösende Problem in
 seine Komponenten zu zerlegen um festzustellen, an welcher Stelle welche
 Daten mit welchen Datentypen erforderlich sind. Ausserdem verlangt
 Handlungsziel 5, dass Testfälle identifiziert werden. Wie bereits in
-[@sec:modul242] festgehalten, erfordert dies, dass die Problemstellung
+[@sec:m122] festgehalten, erfordert dies, dass die Problemstellung
 verallgemeinert werden kann.
 
 Es werden damit die Computational Thinking Teilaspekte Aufteilen von Problemen sowie
@@ -498,9 +499,9 @@ Königsdisziplin des Programmierens bezeichnet werden. Handlungsziel
 2 entspricht denn auch fast der Definition von Computational Thinking. Eine weitere
 Begründung erübrigt sich daher.
 
-#### Charakterisierung der Noten der Berufsausbildung {#sec:modulcharakter}
+### Charakterisierung der Noten der Berufsausbildung {#sec:modulcharakter}
 
-In der Übersichtsdarstellung der Noten der Module der Berufsausbildung
+In der Übersichtsdarstellung der Noten der Module des EFZ
 (@fig:boxplotsefz)
 fallen drei Aspekte auf:
 
@@ -512,20 +513,20 @@ fallen drei Aspekte auf:
 
 \begin{figure}[ht!]
 \includegraphics[width=\textwidth]{docs/graphics/boxplots_efz.png}
-\caption[Übersicht über die Verteilung der Noten der
-Berufsausbildung.]{Übersicht über die Verteilung der Noten der
-Berufsausbildung. Die CT relevanten Module wurden hellgrün
+\caption[Übersicht über die Verteilung der Noten des EFZ.]{Übersicht
+über die Verteilung der Noten des EFZ. Die Module mit Bezug zu
+Computational Thinking wurden grün
 hervorgehoben. Der Median der erzielten Noten ist als rote Linie
 dargestellt.}
 \label{fig:boxplotsefz}
 \end{figure}
 
 
-Die Noten der Berufsausbildung fliessen nur als Durchschnittsnote der in
-den jeweiligen Semester unterrichteten Fächern in die Promotion an der
+Die Noten des EFZ fliessen nur als Durchschnittsnote der in
+den jeweiligen Semester unterrichteten Module in die Promotion an der
 IMS ein. Die einzelnen Module an und für sich sind nicht
-Promotionsrelevant. Dies ist der Grund, weshalb die Noten der
-Module der Berufsausbildung stärker streuen als jene der BMS (vgl.
+Promotionsrelevant. Dies könnte ein Grund sein, weshalb die Noten der
+Module des EFZ stärker streuen als jene der BMS (vgl.
 @fig:boxplotsbms).
 
 \begin{figure}[ht!]
@@ -541,7 +542,9 @@ der erzielten Noten ist als rote Linie dargestellt.}
 Das die Streuung bei einer Durchschnittsnote abnimmt zeigt
 [@fig:semesternotenefz]. Die Darstellung beruht auf der Fiktion, dass alle
 Lernenden ihren Abschluss 2017 gemacht hätten und die für diesen
-Ausbildungsjahrgang geltenden Modulzusammenstellung gehabt hätten.
+Ausbildungsjahrgang geltenden Modulzusammenstellung gehabt hätten. An
+dieser Darstellung ist das Phänomen der Regression zur Mitte zu
+erkennen[@freedmanStatistics2007, S. 170].
 
 ### Noten der BMS
 
@@ -549,7 +552,7 @@ Die Ausbildung an der BMS orientiert sich wie in [@sec:kernbegruendung]
 dargelegt, an klassischen Fachdisziplinen. Die Archivierung der BMS Noten
 ist nicht über den ganzen Beobachtungszeitraum hinweg gleich
 organisiert. Konstant archiviert wurden lediglich die Noten, welche
-eingang ins Berufsmaturzeugnis gefunden haben. Aus diesem Grund wurde
+Eingang ins Berufsmaturzeugnis gefunden haben. Aus diesem Grund wurde
 für die Auswertung ausschliesslich auf diese Noten abgestellt. So
 konnte mit Ausnahme der Noten für das interdisziplinäre Arbeiten in den
 Fächern über den ganze Beobachtungszeitraum hinweg von allen Lernenden
@@ -584,4 +587,4 @@ Abschlusszeugnissen der BMS. In den drei Schuljahren vor erreichen
 dieses Zeugnisses findet eine dauernde Selektion statt. Und von den
 Ausgewerteten Noten stammen lediglich fünf von 167 Datensätzen von
 Lernenden, welche die Berufsmatur nicht bestanden haben. Damit bleiben
-Schwergewichtig Noten von mehr als 4 übrig.
+schwergewichtig Noten von mehr als 4 übrig.
