@@ -57,9 +57,6 @@ optischen Überprüfung, ob die Noten der Berufsausbildung normalverteilt
 sind (Teil 1).
 $n$ ist die Stichprobengrösse, $\mu$ der Mittelwert und $\sigma$ die
 Standardabweichung. Die gestrichtelte Linie zeigt die Normalverteilung.}
-\label{fig:normalverteilung_bm}
-\end{figure}
-```}
 \label{fig:normalverteilung_efz1}
 \end{figure}
 ```
@@ -72,9 +69,6 @@ optischen Überprüfung, ob die Noten der Berufsausbildung normalverteilt
 sind (Teil 2).
 $n$ ist die Stichprobengrösse, $\mu$ der Mittelwert und $\sigma$ die
 Standardabweichung. Die gestrichtelte Linie zeigt die Normalverteilung.}
-\label{fig:normalverteilung_bm}
-\end{figure}
-```}
 \label{fig:normalverteilung_efz2}
 \end{figure}
 ```
@@ -87,9 +81,6 @@ optischen Überprüfung, ob die Noten der Berufsausbildung normalverteilt
 sind (Teil 3).
 $n$ ist die Stichprobengrösse, $\mu$ der Mittelwert und $\sigma$ die
 Standardabweichung. Die gestrichtelte Linie zeigt die Normalverteilung.}
-\label{fig:normalverteilung_bm}
-\end{figure}
-```}
 \label{fig:normalverteilung_efz3}
 \end{figure}
 ```
