@@ -1,4 +1,4 @@
-# Besprechung der Resultate
+# Resultate
 
 Die Darstellung in [@fig:mittelwerte] zeigt eine starke Korrelation
 zwischen den durchschnittlichen Leistungen in der Berufsausbildung und
@@ -8,8 +8,8 @@ liegt bei 0.623 und Pearson's $r$ gar bei 0.693.
 
 \begin{figure}[ht!]
 \includegraphics[width=\textwidth]{docs/graphics/scatterplot_mittelwerte.png}
-\caption[Korrelation mittlere Noten Berufsausbildung - BMS]{Korrelation
-zwischen den Durchschnittsnoten der Berufsausbildung und der
+\caption[Korrelation mittlere Noten EFZ - BMS]{Korrelation
+zwischen den Durchschnittsnoten der Module des EFZ und der
 Durchschnittsnotne der BMS. Die rote Linie zeigt die Regressionslinie.
 Der blassrote Schatten um die Regresseionslinie zeigt das
 Konfidenzintervall von 95\% an.}
@@ -22,8 +22,8 @@ gegenüber den Rohdaten deutlich abgenommen.
 \begin{figure}[ht!]
 \includegraphics[width=\textwidth]{docs/graphics/verteilung_durchschnitte.png}
 \caption[Übersicht über die Verteilung der Durchschnittsnoten in BMS und
-Berufsausbildung.]{Übersicht über die Verteilung der Durchschnittsnoten
-in BMS und Berufsausbildung. Die rote Linie zeigt den Median.}
+EFZ.]{Übersicht über die Verteilung der Durchschnittsnoten
+in BMS und EFZ. Die rote Linie zeigt den Median.}
 \label{fig:mittelwerte_boxplot}
 \end{figure}
 
@@ -32,7 +32,8 @@ Anders als in den Rohdaten gibt es keine Ausreisser nach unten. Der minimale Wer
 BMS liegt bei 3.75 jener in der Berufsausbildung bei 3.76. Im Gegenzug
 ist auch das Maximum etwas tiefer ausgefallen. In der BMS liegt das
 Maximum bei 5.79 und in der Berufsausbildung bei 5.86. Diese Regression
-zur Mitte[@freedmanStatistics2007, S. 170] ist in der Statistik ein
+zur Mitte[@freedmanStatistics2007, S. 170] ist in der Statistik, wie
+bereits erwähnt, ein
 bekanntes Phänomen.
 
 In der Betrachtung von Mittelwerten gehen Details verloren. Dies liegt
@@ -42,20 +43,23 @@ Entsprechend zeigt die Gegenüberstellung der Mittelwerte lediglich,
 dass starke Lernende nicht ausschliesslich in einem der beiden
 einander gegenübergestellten Ausbildungsgänge gute Leistungen erbringen.
 Um auch Aussagen zu den Details machen zu können, werden in den
-kommenden Abschnitten jedes Modul der Berufsausbildung jedem Fach der
+kommenden Abschnitten jedes Modul des EFZ jedem Fach der
 BMS gegenübergestellt.
 
 ## Übersicht über die Detailauswertung
 
 Wie in der Methodenbeschreibung in [@sec:effektive_methode] dargelegt,
 wurden die Noten der BMS mit
-jenen der Berufsausbildungsmodule korreliert. 
-Das heisst die Notenliste jedes Moduls der Berufsausbildung wurde mit
-jeder Notenliste der BMS korreliert. Berechnet wurde Spearman's $\rho$.
+jenen des EFZ korreliert. 
+Das heisst die Notenliste jedes Moduls des EFZ wurde mit
+jeder Notenliste jedes Fachs der BMS korreliert. Berechnet wurde
+Spearman's $\rho$.
 Allerdings sind die Resultate von 74 dieser
 insgesamt 279 Paarungen statistisch nicht Signifikant. Das heisst der
 p-Wert für diese Paare ist grösser oder gleich
-0.05[@hollingStatistikTestverfahren2016, S. 35]. Die Resultate
+0.05[@hollingStatistikTestverfahren2016, S. 35]. 
+
+Die Resultate
 werden in einer Heatmap dargestellt.
 Üblicherweise werden die unabhängigen Variablen auf der x-Achse und die
 abhängigen Variablen auf der y-Achse dargestellt.
@@ -66,25 +70,27 @@ die abhängige. Trotzdem werden die BMS Fächer auf der x-Achse und die
 Module aus der Berufsausbildung auf der y-Achse dargestellt. Dies ist
 zwar gegenüber der üblichen Darstellung von unabhängigen und abhängigen
 Variablen vertauscht. In dieser Darstellung ist aber der Effekt besser
-zu erkennen. Die als statistisch nicht signifikant zu betrachtenden
-Werte sind rot umrandet.
+zu erkennen.  
+Die als statistisch nicht signifikant zu betrachtenden
+Werte sind grau durchgestrichen.
 
 \begin{figure}[ht!]
 \includegraphics[width=\textwidth]{docs/graphics/spearman_heatmap.png}
-\caption[Heatmap mit den Korrelationen zwischen den Noten der
-Berufsausbildung und jenen der BMS (Spearman's $\rho$).]{Heatmap mit den Korrelationen
-zwischen den Noten der Berufsausbildung und jenen der BMS. Die
-Korrelation wird mit Spearman's $\rho$ ausgedrückt. Die Noten der BMS
-sind aufsteigend nach der mittleren Korrelation sortiert. Die Noten der
-Berufsausbildung sind ebenfalls aufsteigend nach der mittleren
-Korrelation sortiert. Die CT relevanten Module sind rot beschriftet.
+\caption[Heatmap mit den Korrelationen zwischen den Noten des
+EFZ und jenen der BMS (Spearman's $\rho$).]{Heatmap mit den Korrelationen
+zwischen den Noten des EFZ und jenen der BMS. Die
+Korrelation wird mit Spearman's $\rho$ ausgedrückt. Die Fächer der BMS
+sind aufsteigend nach der mittleren Korrelation sortiert. Die Module des
+EFZ sind ebenfalls aufsteigend nach der mittleren
+Korrelation sortiert. Die für Computational Thinking relevanten Module
+sind rot beschriftet.
 Grau durchgestrichen sind die Felder mit statistisch nicht signifikanten
 Werten.}
 \label{fig:spearman}
 \end{figure}
 
-Die Korrelationen zwischen Leistungen in einem Modul der
-Berufsausbildung und einer Note in der BMS mit einem Wert von über 0.3
+Die Korrelationen zwischen Leistungen in einem Modul des EFZ
+und einer Note in der BMS mit einem Wert von über 0.3
 sind in [@fig:spearman] grün
 eingefärbt. Je höher der Wert, desto intensiver die grüne Färbung. Die
 Sortierung der Achsen in aufsteigender Reihenfolge müsste dazu führen,
@@ -92,7 +98,7 @@ dass die untere rechte Ecke der Darstellung am intensivsten grün
 eingefärbt ist. Dieser Effekt lässt sich jedoch nur mit viel gutem
 Willen beobachten. Damit
 lässt sich nur schon optisch erkennen, dass die Korrelation zwischen den
-Noten der Module der Berufsausbildung und jener der BMS nicht sehr stark
+Noten der Module des EFZ und jener der BMS nicht sehr stark
 ist. 
 Immerhin sind so gut wie alle Paare mit relevanter Korrelation
 statistisch Signifikant. Eine Ausnahme bildet die Paarung "Technik und
@@ -102,6 +108,7 @@ die weiteren Ausführungen die Beurteilung der Signifikanz nicht weiter
 verfolgt zu werden.  
 Optisch nicht zu erkennen ist, dass nur die drei Fächer
 Mathematik, Finanz- und Rechnungswesen sowie interdisziplinäres Arbeiten
+in den Fächern
 im Mittel über alle Module den in [@sec:effektive_methode] festgelegten
 Wert von 0.3 überschreiten.  
 Die als besonders Computaitonal Thinking relevant qualifizierten Module verteilen sich
@@ -109,7 +116,7 @@ gleichmässig über die y-Achse der Heatmap. Dies zeigt, dass die
 Computational Thinking
 relevanten Module keine statistische Auffälligkeiten zeigen.
 
-Obwohl die Korrelation zwischen den Noten der Berufsausbildung und der
+Obwohl die Korrelation zwischen den Noten des EFZ und der
 Noten der BMS nicht sehr stark ist, lassen sich die Resultate grob in
 drei Gruppen unterteilen:
 
@@ -132,13 +139,13 @@ wenn statt Spearman's $\rho$ auf Pearson's $r$ abgestellt wird.
 
 \begin{figure}[ht!]
 \includegraphics[width=\textwidth]{docs/graphics/pearson_heatmap.png}
-\caption[Heatmap mit den Korrelationen zwischen den Noten der
-Berufsausbildung und jenen der BMS (Pearson's $r$).]{Heatmap mit den
-Korrelationen zwischen den Noten der Berufsausbildung und jenen der BMS.
-Die Korrelation wird mit Pearson's $r$ ausgedrückt. Die Noten der BMS
-sind aufsteigend nach der mittleren Korrelation sortiert. Die Noten der
-Berufsausbildung sind ebenfalls aufsteigend nach der mittleren
-Korrelation sortiert. Die CT relevanten Module sind rot beschriftet.}
+\caption[Heatmap mit den Korrelationen zwischen den Noten des EFZ
+und jenen der BMS (Pearson's $r$).]{Heatmap mit den
+Korrelationen zwischen den Noten des EFZ und jenen der BMS.
+Die Korrelation wird mit Pearson's $r$ ausgedrückt. Die Fächer der BMS
+sind aufsteigend nach der mittleren Korrelation sortiert. Die Module des
+EFZ sind ebenfalls aufsteigend nach der mittleren
+Korrelation sortiert. Die für Computational Thinking relevanten Module sind rot beschriftet.}
 \label{fig:pearson}
 \end{figure}
 
@@ -210,7 +217,7 @@ Mittelschulstufe dominiert nach wie vor das qualitative
 Erkenntnisinteresse. 
 
 Diese unterschiedlichen Arbeitsweisen sind ein möglicher Grund für die
-schwache Korrelation der Noten aus der Berufsausbildung und jenen der
+schwache Korrelation der Noten aus den Modulen des EFZ und jenen der
 geisteswissenschaftlichen BMS Fächern.
 
 ### Anforderungen der Sozialwissenschaften an Lernende {#sec:soz}
@@ -285,7 +292,7 @@ Rechnungswesen die gleichen Fähigkeiten geschult, die auch in
 Computaitonal Thinking
 erforderlich sind. Dies dürfte die verhältnismässig starke Korrelation
 der Leistungen in Mathematik und Finanz- und Rechnungswesen auf der
-einen Seite sowie den Leistungen in der Berufsausbildung auf der anderen
+einen Seite sowie den Leistungen in den Modulen des EFZ auf der anderen
 Seite erklären.
 
 #### Interdisziplinäres Arbeiten in den Fächern
@@ -338,7 +345,7 @@ kommt keine besondere Bedeutung zu.
 Die im [@sec:arbeitshypothese] aufgestellte Arbeitshypothese lässt sich
 somit vor dem Hintergrund dieser Beobachtungen nicht bestätigen. Da die
 Vorgehensweise die Gültigkeit der Arbeitshypothese allerdings nur
-indirekt hätte bestätigen können, kann sie noch nicht als widerlegt
+indirekt hätte bestätigen können, kann sie auch nicht als widerlegt
 gelten.
 
 Auch wenn auf Computational Thinking basierende Unterrichtsmethoden wahrscheinlich keine generell
