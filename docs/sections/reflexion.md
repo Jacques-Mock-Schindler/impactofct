@@ -37,8 +37,10 @@ besteht in erster Linie Bedarf an zusätzlichen Untersuchungen.
 
 Allenfalls handelt es sich bei Computational Thinking weniger um eine
 Grundlage für spezielle Unterrichtsmethoden als viel mehr um eine
-allgemeine Kulturtechnik. Damit verhält es sich mit Computational
-Thinking wie mit Lesen und Schreiben oder den Grundfertigkeiten in
+allgemeine Kulturtechnik. Damit schliesst sich der Verfasser der
+Argumentation von Jeannette Wing an. Computational
+Thinking kommt der selbe Stellenwert zu wie dem Lesen und Schreiben oder
+den Grundfertigkeiten in
 Mathematik. Lesen und Schreiben bzw. die Durchführung grundlegender
 Berechnungen werden in der Regel auch nicht als spezielle
 Unterrichtsmethode verstanden.  
@@ -65,16 +67,19 @@ stellt immer nur den kleinsten gemeinsamen Nenner dar.
 
 Die gesetzlichen Auflagen sind eingehalten. In der Arbeit selber
 werden die Rohdaten nicht abgedruckt und die auf GitHub zur Verfügung
-gestellten Daten sind hinreichend anonymisiert. In ethischer Hinsicht
-ergeben sich im vorliegenden Fall ein grundsätzliches Problem. Die von
+gestellten Daten sind hinreichend anonymisiert.
+
+In ethischer Hinsicht
+ergeben sich im vorliegenden Fall trotzdem ein grundsätzliches Problem. Die von
 der Datenerhebung betroffenen Schülerinnen und Schüler konnten sich
-nicht gegen die Auswertung ihrer Daten zur wehr setzen (Informed
+nicht gegen die Auswertung ihrer Daten zur wehr setzen weil sie gar
+nicht wussten, dass ihre Daten ausgewertet wurden (Informed
 Consent). Dieses rechtlich zulässige aber ethisch nicht ganz
 einwandfreie Vorgehen, kann durch das überwiegende Forschungsinteresse
 gerechtfertigt werden. Die erzielten Resultate können einen Beitrag zur
 Verbesserung des Unterrichts leisten. Damit profitieren zukünftige
 Schülerinnen und Schüler stärker von der Untersuchung, als die
-beobachteten Schülerinnen und Schüler verletzt worden wären. Dies zumal
+beobachteten Schülerinnen und Schüler verletzt worden sind. Dies zumal
 da die Privatsphäre der Schülerinnen und Schüler
 geschützt ist, und für sie die Untersuchung ohne feststellbaren Eingriff
 in ihre Persönlichkeit erfolgte.
@@ -94,7 +99,8 @@ bewusst gemacht worden. Ein simples Beispiel dafür bildet die Tatsache,
 dass sich Projekte nur sehr beschränkt nach Plan entwickeln. Bei der
 Konzeption dieser Arbeit war ich der festen Überzeugung, dass die
 erkannten natürlichen Experimente sowohl reibungslos funktionieren
-wie auch die Arbeitshypothese bestätigen würden. Wenig überraschend war
+wie auch die Arbeitshypothese bestätigen würden. Im Rückblick wenig
+überraschend, war
 weder das Eine noch das Andere der Fall. Das gleiche Schicksal ereilte
 der zweite methodische Ansatz. So hätte ich es mir im Vorfeld nie
 vorstellen können, dass es schwierig werden würde, für die
@@ -112,14 +118,14 @@ so gut wie keine theoretischen psychologischen Kenntnisse. Genausowenig
 von Statistik. Meine diesbezüglichen Kenntnisse beschränkten sich auf
 den Unterschied zwischen Mittelwert und Median. Dank meiner
 ungebrochenen Neugierde konnte ich mir die erforderlichen Kenntnisse
-aneignen. Dabei haben auch die Umwege grundsätzlich Freude gemacht.
+aneignen. Dabei haben auch die unvermeidlichen Umwege grundsätzlich Freude gemacht.
 
 Auch wenn es sich bei der vorliegenden Arbeit um eine empirische
 sozialwissenschaftliche Arbeit handelt, konnte ich vieles von dem,
 was ich im Rahmen des GymInf Programms gelernt habe, unmittelbar
 anwenden. Frustrierend ist allenfalls, dass dies nur sehr mittelbar
 sichtbar geworden ist. Vor dem Hintergrund meiner ursprünglichen
-Ausbildung als Jurist wäre ich ohne das GymInf Programm kaum in der Lage
+Ausbildung als Jurist wäre ich ohne das GymInf Programm allerdings kaum in der Lage
 gewesen, die für dieses Arbeit erforderlichen statistischen Auswertungen
 vorzunehmen, geschweige denn, dir Resultate in geeigneter Form
 darzustellen. Das GymInf Programm hat mir auch die gesellschaftliche
@@ -135,12 +141,12 @@ Arbeiten, für deren Erstellung sie unzureichend vorbereitet sind. Trotz
 dieser unzureichenden Vorbereitung liefern sie in der Regel brauchbare
 Resultate ab. Erschwerend
 kommt für sie noch dazu, dass sie diese Produkte in einer Lebensphase
-erstellen müssen, in der sie über deutlich weniger gefestigte
+erstellen müssen, in der sie über noch nicht sehr gefestigte
 Persönlichkeiten verfügen. Das stellt extrem hohe Anforderungen an die
 Frustrationstoleranz. Im Zusammenhang mit der Situation an Gymnasien ist
 mir zudem bewusst geworden, wie wichtig es für grössere
 Arbeiten ist, mehrere Wochen am Stück hinsitzen zu können und sich
-ausschliesslich mit der Arbeit zu befassen. Etwas was im Rahmen des 45
+ausschliesslich mit der Arbeit zu befassen. Etwas, das im Rahmen des 45
 Minuten Takt des Stundenplans der Schülerinnen und Schüler oder von
 Teilzeitbeschäftigungen nur sehr schwer möglich ist. Die
 Reibungsverluste bei der Wiederaufnahme der Arbeit sind nach jedem
