@@ -1,22 +1,24 @@
 # Computational Thinking
 
 Computational Thinking ist aktuell im Bildungsbereich ein immer
-wieder herumgereichtes Buzzword.
+wieder auftauchendes Modewort.
 Selbst eine kurze Internetrecherche liefert etliche im vergangenen Jahr
 publizierte wissenschaftliche Artikel, die den Begriff im Titel
 verwenden[@falloonAdvancingYoungStudents2024;
 @batteauComputationalThinkingMathematics2023;
 @alonso-garciaEnhancingComputationalThinking2024].  
-Allerdings wird der Begriff unterschiedlich verwendet. 
 
 Aus diesem Grund soll zu Beginn mit Hilfe einer systematischen
 Literaturrecherche eine Klärung des Begriffes "Computational Thinking"
 versucht werden.
 
-## Systematische Literaturrecherche zur Begriffsklärung "Computational Thinking"
+## Klärung des Begriffs "Computational Thinking"
 
 Für die systematische Literaturrecherche wird nach den Empfehlungen von
-PRISMA vorgegangen[@pagePRISMA2020Statement2021].
+PRISMA vorgegangen[@pagePRISMA2020Statement2021]. PRISMA steht für The
+Preferred Reporting Items for Systematic reviews and Meta-Analyses.
+Damit wird ein nachvollziehbares System für die Literaturauswertung zur
+Verfügung gestellt.
 
 Die Verwendung des Begriffs Computational Thinking ist in den aktuellen
 wissenschaftlichen Texten uneinheitlich. Ziel dieses Abschnittes ist 
@@ -35,7 +37,8 @@ eine Peer-Review verfügen.
 Gesucht wurde nach Beiträgen, welche entweder im Titel oder im Abstract
 den Begriff "Computational Thinking" verwenden.
 In diesem ersten Schritt wurden 200 Texte gefunden. In einem nächsten
-Schritt wurde diese Liste mit Hilfe der Suchfunktion von Zotero nach
+Schritt wurde diese Liste mit Hilfe der Suchfunktion von Zotero, einer
+Literaturverwaltungssoftware, nach
 Texten durchsucht die entweder *Literature Review* oder *Meta-Analyse*
 bzw. *meta-analysis*
 in Titel oder Abstract verwenden. Damit reduzierte sich die Trefferliste
@@ -43,14 +46,12 @@ auf 19 Texte. Anschliessend wurden die Titel ausgeschlossen, welche sich
 auf Untersuchungen zu *Unplugged*-Informatik (Informatik ohne Computer)
 bezogen. Damit blieben insgesamt 16 Texte übrig. Diese 16 Texte wurden
 danach untersucht, welche Definitionen
-von Computational Thinking sie enthalten. Während der Lektüre wurden
-nochmals drei 
-Texte Ausgeschlossen, weil Sie den Begriff Computational Thinking ohne Definition
-einfach voraussetzen.
+von Computational Thinking sie enthalten.
 
 ## Konsolidierte Definition des Begriffs Computational Thinking {#sec:definition}
 
-Nach der Analyse ist festzuhalten, dass es aktuell immer noch keine
+Nach der Auswertung der übrig gebliebenen Texte ist festzuhalten, dass
+es aktuell immer noch keine
 einheitliche Definition des Begriffs Computational Thinking gibt. 
 Es beginnt sich aber ein Begriffskern
 herauszukristallisieren. Zentrales Element der Definition ist die Fähigkeit, Probleme zu
@@ -58,9 +59,11 @@ lösen indem sie in Teilprobleme zerlegt werden. Dieses Element wird in
 den 94 Definitionen aus den 13 Aufsätzen 67 Mal angeführt. 31 Mal wird die
 Lösung von Problemen durch Algorithmen erwähnt. Ebenfalls häufig erwähnt
 wird die Fähigkeit, konkrete Probleme zu verallgemeinern (30 Mal wird
-Abstraktion und 7 Mal Generalisierung erwähnt). Ebenfalls häufig wird
-Schrittweises vorgehen erwähnt (6 Mal). Schrittweises Vorgehen kann als
-Variante von Aufteilen eines Problems in Teilprobleme oder als Variante
+Abstraktion und 7 Mal Generalisierung erwähnt). Wiederholt wird
+Schrittweises vorgehen erwähnt (6 Mal). Schrittweises Vorgehen kann
+sowohl als
+Variante von Aufteilen eines Problems in Teilprobleme als auch als
+Variante
 von algorithmischem Vorgehen verstanden werden.
 
 Die konsolidierte Fassung der in der Analyse gefundenen Definitionen
@@ -68,7 +71,7 @@ lautet damit:
 
 >Computational Thinking ist die Fähigkeit, Probleme zu lösen
 >indem sie in Teilprobleme zerlegt und soweit verallgemeinert werden,
->dass eine algorithmische (aka automatisierte) Lösung möglich ist.
+>dass eine algorithmische (automatisierte) Lösung möglich ist.
 
 Um diesen allgemein akzeptieren Kern dessen, was Computational Thinking ausmacht, gibt es
 weitere Aspekte, die als zu Computational Thinking gehörig erwähnt
@@ -140,7 +143,7 @@ folgenden Texte ausgewertet:
 \item Yadav, Aman, Ceren Ocak, und Amber Oliver. «Computational Thinking and Metacognition». TechTrends: Linking Research and Practice to Improve Learning 66, Nr. 3 (Mai 2022): 405–11.  
 \item Ye, Jiachu, Xiaoyan Lai, und Gary Ka-Wai Wong. «The Transfer Effects of Computational Thinking: A Systematic Review with Meta-Analysis and Qualitative Synthesis». Journal of Computer Assisted Learning 38, Nr. 6 (Dezember 2022): 1620–38.  
 \end{itemize}
-\normalfont
+\normalsize
 ```
 
 Für die spezifische Situation im deutschschweizer Bildungskontext soll
@@ -169,6 +172,6 @@ schält unter expliziter Bezugnahme auf Wing die Fähigkeit
 als Kern von Computational Thinking heraus. 
 
 Damit kann festgehalten werden, dass auch für den Lehrplan 21 und damit
-für die Deutschschweiz im
+für die Volksschulen der Deutschschweiz im
 Wesentlichen auf die von Jeannette Wing eingeführte Definition abgestellt
 werden kann.
