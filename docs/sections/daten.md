@@ -1,4 +1,4 @@
-# Daten
+# Daten {#sec:daten}
 
 In diesem Abschnitt sollen die Ausgewerteten Daten näher beschrieben
 werden. In einem ersten Teil wird die Stichprobe als ganzes näher Beschrieben und

@@ -21,7 +21,7 @@ Korrelation gewählt werden kann, muss als Vorfrage geklärt werden, ob
 die Noten normalverteilt sind. Diese Kontrolle erfolgte in einer ersten
 Phase optisch mit der Darstellung der Noten als Histogramm und
 darübergelegter theoretischer Normalverteilung (vgl.
-[@fig:normalverteilung_bm und @fig:normalverteilung_efz1]).
+[@fig:normalverteilung_bm] und [@fig:normalverteilung_efz1]).
 
 ```{=latex}
 \begin{figure}[ht!]
@@ -29,7 +29,7 @@ darübergelegter theoretischer Normalverteilung (vgl.
 \caption[Normalverteilung der Noten der BMS]{Grafiken zur optischen
 Überprüfung, ob die Noten der BMS normalverteilt sind.
 $n$ ist die Stichprobengrösse, $\mu$ der Mittelwert und $\sigma$ die
-Standardabweichung.}
+Standardabweichung. Die gestrichtelte Linie zeigt die Normalverteilung.}
 \label{fig:normalverteilung_bm}
 \end{figure}
 ```
@@ -40,11 +40,13 @@ Politik (GuP) eine Verteilung, die der Normalverteilung recht nahe
 kommt. Bei den anderen Fächern gibt es mehr oder weniger starke
 Abweichungen.
 
-Die optische Überprüfung der Normalverteilung in der BMS ergibt für die
+Die optische Überprüfung der Normalverteilung der Modulnoten des EFZ
+ergibt für die
 Module 122, 123, 151 (vgl. [@fig:normalverteilung_efz1]), 214, 304 (vgl.
 [@fig:normalverteilung_efz2]) und 431 (vgl.
 [@fig:normalverteilung_efz3]) eine Verteilung, welche der
-Normalverteilung recht nahe kommt. Alle anderen Fächer weichen mehr oder
+Normalverteilung recht nahe kommt. Alle anderen Notenverteilungen
+weichen mehr oder
 weniger stark von der Normalverteilung ab.
 
 ```{=latex}
@@ -54,7 +56,10 @@ weniger stark von der Normalverteilung ab.
 optischen Überprüfung, ob die Noten der Berufsausbildung normalverteilt
 sind (Teil 1).
 $n$ ist die Stichprobengrösse, $\mu$ der Mittelwert und $\sigma$ die
-Standardabweichung.}
+Standardabweichung. Die gestrichtelte Linie zeigt die Normalverteilung.}
+\label{fig:normalverteilung_bm}
+\end{figure}
+```}
 \label{fig:normalverteilung_efz1}
 \end{figure}
 ```
@@ -66,7 +71,10 @@ Standardabweichung.}
 optischen Überprüfung, ob die Noten der Berufsausbildung normalverteilt
 sind (Teil 2).
 $n$ ist die Stichprobengrösse, $\mu$ der Mittelwert und $\sigma$ die
-Standardabweichung.}
+Standardabweichung. Die gestrichtelte Linie zeigt die Normalverteilung.}
+\label{fig:normalverteilung_bm}
+\end{figure}
+```}
 \label{fig:normalverteilung_efz2}
 \end{figure}
 ```
@@ -78,7 +86,10 @@ Standardabweichung.}
 optischen Überprüfung, ob die Noten der Berufsausbildung normalverteilt
 sind (Teil 3).
 $n$ ist die Stichprobengrösse, $\mu$ der Mittelwert und $\sigma$ die
-Standardabweichung.}
+Standardabweichung. Die gestrichtelte Linie zeigt die Normalverteilung.}
+\label{fig:normalverteilung_bm}
+\end{figure}
+```}
 \label{fig:normalverteilung_efz3}
 \end{figure}
 ```
@@ -94,14 +105,14 @@ rechnerisch überprüft. Die rechnerische Überprüfung ist zuverlässiger, weil
 Verletzungen der Normalverteilungen überprüft, die optisch nur schwer zu
 erkennen sind[@chattamvelliDescriptiveStatisticsScientists2023, S. 28
 f]. Die $p$-Werte des Shapiro-Wilk Test sowohl für die Noten der BMS wie
-auch für jene der Berufsausbildung liegen alle deutlich unter 0.05.
+auch für jene für das EFZ liegen alle deutlich unter 0.05.
 Damit ist die Annahme der Normalverteilung der Stichproben zu
 verwerfen[@hollingStatistikTestverfahren2016, S. 105].
 
-Anschliessend an diese Vorprüfung wurden die Noten jedes Moduls der Berufsausbildung 
+Anschliessend an diese Vorprüfung wurden die Noten jedes Moduls des EFZ 
 den Noten jedes Fachs der BMS gegenübergestellt und die Korrelation
 zwischen diesen Notenpaaren berechnet.  
-Oft werden Korrelationen nach Bravais-Pearson berechnet. Das setzt
+Oft werden Korrelationen nach Bravais-Pearson ($r$) berechnet. Das setzt
 allerdings voraus, dass es sich um normalverteilte intervallskalierte
 Daten handelt[@uzh_pearson]. Die einleitende
 Überprüfung der Daten hat jedoch ergeben, dass sie nicht normalverteilt
@@ -129,7 +140,7 @@ wobei
 sind[@kuckartzStatistikVerstaendlicheEinfuehrung2013, S. 217].
 
 Obwohl Noten nicht intervallskaliert sind, werden in Untersuchungen zu
-Noten oft Korrelationen nach
+Noten trotzdem oft Korrelationen nach
 Bravais-Pearson berechnet. Zur Überprüfung der Robustheit der Auswertung
 wurde diese Berechnung ebenfalls vorgenommen. Die Berechnung erfolgt
 nach der Formel
@@ -190,14 +201,15 @@ BOG eine Besonderheit auf. Diese Besonderheit hat sich ergeben,
 weil sich die IMS aus historischen Gründen sehr stark am Modell der
 Handelsmittelschule im Kanton Zürich orientiert.
 
-Als weitere Besonderheit findet in der IMS per Ende eines jeden
+Als weitere Besonderheit findet in der IMS, im Gegensatz zur BOG per
+Ende eines jeden
 Semesters eine promotionswirksame Beurteilung statt. Dabei kommt der
 Leistung in der Berufsbildung lediglich ein Gewicht von etwas mehr als
 10% zu. Die so gesetzte Anreizstruktur führt gelegentlich dazu, dass die
 Lernenden die Prioritäten eher auf die Fächer der BMS legen. Das heisst
 allerdings nicht, dass sie in beruflicher Hinsicht schlecht qualifiziert
 wären. Die Lernenden der IMS belegen überdurchschnittlich oft
-Spitzenplätze bei der kantonalen Rangierung aller Lernenden in den
+Spitzenplätze bei der kantonalen Rangierung aller Lehrabschlüsse in den
 ICT-Berufen. 
 
 Diese Ausgangslage hat es ermöglicht, Leistungen im Fachbereich
@@ -223,10 +235,6 @@ Wirtschaft und Recht; Art. 9 Abs. 2 und 3 BMV) und den Ergänzungsbereich
 (Geschichte und Politik sowie Technik und Umwelt; Art. 10 Abs. 2 und
 3 BMV). Ausserdem gibt es noch eine Note für interdisziplinäres Arbeiten
 (Art. 11 BMV).
-Eine Begründung
-für die Einteilung der Module in solche mit starkem CT-Bezug und solche
-mit ausschliesslich berufsspezifischen Inhalten erfolgt im Abschnitt mit
-der Auswertung der Resultate.
 
 Die Möglichkeit, Computational Thinking spezifische Fähigkeiten mit allgemeinbildenden
 Fächern zu korrelieren, ist der Grund für die Wahl des Vorgehens.
@@ -241,7 +249,7 @@ vorliegend allerdings nicht erforderlich, da der Verfasser als
 Mitarbeiter dieser Schule Zugriff auf den Datenbestand hatte.
 
 Zusammenstellungen von Leistungsbeurteilungen sind nach 
-§ 3 Abs. 4 lit. b IDG als besondere Personendaten. Besondere
+§ 3 Abs. 4 lit. b IDG besondere Personendaten. Besondere
 Personendaten müssen speziell geschützt werden. Aus diesem Grund wurden
 die Daten anonymisiert. Allerdings erforderte die Art der Archivierung
 der Daten ein zweistufiges Vorgehen.
@@ -275,21 +283,21 @@ aufgeteilt:
 
 * Noten der Berufsausbildung
 
-    In dieser Tabelle wurden die Noten der Besuchten Module erfasst.  
-    Der Hashwert dient dabei als Identifikator.
+    In dieser Tabelle wurden die Noten der besuchten Module erfasst.  
+    Der Hashwert des Namens dient dabei als Identifikator.
 
 * Noten der BMS
 
     In  dieser Tabelle wurden die Noten der BMS Abschlussprüfungen
     erfasst.  
-    Der Hashwert dient auch hier als Identifikator.
+    Der Hashwert des Namens dient auch hier als Identifikator.
 
-Die Aufteilung der Daten in drei Tabellen hatte zum Einen praktische
+Die Aufteilung der Daten in drei Tabellen hatte zum einen praktische
 Gründe. Die Tabellen behielten überschaubare Dimensionen. Andererseits
 brauchen die Daten bei der Analyse nicht nach Herkunft gefiltert zu
 werden.
 
-Eine Beurteilung der Qualität der Daten erfolgt im Abschnitt "Daten" vor
+Eine Beurteilung der Qualität der Daten erfolgt im [@sec:daten] "Daten" vor
 der Analyse der Resultate.
 
 Die Auswertung der Daten erfolgte in einem Python Skript. In diesem
@@ -304,6 +312,7 @@ sichtbar zu machen, wurde ein eigenes Farbschema angelegt. Dieses
 Farbschema wechselt von Grau zu Grün. Die Schwelle des für den Umschlag
 der Farbe wurde dabei auf 0.3 festgelegt.
 
-Die verwendeten Python Skripten sind im Anhang abgedruckt. Ebenfalls im Anhang findet sich
-ein Abdruck der Ausgabe von pip freeze. Damit soll die
+Die verwendeten Python Skripten sind im Anhang aufgelistet. Sowohl die
+Datentabellen wie auch die Scripts werden via GitHub zur Verfügung
+gestellt (vgl. [@sec:github]). Damit soll die
 Nachvollziehbarkeit der Resultate sichergestellt werden.

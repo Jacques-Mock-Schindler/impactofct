@@ -82,6 +82,12 @@ def create_histogramms_grid(dataframe):
     fig, axs = plt.subplots(3, 3, figsize=(15, 15))
     fig.suptitle('Histogramme und Normalverteilungen der Noten der BMS', fontsize=16)
     
+    # Berechne das globale Maximum für die y-Achse
+    max_density = 0
+    for column in dataframe.columns:
+        hist, _ = np.histogram(dataframe[column].dropna(), bins=bins, density=True)
+        max_density = max(max_density, np.max(hist))
+    
     for idx, column in enumerate(dataframe.columns):
         row = idx // 3
         col = idx % 3
@@ -116,7 +122,10 @@ def create_histogramms_grid(dataframe):
         ax.set_ylabel('Häufigkeit')
         ax.set_xticks(bin_centers)
         ax.grid(axis='y')
-        ax.legend()
+        #ax.legend()
+        
+        # Setze die y-Achse auf das globale Maximum
+        ax.set_ylim(0, max_density * 1.1)  # 10% Puffer nach oben
     
     plt.tight_layout()
     plt.savefig('../graphics/normalverteilung_bm.png',
@@ -126,6 +135,7 @@ def create_histogramms_grid(dataframe):
 # %%
 
 create_histogramms_grid(bms)
+
 # %%
 
 def create_histogramms_grid_efz(dataframe):
@@ -141,9 +151,15 @@ def create_histogramms_grid_efz(dataframe):
     # Erstelle eine Figur mit der berechneten Anzahl von Zeilen und 3 Spalten
     fig, axs = plt.subplots(num_rows, 3, figsize=(15, 5*num_rows + 2))
     
-    fig.suptitle('Histogramme und Normalverteilungen der Noten der Berufsausbildung (Teil 1)',
+    fig.suptitle('Histogramme und Normalverteilungen der Noten der Berufsausbildung (Teil 3)',
                  fontsize=16, y=1)
     
+    # Berechne das globale Maximum für die y-Achse
+    max_density = 0
+    for column in dataframe.columns:
+        hist, _ = np.histogram(dataframe[column].dropna(), bins=bins, density=True)
+        max_density = max(max_density, np.max(hist))
+
     for idx, column in enumerate(dataframe.columns):
         row = idx // 3
         col = idx % 3
@@ -183,7 +199,10 @@ def create_histogramms_grid_efz(dataframe):
         ax.set_ylabel('Häufigkeit')
         ax.set_xticks(bin_centers)
         ax.grid(axis='y')
-        ax.legend()
+        # ax.legend()
+        
+        # Setze die y-Achse auf das globale Maximum
+        ax.set_ylim(0, max_density * 1.1)  # 10% Puffer nach oben
     
     # Entferne leere Subplots
     for idx in range(num_cols, num_rows * 3):
@@ -195,10 +214,11 @@ def create_histogramms_grid_efz(dataframe):
             fig.delaxes(axs[col])
     
     plt.tight_layout()
-    plt.savefig('../graphics/normalverteilung_efz_1.png',
+    plt.savefig('../graphics/normalverteilung_efz_3.png',
                 dpi=300)
     plt.show()
 # %%
 
-create_histogramms_grid_efz(efz1)
+create_histogramms_grid_efz(efz3)
+
 # %%

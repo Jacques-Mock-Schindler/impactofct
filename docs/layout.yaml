@@ -12,9 +12,7 @@ figPrefix: "Abb."
 eqnPrefix: "Gl."
 tblPrefix: "Tbl."
 lstPrefix: "List."
-secPrefix: 
-  - "Abschnitt"
-  - "Abschnitte"
+secPrefix: "Absch."
 toc-depth: 2
 sectionsDepth: 5
 output: 

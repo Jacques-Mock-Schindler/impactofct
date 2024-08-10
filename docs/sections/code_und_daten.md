@@ -1,4 +1,4 @@
-# Materialien auf GitHub
+# Materialien auf GitHub {#sec:github}
 
 Die vorliegende Arbeit wurde mit git versioniert und auf GitHub
 abgelegt. Das Repository reicht allerdings nicht bis an den Anfang der
