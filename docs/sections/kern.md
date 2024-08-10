@@ -12,7 +12,7 @@ Die im folgenden beschriebenen statistischen Berechnungen wurden in
 Python mit den Libraries pandas und SciPy vorgenommen. Die
 Visualisierungen wurden ebenfalls in Python mit den Libraries
 matplotlib und seaborn erstellt. Eine Liste der verwendeten Scripts
-findet sich im Anhang. xxx
+findet sich im Anhang (vgl. [@sec:github]).
 
 Mit der Gegenüberstellung der Noten des EFZ und jener der BMS
 soll festgestellt werden, ob und gegebenenfalls wie stark die beiden
