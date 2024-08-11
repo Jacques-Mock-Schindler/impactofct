@@ -122,8 +122,8 @@ Standardabweichung. Die gestrichtelte Linie zeigt die Normalverteilung.}
 
 Aufgrund des zentralen Grenzwertsatzes ist eigentlich davon auszugehen,
 dass ab einer Stichprobengrösse von $n \geq 30$ eine gute Annäherung an
-eine Normalverteilung erwartet werden kann[@oestreichKeinePanikVor2018,
-S. 234].
+eine Normalverteilung erwartet werden
+kann[@hollingStatistikTestverfahren2016, S. 69].
 Allerdings wirft bereits die optische Überprüfung der Normalverteilung der Noten
 in vielen Fällen Zweifel an deren Normalverteilung auf. Zur Sicherheit
 wird daher die Normalverteilung mit dem Shapiro-Wilk Test auch
@@ -140,7 +140,7 @@ den Noten jedes Fachs der BMS gegenübergestellt und die Korrelation
 zwischen diesen Notenpaaren berechnet.  
 Oft werden Korrelationen nach Bravais-Pearson ($r$) berechnet. Das setzt
 allerdings voraus, dass es sich um normalverteilte intervallskalierte
-Daten handelt[@uzh_pearson]. Die einleitende
+Daten handelt[@hollingStatistikTestverfahren2016, S. 123 f]. Die einleitende
 Überprüfung der Daten hat jedoch ergeben, dass sie nicht normalverteilt
 sind.
 Zudem sind Noten grundsätzlich nicht intervallskaliert. Das wäre nur dann der
@@ -151,7 +151,7 @@ begründet, warum die Noten hier als ordinal skaliert behandelt werden.
 Aus diesem Grund wurde von jeder gebildeten 
 Paarung der Rangkorrelationskoeffizient
 nach Spearman ($\rho$)
-berechnet[@uzh_spearman].
+berechnet[@hollingStatistikTestverfahren2016, S. 131].
 
 $$
 \rho = 1 - \frac{6 \cdot \sum_{i=1}^{n} d_{i}^{2}}{n \cdot (n^2 - 1)}
