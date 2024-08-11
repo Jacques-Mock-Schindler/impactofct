@@ -20,7 +20,7 @@ werden:
 
 * Haltung zum Fach Informatik
   
-  Um einene Erzählanreiz zu schaffen, wird die Gesprächspartnerin oder
+  Um einen Erzählanreiz zu schaffen, wird die Gesprächspartnerin oder
   der Gesprächspartner an dieser Stelle aufgefordert, zu Erzählen, was
   sie oder er bereits selber programmiert hat. Sei es in der Schule oder
   sei es Privat.  
@@ -73,15 +73,15 @@ werden:
 
 * Stellungnahme zur Arbeitshypothese
 
-  Sicherheitshabler erhalten die Gesprächspartnerinnen bzw.
+  Sicherheitshalber erhalten die Gesprächspartnerinnen bzw.
   Gesprächspartner an dieser Stelle direkt Gelegenheit aus ihrer Sicht
   zur Arbeitshypothese Stellung zu nehmen. Sie erhalten dazu die
   folgende verkürzte Version der Arbeitshypothese:
   
   >Programmieren hilft für das Verständnis der programmierten
-  Probleme.
+  >Probleme.
 
-  Folgende Frage kann als Hilfsrfage gestellt werden:
+  Folgende Frage kann als Hilfsfrage gestellt werden:
 
   * Was muss gegeben sein, damit diese Hypothese zutrifft?
 

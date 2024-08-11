@@ -84,5 +84,6 @@ input-files:
 - docs/sections/ausblick.md
 - docs/sections/reflexion.md
 - docs/sections/literatur.md
+- docs/sections/leitfaden.md
 - docs/sections/code_und_daten.md
 ---
