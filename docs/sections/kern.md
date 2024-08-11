@@ -21,7 +21,7 @@ Korrelation gewählt werden kann, muss als Vorfrage geklärt werden, ob
 die Noten normalverteilt sind. Diese Kontrolle erfolgte in einer ersten
 Phase optisch mit der Darstellung der Noten als Histogramm und
 darübergelegter theoretischer Normalverteilung (vgl.
-[@fig:normalverteilung_bm] und [@fig:normalverteilung_efz1]).
+[@fig:normalverteilung_bm] und [@fig:normalverteilung_efz10]).
 
 ```{=latex}
 \begin{figure}[ht!]
@@ -41,49 +41,84 @@ kommt. Bei den anderen Fächern gibt es mehr oder weniger starke
 Abweichungen.
 
 Die optische Überprüfung der Normalverteilung der Modulnoten des EFZ
-ergibt für die
-Module 122, 123, 151 (vgl. [@fig:normalverteilung_efz1]), 214, 304 (vgl.
-[@fig:normalverteilung_efz2]) und 431 (vgl.
-[@fig:normalverteilung_efz3]) eine Verteilung, welche der
+ergibt für die Module 122, 123, 151, 214, 304 und 431 (vgl.
+[@fig:normalverteilung_efz10]) eine Verteilung, welche der
 Normalverteilung recht nahe kommt. Alle anderen Notenverteilungen
 weichen mehr oder
 weniger stark von der Normalverteilung ab.
 
 ```{=latex}
 \begin{figure}[ht!]
-\includegraphics[width=\textwidth]{docs/graphics/normalverteilung_efz_1.png}
-\caption[Normalverteilung der Noten des EFZ (Teil 1)]{Grafiken zur
-optischen Überprüfung, ob die Noten der Berufsausbildung normalverteilt
-sind (Teil 1).
-$n$ ist die Stichprobengrösse, $\mu$ der Mittelwert und $\sigma$ die
-Standardabweichung. Die gestrichtelte Linie zeigt die Normalverteilung.}
+\includegraphics[width=\textwidth]{docs/graphics/normalverteilung_efz/normalverteilung_efz0.png}
+\label{fig:normalverteilung_efz0}
+\end{figure}
+```
+```{=latex}
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/normalverteilung_efz/normalverteilung_efz1.png}
 \label{fig:normalverteilung_efz1}
 \end{figure}
 ```
-
 ```{=latex}
 \begin{figure}[ht!]
-\includegraphics[width=\textwidth]{docs/graphics/normalverteilung_efz_2.png}
-\caption[Normalverteilung der Noten des EFZ (Teil 2)]{Grafiken zur
-optischen Überprüfung, ob die Noten der Berufsausbildung normalverteilt
-sind (Teil 2).
-$n$ ist die Stichprobengrösse, $\mu$ der Mittelwert und $\sigma$ die
-Standardabweichung. Die gestrichtelte Linie zeigt die Normalverteilung.}
+\includegraphics[width=\textwidth]{docs/graphics/normalverteilung_efz/normalverteilung_efz2.png}
 \label{fig:normalverteilung_efz2}
 \end{figure}
 ```
-
 ```{=latex}
 \begin{figure}[ht!]
-\includegraphics[width=\textwidth]{docs/graphics/normalverteilung_efz_3.png}
-\caption[Normalverteilung der Noten des EFZ (Teil 3)]{Grafiken zur
-optischen Überprüfung, ob die Noten der Berufsausbildung normalverteilt
-sind (Teil 3).
-$n$ ist die Stichprobengrösse, $\mu$ der Mittelwert und $\sigma$ die
-Standardabweichung. Die gestrichtelte Linie zeigt die Normalverteilung.}
+\includegraphics[width=\textwidth]{docs/graphics/normalverteilung_efz/normalverteilung_efz3.png}
 \label{fig:normalverteilung_efz3}
 \end{figure}
 ```
+```{=latex}
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/normalverteilung_efz/normalverteilung_efz4.png}
+\label{fig:normalverteilung_efz4}
+\end{figure}
+```
+```{=latex}
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/normalverteilung_efz/normalverteilung_efz5.png}
+\label{fig:normalverteilung_efz5}
+\end{figure}
+```
+```{=latex}
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/normalverteilung_efz/normalverteilung_efz6.png}
+\label{fig:normalverteilung_efz6}
+\end{figure}
+```
+```{=latex}
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/normalverteilung_efz/normalverteilung_efz7.png}
+\label{fig:normalverteilung_efz7}
+\end{figure}
+```
+```{=latex}
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/normalverteilung_efz/normalverteilung_efz8.png}
+\label{fig:normalverteilung_efz8}
+\end{figure}
+```
+```{=latex}
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/normalverteilung_efz/normalverteilung_efz9.png}
+\label{fig:normalverteilung_efz9}
+\end{figure}
+```
+```{=latex}
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/normalverteilung_efz/normalverteilung_efz10.png}
+\caption[Normalverteilung der Noten des EFZ]{Grafiken zur
+optischen Überprüfung, ob die Noten der Berufsausbildung normalverteilt
+sind.
+$n$ ist die Stichprobengrösse, $\mu$ der Mittelwert und $\sigma$ die
+Standardabweichung. Die gestrichtelte Linie zeigt die Normalverteilung.}
+\label{fig:normalverteilung_efz10}
+\end{figure}
+```
+
 
 Aufgrund des zentralen Grenzwertsatzes ist eigentlich davon auszugehen,
 dass ab einer Stichprobengrösse von $n \geq 30$ eine gute Annäherung an
