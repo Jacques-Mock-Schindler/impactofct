@@ -9,13 +9,13 @@ diesen beiden Gründen wurde im Juli 2024 ein neues Repository angelegt.
 
 ## Datengrundlage
 
-Der Arbeit liegen die folgenden Daten Tabellen zu Grunde:
+Der Arbeit liegen die folgenden Datentabellen zu Grunde:
 
 * personalien.csv
 * noten_bm.csv
 * noten_efz.csv
 
-Aus diesen Rohdaten wurden die folgenden Daten Tabellen errechnet:
+Aus diesen Rohdaten wurden die folgenden Datentabellen errechnet:
 
 * korrelationen.csv
 * normalverteilung_bm.csv
@@ -26,7 +26,7 @@ Aus diesen Rohdaten wurden die folgenden Daten Tabellen errechnet:
 * spearman.csv
 * spearman_signifikanz.csv
 
-Alle diese Daten Tabellen finden sich in anonymisierter
+Alle diese Datentabellen finden sich in anonymisierter
 Form im GitHub Repositroy
 [https://github.com/Jacques-Mock-Schindler/impactofct](https://github.com/Jacques-Mock-Schindler/impactofct/tree/main/docs/data)
 (der Link führt direkt in den Unterordner mit den Tabellen).
