@@ -25,7 +25,7 @@ darübergelegter theoretischer Normalverteilung (vgl.
 
 ```{=latex}
 \begin{figure}[ht!]
-\includegraphics[width=\textwidth]{docs/graphics/normalverteilung_bm}
+\includegraphics[width=\textwidth]{docs/graphics/normalverteilung_bm_absolut.png}
 \caption[Normalverteilung der Noten der BMS]{Grafiken zur optischen
 Überprüfung, ob die Noten der BMS normalverteilt sind.
 $n$ ist die Stichprobengrösse, $\mu$ der Mittelwert und $\sigma$ die
@@ -293,7 +293,7 @@ Um trotz Anonymisierung die Nachvollziehbarkeit zu erhalten, wurden die
 Namen und die Klasse mit folgender Funktion gehasht:
 
 ```{=latex}
-\lstinputlisting[language=Python, firstline=8, lastline=13]{docs/code/anonymisierung.py}
+\lstinputlisting[language=Python, firstline=8, lastline=13]{docs/code/00_anonymisierung.py}
 `````
 
 Die anonymisierten Daten wurden in CSV-Dateien zur Weiterverarbeitung

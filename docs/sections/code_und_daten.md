@@ -38,7 +38,7 @@ erfolgte die Auswertung der Daten mit Hilfe von Python Scripts. Hier
 eine Auflistung der erstellten Scripts:
 
 
-* anonymisierung.py
+* 00_anonymisierung.py
 * csv2tex.py
 * korrelation.py
 * korrelationen_gruppiert.py
