@@ -12,11 +12,16 @@ df = pd.read_csv('../data/noten_efz.csv',
 
 # %%
 
+threshod = 20
+columns_counts = df.count()
+columns_to_drop = columns_counts[columns_counts < threshod].index.to_list()
+df.drop(columns=columns_to_drop, inplace=True)
+
+# %%
+
 numbers = df.count()
 numbers = numbers.where(numbers >= 20, np.nan)
 numbers = pd.Series(numbers.dropna())
-numbers.sort_values(inplace=True)
-numbers = numbers.unique().tolist()
 
 # %%
 
@@ -32,5 +37,20 @@ for n in numbers:
     moe.append((n, e))
 
 print(moe)    
+
+# %%
+
+df2 = pd.DataFrame(moe, columns=['n', 'MoE'])
+
+# %%
+
+headers = df.columns.to_list()
+
+df2.index = headers
+
+# %%
+
+df2.to_csv('../data/margin_of_error.csv',
+           sep=';')
 
 # %%
