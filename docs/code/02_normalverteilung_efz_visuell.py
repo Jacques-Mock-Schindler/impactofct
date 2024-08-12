@@ -4,7 +4,6 @@ import pandas as pd
 import numpy as np
 from scipy.stats import norm
 import matplotlib.pyplot as plt
-import math
 
 # %%
 
@@ -43,14 +42,14 @@ def create_histogramms_grid_efz(dataframe, counter):
     # Erstelle eine Figur mit 1 Zeile und 3 Spalten
     fig, axs = plt.subplots(1, 3, figsize=(15, 5))
     
-    fig.suptitle('Histogramme und Normalverteilungen der Noten des EFZ',
-                 fontsize=16, y=1.05)
+    #fig.suptitle('Histogramme und Normalverteilungen der Noten des EFZ',
+    #             fontsize=16, y=1.05)
     
     # Berechne das globale Maximum für die y-Achse
-    max_density = 0
+    max_count = 0
     for column in dataframe.columns:
-        hist, _ = np.histogram(dataframe[column].dropna(), bins=bins, density=True)
-        max_density = max(max_density, np.max(hist))
+        hist, _ = np.histogram(dataframe[column].dropna(), bins=bins)
+        max_count = max(max_count, np.max(hist))
 
     for idx, column in enumerate(dataframe.columns):
         ax = axs[idx]
@@ -58,8 +57,7 @@ def create_histogramms_grid_efz(dataframe, counter):
         # Histogramm plotten
         n, bins, patches = ax.hist(dataframe[column].dropna(),
                                    bins=bins, alpha=0.7,
-                                   edgecolor='black', 
-                                   density=True)
+                                   edgecolor='black')
         
         # Grösse der Stichprobe
         size = len(dataframe[column].dropna())
@@ -70,8 +68,12 @@ def create_histogramms_grid_efz(dataframe, counter):
         x = np.linspace(xmin, xmax, 100)
         p = norm.pdf(x, mu, std)
         
+        # Skaliere die Normalverteilungskurve, um sie an die absoluten Häufigkeiten anzupassen
+        scaling_factor = size * (bins[1] - bins[0])
+        scaled_p = p * scaling_factor
+        
         # Normalverteilungskurve plotten
-        ax.plot(x, p, 'k', 
+        ax.plot(x, scaled_p, 'k', 
                 linewidth=1, linestyle='--',
                 label='Normalverteilung')
         ax.set_title(f'Modul {column}\n' 
@@ -81,13 +83,13 @@ def create_histogramms_grid_efz(dataframe, counter):
         
         # Beschriftungen und Darstellung
         ax.set_xlabel('Noten')
-        ax.set_ylabel('Häufigkeit')
+        ax.set_ylabel('Absolute Häufigkeit')
         ax.set_xticks(bin_centers)
         ax.grid(axis='y')
         # ax.legend()
         
         # Setze die y-Achse auf das globale Maximum
-        ax.set_ylim(0, 1.1)  # 10% Puffer nach oben
+        ax.set_ylim(0, 60 * 1.1)  # 10% Puffer nach oben
     
     plt.tight_layout()
     plt.savefig(f'../graphics/test/normalverteilung_efz{counter}.png',
@@ -102,3 +104,5 @@ for efz in efzs:
     create_histogramms_grid_efz(efz, counter)
     counter += 1
 
+
+# %%

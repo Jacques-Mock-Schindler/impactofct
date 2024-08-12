@@ -4,7 +4,6 @@ import pandas as pd
 import numpy as np
 from scipy.stats import norm
 import matplotlib.pyplot as plt
-import math
 
 # %%
 
