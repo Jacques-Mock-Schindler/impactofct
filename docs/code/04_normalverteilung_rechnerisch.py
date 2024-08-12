@@ -4,7 +4,6 @@ import pandas as pd
 from scipy.stats import shapiro
 from scipy.stats import kstest
 from scipy.stats import normaltest
-from scipy.stats import spearmanr
 
 # %%
 
