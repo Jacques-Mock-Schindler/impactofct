@@ -4,9 +4,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.colors import LinearSegmentedColormap
 import seaborn as sns
-from scipy.stats import shapiro
-from scipy.stats import kstest
-from scipy.stats import normaltest
 from scipy.stats import spearmanr
 
 # %%
@@ -24,13 +21,13 @@ efz = pd.read_csv('../data/noten_efz.csv',
 threshlod = 20
 columns_counts = efz.count()
 columns_to_drop = columns_counts[columns_counts < threshlod].index.to_list()
-efz_reduced = efz.drop(columns=columns_to_drop)
+efz.drop(columns=columns_to_drop, inplace=True)
 
 # %%
 
 headers = list(bm)
-indices = list(efz_reduced)
-    
+indices = list(efz)
+   
     
 # %%
     
@@ -105,7 +102,7 @@ for label in yticklabels:
         
 plt.savefig('../graphics/pearson_heatmap.png',
             format='png',
-           dpi=300)
+            dpi=300)
 plt.show()
 
 # %%
@@ -173,7 +170,7 @@ plt.ylabel('EFZ Modul Nr.')
 plt.xlabel('BM Fächer')
 plt.savefig('../graphics/spearman_heatmap.png',
             format='png',
-           dpi=300)
+            dpi=300)
 plt.show()
 
 # %%
