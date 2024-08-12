@@ -3,7 +3,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-from scipy.stats import spearmanr
 
 # %%
 
@@ -46,14 +45,6 @@ plt.show()
 
 # %%
 
-combi['mittelwert_efz'].corr(combi['mittelwert_bm'])
-
-# %%
-
-spearmanr(combi['mittelwert_efz'], combi['mittelwert_bm'])
-
-# %%
-
 plt.figure(
     figsize=(12, 6)
 )
@@ -73,11 +64,4 @@ plt.savefig('../graphics/verteilung_durchschnitte.png',
             dpi=300)
 plt.show()
 
-# %%
-
-combi.min()
-
-# %%
-
-combi.max()
 # %%
