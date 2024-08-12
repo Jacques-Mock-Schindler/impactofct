@@ -36,8 +36,6 @@ for n in numbers:
     e = margin_error(n, 400)
     moe.append((n, e))
 
-print(moe)    
-
 # %%
 
 df2 = pd.DataFrame(moe, columns=['n', 'MoE'])
