@@ -5,11 +5,7 @@ import matplotlib.pyplot as plt
 from matplotlib.colors import LinearSegmentedColormap
 import seaborn as sns
 import scipy.stats as stats
-from scipy.stats import shapiro
-from scipy.stats import kstest
-from scipy.stats import normaltest
 from scipy.stats import spearmanr
-import numpy as np
 
 # %%
 
@@ -26,12 +22,12 @@ efz = pd.read_csv('../data/noten_efz.csv',
 threshod = 20
 columns_counts = efz.count()
 columns_to_drop = columns_counts[columns_counts < threshod].index.to_list()
-efz_reduced = efz.drop(columns=columns_to_drop)
+efz.drop(columns=columns_to_drop, inplace=True)
 
 # %%
 
 headers = list(bm)
-indices = list(efz_reduced)
+indices = list(efz)
     
 # %%
     
@@ -44,7 +40,7 @@ spearman_p = pd.DataFrame(index=indices, columns=headers)
 
 for header in headers:
     for i in indices:
-        tmp = pd.concat([bm[header], efz_reduced[i]], 
+        tmp = pd.concat([bm[header], efz[i]], 
                         axis="columns")
         tmp.dropna(axis="index", inplace=True)
         if len(tmp) >= 2:
