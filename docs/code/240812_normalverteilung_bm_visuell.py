@@ -41,8 +41,9 @@ def histogramme(dataframe, count, title=None):
                 color='black',
                 lw=1,
                 linestyle='--')
+        n = len(dataframe[fach].dropna())
         plt.title(f'{fach}\n'
-                r'$n =$' + f' {len(dataframe[fach])}, ' +
+                r'$n =$' + f' {n}, ' +
                 r'$\mu =$' + f' {mu:.2f}, ' +
                 r'$\sigma =$' + f' {std:.2f}')
         plt.xlabel('Noten')
@@ -62,7 +63,8 @@ def histogramme(dataframe, count, title=None):
 
 count = 1
 for bms in bmss:
-    histogramme(bms, count)
+    histogramme(bms, count,
+                'Histogramme und Normalverteilung der Noten der BMS')
     count += 1
 
 # %%
