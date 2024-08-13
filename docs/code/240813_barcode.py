@@ -30,6 +30,16 @@ gw.sort_values(by='mean', inplace=True)
 
 # %%
 
+sw = df.iloc[:,5:8]
+sw['mean'] = sw.mean(axis='columns')
+sw = pd.concat([sw, k], axis='columns')
+sw.sort_values(by='mean', inplace=True)
+
+values_sw = sw['mean'].to_list()
+categories_sw = sw['kategorie'].to_list()
+
+# %%
+
 values = gw['mean'].to_list()
 categories = gw['kategorie'].to_list()
 
@@ -69,7 +79,7 @@ def create_barcode(values, categories, figsize=(10, 2)):
 # %%
 
 # Erstelle den Strichcode
-fig = create_barcode(values, categories)
+fig = create_barcode(values_sw, categories_sw)
 
 # Zeige die Figur an
 plt.show()
