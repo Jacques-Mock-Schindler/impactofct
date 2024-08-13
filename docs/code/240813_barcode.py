@@ -24,12 +24,14 @@ df['kategorie'] = df['kategorie'].fillna(0)
 
 gw = df.iloc[:,:3]
 k = df.iloc[:,-1:]
+gw['mean'] = gw.mean(axis='columns')
 gw = pd.concat([gw, k], axis='columns')
-
+gw.sort_values(by='mean', inplace=True)
 
 # %%
 
-gw['mean'] = gw.mean(axis='columns')
+values = gw['mean'].to_list()
+categories = gw['kategorie'].to_list()
 
 
 # %%
@@ -63,12 +65,6 @@ def create_barcode(values, categories, figsize=(10, 2)):
     ax.set_xlim(0, x)
     
     return fig
-
-# %%
-
-# Beispieldaten
-values = np.random.rand(20)
-categories = np.random.randint(0, 2, 20)
 
 # %%
 
