@@ -131,7 +131,7 @@ werden.
 ```{=latex}
 \begin{figure}[ht!]
 \includegraphics[width=\textwidth]{docs/graphics/uml_kontokorrentkonto.png}
-\caption[UML Diagramm Kontokorrentkono]{Das UML Diagramm zeigt das
+\caption[UML Diagramm Kontokorrentkotno]{Das UML Diagramm zeigt das
 Klassendiagramm, das im natürlichen Experiment implementiert werden
 sollte. Das Design wurde so gestaltet, damit das Problem zergliedert
 werden musste. Die Vererbung Konto $\leftarrow$ Bilanzkonot $\leftarrow$
