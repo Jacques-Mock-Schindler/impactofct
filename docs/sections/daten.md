@@ -1,13 +1,13 @@
 # Daten {#sec:daten}
 
-In diesem Abschnitt sollen die Ausgewerteten Daten näher beschrieben
-werden. In einem ersten Teil wird die Stichprobe als ganzes näher Beschrieben und
+In diesem Abschnitt sollen die ausgewerteten Daten näher beschrieben
+werden. In einem ersten Teil wird die Stichprobe als Ganzes näher beschrieben und
 in einem zweiten Teil die beiden Datensätze "Noten des EFZ"
 und "Noten der BMS".
 
 ## Beschreibung der Stichprobe {#sec:stichprobe}
 
-Die Kantonsschule Büelrain war die erste Kantonsschule welche eine IMS
+Die Kantonsschule Büelrain war die erste Kantonsschule, welche eine IMS
 angeboten hat. Begonnen hat das Programm im Jahr 2000. Mittlerweile gibt
 es 12 Standorte in der ganzen Deutschschweiz. Da die Schulbildung in der
 Kompetenz der Kantone liegt, ergeben sich zum Teil erhebliche regionale
@@ -26,7 +26,7 @@ Die Daten umfassen Noten von insgesamt 167 Lernenden. 12 davon sind
 Frauen. Das Durchschnittsalter zum Zeitpunkt der BMS Prüfungen betrug
 19.2 Jahre. Der jüngste Lernende war 17 Jahre alt, der älteste 22. Die
 Standardabweichung liegt beim Alter bei 0.9 Jahren.
-Die Stichprobe besteht aus allen Lernend des Beobachtungszeitraums von
+Die Stichprobe besteht aus allen Lernenden des Beobachtungszeitraums von
 2009 bis 2022. Aufgrund der Schuldauer von drei Jahren entspricht dies
 10 Prüfungsjahrgängen.
 
@@ -47,7 +47,7 @@ zurückzuführen.
 
 ## Beurteilung der Qualität der Datensätze
 
-Die Aussagekraft Noten von wird in der Öffentlichkeit immer wieder
+Die Aussagekraft von Noten wird in der Öffentlichkeit immer wieder
 angezweifelt[@nzz_schulnoten].  Dass es keinen objektiven Notenmassstab
 gibt ist eine Binsenwahrheit. Trotzdem sind Noten "*eine bewährte Form
 von Feedback und für die Kommunikation der Schulen nach aussen
@@ -61,7 +61,7 @@ gleichen Modulen oder Fächern gleichen sich aus.
 Bei fehlenden Werten wurde der Datensatz entsprechend gekürzt. Da die
 Beurteilung der Korrelation auf Datenpaaren beruht, weisen die
 Korrelationen mit unvollständigen Paaren eine kleinere Stichprobe auf.
-Als Konsequenz daraus, weisen diese eine grössere Fehlerspanne auf.
+Als Konsequenz daraus weisen diese eine grössere Fehlerspanne auf.
 
 Zur Bereinigung der Datensätze wurde in den Python Scripts folgender
 Abschnitt verwendet:
@@ -78,7 +78,7 @@ gewählt, weil dies einer durchschnittlichen angestrebten Klassengrösse
 entspricht. Damit konnten Wahlmodule, welche nur von einigen wenigen
 Lernenden gewählt worden sind, ausgeschlossen werden.
 
-Die Paarung erfolgte in Schlaufen, wie der unten dargestellten:
+Die Paarung erfolgte in Schlaufen wie der unten dargestellten:
 
 ```{=latex}
 \lstinputlisting[language=Python, firstline=41, lastline=46]{docs/code/09_korrelation_detailliert.py}
@@ -103,9 +103,9 @@ genügt, werden hier trotzdem vorsichtige Schlussfolgerungen gezogen.
 ## Beschreibung der Datensätze
 
 Das Notensystem in der Berufsausbildung und in der BMS ist das gleiche.
-Die Notenskala reicht von 1 bis 6. Die Tiefste Note liegt bei 1, die
+Die Notenskala reicht von 1 bis 6. Die tiefste Note liegt bei 1, die
 beste bei 6. Noten über 4 sind genügend, Noten unter 4 ungenügend.
-Allerdings kennt die Berufsausbildung, anders als die BMS kein strenges
+Allerdings kennt die Berufsausbildung, anders als die BMS, kein strenges
 Fachsystem. Aus diesem Grund werden die beiden Datensätze im
 Folgenden getrennt besprochen.
 
@@ -117,8 +117,8 @@ klassischen Schulbildung und in vielen Lehrberufen ist diese
 theoretische Ausbildung vollständig modularisiert[@modulbaukasten]. Eine
 Auflistung aller an der Berufsschule unterrichteten Module findet sich
 in [@tbl:modulliste]. Der
-für die inhaltlichen Aspekte der Berufsausbildung zuständige Verband
-ICT-Berufsbildung Schweiz hat alle Module im Modulbaukasten.ch
+für die inhaltlichen Aspekte der Berufsausbildung zuständige Verband,
+ICT-Berufsbildung Schweiz, hat alle Module im Modulbaukasten.ch
 zusammengestellt.  
 Aufgrund dieser Modularisierung absolvieren die Lernenden der IMS in der
 Berufsausbildung keine theoretische Abschlussprüfung. Als
@@ -132,7 +132,7 @@ Nicht alle der in [@tbl:modulliste] aufgeführten Module wurden durchgehend
 während des ganzen Beobachtungszeitraums unterrichtet und geprüft. Dies
 ist eine Folge der periodisch durchgeführten Massnahmen der
 Qualitätsentwicklung nach Art. 22 Abs. 4 lit. a BiVo. Diese Massnahmen
-der Qualitätsentwicklung führt dazu, dass neue Module zum Modulbaukasten
+der Qualitätsentwicklung führen dazu, dass neue Module zum Modulbaukasten
 hinzugefügt und andere entfernt worden sind. Als Konsequenz der
 Anpassung der ausgebildeten Module ergeben sich unterschiedlich grosse
 Stichproben pro Modul. Die Grösse der Stichprobe sowie der sich daraus
@@ -142,7 +142,7 @@ Berechnung des Fehlerbereichs basiert im Sinne einer Worst Case Annahme
 auf dem oberen Rand der Schätzung der Gesamtpopulation von 400 Lernenden
 (vgl. [@sec:stichprobe]). In der Zusammenstellung der an der
 Berufsschule unterrichteten Module wurden jene Module, welche für die
-Schulung von Fähigkeiten in Computational Thinking besonders wichtig
+Schulung von Fähigkeiten in Computational Thinking besonders wichtig,
 sind *kursiv* gesetzt. Die Auswahl wird in den folgenden Abschnitten
 begründet.
 
@@ -195,7 +195,7 @@ begründet.
  der Stichprobe. \textit{Kursiv} sind jene Module
 dargestellt, welche einen deutlichen Bezug zu Computational Thinking aufweisen. In der Spalte
 $n$ wird die Grösse der Stichprobe pro Modul angegeben. MoE steht für
-\textit{Margin of Error} oder Fehlerberbereich. Die Berechnung erfolgte unter
+\textit{Margin of Error} oder Fehlerbereich. Die Berechnung erfolgte unter
 der Annahme, dass die Gesamtpopulation eine Grösse von 400 aufweist.
 
 Die genaue Beschreibung aller Module findet sich auf der von
@@ -219,14 +219,14 @@ Handlungsziele:
    auswählen, die sich für eine bestimmte Auswertung eignen.
 4. Unstrukturierte Daten in eine strukturierte, verarbeitbare Form
    bringen, um Auswertungen zu ermöglichen.
-5. Für Daten und Zusammenhänge eine geeignete visuell erfassbare Form
+5. Für Daten und Zusammenhänge eine geeignete, visuell erfassbare Form
    wählen und diese in der gewählten Form darstellen.
 6. Bedeutung und Aussagekraft der Auswertung kritisch hinterfragen und
    kommentieren.
 
 Die in Handlungsziel 3 verlangte Auswahl von Daten erfordert, dass
 die konkret vorliegenden Daten auf ein Modell reduziert werden können.
-Das erstellen von Modellen verlangt, von konkreten
+Das Erstellen von Modellen verlangt, von konkreten
 Situationen zu abstrahieren und die generellen Charakteristika einer
 Mehrheit von Situationen herauszuarbeiten. Darüber hinaus müssen diese
 Charakteristika so aufbereitet werden, dass eine automatisierte
@@ -238,7 +238,7 @@ Automatisierung geschult.
 
 #### Modul 118: Analysieren und strukturiert implementieren
 
-Das Modul 118 ist eines jener Module, welche durch Massnahmen der
+Das Modul 118 ist eines jener Module, welches durch Massnahmen der
 Qualitätsentwicklung aus dem Modulbaukasten entfernt worden ist. Die
 Entfernung erfolgte zu Beginn des Beobachtungszeitraums. Aus diesem
 Grund ist via ICT Berufsbildung Schweiz keine detaillierte
@@ -269,7 +269,7 @@ Teilprobleme ist ein Aspekt gemäss der Definition von Computational
 Thinking. Im zweiten und dritten Handlungsziel
 geht es darum, die gefundene Lösung zu implementieren und damit effektiv
 zu automatisieren. Automatisieren ist ebenfalls ein Teilaspekt gemäss
-der Definition von Computational Thinking. Die in Handlusngsziel
+der Definition von Computational Thinking. Die in Handlungsziel
 4 verlangten Tests erfordern, dass die zu automatisierenden Abläufe in
 ihrer Gesamtheit erfasst werden. Damit alle denkbaren Grenzfälle
 getestet werden können, müssen die Abläufe von ihrer konkreten
@@ -288,24 +288,24 @@ Handlungsziele:
 2. Konzeptionelles Datenmodell erstellen und fehlende Informationen
    ermitteln bzw. Redundanzen klären.
 3. Konzeptionelles Datenmodell in ein logisches überführen und
-   Attribute, Identifikations-, Fremdschlüssel und Datentypen ergänzen.
+   Attribute, Identifikationsschlüssel, Fremdschlüssel und Datentypen ergänzen.
 4. Konzeptionelles Datenmodell zusammen mit dem Auftraggeber überprüfen
    und allfällige Anpassungen vornehmen.
 5. Für das vorliegende logische Datenmodell das physikalische
    Datenbankschema entwickeln und implementieren.
 
 Wie den Handlungszielen des Moduls 153 zu entnehmen ist, geht es in
-diesem Modul darum, aus den Informationsbedürfnissen eines Kunden, eine
+diesem Modul darum, aus den Informationsbedürfnissen eines Kunden eine
 Datenbank zu erstellen. Die Transformation von Informationsbedürfnissen
 in das Datenschema einer Datenbank erfordert ein hohes
-Abstraktionsvermögen. Diese Fähigkeit zu abstrahieren ist eine der
+Abstraktionsvermögen. Diese Fähigkeit zu abstrahieren, ist eine der
 Komponenten  gemäss Definition von Computational Thinking.
 
 #### Module 226 bw. Modul 326: Objektorientiert implementieren
 
 Das Modul 226 ist im Rahmen der Qualitätsentwicklung in die Module 226a
 und 226b Objektorientiert implementieren (mit und ohne Vererbung)
-aufgeteilt werden. Das Modul 326 vertieft die beiden Module 226a und
+aufgeteilt worden. Das Modul 326 vertieft die beiden Module 226a und
 226b mit einem Businessbezug. Die Begründung für die Aufnahme in die
 Liste der Module mit starkem Bezug zu Computational Thinking wird deshalb hier für alle Module
 zur objektorientierten Programmierung zusammengefasst.
@@ -341,7 +341,7 @@ Computational Thinking
 beschriebenen Zerlegen von Problemen in lösbare Teilprobleme. Dadurch,
 dass im Modul 226b explizit mit Vererbung gearbeitet wird, wird auch die
 als Teilkomponente von Computational Thinking identifizierte Abstraktion geübt. Dies wird
-noch verstärkt, in dem Testfälle identifiziert und implementiert werden
+noch verstärkt, indem Testfälle identifiziert und implementiert werden
 müssen (vgl. [@sec:m122]).
 
 Insgesamt kann festgehalten werden, dass die vier Module 226, 226a, 226b
@@ -366,14 +366,14 @@ Handlungsziele:
    dokumentieren.
 
 In diesem Modul sticht insbesondere das vierte Handlungsziel heraus. Das
-identifizieren von Testfällen erfordert ein tiefes Verständnis der
+Identifizieren von Testfällen erfordert ein tiefes Verständnis der
 gestellten Aufgabe. Man muss dazu das Problem so weit verallgemeinern,
 dass alle möglichen Grenzfälle bedacht werden können. Das bedeutet, dass man
 von der konkreten Probleminstanz abstrahieren, und alle
 erdenklichen Ausprägungen bedenken muss. Dazu muss das Gesamtproblem in
 Teilprobleme zerlegt werden (vgl. [@sec:m122]).  
-Mit dem hier verlangten Abstraktionsvermögen und der Fähigkeit Probleme
-in Teilprobleme zu zerlegen werden zwei wesentliche Aspekte von
+Mit dem hier verlangten Abstraktionsvermögen und der Fähigkeit, Probleme
+in Teilprobleme zu zerlegen, werden zwei wesentliche Aspekte von
 Computational Thinking gemäss Definition geschult.
 
 #### Modul 306, 431 und 335: Kleinere Projekte und Mobile-Applikationen
@@ -385,36 +385,38 @@ Thinking zusammengefasst.
 Die Handlungsziele können für die drei Module zu folgenden 12
 Handlungszielen konsolidiert werden[@modul306; @modul335; @modul431].
 
-1. Prüft eine Zielsetzung unter Berücksichtigung der vorgegebenen
-   Ressourcen, Anforderungen und Termine auf Machbarkeit, hält die
-   Erkenntnisse fest und bespricht diese mit dem Auftraggeber.
+1. Prüfen einer Zielsetzung unter Berücksichtigung der vorgegebenen
+   Ressourcen, Anforderungen und Termine auf Machbarkeit, Festhalten der
+   Erkenntnisse und Besprechung mit dem Auftraggeber.
 2. Vorgabe analysieren, Funktionalität und Storyboard entwerfen.
-3. Identifiziert ein Projekt und bestimmt Massnahmen zur Bewältigung
-   anhand eines Business Cases (Stakeholder, Risikoanalyse,
+3. Ein Projekt identifizieren und Massnahmen zur Bewältigung
+   anhand eines Business Cases bestimmen (Stakeholder, Risikoanalyse,
    Machbarkeits- und Wirtschaftlichkeitsanalyse, Zeitmanagement,
    Zielentwicklung).
 4. Lösungskonzept für die Applikation erarbeiten und Einbettung in
    bestehenden Lösungen überprüfen.
-5. Erstellt einen Projektplan zur systematischen Abwicklung eines
+5. Einen Projektplan erstellen zur systematischen Abwicklung eines
    Auftrags unter Berücksichtigung der Ressourcen, Termine,
    Problemstellungen und Arbeitsteilung (Wasserfallmethode/agile Methode
    unabhängig von Methode im Lehrbetrieb).
-6. Erteilt Arbeitsaufträge (Arbeitspaket/Stories) und koordiniert und
-   überwacht deren Ausführung (Qualität, Termine, Kosten).
-7. Erstellt einen Arbeitsfortschrittsbericht (Projektstatusbericht,
-   Projektjournal/Board) und dokumentiert darin den Stand des Projekts
-   (Ressourcen, Termine, geleistete Arbeiten) für den Auftraggeber.
+6. Arbeitsaufträge erteilen (Arbeitspaket/Stories) koordinieren und
+   überwachen von
+   deren Ausführung (Qualität, Termine, Kosten).
+7. Einen Arbeitsfortschrittsbericht erstellen (Projektstatusbericht,
+   Projektjournal/Board) und darin den Stand des Projekts
+   (Ressourcen, Termine, geleistete Arbeiten) für den Auftraggeber
+   dokumentieren.
 8. Mobile-Applikation mit einer gängigen Entwicklungsumgebung unter
    Berücksichtigung der Möglichkeiten und Einschränkungen von mobilen
    Geräten programmieren.
 9. Veröffentlichung der Applikation auf einer gängigen Plattform planen
    und nötige Schritte festhalten.
-10. Dokumentiert und erläutert das Projektergebnis (Lösung) für den
-   Auftraggeber.
+10. Das Projektergebnis (Lösung) für den
+   Auftraggeber dokumentieren und erläutern.
 11.  Mobile-Applikation gemäss Testplan überprüfen, Testergebnisse
     festhalten und allenfalls erforderliche Korrekturen vornehmen.
-12. Reflektiert den Projektverlauf mit den Projektbeteiligten im Team und
-   leitet Erkenntnisse ab, wie effiziente Projektarbeit gestaltet werden
+12. Den Projektverlauf mit den Projektbeteiligten im Team reflektieren und
+   Erkenntnisse daraus ableiten, wie effiziente Projektarbeit gestaltet werden
    kann.
 
 Wie den Handlungszielen entnommen werden kann, übernehmen die Lernenden
@@ -463,7 +465,7 @@ objektorientierten Programmen. Trotzdem werden auch in diesem Modul
 Teilaspekte von Computational Thinking geschult. Insbesondere gilt dies
 für die Feststellung der für
 das Programm erforderlichen Daten mit deren Datentypen nach
-Handlungsziel 2. Dazu ist es erforderlich, das zu Lösende Problem in
+Handlungsziel 2. Dazu ist es erforderlich, das zu lösende Problem in
 seine Komponenten zu zerlegen um festzustellen, an welcher Stelle welche
 Daten mit welchen Datentypen erforderlich sind. Ausserdem verlangt
 Handlungsziel 5, dass Testfälle identifiziert werden. Wie bereits in
@@ -525,7 +527,7 @@ dargestellt.}
 Die Noten des EFZ fliessen nur als Durchschnittsnote der in
 den jeweiligen Semester unterrichteten Module in die Promotion an der
 IMS ein. Die einzelnen Module an und für sich sind nicht
-Promotionsrelevant. Dies könnte ein Grund sein, weshalb die Noten der
+promotionsrelevant. Dies könnte ein Grund sein, weshalb die Noten der
 Module des EFZ stärker streuen als jene der BMS (vgl.
 @fig:boxplotsbms).
 
@@ -533,13 +535,13 @@ Module des EFZ stärker streuen als jene der BMS (vgl.
 \includegraphics[width=\textwidth]{docs/graphics/semesternoten_efz.png}
 \caption[Übersicht über die Verteilung der Semesternoten in der
 Berufsausbildung]{Übersicht über die Verteilung der Semesternoten
-(ungerundet). Der Darstellung liegt die Annahme zu Grunde, dies gesamte
+(ungerundet). Der Darstellung liegt die Annahme zu Grunde, die gesamte
 Stichprobe hätte die Ausbildung im Jahr 2017 abgeschlossen. Der Median
 der erzielten Noten ist als rote Linie dargestellt.}
 \label{fig:semesternotenefz}
 \end{figure}
 
-Das die Streuung bei einer Durchschnittsnote abnimmt zeigt
+Dass die Streuung bei einer Durchschnittsnote abnimmt, zeigt
 [@fig:semesternotenefz]. Die Darstellung beruht auf der Fiktion, dass alle
 Lernenden ihren Abschluss 2017 gemacht hätten und die für diesen
 Ausbildungsjahrgang geltenden Modulzusammenstellung gehabt hätten. An
@@ -549,7 +551,7 @@ erkennen[@freedmanStatistics2007, S. 170].
 ### Noten der BMS
 
 Die Ausbildung an der BMS orientiert sich wie in [@sec:kernbegruendung]
-dargelegt, an klassischen Fachdisziplinen. Die Archivierung der BMS Noten
+dargelegt an klassischen Fachdisziplinen. Die Archivierung der BMS Noten
 ist nicht über den ganzen Beobachtungszeitraum hinweg gleich
 organisiert. Konstant archiviert wurden lediglich die Noten, welche
 Eingang ins Berufsmaturzeugnis gefunden haben. Aus diesem Grund wurde
@@ -583,8 +585,8 @@ besonders ins Auge:
 2. Das untere Quartil liegt mindestens bei 4.
 
 Dies ist jedoch keine Überraschung. Die Noten stammen aus den
-Abschlusszeugnissen der BMS. In den drei Schuljahren vor erreichen
+Abschlusszeugnissen der BMS. In den drei Schuljahren vor Erreichen
 dieses Zeugnisses findet eine dauernde Selektion statt. Und von den
-Ausgewerteten Noten stammen lediglich fünf von 167 Datensätzen von
+ausgewerteten Noten stammen lediglich fünf von 167 Datensätzen von
 Lernenden, welche die Berufsmatur nicht bestanden haben. Damit bleiben
 schwergewichtig Noten von mehr als 4 übrig.
