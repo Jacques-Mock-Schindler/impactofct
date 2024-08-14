@@ -20,7 +20,7 @@ Verarbeitung von Daten. Damit sind Computerprogramme ein Resultat der
 Anwendung von Computational Thinking.
 
 Der Definition von Informatik als wissenschaftlicher Disziplin sowie
-Computerprogrammen als Umsetzung von Computational Thininking kommt
+Computerprogrammen als Umsetzung von Computational Thinking kommt
 aufgrund der vom Lehrplan 21 geforderten informatischen Bildung für den
 Schulunterricht eine
 besondere Bedeutung zu. Für die Gymnasien, die aufgrund der in Art.
@@ -32,7 +32,7 @@ wurde der Status des Faches Informatik von einem obligatorischen Fach zu
 einem Grundlagenfach geändert (Art. 11 Abs. 2 lit. e MAV). Als
 Grundlagenfach erscheint die Note des Fachs Informatik im
 Maturitätszeugnis und ist Teil der
-Bestehensvraussetzungen (Art. 25 Abs. 1 MAV).
+Bestehensvoraussetzungen (Art. 25 Abs. 1 MAV).
 
 Aufgrund dieses formellen Bedeutungsgewinnes des Faches Informatik im
 Schweizerischen Schulsystems in den vergangenen zehn Jahren, stellt sich
@@ -43,7 +43,7 @@ eingegangen werden.
 
 Praktisch alle haben eine Vorstellung davon, was Lernen bedeutet. In
 lernpsychologischer Hinsicht werden im Wesentlichen zwei Ansätze für die
-Erklärung wie Lernen funktioniert unterschieden:
+Erklärung, wie Lernen funktioniert, unterschieden:
 
 - behavioristische Erklärung[@woolfolkanitaEducationalPsychology2021, S. 289] und
 - kognitionspsychologische
@@ -68,7 +68,7 @@ Futter hatten die Hunde in der Folge auch dann einen
 gesteigerten Speichelfluss, wenn die Glocke ertönte ohne dass
 Futter dargereicht wurde. Diese feste Verbindung von Reiz und Reaktion
 ist das Phänomen der Konditionierung.
-Konditionierung funktioniert nicht nur bei Tieren
+Konditionierung funktioniert nicht nur bei Tieren,
 sondern auch bei Menschen.  
 Allerdings geht es bei der Konditionierung in
 erster Linie um die Etablierung von
@@ -125,7 +125,7 @@ nimmt, sondern aktiv etwas mit den Inhalten macht. Idealerweise werden
 die Lerninhalte zu etwas für die Schülerinnen und Schüler neuem
 zusammengesetzt oder zur Lösung konkreter Probleme verwendet. Der zweite Ansatz wurde
 in der Schweiz im Rahmen einer Studie zu anwendungs- und
-problemorientierten Unterricht untersucht[@APUIGB]. Dieser Ansatz geht
+problemorientiertem Unterricht untersucht[@APUIGB]. Dieser Ansatz geht
 davon aus, dass sich die Schülerinnen
 und Schüler damit auseinandersetzen, wie neu erworbenes Wissen zur
 Lösung konkreter Probleme eingesetzt werden kann. Damit findet, wie das
