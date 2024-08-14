@@ -345,7 +345,7 @@ Verfügung gestellten Funktionen `spearman()` und `df.corr()`.
 Die Visualisierung als Heatmap wurde mit Hilfe der Libraries matplotlib
 und seaborn erstellt. Um die relevante Schwelle der Korrelation von 0.3
 sichtbar zu machen, wurde ein eigenes Farbschema angelegt. Dieses
-Farbschema wechselt von Grau zu Grün. Die Schwelle des für den Umschlag
+Farbschema wechselt von Grau zu Grün. Die Schwelle für den Umschlag
 der Farbe wurde dabei auf 0.3 festgelegt.
 
 Die verwendeten Python Skripten sind im Anhang aufgelistet. Sowohl die
