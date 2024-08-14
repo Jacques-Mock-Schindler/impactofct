@@ -10,7 +10,7 @@ liegt bei 0.623 und Pearson's $r$ gar bei 0.693.
 \includegraphics[width=\textwidth]{docs/graphics/scatterplot_mittelwerte.png}
 \caption[Korrelation mittlere Noten EFZ - BMS]{Korrelation
 zwischen den Durchschnittsnoten der Module des EFZ und der
-Durchschnittsnotne der BMS. Die rote Linie zeigt die Regressionslinie.
+Durchschnittsnote der BMS. Die rote Linie zeigt die Regressionslinie.
 Der blassrote Schatten um die Regresseionslinie zeigt das
 Konfidenzintervall von 95\% an.}
 \label{fig:mittelwerte}
@@ -29,7 +29,7 @@ in BMS und EFZ. Die rote Linie zeigt den Median.}
 
 Der Effekt ist in [@fig:mittelwerte_boxplot] gut zu sehen.
 Anders als in den Rohdaten gibt es keine Ausreisser nach unten. Der minimale Wert in der
-BMS liegt bei 3.75 jener in der Berufsausbildung bei 3.76. Im Gegenzug
+BMS liegt bei 3.75, jener in der Berufsausbildung bei 3.76. Im Gegenzug
 ist auch das Maximum etwas tiefer ausgefallen. In der BMS liegt das
 Maximum bei 5.79 und in der Berufsausbildung bei 5.86. Diese Regression
 zur Mitte[@freedmanStatistics2007, S. 170] ist in der Statistik, wie
@@ -40,7 +40,7 @@ In der Betrachtung von Mittelwerten gehen Details verloren. Dies liegt
 in der Natur der Sache, soll doch in einem Mittelwert eine ganze
 Stichprobe in einer einzigen Zahl zusammengefasst werden.
 Entsprechend zeigt die Gegenüberstellung der Mittelwerte lediglich, 
-dass starke Lernende nicht ausschliesslich in einem der beiden
+dass schulisch starke Lernende nicht ausschliesslich in einem der beiden
 einander gegenübergestellten Ausbildungsgänge gute Leistungen erbringen.
 Um auch Aussagen zu den Details machen zu können, werden in den
 kommenden Abschnitten jedes Modul des EFZ jedem Fach der
@@ -51,12 +51,12 @@ BMS gegenübergestellt.
 Wie in der Methodenbeschreibung in [@sec:effektive_methode] dargelegt,
 wurden die Noten der BMS mit
 jenen des EFZ korreliert. 
-Das heisst die Notenliste jedes Moduls des EFZ wurde mit
+Das heisst, die Notenliste jedes Moduls des EFZ wurde mit
 jeder Notenliste jedes Fachs der BMS korreliert. Berechnet wurde
 Spearman's $\rho$.
 Allerdings sind die Resultate von 74 dieser
-insgesamt 279 Paarungen statistisch nicht Signifikant. Das heisst der
-p-Wert für diese Paare ist grösser oder gleich
+insgesamt 279 Paarungen statistisch nicht signifikant. Das heisst, der
+$p$-Wert für diese Paare ist grösser oder gleich
 0.05[@hollingStatistikTestverfahren2016, S. 35]. 
 
 Die Resultate
@@ -68,7 +68,7 @@ Thinking auf das Lernen im Allgemeinen. Damit sind die Fähigkeiten in
 Computational Thinking die unabhängige Variabel und die Noten der BMS
 die abhängige. Trotzdem werden die BMS Fächer auf der x-Achse und die
 Module aus der Berufsausbildung auf der y-Achse dargestellt. Dies ist
-zwar gegenüber der üblichen Darstellung von unabhängigen und abhängigen
+gegenüber der üblichen Darstellung von unabhängigen und abhängigen
 Variablen vertauscht. In dieser Darstellung ist aber der Effekt besser
 zu erkennen.  
 Die als statistisch nicht signifikant zu betrachtenden
@@ -101,7 +101,7 @@ lässt sich nur schon optisch erkennen, dass die Korrelation zwischen den
 Noten der Module des EFZ und jener der BMS nicht sehr stark
 ist. 
 Immerhin sind so gut wie alle Paare mit relevanter Korrelation
-statistisch Signifikant. Eine Ausnahme bildet die Paarung "Technik und
+statistisch signifikant. Eine Ausnahme bildet die Paarung "Technik und
 Umwelt - Modul 335 Mobile-Applikation realisieren". Da sonst die stark
 korrelierenden Notenpaare alle statistisch signifikant sind, braucht für
 die weiteren Ausführungen die Beurteilung der Signifikanz nicht weiter
@@ -149,7 +149,7 @@ Korrelation sortiert. Die für Computational Thinking relevanten Module sind rot
 \label{fig:pearson}
 \end{figure}
 
-Die Korrelationen nach Bravais-Pearson führt bezüglich der Sortierung
+Die Korrelationen nach Bravais-Pearson führen bezüglich der Sortierung
 der Noten der BMS zum gleichen Resultat. Verschiebungen gibt es in der
 Reihenfolge der Module. 
 Dies könnte auf die Streuung der Modulnoten zurückzuführen
