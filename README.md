@@ -85,3 +85,12 @@ Um das Schlussresultat mit Quarto zu rendern, muss das ganze Verzeichnis
 auf einem lokalen Laufwerk gespeichert sein. Zudem muss der Dokumentpfad
 für die Grafiken auf ../graphics/bild.svg und die Querverweise auf
 #fig-bild bzw. @fig-bild angepasst werden.
+
+## Einstellungen für den Zotero Export
+
+BetterBibTeX Einstellungen anpassen:
+a) Öffnen Sie Zotero
+b) Gehen Sie zu Bearbeiten > Einstellungen > BetterBibTeX
+c) Wählen Sie den Reiter "Export"
+d) Suchen Sie die Option "Title casing" oder "Groß-/Kleinschreibung des Titels"
+e) Ändern Sie diese Einstellung auf "As is" oder "Wie eingegeben"
