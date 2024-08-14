@@ -134,8 +134,8 @@ Aufgrund des zentralen Grenzwertsatzes ist eigentlich davon auszugehen,
 dass ab einer Stichprobengrösse von $n \geq 30$ eine gute Annäherung an
 eine Normalverteilung erwartet werden
 kann[@hollingStatistikTestverfahren2016, S. 69].
-Allerdings wirft bereits die optische Überprüfung der Normalverteilung der Noten
-in vielen Fällen Zweifel an deren Normalverteilung auf. Zur Sicherheit
+Allerdings lässt bereits die optische Überprüfung der Normalverteilung der Noten
+in vielen Fällen Zweifel an deren Normalverteilung aufkommen. Zur Sicherheit
 wird daher die Normalverteilung mit dem Shapiro-Wilk Test auch
 rechnerisch überprüft. Die rechnerische Überprüfung ist zuverlässiger, weil sie auch
 Verletzungen der Normalverteilungen überprüft, die optisch nur schwer zu
@@ -197,14 +197,14 @@ Berufsausbildung.
 Zur Auswertung der Resultate wurden die Ergebnisse in einer Heatmap
 visualisiert. Die Darstellung der Daten in einer Heatmap ermöglicht es,
 jene Fächer der BMS, welche stark mit jenen der Berufsausbildung
-korrelieren optisch klar zu erkennen.
+korrelieren, optisch klar zu erkennen.
 Da in den Sozialwissenschaften Ursache und Wirkung nicht
 im gleichen Mass isoliert werden können wie in den Naturwissenschaften,
 wurde die Schwelle für eine relevante Korrelation bei 0.3 angesetzt.
 Dies entspricht in den Sozialwissenschaften einer mittleren
 Effektstärke[@cohenStatisticalPowerAnalysis1988, S. 129]. Der Effekt ist
 damit beobachtbar und selbst unter Berücksichtigung der Tatsache, dass
-Korrelation nicht das gleiche ist wie Kausalität, bietet eine
+Korrelation nicht das Gleiche ist wie Kausalität, bietet eine
 entsprechende Korrelation gegebenenfalls Anlass zu weiteren
 Untersuchungen. Unterhalb der Schwelle von 0.3 dürfte es schwierig
 werden, geeignete Methoden zu finden, um die Ursachen für die
@@ -230,7 +230,7 @@ Wie in der Einleitung erwähnt, erwerben die Lernenden der IMS parallel
 zu ihrer Ausbildung als Informatiker/in, Fachrichtung
 Applikationsentwicklung, eine kaufmännische Berufsmatur. Angehende
 Applikationsentwicklerinnen und Applikationsentwickler in der
-betrieblich orientierten Grundbildung (BOG) erwerben, wenn sie das den
+betrieblich orientierten Grundbildung (BOG) erwerben, wenn sie das denn
 wollen, in der Regel eine Berufsmatur mit technischer
 Ausrichtung[@sbfiBerufsmaturitaet]. Damit weist die IMS gegenüber der
 BOG eine Besonderheit auf. Diese Besonderheit hat sich ergeben,
@@ -263,7 +263,7 @@ Applikationsentwicklung, vermitteln. Eine Begründung für die Gruppierung
 der Module folgt in [@sec:begruendung].
 
 Das Berufsmaturzeugnis beinhaltet
-neun Noten. Diese Noten Gruppieren sich in Grundlagenbereich (erste
+neun Noten. Diese Noten gruppieren sich in Grundlagenbereich (erste
 Landessprache, zweite Landessprache, dritte Sprache, Mathematik; Art.
 8 Abs. 1 Verordnung über die eidgenössische Berufsmaturität, BMV),
 Schwerpunktbereich (Finanz- und Rechnungswesen,
@@ -272,7 +272,7 @@ Wirtschaft und Recht; Art. 9 Abs. 2 und 3 BMV) und den Ergänzungsbereich
 3 BMV). Ausserdem gibt es noch eine Note für interdisziplinäres Arbeiten
 (Art. 11 BMV).
 
-Die Möglichkeit, Computational Thinking spezifische Fähigkeiten mit allgemeinbildenden
+Die Möglichkeit, Module, welche Computational Thinking voraussetzen, mit allgemeinbildenden
 Fächern zu korrelieren, ist der Grund für die Wahl des Vorgehens.
 
 ### Beschreibung der Vorgehensweise
@@ -295,7 +295,7 @@ archiviert. Damit im Rahmen der vorliegenden Untersuchung jederzeit wieder auf d
 werden kann, wurden diese vor der eigentlichen Erfassung eingescannt.  
 Die Form der Archivierung machte es in einem ersten Schritt nötig, die
 relevanten Informationen abzuschreiben. Die manuelle Datenerfassung ist
-Fehleranfällig und musste daher aus Konzentrationsgründen in mehrere
+fehleranfällig und musste daher aus Konzentrationsgründen in mehrere
 Phasen unterteilt werden. Ausserdem mussten die erfassten Daten
 kontrolliert werden. Damit diese Kontrolle einfacher erfolgen konnte,
 wurden die Namen und Klassen erst nach erfolgter Kontrolle anonymisiert.
