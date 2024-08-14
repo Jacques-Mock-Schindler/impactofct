@@ -25,7 +25,17 @@ darübergelegter theoretischer Normalverteilung (vgl.
 
 ```{=latex}
 \begin{figure}[ht!]
-\includegraphics[width=\textwidth]{docs/graphics/normalverteilung_bm_absolut.png}
+\includegraphics[width=\textwidth]{docs/graphics/normalverteilung_bms/normalverteilung_bms1.png}
+\end{figure}
+```
+```{=latex}
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/normalverteilung_bms/normalverteilung_bms2.png}
+\end{figure}
+```
+```{=latex}
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/normalverteilung_bms/normalverteilung_bms3.png}
 \caption[Normalverteilung der Noten der BMS]{Grafiken zur optischen
 Überprüfung, ob die Noten der BMS normalverteilt sind.
 $n$ ist die Stichprobengrösse, $\mu$ der Mittelwert und $\sigma$ die
