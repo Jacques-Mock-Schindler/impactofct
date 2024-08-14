@@ -14,7 +14,7 @@ angeführte Arbeiten).
 Etliche der ausgewerteten Autorinnen und Autoren hätten sich gewünscht,
 dass die auf Computational Thinking basierenden
 Unterrichtsmethoden nicht nur in MINT Fächern zum Einsatz kommen würden.
-Sie hätten sich deren Einsatz insbesondere auch in den
+Sie hätten sich deren Einsatz insbesondere auch in den den
 Geisteswissenschaften angehörenden Fächern gewünscht. Dabei haben sich
 die Autoren erhofft, dass Computational Thinking eine positive
 Auswirkung auf das Lernen in diesen Fächern haben würde.
@@ -28,7 +28,7 @@ nicht erfüllt. Immerhin wurde die
 aus der Forschung zu Unterrichtswirksamkeit stammende Erkenntnis, dass
 es die eine Unterrichtsmethode nicht gibt, bestätigt. Damit gibt es
 weiterhin gute Argumente, auf Computational Thinking beruhende
-Unterrichtsmethoden in allen Fächern gelegentlich Anzuwenden.
+Unterrichtsmethoden in allen Fächern gelegentlich anzuwenden.
 
 ## Praktische Relevanz
 
@@ -39,10 +39,10 @@ Allenfalls handelt es sich bei Computational Thinking weniger um eine
 Grundlage für spezielle Unterrichtsmethoden als viel mehr um eine
 allgemeine Kulturtechnik. Damit schliesst sich der Verfasser der
 Argumentation von Jeannette Wing an. Computational
-Thinking kommt der selbe Stellenwert zu wie dem Lesen und Schreiben oder
+Thinking kommt derselbe Stellenwert zu wie dem Lesen und Schreiben oder
 den Grundfertigkeiten in
-Mathematik. Lesen und Schreiben bzw. die Durchführung grundlegender
-Berechnungen werden in der Regel auch nicht als spezielle
+Mathematik. Lesen und Schreiben, bzw. die Durchführung grundlegender
+Berechnungen, werden in der Regel auch nicht als spezielle
 Unterrichtsmethode verstanden.  
 Damit diese Einsicht auch Auswirkungen auf den Unterricht hat, ist es
 nicht ausreichend, dass die Schüler und Schülerinnen 
@@ -70,12 +70,12 @@ werden die Rohdaten nicht abgedruckt und die auf GitHub zur Verfügung
 gestellten Daten sind hinreichend anonymisiert.
 
 In ethischer Hinsicht
-ergeben sich im vorliegenden Fall trotzdem ein grundsätzliches Problem. Die von
+ergibt sich im vorliegenden Fall trotzdem ein grundsätzliches Problem. Die von
 der Datenerhebung betroffenen Schülerinnen und Schüler konnten sich
-nicht gegen die Auswertung ihrer Daten zur wehr setzen weil sie gar
+nicht gegen die Auswertung ihrer Daten zur Wehr setzen, weil sie gar
 nicht wussten, dass ihre Daten ausgewertet wurden (Informed
-Consent). Dieses rechtlich zulässige aber ethisch nicht ganz
-einwandfreie Vorgehen, kann durch das überwiegende Forschungsinteresse
+Consent). Dieses rechtlich zulässige, aber ethisch nicht ganz
+einwandfreie Vorgehen kann durch das überwiegende Forschungsinteresse
 gerechtfertigt werden. Die erzielten Resultate können einen Beitrag zur
 Verbesserung des Unterrichts leisten. Damit profitieren zukünftige
 Schülerinnen und Schüler stärker von der Untersuchung, als die
@@ -100,9 +100,9 @@ dass sich Projekte nur sehr beschränkt nach Plan entwickeln. Bei der
 Konzeption dieser Arbeit war ich der festen Überzeugung, dass die
 erkannten natürlichen Experimente sowohl reibungslos funktionieren
 wie auch die Arbeitshypothese bestätigen würden. Im Rückblick wenig
-überraschend, war
-weder das Eine noch das Andere der Fall. Das gleiche Schicksal ereilte
-der zweite methodische Ansatz. So hätte ich es mir im Vorfeld nie
+überraschend war
+weder das eine noch das andere der Fall. Das gleiche Schicksal ereilte
+den zweiten methodischen Ansatz. So hätte ich es mir im Vorfeld nie
 vorstellen können, dass es schwierig werden würde, für die
 Leitfadeninterviews genügend Gesprächspartner zu finden.  
 Umgekehrt hat sich die frühe Formulierung der Arbeitshypothese als
@@ -113,9 +113,10 @@ nach den beiden gescheiterten Methoden eine weitere Methode zur
 
 In inhaltlicher Hinsicht hat mich die vorliegende Arbeit gezwungen, mich
 mit Themen auseinanderzusetzen, von denen ich keine Ahnung hatte. Obwohl
-ich seit mehr als zwanzig Jahre als Gymnasiallehrer arbeite, hatte ich
-so gut wie keine theoretischen psychologischen Kenntnisse. Genausowenig
-von Statistik. Meine diesbezüglichen Kenntnisse beschränkten sich auf
+ich seit mehr als zwanzig Jahren als Gymnasiallehrer arbeite, hatte ich
+so gut wie keine theoretischen psychologischen Kenntnisse. Genauso
+verhält es sich mit
+Statistik. Meine diesbezüglichen Kenntnisse beschränkten sich auf
 den Unterschied zwischen Mittelwert und Median. Dank meiner
 ungebrochenen Neugierde konnte ich mir die erforderlichen Kenntnisse
 aneignen. Dabei haben auch die unvermeidlichen Umwege grundsätzlich Freude gemacht.
@@ -131,7 +132,7 @@ vorzunehmen, geschweige denn, dir Resultate in geeigneter Form
 darzustellen. Das GymInf Programm hat mir auch die gesellschaftliche
 Relevanz der entsprechenden Fähigkeiten aufgezeigt. In das Programm
 gestartet bin ich vor allem aus technischem Interesse. Nun fühle ich
-mich aber durchaus in der Lage über die technischen Aspekte hinaus auch
+mich aber durchaus in der Lage über die technischen Aspekte hinaus, auch
 deren gesellschaftliche Relevanz im Schulzimmer zu vermitteln. 
 
 Als unmittelbare Konsequenz für meine Arbeit als Gymnasiallehrer ist
@@ -146,14 +147,15 @@ Persönlichkeiten verfügen. Das stellt extrem hohe Anforderungen an die
 Frustrationstoleranz. Im Zusammenhang mit der Situation an Gymnasien ist
 mir zudem bewusst geworden, wie wichtig es für grössere
 Arbeiten ist, mehrere Wochen am Stück hinsitzen zu können und sich
-ausschliesslich mit der Arbeit zu befassen. Etwas, das im Rahmen des 45
-Minuten Takt des Stundenplans der Schülerinnen und Schüler oder von
+ausschliesslich mit der Arbeit zu befassen. Etwas, das im Rahmen des vom
+Rhythmus der 45
+Minuten dauernden Lektionen getakteten Stundenplans der Schülerinnen und Schüler oder von
 Teilzeitbeschäftigungen nur sehr schwer möglich ist. Die
 Reibungsverluste bei der Wiederaufnahme der Arbeit sind nach jedem
 Unterbruch so gross, dass sie den Prozess ungemein in die Länge ziehen.
 
 Zu guter Letzt möchte ich noch festhalten, dass sich der von mir
-gewählte git-Versionierte Markdown - Pandoc - Workflow bewährt hat. Die
+gewählte git-versionierte Markdown - Pandoc - Workflow bewährt hat. Die
 Trennung von Inhalt und Form hat es mir ermöglicht, mich wirklich auf
-den Inhalt oder die Form zu konzentrieren ohne dass das eine dem anderen
+den Inhalt oder die Form zu konzentrieren, ohne dass das eine dem anderen
 in die Quere gekommen wäre.
