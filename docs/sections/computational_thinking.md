@@ -55,7 +55,7 @@ es aktuell immer noch keine
 einheitliche Definition des Begriffs Computational Thinking gibt. 
 Es beginnt sich aber ein Begriffskern
 herauszukristallisieren. Zentrales Element der Definition ist die Fähigkeit, Probleme zu
-lösen indem sie in Teilprobleme zerlegt werden. Dieses Element wird in
+lösen, indem sie in Teilprobleme zerlegt werden. Dieses Element wird in
 den 94 Definitionen aus den 13 Aufsätzen 67 Mal angeführt. 31 Mal wird die
 Lösung von Problemen durch Algorithmen erwähnt. Ebenfalls häufig erwähnt
 wird die Fähigkeit, konkrete Probleme zu verallgemeinern (30 Mal wird
@@ -69,7 +69,7 @@ von algorithmischem Vorgehen verstanden werden.
 Die konsolidierte Fassung der in der Analyse gefundenen Definitionen
 lautet damit:
 
->Computational Thinking ist die Fähigkeit, Probleme zu lösen
+>Computational Thinking ist die Fähigkeit, Probleme zu lösen,
 >indem sie in Teilprobleme zerlegt und soweit verallgemeinert werden,
 >dass eine algorithmische (automatisierte) Lösung möglich ist.
 
