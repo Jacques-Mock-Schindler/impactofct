@@ -21,12 +21,12 @@ werden:
 * Haltung zum Fach Informatik
   
   Um einen Erzählanreiz zu schaffen, wird die Gesprächspartnerin oder
-  der Gesprächspartner an dieser Stelle aufgefordert, zu Erzählen, was
-  sie oder er bereits selber programmiert hat. Sei es in der Schule oder
-  sei es Privat.  
+  der Gesprächspartner an dieser Stelle aufgefordert, zu erzählen, was
+  sie oder er bereits selber programmiert hat; sei es in der Schule oder
+  sei es privat.  
   Alternativ können die folgenden Fragen helfen:
   
-  * Haben Sie bevor Sie an die KBW gekommen sind schon programmiert?
+  * Haben Sie, bevor Sie an die KBW gekommen sind, schon programmiert?
   * Was für Programme haben Sie geschrieben?
   * Haben Sie für die Schule oder für die Freizeit programmiert?
   * Gibt es ein bestimmtes Thema, das Sie im Informatikunterricht gerne
@@ -68,13 +68,13 @@ werden:
   das Klassendiagramm aus @fig:uml).  
   Die Erinnerungshilfe kann mit folgender Frage ergänzt werden:
   
-  Was mussten beim Lösen dieser Aufgabenstellung alles für Probleme
+  Was mussten beim Lösen dieser Aufgabenstellung für Probleme
   überwunden werden?
 
 * Stellungnahme zur Arbeitshypothese
 
   Sicherheitshalber erhalten die Gesprächspartnerinnen bzw.
-  Gesprächspartner an dieser Stelle direkt Gelegenheit aus ihrer Sicht
+  Gesprächspartner an dieser Stelle direkt Gelegenheit, aus ihrer Sicht
   zur Arbeitshypothese Stellung zu nehmen. Sie erhalten dazu die
   folgende verkürzte Version der Arbeitshypothese:
   
@@ -90,7 +90,7 @@ werden:
   Allenfalls kann noch das Verständnis für das Zinsrechnen abgefragt
   werden.
   
-  Können Sie erklären, wie die Zinsrechnung im allgemeinen funktioniert?
+  Können Sie erklären, wie die Zinsrechnung im Allgemeinen funktioniert?
 
 
 
