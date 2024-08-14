@@ -52,7 +52,7 @@ werden können, werden hier die Eckdaten der Kantonsschule
 Büelrain kurz beschrieben.
 
 Die Kantonsschule Büelrain ist eine Zürcher Mittelschule mit ungefähr
-750 Schülerinnen und Schülern. Zum Zeitpunkt der der Verfassung des
+750 Schülerinnen und Schülern. Zum Zeitpunkt der Verfassung des
 vorliegenden Textes wurden an der Kantonsschule Büelrain drei
 Schultypen unterrichtet:
 
@@ -108,7 +108,7 @@ Für das natürliche Experiment ist ausserdem von Bedeutung, dass im WG in
 den ersten zwei Jahren das obligatorische Fach Informatik (OFI)
 unterrichtet wird. 
 
-Im Rechnungswesen ist kaufmännisches Rechnen teil des Curriculums.
+Im Rechnungswesen ist kaufmännisches Rechnen Teil des Curriculums.
 Kaufmännisches Rechnen ist im Wesentlichen Zinsrechnen. Dabei wird
 insbesondere die deutsche Zinsusanz
 eingeführt[@hischerKaufmaennischesRechnenWichtigsten2018, S. 102]. Die
@@ -116,13 +116,13 @@ deutsche Zinsusanz ist eine Vereinfachung der Zinsberechnung. In dieser
 Methode wird mit zwölf Monaten à 30 Tagen und einem Jahr mit 360 Tagen
 gerechnet.
 Üblicherweise wird die deutsche Zinsusanz zuerst theoretisch eingeführt
-und anschliessen mit Anwendungsübungen vertieft.
+und anschliessend mit Anwendungsübungen vertieft.
 
 Die konkreten Experimente bestanden darin, dass die Testklassen als
 Anwendungsübung einen Programmierauftrag zur deutschen Zinsusanz
 bearbeiteten. Der Auftrag hat vorgesehen, dass ein Kontokorrentkonto
 objektorientiert modelliert wurde. Dabei sollte das Kontokorrentkonto
-Methoden zur Verfügung stellen, um Tagegenau den Zins auf dem jeweiligen
+Methoden zur Verfügung stellen, um tagegenau den Zins auf dem jeweiligen
 Saldo des Kontokorrentkontos zu berechnen. Das Konzept des
 Programmierauftrags kann dem UML-Klassendiagramm in [@fig:uml] entnommen
 werden.
@@ -133,7 +133,7 @@ werden.
 \caption[UML Diagramm Kontokorrentkotno]{Das UML Diagramm zeigt das
 Klassendiagramm, das im natürlichen Experiment implementiert werden
 sollte. Das Design wurde so gestaltet, damit das Problem zergliedert
-werden musste. Die Vererbung Konto $\leftarrow$ Bilanzkonot $\leftarrow$
+werden musste. Die Vererbung Konto $\leftarrow$ Bilanzkonto $\leftarrow$
 Kontokorrentkonto erzwang darüber hinaus eine gewisse Verallgemeinerung.
 Die grau hinterlegte Klasse Erfolgskonto soll lediglich andeuten, dass
 weitere Kontenklassen implementiert werden könnten.}
@@ -145,8 +145,8 @@ Zur Überprüfung der Auswirkung der zusätzlichen Anwendungsübung wurden
 die Prüfungsergebnisse von Aufgaben zum Zinsrechnen aus Prüfungen der
 Testklassen mit solchen aus Kontrollklassen verglichen.
 
-Da im WG parallel zum WR-Unterricht das OFI unterrichtet wird, hat dies
-die Möglichkeit geboten, im Rahmen des OFI die deutsche Zinsusanz in
+Da im WG parallel zum WR-Unterricht das OFI unterrichtet wird, bot dies
+die Möglichkeit, im Rahmen des OFI die deutsche Zinsusanz in
 Pyhton zu implementieren. Hier wurde von den Grundsätzen des natürlichen
 Experiments insofern abgewichen, als dass diese Anwendungsübung bewusst
 im Hinblick auf die Beantwortung der Forschungsfrage angelegt worden
@@ -156,7 +156,7 @@ Anwendungsübungen zur objektorientierten Programmierung gemacht hat.
 
 In der IMS wurde die gleiche Anwendungsübung im Rahmen des Unterrichts
 im Fach FRW durchgeführt. Hier stellte das Programmieren einfach eine
-Methodische Variante zu den konventionellen Anwendungsübungen aus dem
+methodische Variante zu den konventionellen Anwendungsübungen aus dem
 Lehrmittel dar. Weil die Lernenden der IMS in ihrer
 beruflichen Ausbildung das Programmieren in Java lernen, erfolgte die
 Implementation in Java.  
@@ -252,7 +252,7 @@ Parallelklassen im WG. Noch viel stärker kommt dieses Phänomen jedoch
 beim Vergleich von Klassen zweier Schultypen zum Tragen. Die HMS und die IMS
 haben wohl im Wirtschaftsunterricht das selbe Curriculum, sie stellen
 aber ganz unterschiedliche Soziotope dar. Eine kaufmännische Ausbildung
-zieht eher kommunikative Menschen an wohingegen eine Ausbildung als
+zieht eher kommunikative Menschen an, wohingegen eine Ausbildung als
 Applikationsentwickler/in eher technisch interessierte Menschen anzieht.
 Dass es sich dabei um mehr als ein blosses Cliché handelt, zeigt sich an
 den Aufnahmebedingungen zu den beiden Schultypen.  
@@ -284,20 +284,20 @@ der Störvariabeln überdecken würde.
 
 In der Klasse des WG fanden die Einführung ins Zinsrechnen und die
 Informatikanwendungsübung dazu unabhängig voneinander statt. Die
-Einführung ins Zinsrechnen erfolgte im WR Unterricht und die
+Einführung ins Zinsrechnen erfolgte im WR-Unterricht und die
 Anwendungsübung im OFI. Da die beiden Unterrichtseinheiten mit
 zeitlichem Abstand stattfanden, musste im OFI eine Repetition zum
 Zinsrechnen stattfinden, bevor die Anwendungsübung zum Kontokorrentkonto
 durchgeführt werden konnte.
 
 Die Anwendungsübung zum Kontokorrenktonto bildete gleichzeitig den
-Anlass zur Einführung in die objektiorientierte Programmierung in
+Anlass zur Einführung in die objektorientierte Programmierung in
 Python. Mit der Idee, den Schülerinnen und Schülern Unterstützung zu
 bieten, wurde ihnen ein fertiges UML Klassendiagramm abgegeben. Anhand
 dieses Diagrammes wurden sowohl die inhaltlichen Aspekte des
 Kontokrrentkontos wie auch die technischen Aspekte der
-objektkorientierten Programmierung besprochen. 
-Anschliessend an die Einführung in die Objektorientierte Programmierung
+objektorientierten Programmierung besprochen. 
+Anschliessend an die Einführung in die objektorientierte Programmierung
 wurde deren Umsetzung in Python besprochen. Sowohl die Einführung in die
 objektorientierte Programmierung wie auch die Einführung in deren
 Umsetzung erfolgte in konventionellen Lehrgesprächen.
@@ -316,7 +316,7 @@ Probleme der Zinsrechnung verstellt hat.
 In der Klasse der IMS war die Ausgangslage deutlich günstiger. Hier
 konnte auf die Informatikkenntnissen aus der
 Berufsausbildung zurückgegriffen werden. Die Lernenden der IMS hatten zu
-diesem Zeitpunkt bereits sechs mal Mehr Informatikunterricht erhalten
+diesem Zeitpunkt bereits sechs mal mehr Informatikunterricht erhalten
 als die Schülerinnen und Schüler des WG. In der IMS sind 12
 Wochenlektionen für den Informatikunterricht bzw. die Berufsausbildung
 vorgesehen, im WG zwei.
@@ -347,7 +347,7 @@ REPL (read-eval-print-loop) in einem Terminal ausgeführt.
 Die Lernenden der IMS waren also mit den Grundzügen der
 objektorientierten Programmierung bereits vertraut.
 
-Obwohl die Ausgangslage für das Untrrichtsmodul Kontokorrentkonto
+Obwohl die Ausgangslage für das Unterrichtsmodul Kontokorrentkonto
 deutlich besser waren als im WG, wurde das Klassendiagramm zusammen mit
 den Lernenden entwickelt. Dies hat zusätzlich zu einem besseren
 Verständnis der Aufgabenstellung beigetragen. 
@@ -365,7 +365,7 @@ verglichen.
 
 Die Schülerinnen und Schüler der WG Testklasse haben im Durschnitt 67.3%
 der möglichen Punkte in der Aufgabe zum Zinsrechnen erreicht, die
-Schülerinnen und Schüler der Kontrollklasse 80.4%. Die
+Schülerinnen und Schüler der Kontrollklasse 80.4%. In den
 Gegenüberstellungen der Leistungen von IMS und HMS haben die Lernenden
 der IMS 77.1% und die Lernenden der HMS 80.4% erreicht.  
 
@@ -377,7 +377,7 @@ Rand der jeweiligen Bandbreite der möglichen Resultate bewegen. In der IMS müs
 die Bandbreite aufgrund der grösseren Fehlerspanne etwas weniger stark
 ausgereizt worden sein.
 
-Unabhängig von dem, was statistisch denkbar wäre, entsprachen die
+Ungeachtet dessen, was statistisch denkbar wäre, entsprachen die
 Resultate nicht den Erwartungen.
 
 Dass das natürliche Experiment ursächlich dafür war, dass die Testklassen
@@ -465,7 +465,7 @@ werden. Das Erleben einer Lernsituation ist allerdings zu individuell,
 als das es mit einem standardisierten Fragebogen erhoben werden könnte.
 Das Leitfadeninterview bietet hier eine Möglichkeit, diesem Umstand
 zu begegnen. Mit dem Erfragen des Lernerlebnisses besteht die
-Möglichkeit, die Frage weshalb die Arbeitshyptohese gilt, beantworten
+Möglichkeit, die Frage weshalb, die Arbeitshypothese gilt, beantworten
 zu können.
 
 ### Durchführung der Leitfadeninterviews
@@ -489,9 +489,9 @@ Erzählung ihrerseits erfolgt ist. Dies dürfte nicht zuletzt ihrem  Alter
 geschuldet sein[@helfferichLeitfadenUndExperteninterviews2022, S. 876].
 Die Gesprächspartnerinnen und Gesprächspartner haben sich ehrlich
 bemüht, die gewünschten Auskünfte zu erteilen. Sie haben aber lieber auf
-konkrete Fragen gewartete, als dass sie von sich aus erzählt hätten.
+konkrete Fragen gewartet, als dass sie von sich aus erzählt hätten.
 Ausserdem war stets ihr Bemühen zu erkennen, den Befrager mit ihren
-Antworten zufrieden zu stellen.
+Antworten zufriedenzustellen.
 
 Nach der Durchführung ist beim Befrager der Eindruck zurückgeblieben, er
 hätte eine einzige grosse Suggestivfrage gestellt. Dem hätte allenfalls
