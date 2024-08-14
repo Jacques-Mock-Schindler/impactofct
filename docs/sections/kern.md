@@ -8,7 +8,7 @@ Lernenden der IMS ausgewertet.
 
 ### Beschreibung der Methode {#sec:effektive_methode}
 
-Die im folgenden beschriebenen statistischen Berechnungen wurden in
+Die im Folgenden beschriebenen statistischen Berechnungen wurden in
 Python mit den Libraries pandas und SciPy vorgenommen. Die
 Visualisierungen wurden ebenfalls in Python mit den Libraries
 matplotlib und seaborn erstellt. Eine Liste der verwendeten Scripts
