@@ -1,7 +1,7 @@
 # Ausblick 
 
 Die Resultate, die in dieser Arbeit ausgewertet werden konnten, basieren
-auf einer Methode mit einem indierekten Ansatz.
+auf einer Methode mit einem indirekten Ansatz.
 Es sollte ausgenutzt werden, dass in der
 Berufsausbildung von Informatiker/innen EFZ, Fachrichtung
 Applikationsentwicklung, Module unterrichtet werden, welche Bezüge zu
@@ -34,7 +34,7 @@ Forschung zur Wirksamkeit von Schulunterricht überprüft werden. So
 könnte dann die Arbeitshypothese direkt getestet werden.
 
 Wegen der überragenden Bedeutung der auf Computational Thinking
-beruhenden Unterrichtsmethoden zur Prüfung der Arbeitshypothse, soll im
+beruhenden Unterrichtsmethoden zur Prüfung der Arbeitshypothese soll im
 folgenden Abschnitt eine Auswahl solcher Methoden skizziert werden.
 
 ## Auf Computational Thinking basierende Unterrichtsmethoden
@@ -74,7 +74,7 @@ Methode&Beschreibung\\
 \bottomrule
 \end{tabular}
 \caption[Vorschläge Unterrichtsmethoden]{Vorschläge für auf
-Computational Thinking basierenden Unterrihctsmethoden.}
+Computational Thinking basierenden Unterrichtsmethoden.}
 \label{tbl:methode}
 \end{table}
 ```
@@ -84,7 +84,7 @@ Computational Thinking basierenden Unterrihctsmethoden.}
 
 ### Quantitativer Ansatz
 
-Eine Möglichkeit, die Arbeitshypothese zu überprüfen basiert auf dem
+Eine Möglichkeit, die Arbeitshypothese zu überprüfen, basiert auf dem
 gescheiterten natürlichen Experiment (vgl. [@sec:nat_exp]). Damit dieses
 natürliche Experiment
 doch noch verwertbar Resultate hervorbringt, muss in einem ersten
@@ -104,7 +104,7 @@ Ressourcen.
 
 Die Schweizerische Bevölkerung ist seit dem zweiten Weltkrieg stetig
 heterogener geworden. 2023 betrug der Anteil von Menschen ohne Schweizer
-Staatsbürgerschaft an der Ständigen Wohnbevölkerung mehr als ein
+Staatsbürgerschaft an der ständigen Wohnbevölkerung mehr als ein
 Viertel[@bundesamtfuerstatistikStandUndEntwicklung]. Wenn man darüber hinaus auch
 noch jenen Teil der Bevölkerung berücksichtigt, welcher das Schweizer
 Bürgerrecht erst seit einer oder zwei Generationen besitzt, so hat knapp
@@ -114,9 +114,8 @@ Der sich daraus ergebende vielfältige kulturelle Hintergrund macht den
 Einsatz quantitativer Methoden
 schwierig[@flickIntroductionQualitativeResearch2014, S. 12].
 
-Vor diesem Hintergrund kommt der Anwendung qualitativer Methoden eine
-grössere Bedeutung zu. Dass wie in [@sec:leitfadeninterview]
-geschildert ein erster Versuch
+Als Alternative bieten sich qualitative Methoden an. Dass, wie in [@sec:leitfadeninterview]
+geschildert, ein erster Versuch
 der Datenbeschaffung mit qualitativen Methoden gescheitert ist, tut dem
 keinen Abbruch. Der Einsatz qualitativer Interviews scheint nach wie vor
 grundsätzlich erfolgversprechend. Ein Beispiel für den erfolgreichen
