@@ -33,7 +33,7 @@
     aufgrund ihrer
     spezifischen Eigenheiten einen Mehrwert erbringen.
 
-    Um die Arbeitshypothese direkt zu überprüfen sind weitere
+    Um die Arbeitshypothese direkt zu überprüfen, sind weitere
     Untersuchungen erforderlich. Diese erfordern allerdings einen
     erheblich grösseren Mittelansatz als die vorliegende Arbeit.
 \end{abstract}
