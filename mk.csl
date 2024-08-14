@@ -41,6 +41,7 @@
     <terms>
       <term name="et-al">et al.</term>
       <term name="and">und</term>
+      <term name="page" form="short">S.</term>
       <!-- Fügen Sie hier weitere deutsche Begriffe hinzu -->
     </terms>
   </locale>
@@ -1375,40 +1376,40 @@
         <if position="ibid ibid-with-locator" match="any">
           <group delimiter=", ">
             <text macro="contributors-short"/>
-            <group delimiter=" ">
-              <group delimiter=", ">
-                <choose>
-                  <if variable="author editor translator" match="none">
-                    <text macro="title-short"/>
-                  </if>
-                </choose>
-                <text macro="case-locator-subsequent"/>
-              </group>
-              <text macro="case-pinpoint-subsequent"/>
-            </group>
+            <text macro="title-short"/>
             <choose>
-              <if match="none" type="legal_case">
-                <text macro="point-locators-subsequent"/>
+              <if locator="page" match="any">
+                <group delimiter=" ">
+                  <label variable="locator" form="short"/>
+                  <text variable="locator"/>
+                </group>
               </if>
+              <else>
+                <group delimiter=" ">
+                  <label variable="locator" form="short"/>
+                  <text variable="locator"/>
+                </group>
+              </else>
             </choose>
           </group>
         </if>
         <else>
           <group delimiter=", ">
             <text macro="contributors-short"/>
-            <group delimiter=" ">
-              <group delimiter=", ">
-                <text macro="title-short"/>
-                <!--if title & author are the same: -->
-                <text macro="date-disambiguate"/>
-                <text macro="case-locator-subsequent"/>
-              </group>
-              <text macro="case-pinpoint-subsequent"/>
-            </group>
+            <text macro="title-short"/>
             <choose>
-              <if match="none" type="legal_case">
-                <text macro="point-locators-subsequent"/>
+              <if locator="page" match="any">
+                <group delimiter=" ">
+                  <label variable="locator" form="short"/>
+                  <text variable="locator"/>
+                </group>
               </if>
+              <else>
+                <group delimiter=" ">
+                  <label variable="locator" form="short"/>
+                  <text variable="locator"/>
+                </group>
+              </else>
             </choose>
           </group>
         </else>

@@ -20,7 +20,7 @@ output:
     papersize: a4
     md_extensions: +fenced_code_blocks
 bibliography: Abschlussarbeit.bib
-csl: chicago-library-list.csl 
+csl: mk.csl 
 
 header-includes:
   # Grundlegende Pakete
