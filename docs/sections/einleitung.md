@@ -2,7 +2,7 @@
 
 Die vorliegende Arbeit entstand im Rahmen des Studiengangs GymInf an der
 Universität Fribourg. Dieser Studiengang ermöglicht es, bereits in einem
-anderen Fach unterrichtenden Gymnasiallehrern, für den Unterricht
+anderen Fach unterrichtenden Gymnasiallehrern für den Unterricht
 im Fach Informatik eine Zusatzqualifikation zu erwerben. 
 Mit dem gewählten Thema konnte das Interesse an Data Science mit
 didaktischen Fragen verbunden werden.
@@ -44,8 +44,8 @@ Collaboration&&Productivity \& Accountability\\
 Viele dieser hier aufgelisteten Fähigkeiten finden sich auch in der
 Definition von Computational Thinking, wie er in dieser Arbeit
 verwendet wird, wieder. 
-Auf Computational Thinking basierende Unerrichtsmethoden lassen
-erwarten, dass im Sinne der Levels of Processing Theorie, durch deren
+Auf Computational Thinking basierende Unterrichtsmethoden lassen
+erwarten, dass im Sinne der Levels of Processing Theorie durch deren
 Anwendung nachhaltigere Lernergebnisse erzielt werden können.
 Es drängt sich daher nachgerade auf, in einem
 Studiengang zum Erwerb der Lehrberechtigung im Fach Informatik an
@@ -57,7 +57,7 @@ Thinking für den Unterricht?".
 Nachdem 2018 das obligatorische Fach Informatik für die Gymnasien
 eingeführt wurde und bereits 2024 in ein Grundlagenfach mit eigener
 Maturnote aufgewertet wurde, hat das Thema Computational Thinking im
-Zusammenhang mit Lernen am Gymnasium zusätzliche an Aktualität gewonnen.
+Zusammenhang mit Lernen am Gymnasium zusätzlich an Aktualität gewonnen.
 An vielen
 Schulen sind zudem Initiativen zur Digitalisierung des Unterrichts
 entstanden. In einzelnen Kantonen wurden diese Initiativen gebündelt und
