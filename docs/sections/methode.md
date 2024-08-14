@@ -15,12 +15,11 @@ methodische Ansätze abgestellt.
 2. Leitfadeninterviews, mit welchen versucht wurde zu erheben, wie
    Schülerinnen und Schüler die Auswirkungen von Computational Thinking
    auf den Lernerfolg beurteilen.
-3. Die Gegenüberstellung von Noten aus der Berufsausbildung und
+3. Eine statistische Auswertung der Noten aus der Berufsausbildung und
    solchen aus der Allgemeinbildung von Lernenden des Berufes
-   Informatiker/in, Fachrichtung Applikationsentwicklung, um
-   einen statistischen Zusammenhang zwischen angewandten
-   Fähigkeiten in Computational Thinking und dem Lernerfolg in der
-   Allgemeinbildung zu erkennen zu versuchen.
+   Informatiker/in, Fachrichtung Applikationsentwicklung. Damit soll
+   festgestellt werden, ob die Leistungen aus den beiden Teilbereichen
+   miteinander korrelieren.
 
 ## Natürliche Experimente {#sec:nat_exp}
 
