@@ -1,6 +1,7 @@
 # %%
 
 import matplotlib.pyplot as plt
+from matplotlib.colors import LinearSegmentedColormap
 import numpy as np
 import pandas as pd
 
@@ -65,13 +66,23 @@ def create_barcode(values, categories, figsize=(10, 2)):
     # Entferne die Achsen
     ax.axis('off')
     
+    # Erstelle eine Farbpalette
+    cmap = LinearSegmentedColormap.from_list("custom_red", ['#FFFFFF', '#FF0000'])
+    
+    max_value = max(values)
+    
     # Initialisiere die x-Position
     x = 0
     
     # Iteriere über die Werte und Kategorien
     for i, (value, category) in enumerate(zip(values, categories)):
         # Setze die Farbe basierend auf der Kategorie
-        color = 'black' if category == 0 else 'red'
+        if category == 0:
+            color = 'black'
+        else:
+            # Normalisiere den Wert und wähle die entsprechende Farbe
+            normalized_value = value / max_value
+            color = cmap(normalized_value)
         
         # Zeichne den Balken
         ax.add_patch(plt.Rectangle((x, 0), value, 1, facecolor=color, edgecolor='none'))
@@ -91,5 +102,14 @@ def create_barcode(values, categories, figsize=(10, 2)):
 fig = create_barcode(values_aw, categories_aw)
 
 # Zeige die Figur an
+plt.show()
+# %%
+
+fig = create_barcode(values, categories)
+plt.show()
+
+# %%
+
+fig = create_barcode(values_sw, categories_sw)
 plt.show()
 # %%
