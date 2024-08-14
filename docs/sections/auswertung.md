@@ -159,7 +159,7 @@ der Formel (vgl. [@eq:pearson]). Die Standardabweichung ist ein Mass für
 die Streuung eines Datensatzes. Deshalb reagiert die Bravais-Pearson
 Korrelation stärker
 auf Streuungen als die Korrelation nach Spearman. Dass die Modulnoten
-relativ stark streuen wurde in [@sec:modulcharakter] gezeigt. 
+relativ stark streuen, wurde in [@sec:modulcharakter] gezeigt. 
 
 Die Übereinstimmung der Sortierreihenfolge der BMS Fächer zeigt aber
 trotzdem, dass
@@ -175,7 +175,7 @@ aus Fächern, welche den Geisteswissenschaften zugeordnet werden.
 Die mittlere Fächergruppe kann den Sozialwissenschaften zugeordnet
 werden.  
 Die Fächergruppe mit der stärksten Korrelation ist heterogener
-Zusammengesetzt. Mathematik und Finanz- und Rechnungswesen sind
+zusammengesetzt. Mathematik und Finanz- und Rechnungswesen sind
 Disziplinen, welche ein hohes Abstraktionsvermögen erfordern. Beim
 interdisziplinären Arbeiten in den Fächern geht es um Projektarbeiten. 
 
@@ -192,7 +192,7 @@ Texten selber heraus zu beantworten. Diese hermeneutische Vorgehensweise
 verlangt von Lernenden in Fächern, die den Geisteswissenschaften
 zugeordnet werden, dass sie bereit sind, sich auf Texte einzulassen.
 
-Im Unterschied zur Arbeitsweise in in den Geisteswissenschaften
+Im Unterschied zur Arbeitsweise in den Geisteswissenschaften
 verlangt Computational Thinking eher formal logisches und algorithmisches
 Denken. Man könnte auch von prozessorientiertem Denken sprechen.
 Dabei wird eine andere Art von Problemlösung geschult als dies in den
@@ -240,7 +240,7 @@ Lernenden Zahlenmaterial interpretieren. Dabei handelt es sich
 allerdings regelmässig um bereits aufbereitete Statistiken. Etwas weiter
 in Richtung der naturwissenschaftlichen Arbeitsmethoden geht man bei der
 Bearbeitung von quantitativen Aufgabenstellungen.  
-Für den Unterricht in Technik und Umwelt wäre Beispielsweise daran zu
+Für den Unterricht in Technik und Umwelt wäre beispielsweise daran zu
 denken, wie man die zu erwartende Energiemenge, die durch ein
 Solarkraftwerk an einem bestimmten Standort gewonnen werden kann,
 berechnet. Oder im Fach Wirtschaft und Recht die Berechnung eines Return
@@ -253,7 +253,7 @@ Mittelschule. Dies ist eine mögliche
 Erklärung, 
 weshalb die Korrelation zwischen den Noten der Berufsbildenden Fächer
 und jenen der BMS in diesem Bereich stärker ist als in den
-Geisteswissenschaften aber doch nicht so stark, dass die Schwelle von
+Geisteswissenschaften, aber doch nicht so stark, dass die Schwelle von
 0.3 überschritten wird.
 
 ### Anforderungen der Abstrakten Disziplinen an die Lernenden
@@ -279,7 +279,7 @@ Mathematik ist eine theoretische Disziplin, die ohne Bezug zur realen
 Welt auskommt. Im Finanz- und Rechnungswesen wird ebenfalls so stark
 abstrahiert, dass das gleiche System auf so unterschiedliche Unternehmen
 wie multinationale Grosskonzerne oder die lokale Bäckerei passt. Dies
-ist zwar kein vollständiges Ausblenden der realen Welt aber doch eine sehr starke
+ist zwar kein vollständiges Ausblenden der realen Welt, aber doch eine sehr starke
 Abstrahierung davon.  
 Ausserdem weisen Mathematik und Finanz- und Rechnungswesen untereinander starke
 Parallelen in der Problemlösung auf. In beiden Disziplinen werden
@@ -333,7 +333,7 @@ Verteilung mutet vielmehr völlig zufällig an.
 
 ## Gegenüberstellung von Arbeitshypothese und Datenauswertung
 
-Die statistische Auswertung der Daten zeigen keinen Zusammenhang zwischen
+Die statistische Auswertung der Daten zeigt keinen Zusammenhang zwischen
 Computational Thinking und
 allgemeinem Lernerfolg. Es zeigt sich lediglich, dass die Leistungen in der
 Berufsausbildung stärker mit jenen in den abstrakten Disziplinen der BMS
