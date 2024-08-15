@@ -67,7 +67,12 @@ def create_barcode(values, categories, figsize=(10, 2)):
     ax.axis('off')
     
     # Erstelle eine Farbpalette
-    cmap = LinearSegmentedColormap.from_list("custom_red", ['#FFFFFF', '#FF0000'])
+     # Definiere die Farben und ihre Positionen
+    colors = ['#FFFFFF', '#F8FFF8', 'limegreen']  # Weiß, sehr helles Grün, Grün
+    positions = [0.0, 0.3, 1.0]
+    
+    # Erstelle die Farbpalette
+    cmap = LinearSegmentedColormap.from_list("custom_green", list(zip(positions, colors)))
     
     max_value = max(values)
     
@@ -78,14 +83,14 @@ def create_barcode(values, categories, figsize=(10, 2)):
     for i, (value, category) in enumerate(zip(values, categories)):
         # Setze die Farbe basierend auf der Kategorie
         if category == 0:
-            color = 'black'
+            color = 'gray'
         else:
             # Normalisiere den Wert und wähle die entsprechende Farbe
             normalized_value = value / max_value
             color = cmap(normalized_value)
         
         # Zeichne den Balken
-        ax.add_patch(plt.Rectangle((x, 0), value, 1, facecolor=color, edgecolor='none'))
+        ax.add_patch(plt.Rectangle((x, 0), value, 1, facecolor=color, edgecolor='blue'))
         
         # Aktualisiere die x-Position für den nächsten Balken
         if i < len(values) - 1:
@@ -102,14 +107,23 @@ def create_barcode(values, categories, figsize=(10, 2)):
 fig = create_barcode(values_aw, categories_aw)
 
 # Zeige die Figur an
+plt.title('M, RW sowie IDAF')
+plt.savefig('../graphics/barcodes/aw.png',
+            dpi=300)
 plt.show()
 # %%
 
 fig = create_barcode(values, categories)
+plt.title('D, F, E')
+plt.savefig('../graphics/barcodes/gw.png',
+            dpi=300)
 plt.show()
 
 # %%
 
 fig = create_barcode(values_sw, categories_sw)
+plt.title('WR, GuP, TU')
+plt.savefig('../graphics/barcodes/sw.png',
+            dpi=300)
 plt.show()
 # %%
