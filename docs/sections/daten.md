@@ -147,61 +147,70 @@ sind *kursiv* gesetzt. Die Auswahl wird in den folgenden Abschnitten
 begründet.
 
 ```{=latex}
-\begin{table}[ht!]
-\begin{longtable}{lp{8cm}rr}
-\toprule
- Nr. & Titel & $n$ &MoE\\
-\midrule
-\endhead
- 100 & \textit{Daten charakterisieren, aufbereiten und auswerten} & 167 & 5.80\% \\
- 103 & Strukturiert programmieren nach Vorgabe & 47 & 13.45\% \\
- 104 & Datenmodell implementieren & 167 & 5.80\% \\
- 114 & Codierungs-, Kompressions- und Verschlüsselungsverfahren
- einsetzen & 120 & 7.49\% \\
- 117 & Informatik- und Netzinfrastruktur für ein kleines Unternehmen
- realisieren & 167 & 5.80\% \\
- 118 & \textit{Analysieren und strukturiert implementieren} & 47 & 13.45\% \\
- 120 & Benutzerschnittstellen implementieren & 167 & 5.80\% \\
- 122 & \textit{Abläufe mit einer Scriptsprache automatisieren} & 155 & 6.17\% \\
- 123 & Serverdienste in Betrieb nehmen & 167 & 5.80\% \\
- 133 & Web-Applikation mit Session-Handling realisieren & 167 & 5.80\% \\
- 150 & E-Business-Applikationen anpassen & 165 & 5.86\% \\
- 151 & Datenbanken in Web-Applikation einbinden & 164 & 5.89\% \\
- 152 & Multimedia-Inhalte in Webauftritt integrieren & 163 & 5.92\% \\
- 153 & \textit{Datenmodelle entwickeln} & 165 & 5.86\% \\
- 183 & Applikationssicherheit implementieren & 166 & 5.82\% \\
- 214 & Benutzer/innen im Umgang mit Informatikmitteln instruieren & 118 & 7.58\% \\
- 226 & \textit{Objektorientiert implementieren} & 47 & 13.45\% \\
- 226a & \textit{Objektorientiert (ohne Vererbung) implementieren} & 120 & 7.49\% \\
- 226b & \textit{Objektorientiert (mit Vererbung) implementieren} & 120 & 7.49\% \\
- 242 & \textit{Mikroprozessoranwendung realisieren} & 132 & 6.99\% \\
- 254 & Geschäftsprozesse im eigenen Berufsumfeld beschreiben & 159 & 6.04\% \\
- 304 & Einzelplatz-Computer in Betrieb nehmen & 47 & 13.45\% \\
- 305 & Betriebssysteme installieren, konfigurieren und administrieren
- & 47 & 13.45\% \\
- 306 & \textit{Kleinprojekte im eigenen Berufsumfeld abwickeln} & 164 & 5.89\% \\
- 326 & \textit{Objektorientiert entwerfen und implementieren} & 167 & 5.80\% \\
- 335 & \textit{Mobile-Applikation realisieren} & 25 & 19.00\% \\
- 403 & \textit{Programmabläufe prozedural implementieren} & 119 & 7.54\% \\
- 404 & Objektbasiert programmieren nach Vorgabe & 120 & 7.49\% \\
- 411 & \textit{Datenstrukturen und Algorithmen entwerfen und anwenden}
- & 120 & 7.49\% \\
- 426 & Software mit agilen Methoden entwickeln & 120 & 7.49\% \\
- 431 & \textit{Aufträge im eigenen Berufsumfeld selbstständig
- durchführen} & 119 & 7.54\%\\
- \bottomrule
- \end{longtable}
- \caption[Liste der Module der Berufsausbildung]{Liste der Module aus
- der Stichprobe. \textit{Kursiv} sind jene Module
+\small
+\begin{longtable}{p{0.07\textwidth}p{0.63\textwidth}rr}
+\caption[Liste der Module der Berufsausbildung]{Liste der Module aus
+der Stichprobe. \textit{Kursiv} sind jene Module
 dargestellt, welche einen deutlichen Bezug zu Computational Thinking aufweisen. In der Spalte
 $n$ wird die Grösse der Stichprobe pro Modul angegeben. MoE steht für
 \textit{Margin of Error} oder Fehlerbereich. Die Berechnung erfolgte unter
 der Annahme, dass die Gesamtpopulation eine Grösse von 400 aufweist.
-
 Die genaue Beschreibung aller Module findet sich auf der von
-ICT-Berufsbildung Schweiz betreuten Website modulbaukasten.ch.}
-\label{tbl:modulliste}
-\end{table}
+ICT-Berufsbildung Schweiz betreuten Website modulbaukasten.ch.}\\
+\label{tbl:modulliste}\\
+
+\toprule
+Nr. & Titel & $n$ & MoE \\
+\midrule
+\endfirsthead
+
+\multicolumn{4}{c}{Fortsetzung von vorheriger Seite} \\
+\toprule
+Nr. & Titel & $n$ & MoE \\
+\midrule
+\endhead
+
+\midrule
+\multicolumn{4}{r}{Fortsetzung auf nächster Seite} \\
+\endfoot
+
+\bottomrule
+\endlastfoot
+
+100 & \textit{Daten charakterisieren, aufbereiten und auswerten} & 167 & 5.80\% \\
+103 & Strukturiert programmieren nach Vorgabe & 47 & 13.45\% \\
+104 & Datenmodell implementieren & 167 & 5.80\% \\
+114 & Codierungs-, Kompressions- und Verschlüsselungsverfahren einsetzen & 120 & 7.49\% \\
+117 & Informatik- und Netzinfrastruktur für ein kleines Unternehmen realisieren & 167 & 5.80\% \\
+118 & \textit{Analysieren und strukturiert implementieren} & 47 & 13.45\% \\
+120 & Benutzerschnittstellen implementieren & 167 & 5.80\% \\
+122 & \textit{Abläufe mit einer Scriptsprache automatisieren} & 155 & 6.17\% \\
+123 & Serverdienste in Betrieb nehmen & 167 & 5.80\% \\
+133 & Web-Applikation mit Session-Handling realisieren & 167 & 5.80\% \\
+150 & E-Business-Applikationen anpassen & 165 & 5.86\% \\
+151 & Datenbanken in Web-Applikation einbinden & 164 & 5.89\% \\
+152 & Multimedia-Inhalte in Webauftritt integrieren & 163 & 5.92\% \\
+153 & \textit{Datenmodelle entwickeln} & 165 & 5.86\% \\
+183 & Applikationssicherheit implementieren & 166 & 5.82\% \\
+214 & Benutzer/innen im Umgang mit Informatikmitteln instruieren & 118 & 7.58\% \\
+226 & \textit{Objektorientiert implementieren} & 47 & 13.45\% \\
+226a & \textit{Objektorientiert (ohne Vererbung) implementieren} & 120 & 7.49\% \\
+226b & \textit{Objektorientiert (mit Vererbung) implementieren} & 120 & 7.49\% \\
+242 & \textit{Mikroprozessoranwendung realisieren} & 132 & 6.99\% \\
+254 & Geschäftsprozesse im eigenen Berufsumfeld beschreiben & 159 & 6.04\% \\
+304 & Einzelplatz-Computer in Betrieb nehmen & 47 & 13.45\% \\
+305 & Betriebssysteme installieren, konfigurieren und administrieren & 47 & 13.45\% \\
+306 & \textit{Kleinprojekte im eigenen Berufsumfeld abwickeln} & 164 & 5.89\% \\
+326 & \textit{Objektorientiert entwerfen und implementieren} & 167 & 5.80\% \\
+335 & \textit{Mobile-Applikation realisieren} & 25 & 19.00\% \\
+403 & \textit{Programmabläufe prozedural implementieren} & 119 & 7.54\% \\
+404 & Objektbasiert programmieren nach Vorgabe & 120 & 7.49\% \\
+411 & \textit{Datenstrukturen und Algorithmen entwerfen und anwenden} & 120 & 7.49\% \\
+426 & Software mit agilen Methoden entwickeln & 120 & 7.49\% \\
+431 & \textit{Aufträge im eigenen Berufsumfeld selbstständig durchführen} & 119 & 7.54\% \\
+\end{longtable}
+
+\normalsize
 ```
 
 #### Modul 100: Daten charakterisieren, aufbereiten und auswerten
