@@ -120,7 +120,7 @@ gleichmässig über die y-Achse der Heatmap. Dies zeigt, dass die
 Computational Thinking
 relevanten Module keine statistische Auffälligkeiten zeigen.
 
-Obwohl die Korrelation zwischen den Noten des EFZ und der
+Obwohl die Korrelation zwischen den Noten des EFZ und den
 Noten der BMS nicht sehr stark ist, lassen sich die Resultate grob in
 drei Gruppen unterteilen:
 
@@ -320,11 +320,11 @@ Geisteswissenschaften über Sozialwissenschaften hin zu den abstrakten
 Wissenschaften.  Wie [@fig:barcode] entnommen
 werden kann, entspricht dies nicht den beobachteten Resultaten. In
 dieser Abbildung wurde die Korrelation nach Spearman als Strichbreite
-in einem Strichcode dargestellt. Je Breiter ein Strich ist, desto
+in einem Strichcode dargestellt. Je breiter ein Strich ist, desto
 stärker ist die Korrelation zwischen der Leistung im entsprechenden
 EFZ Modul und der Leistung in der Fächergruppe der BMS. Ausserdem wurden
 die für Computational Thinking relevanten Module grün eingefärbt; je
-grösser Spearman's $\rho$ desto intensiver die grüne Fäbrung. Wenn die
+grösser Spearman's $\rho$ desto intensiver die grüne Färbung. Wenn die
 Erwartung zutreffen würde, müsste in der Zusammenfassung der abstrakten
 Wissenschaften ein intensiver grüner rechter Rand entstanden sein. Dem
 ist aber nicht so.
