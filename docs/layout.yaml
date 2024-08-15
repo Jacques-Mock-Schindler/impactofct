@@ -5,6 +5,7 @@ date: \today
 title: Der Einfluss von Computational Thinking auf das Lernen im Allgemeinen
 subtitle: Abschlussarbeit im Programm GymInf der Universtität Fribourg
 lang: de-CH
+fontsize: 11pt
 figureTitle: "Abbildung"
 tableTitle: "Tabelle"
 listingTitle: "Listing"
@@ -74,6 +75,7 @@ header-includes:
 input-files:
 - docs/sections/abstract.md
 - docs/sections/verzeichnisse.md
+- docs/sections/vorwort.md
 - docs/sections/einleitung.md
 - docs/sections/computational_thinking.md
 - docs/sections/arbeitshypothese.md
