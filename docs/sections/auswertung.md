@@ -338,17 +338,6 @@ intensiver die Grünfärbung ist, desto stärker ist die Korrelation.}
 \end{figure}
 ```
 
-\begin{figure}[ht!]
-\includegraphics[width=\textwidth]{docs/graphics/verschiebung.png}
-\caption[Darstellung der durchschnittlichen Korrelation nach Spearman
-nach Fächergruppe.]{Darstellung der durchschnittlichen Korrelation nach
-Spearman nach Fächergruppe. Je weiter unten in der Grafik ein Modul
-steht, desto stärker ist die Korrelation. Grün dargestellt sind die für
-Computational Thinking
-relevanten Module.}
-\label{fig:verschiebungen}
-\end{figure}
-
 Die Veränderung der Verteilung der für Computational Thinking relevanten
 Module von Fächergruppe zu Fächergruppe lässt kein Muster erkennen. Die
 Verteilung mutet vielmehr völlig zufällig an.
