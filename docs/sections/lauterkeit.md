@@ -14,6 +14,6 @@ Mai 2008).
 
 Datum und Unterschrift
 
-\vspace{4cm}
+\vspace{3cm}
 
 Autor des individuellen Projekts
