@@ -12,9 +12,11 @@ methodische Ansätze abgestellt.
 1. Ein natürliches Experiment, mit welchem versucht wurde die
    Auswirkungen von Computational Thinking auf den Lernerfolg von
    Schulklassen zu überprüfen.
+
 2. Leitfadeninterviews, mit welchen versucht wurde zu erheben, wie
    Schülerinnen und Schüler die Auswirkungen von Computational Thinking
    auf den Lernerfolg beurteilen.
+
 3. Eine statistische Auswertung der Noten aus der Berufsausbildung und
    solchen aus der Allgemeinbildung von Lernenden des Berufes
    Informatiker/in, Fachrichtung Applikationsentwicklung. Damit soll
