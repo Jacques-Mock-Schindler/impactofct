@@ -11,22 +11,11 @@ diesen beiden Gründen wurde im Juli 2024 ein neues Repository angelegt.
 
 Der Arbeit liegen die folgenden Datentabellen zu Grunde:
 
-* personalien.csv
-* noten_bm.csv
-* noten_efz.csv
+* [personalien.csv](https://github.com/Jacques-Mock-Schindler/impactofct/blob/main/docs/data/personalien.csv)
+* [noten_bm.csv](https://github.com/Jacques-Mock-Schindler/impactofct/blob/main/docs/data/noten_bm.csv)
+* [noten_efz.csv](https://github.com/Jacques-Mock-Schindler/impactofct/blob/main/docs/data/noten_efz.csv)
 
-Aus diesen Rohdaten wurden die folgenden Datentabellen errechnet:
-
-* korrelationen.csv
-* normalverteilung_bm.csv
-* normalverteilung_bm_zahlen.csv
-* normalverteilung_efz_zahlen.csv
-* pearson_signifikanztest.csv
-* pearson.csv
-* spearman.csv
-* spearman_signifikanz.csv
-
-Alle diese Datentabellen finden sich in anonymisierter
+Alle Datentabellen (Rohdaten sowie abgeleitete Datentabellen) finden sich in anonymisierter
 Form im GitHub Repositroy
 [https://github.com/Jacques-Mock-Schindler/impactofct](https://github.com/Jacques-Mock-Schindler/impactofct/tree/main/docs/data)
 (der Link führt direkt in den Unterordner mit den Tabellen).
