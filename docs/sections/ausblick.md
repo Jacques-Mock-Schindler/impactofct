@@ -56,6 +56,9 @@ ergibt die in der [@tbl:methode] zusammengestellten Beispiele.
 
 ```{=latex}
 \begin{table}[ht!]
+\centering
+\caption[Vorschläge Unterrichtsmethoden]{Vorschläge für auf
+Computational Thinking basierenden Unterrichtsmethoden.}
 \begin{tabular}{lp{10cm}}
 \toprule
 Methode&Beschreibung\\
@@ -73,8 +76,6 @@ Methode&Beschreibung\\
   Sozialversicherungen überprüft werden.\\
 \bottomrule
 \end{tabular}
-\caption[Vorschläge Unterrichtsmethoden]{Vorschläge für auf
-Computational Thinking basierenden Unterrichtsmethoden.}
 \label{tbl:methode}
 \end{table}
 ```

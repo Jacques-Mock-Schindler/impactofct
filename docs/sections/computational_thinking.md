@@ -92,6 +92,10 @@ am nachhaltigsten geprägt hat.
 ```{=latex}
 \begin{table}[H]
 \centering
+\caption[Rangliste der zitierten Autorinnen und Autoren]{Rangliste der
+in den analysierten Texte zu Definitionen von Computational Thinking mehrfach zitierten
+Autoreinnen und Autoren.}
+\label{tbl:rangliste}
 \begin{tabular}{lr}
 \toprule
 Zitierter Autor & Anzahl Zitate \\
@@ -114,10 +118,6 @@ Tang et al. &	2	\\
 Weintrop et al. &	2 \\
 \bottomrule
 \end{tabular}
-\caption[Rangliste der zitierten Autorinnen und Autoren]{Rangliste der
-in den analysierten Texte zu Definitionen von Computational Thinking mehrfach zitierten
-Autoreinnen und Autoren.}
-\label{tbl:rangliste}
 \end{table}
 ```
 Für die Feststellung des Standes der Begriffsbildung wurden die

@@ -18,6 +18,8 @@ Eine Zusammenstellung aller Skills kann [@tbl:4c] entnommen werden.
 ```{=latex}
 \begin{table}[ht!]
 \centering
+\caption{Übersicht 21$^{st}$ Century Skills}
+\label{tbl:4c}
 \begin{tabular}{p{4cm}p{4cm}p{4cm}}
 \toprule
 \multicolumn{1}{c}{Learning and Innovation}&
@@ -36,8 +38,6 @@ Collaboration&&Productivity \& Accountability\\
 &&Leadership \& respronsibility\\
 \bottomrule
 \end{tabular}
-\caption{Übersicht 21$^{st}$ Century Skills}
-\label{tbl:4c}
 \end{table}
 ```
 
