@@ -316,6 +316,28 @@ Geisteswissenschaften über Sozialwissenschaften hin zu den abstrakten
 Wissenschaften.  Wie [@fig:verschiebungen] entnommen
 werden kann, entspricht dies nicht den beobachteten Resultaten.
 
+```{=latex}
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/barcodes/gw.png}
+\end{figure}
+```
+```{=latex}
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/barcodes/sw.png}
+\end{figure}
+```
+```{=latex}
+\begin{figure}[ht!]
+\includegraphics[width=\textwidth]{docs/graphics/barcodes/aw.png}
+\caption[Darstellung der Verschiebung der Korrelationen nach
+Fächergruppe.]{Darstellung der Verschiebung der Korrelationen nach
+Fächergruppe. Jeder Strich im Strichcode repäsentiert ein Modul. Je
+weiter rechts ein Strich ist, desto stärker ist die Korrelation. Grün
+dargestellt sind die für Computational Thinking relevanten Module. Je
+intensiver die Grünfärbung ist, desto stärker ist die Korrelation.}
+\end{figure}
+```
+
 \begin{figure}[ht!]
 \includegraphics[width=\textwidth]{docs/graphics/verschiebung.png}
 \caption[Darstellung der durchschnittlichen Korrelation nach Spearman
