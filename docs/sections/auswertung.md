@@ -90,10 +90,14 @@ Werten.}
 \end{figure}
 
 Die Korrelationen zwischen Leistungen in einem Modul des EFZ
-und einer Note in der BMS mit einem Wert von über 0.3
+und einer Note in der BMS mit einem Wert für Spearman's $\rho$ von über 0.3
 sind in [@fig:spearman] grün
 eingefärbt. Je höher der Wert, desto intensiver die grüne Färbung. Die
-Sortierung der Achsen in aufsteigender Reihenfolge müsste dazu führen,
+Zellen in der Grafik sind zuerst auf der y-Achse und dann der x-Achse in
+aufsteigender Reihenfolge sortiert. Das heisst tendenziell, dass je
+höher der Wert in einer Zelle ist, desto weiter unten rechts ist sie
+positioniert. Dies Sortierreihenfolge
+müsste dazu führen,
 dass die untere rechte Ecke der Darstellung am intensivsten grün
 eingefärbt ist. Dieser Effekt lässt sich jedoch nur mit viel gutem
 Willen beobachten. Damit
