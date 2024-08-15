@@ -68,7 +68,7 @@ Abschnitt verwendet:
 
 
 ```{=latex}
-\lstinputlisting[language=Python, firstline=24, lastline=27]{docs/code/09_korrelation_detailliert.py}
+\lstinputlisting[language=Python, firstline=21, lastline=24]{docs/code/09_korrelation_detailliert.py}
 `````
 
 Wobei `efz` im Beispiel für den pandas DataFrame mit dem Notensatz der
@@ -81,7 +81,7 @@ Lernenden gewählt worden sind, ausgeschlossen werden.
 Die Paarung erfolgte in Schlaufen wie der unten dargestellten:
 
 ```{=latex}
-\lstinputlisting[language=Python, firstline=41, lastline=46]{docs/code/09_korrelation_detailliert.py}
+\lstinputlisting[language=Python, firstline=38, lastline=43]{docs/code/09_korrelation_detailliert.py}
 `````
 
 Wobei hier `bm` bzw. `efz` für den DataFrame mit den Noten der BMS bzw.

@@ -20,14 +20,14 @@ Eine Zusammenstellung aller Skills kann [@tbl:4c] entnommen werden.
 \centering
 \caption{Übersicht 21$^{st}$ Century Skills}
 \label{tbl:4c}
-\begin{tabular}{p{4cm}p{4cm}p{4cm}}
+\begin{tabular}{p{4.25cm}p{3.5cm}p{4.25cm}}
 \toprule
 \multicolumn{1}{c}{Learning and Innovation}&
 \multicolumn{1}{c}{Digital Literacy}&
 \multicolumn{1}{c}{Career and Live}\\
 \midrule
-Critical thinking \& problem solving&Information literacy&Flexibility \&
-adaptability\\
+Critical thinking \& problem solving&Information
+literacy&Flexibility \& adaptability\\
 \midrule
 Creativity and innovation&Media literacy&Initiative \& self-direction\\
 \midrule
