@@ -313,8 +313,17 @@ Die Begründung in [@sec:gruppierung] würde erwarten lassen, dass die
 nach zunehmender mittlerer Korrelation sortierten Module pro Gruppe eine
 zunehmende Konzentration von für Computational Thinking relevanten Modulen aufweisen - von
 Geisteswissenschaften über Sozialwissenschaften hin zu den abstrakten
-Wissenschaften.  Wie [@fig:verschiebungen] entnommen
-werden kann, entspricht dies nicht den beobachteten Resultaten.
+Wissenschaften.  Wie [@fig:barcode] entnommen
+werden kann, entspricht dies nicht den beobachteten Resultaten. In
+dieser Abbildung wurde die Korrelation nach Spearman als Strichbreite
+in einem Strichcode dargestellt. Je Breiter ein Strich ist, desto
+stärker ist die Korrelation zwischen der Leistung im entsprechenden
+EFZ Modul und der Leistung in der Fächergruppe der BMS. Ausserdem wurden
+die für Computational Thinking relevanten Module grün eingefärbt; je
+grösser Spearman's $\rho$ desto intensiver die grüne Fäbrung. Wenn die
+Erwartung zutreffen würde, müsste in der Zusammenfassung der abstrakten
+Wissenschaften ein intensiver grüner rechter Rand entstanden sein. Dem
+ist aber nicht so.
 
 ```{=latex}
 \begin{figure}[ht!]
@@ -335,11 +344,12 @@ Fächergruppe. Jeder Strich im Strichcode repäsentiert ein Modul. Je
 weiter rechts ein Strich ist, desto stärker ist die Korrelation. Grün
 dargestellt sind die für Computational Thinking relevanten Module. Je
 intensiver die Grünfärbung ist, desto stärker ist die Korrelation.}
+\label{fig:barcode}
 \end{figure}
 ```
 
 Die Veränderung der Verteilung der für Computational Thinking relevanten
-Module von Fächergruppe zu Fächergruppe lässt kein Muster erkennen. Die
+Module von Fächergruppe zu Fächergruppe lässt im Gegenteil kein Muster erkennen. Die
 Verteilung mutet vielmehr völlig zufällig an.
 
 ## Gegenüberstellung von Arbeitshypothese und Datenauswertung
