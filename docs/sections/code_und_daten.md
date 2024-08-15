@@ -26,18 +26,17 @@ Wie in [@sec:effektive_methode] (Beschreibung der Methode) erwähnt,
 erfolgte die Auswertung der Daten mit Hilfe von Python Scripts. Hier
 eine Auflistung der erstellten Scripts:
 
-
-* 00_anonymisierung.py
-* csv2tex.py
-* korrelation.py
-* korrelationen_gruppiert.py
-* mittlere_korrelation.py
-* modul_signifikanz.py
-* normalverteilung.py
-* normalverteilung_visuell.py
-* semesterwerte_efz.py
-* signifikanz.py
-* visualisierung_uebersicht.py
+* [00_anonymisierung.py](https://github.com/Jacques-Mock-Schindler/impactofct/blob/main/docs/code/00_anonymisierung.py)
+* [01_normalverteilung_bm_visuell.py](https://github.com/Jacques-Mock-Schindler/impactofct/blob/main/docs/code/01_normalverteilung_bm_visuell.py)
+* [02_normalverteilung_efz_visuell.py](https://github.com/Jacques-Mock-Schindler/impactofct/blob/main/docs/code/02_normalverteilung_efz_visuell.py)
+* [03_margin_of_error.py](https://github.com/Jacques-Mock-Schindler/impactofct/blob/main/docs/code/03_margin_of_error.py)
+* [04_normalverteilung_rechnerisch.py](https://github.com/Jacques-Mock-Schindler/impactofct/blob/main/docs/code/04_normalverteilung_rechnerisch.py)
+* [05_signifikanz.py](https://github.com/Jacques-Mock-Schindler/impactofct/blob/main/docs/code/05_signifikanz.py)
+* [06_visualisierung_notenuebersicht.py](https://github.com/Jacques-Mock-Schindler/impactofct/blob/main/docs/code/06_visualisierung_notenuebersicht.py)
+* [07_visualisierung_efz_semesternoten.py](https://github.com/Jacques-Mock-Schindler/impactofct/blob/main/docs/code/07_visualisierung_efz_semesternoten.py)
+* [08_visualisierung_mittlere_korrelation.py](https://github.com/Jacques-Mock-Schindler/impactofct/blob/main/docs/code/08_visualisierung_mittlere_korrelation.py)
+* [09_korrelation_detailliert.py](https://github.com/Jacques-Mock-Schindler/impactofct/blob/main/docs/code/09_korrelation_detailliert.py)
+* [10_barcode.py](https://github.com/Jacques-Mock-Schindler/impactofct/blob/main/docs/code/240813_barcode.py)
 
 Alle Scripts finden sich im GitHub Repository
 [https://github.com/Jacques-Mock-Schindler/impactofct](https://github.com/Jacques-Mock-Schindler/impactofct/tree/main/docs/code)
