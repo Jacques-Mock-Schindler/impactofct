@@ -127,6 +127,10 @@ Die Arbeitshypothese konnte weder bestätigt noch widerlegt werden.
 * Es gibt keine überlegene Unterrichtsmethode
 * Entscheidend ist die Methodenvielfalt
 
+## Persönliche Erkenntnisse
+
+Hier kommen die persönlichen Erkenntnisse.
+
 ## Arbeitsprozess
 
 * theoretische Grundlagen
