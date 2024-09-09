@@ -10,7 +10,7 @@ format:
         # logo: logo.svg
         css: custom.css
         margin: 0.1
-
+        slide-number: true
 
 ---
 
@@ -67,17 +67,7 @@ Eine vertiefte Verarbeitung der Information führt zu einem besseren Lernergebni
 
 :::
 
-## Natürliches Experiment
-
-:::{.callout-note}
-
-## Positiv
-
-* Ersatz für ein Laborexperiment
-
-:::
-
-:::{.callout-warning}
+:::{.callout-warning .fragment}
 
 ## Schwierigkeiten
 
@@ -97,18 +87,7 @@ Eine vertiefte Verarbeitung der Information führt zu einem besseren Lernergebni
 
 :::
 
-## Leitfadeninterview
-
-:::{.callout-note}
-
-## Positiv
-
-* Qualitative Methode
-* Systematische Auswertung der gewonnenen Information
-
-:::
-
-:::{.callout-warning}
+:::{.callout-warning .fragment}
 
 ## Schwierigkeiten
 
@@ -127,26 +106,21 @@ Eine vertiefte Verarbeitung der Information führt zu einem besseren Lernergebni
   
 :::
 
-## Auswertung erbrachter Leistungen
-
-:::{.callout-note}
-
-## Positiv
-
-* Grösserer Datenumfang
-* Unterschiedliche Auswertungen möglich
-  
-:::
-
-:::{.callout-warning}
+:::{.callout-warning .fragment}
 
 * Sekundärdaten passen nicht exakt
   
 :::
 
+## {.vertical-center}
+
+:::{.callout-important icon="false"}
+
 ## Resultat
 
-* Die Arbeitshypothese konnte weder bestätigt noch widerlegt werden
+Die Arbeitshypothese konnte weder bestätigt noch widerlegt werden.
+
+:::
 
 ## Folgerungen
 
