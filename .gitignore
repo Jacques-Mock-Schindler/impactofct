@@ -6,6 +6,7 @@
 !*.csv
 !*.md
 !*.qmd  
+!custom.css
 !*.py
 !*.ipynb
 !*.svg
