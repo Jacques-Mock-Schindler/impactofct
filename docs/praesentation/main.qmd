@@ -1,0 +1,160 @@
+---
+title: Präsentation Abschlussarbeit GymInf
+author: Jacques Mock Schindler
+date: 13. September 2024
+lang: de-CH
+date-format: "D. MMMM YYYY"
+format: 
+    revealjs:
+        theme: solarized
+        # logo: logo.svg
+        css: custom.css
+        margin: 0.1
+
+
+---
+
+## Ausgangspunkt
+
+Quintessenz aus 20 Jahren Unterrichtserfahrung:
+
+:::{.incremental}
+
+* Möglichst konkrete Aufgabenstellungen
+* Reale Werkzeuge einsetzen
+
+:::
+
+## Psychologische Grundlagen
+
+:::{.callout-note}
+
+## Levels of Processing Theory
+
+Eine vertiefte Verarbeitung der Information führt zu einem besseren Lernergebnis.
+
+:::
+
+## Arbeitshypothese
+
+>Damit Probleme algorithmisch gelöst werden können, ist es erforderlich,
+>diese gedanklich zu durchdringen.  
+>Wenn Schülerinnen und Schüler
+>allgemeingültige Programme für die Lösung einer bestimmten Kategorie von
+>Problemen schreiben, findet eine solche gedankliche Durchdringung statt.
+>Dies ist eine Anwendung von Computational Thinking im Sinne der
+>aktuellen Auffassung dieses Begriffes und führt zu einem
+>tieferen Verständnis der so gelösten 
+>Probleme und damit zu einem nachhaltigen Lernerfolg. 
+
+## Methodisches
+
+:::{.incremental}
+
+* Natürliches Experiment
+* Leitfadeninterview
+* Auswertung erbrachter Leistungen
+
+:::
+
+## Natürliches Experiment
+
+:::{.callout-note}
+
+## Positiv
+
+* Ersatz für ein Laborexperiment
+
+:::
+
+## Natürliches Experiment
+
+:::{.callout-note}
+
+## Positiv
+
+* Ersatz für ein Laborexperiment
+
+:::
+
+:::{.callout-warning}
+
+## Schwierigkeiten
+
+* Muss entdeckt werden
+* Beinhaltet viele Störvariabeln
+
+:::
+
+## Leitfadeninterview
+
+:::{.callout-note}
+
+## Positiv
+
+* Qualitative Methode
+* Systematische Auswertung der gewonnenen Information
+
+:::
+
+## Leitfadeninterview
+
+:::{.callout-note}
+
+## Positiv
+
+* Qualitative Methode
+* Systematische Auswertung der gewonnenen Information
+
+:::
+
+:::{.callout-warning}
+
+## Schwierigkeiten
+
+* Schwierig, geeignete Gesprächssituationen zu schaffen
+
+:::
+
+## Auswertung erbrachter Leistungen
+
+:::{.callout-note}
+
+## Positiv
+
+* Grösserer Datenumfang
+* Unterschiedliche Auswertungen möglich
+  
+:::
+
+## Auswertung erbrachter Leistungen
+
+:::{.callout-note}
+
+## Positiv
+
+* Grösserer Datenumfang
+* Unterschiedliche Auswertungen möglich
+  
+:::
+
+:::{.callout-warning}
+
+* Sekundärdaten passen nicht exakt
+  
+:::
+
+## Resultat
+
+* Die Arbeitshypothese konnte weder bestätigt noch widerlegt werden
+
+## Folgerungen
+
+* Es gibt keine überlegene Unterrichtsmethode
+* Entscheidend ist die Methodenvielfalt
+
+## Arbeitsprozess
+
+* theoretische Grundlagen
+* Datenbeschaffung
+* Textredaktion
