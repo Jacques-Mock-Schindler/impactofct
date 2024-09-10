@@ -11,6 +11,8 @@ df = pd.read_csv('../data/spearman.csv',
                  sep=';',
                  index_col=0)
 
+df.drop('IDAF', axis='columns', inplace=True)
+
 df = df.T
 
 # %%
@@ -43,8 +45,7 @@ plt.figure(
 ax = sns.heatmap(df, annot=False, 
             cmap=grey_to_green, 
             vmin=-.2, vmax=.6, center=0.3)
-#for col in range(1, 9):
-#    ax.axvline(x=col, color='black', linewidth=.5)
+
     
 xticklabels = ax.get_xticklabels()
 for label in xticklabels:
@@ -56,6 +57,11 @@ for label in xticklabels:
         label.set_color('red')
     else:
         label.set_color('black')
+        
+ax.set_yticklabels(ax.get_yticklabels(), rotation=0)
+
+plt.tight_layout()
+plt.subplots_adjust(left=0.1, right=0.98, top=0.95, bottom=0.1)
 
 plt.title(r"Spearman's $\rho$ Noten BM - EFZ")
 plt.ylabel('EFZ Modul Nr.')

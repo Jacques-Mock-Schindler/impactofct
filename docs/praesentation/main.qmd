@@ -124,7 +124,7 @@ Wie habe ich versucht, meine Arbeitshypothese zu überprüfen?
 
 ## Resultate
 
-
+![](illustrationen/spearman_heatmap.svg)
 
 ## {.vertical-center}
 
