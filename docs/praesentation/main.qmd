@@ -172,4 +172,9 @@ Die persönlichen Erkenntnisse reichen über das Thema der Arbeit hinaus.
 3. Die angetroffenen inhaltlichen Studien stammen aus Ländern, denen man didaktische Forschung gar nicht zugetraut hätte.
 :::
 
-## Persönliche Lehren
+## {.vertical-center}
+
+:::{.callout-warning .incremental icon="false"}
+## Fazit
+Ich würde es wieder machen.
+:::
