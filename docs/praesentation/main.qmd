@@ -18,11 +18,41 @@ format:
 
 Quintessenz aus 20 Jahren Unterrichtserfahrung:
 
-:::{.incremental}
+:::{.callout-note .fragment icon="false"}
+## Schulische Rahmenbedinungen
+Schule findet im Konjunktiv statt.
+:::
 
+:::{.callout-tip .fragment icon="false"}
+## Korrektiv
+:::{.incremental}
 * Möglichst konkrete Aufgabenstellungen
 * Reale Werkzeuge einsetzen
+:::
+:::
 
+## Arbeitshypothese
+
+:::{.callout-tip .fragment icon="false"}
+## Konkrete Aufgabenstellung
+Programmieren
+:::
+
+:::{.callout-tip .fragment icon="false"}
+## Reale Werkzeuge
+VS Code und Kollegen
+:::
+
+:::{.notes}
+Damit Probleme algorithmisch gelöst werden können, ist es erforderlich,
+diese gedanklich zu durchdringen.  
+Wenn Schülerinnen und Schüler
+allgemeingültige Programme für die Lösung einer bestimmten Kategorie von
+Problemen schreiben, findet eine solche gedankliche Durchdringung statt.
+Dies ist eine Anwendung von Computational Thinking im Sinne der
+aktuellen Auffassung dieses Begriffes und führt zu einem
+tieferen Verständnis der so gelösten 
+Probleme und damit zu einem nachhaltigen Lernerfolg. 
 :::
 
 ## Psychologische Grundlagen
@@ -42,18 +72,6 @@ Quintessenz aus 20 Jahren Unterrichtserfahrung:
 :::{.notes}
 Die durchgeführten Experimente bieten - wie so oft in der Psychologie - nur Indizien. Aber es spricht vieles dafür, dass sich das auch auf das Lernen übertragen lässt.
 :::
-
-## Arbeitshypothese
-
->Damit Probleme algorithmisch gelöst werden können, ist es erforderlich,
->diese gedanklich zu durchdringen.  
->Wenn Schülerinnen und Schüler
->allgemeingültige Programme für die Lösung einer bestimmten Kategorie von
->Problemen schreiben, findet eine solche gedankliche Durchdringung statt.
->Dies ist eine Anwendung von Computational Thinking im Sinne der
->aktuellen Auffassung dieses Begriffes und führt zu einem
->tieferen Verständnis der so gelösten 
->Probleme und damit zu einem nachhaltigen Lernerfolg. 
 
 ## Methodisches
 
