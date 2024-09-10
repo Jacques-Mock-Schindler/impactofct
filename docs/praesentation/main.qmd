@@ -135,7 +135,7 @@ Wie habe ich versucht, meine Arbeitshypothese zu überprüfen?
 ## {.vertical-center}
 
 :::{.callout-important icon="false"}
-## Erkenntnis
+## Feststellung
 Die Arbeitshypothese konnte weder bestätigt noch widerlegt werden.
 :::
 
