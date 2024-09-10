@@ -66,7 +66,8 @@ Probleme und damit zu einem nachhaltigen Lernerfolg.
 :::
 :::
 
-<img src="illustrationen/lop_visualisierung.svg" width="750" height="400" alt="Visualisierung Levels of Processing Theory">
+![](illustrationen/lop_visualisierung.svg){.fragment width="1000" height="500" style="margin-top: -75px;"}
+
 
 :::{.notes}
 Die durchgeführten Experimente bieten - wie so oft in der Psychologie - nur Indizien. Aber es spricht vieles dafür, dass sich das auch auf das Lernen übertragen lässt.
