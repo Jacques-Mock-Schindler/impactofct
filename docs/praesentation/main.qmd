@@ -126,6 +126,12 @@ Wie habe ich versucht, meine Arbeitshypothese zu überprüfen?
 
 ![](illustrationen/spearman_heatmap.svg)
 
+## Resultate
+
+![](illustrationen/gw.png){.fragment}
+![](illustrationen/sw.png){.fragment style="margin-top: -65px;"}
+![](illustrationen/aw.png){.fragment style="margin-top: -65px;"}
+
 ## {.vertical-center}
 
 :::{.callout-important icon="false"}
