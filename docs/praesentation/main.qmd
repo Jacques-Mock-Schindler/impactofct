@@ -71,10 +71,12 @@ Probleme und damit zu einem nachhaltigen Lernerfolg.
 
 :::{.notes}
 Die durchgeführten Experimente bieten - wie so oft in der Psychologie - nur Indizien. Aber es spricht vieles dafür, dass sich das auch auf das Lernen übertragen lässt.
-Häufiges Repetieren kann zu einer Lernillusion führen. Die repetitionen bleiben ausschliesslich in der phonlogischen Schlaufe (Werbung Glückspost - eine Mark), schaffen es aber nicht ins Langzeitgedächtnis.
+Häufiges Repetieren kann zu einer Lernillusion führen. Die Repetitionen bleiben ausschliesslich in der phonlogischen Schlaufe (Werbung Glückspost - eine Mark), schaffen es aber nicht ins Langzeitgedächtnis.
 :::
 
 ## Methodisches
+
+Wie habe ich versucht, meine Arbeitshypothese zu überprüfen?
 
 :::{.incremental}
 
@@ -86,7 +88,7 @@ Häufiges Repetieren kann zu einer Lernillusion führen. Die repetitionen bleibe
 
 ## Natürliches Experiment
 
-:::{.callout-note}
+:::{.callout-note .fragment icon="false"}
 
 ## Positiv
 
@@ -94,7 +96,7 @@ Häufiges Repetieren kann zu einer Lernillusion führen. Die repetitionen bleibe
 
 :::
 
-:::{.callout-warning .fragment}
+:::{.callout-warning .fragment icon="false"}
 
 ## Schwierigkeiten
 
@@ -105,7 +107,7 @@ Häufiges Repetieren kann zu einer Lernillusion führen. Die repetitionen bleibe
 
 ## Leitfadeninterview
 
-:::{.callout-note}
+:::{.callout-note .fragment icon="false"}
 
 ## Positiv
 
@@ -114,7 +116,7 @@ Häufiges Repetieren kann zu einer Lernillusion führen. Die repetitionen bleibe
 
 :::
 
-:::{.callout-warning .fragment}
+:::{.callout-warning .fragment icon="false"}
 
 ## Schwierigkeiten
 
@@ -124,7 +126,7 @@ Häufiges Repetieren kann zu einer Lernillusion führen. Die repetitionen bleibe
 
 ## Auswertung erbrachter Leistungen
 
-:::{.callout-note}
+:::{.callout-note .fragment icon="false"}
 
 ## Positiv
 
@@ -133,7 +135,7 @@ Häufiges Repetieren kann zu einer Lernillusion führen. Die repetitionen bleibe
   
 :::
 
-:::{.callout-warning .fragment}
+:::{.callout-warning .fragment icon="false"}
 
 * Sekundärdaten passen nicht exakt
   
