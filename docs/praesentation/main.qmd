@@ -57,7 +57,7 @@ Probleme und damit zu einem nachhaltigen Lernerfolg.
 
 ## Psychologische Grundlagen
 
-:::{.callout-note  icon="false"}
+:::{.callout-note .fragment icon="false"}
 
 ## Levels of Processing Theory
 
