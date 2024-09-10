@@ -143,9 +143,14 @@ Weil ich als Lehrer das Interview geführt habe, ist kein herrschaftsfreier Disk
 Resultate kommen
 :::
 
-## Resultate
+## Resultate 
 
 ![](illustrationen/spearman_heatmap.svg)
+
+
+:::{.smaller-text}
+[Modulbaukasten.ch](https://www.modulbaukasten.ch/?d=4f50e7f3-6b82-eb11-a812-0022486f6f83)
+:::
 
 :::{.notes}
 IDAF als unvollständiger Datensatz entfernt. Wenn die Arbeitshypothese zutreffen würde, müssten die rot eingefärbten Modulnummern rechts stehen.

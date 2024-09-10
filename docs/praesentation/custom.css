@@ -6,6 +6,10 @@
 }
 
 .reveal .notes {
-    font-size: 10px;  /* Passen Sie diese Größe nach Bedarf an */
+    font-size: 0.6em;  /* Passen Sie diese Größe nach Bedarf an */
     line-height: 1.3;
+  }
+
+.smaller-text {
+    font-size: 0.6em;
   }
