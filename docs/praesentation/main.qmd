@@ -1,5 +1,6 @@
 ---
-title: Präsentation Abschlussarbeit GymInf
+title: Der Einfluss von Computational Thinking auf das Lernen im Allgemeinen
+subtitle: Präsentation Abschlussarbeit GymInf
 author: Jacques Mock Schindler
 date: 13. September 2024
 lang: de-CH
@@ -29,6 +30,10 @@ Schule findet im Konjunktiv statt.
 * Möglichst konkrete Aufgabenstellungen
 * Reale Werkzeuge einsetzen
 :::
+:::
+
+:::{.notes}
+Praktisch nichts ist absolut verbindlich.
 :::
 
 ## Arbeitshypothese
@@ -87,12 +92,12 @@ Wie habe ich versucht, meine Arbeitshypothese zu überprüfen?
 ## Natürliches Experiment
 
 :::{.callout-note .fragment icon="false"}
-## Positiv
+## Charakteristik
 * Ersatz für ein Laborexperiment
 :::
 
 :::{.callout-warning .fragment icon="false"}
-## Schwierigkeiten
+## Zu bedenken
 * Muss entdeckt werden
 * Beinhaltet viele Störvariabeln
 :::
@@ -100,25 +105,26 @@ Wie habe ich versucht, meine Arbeitshypothese zu überprüfen?
 ## Leitfadeninterview
 
 :::{.callout-note .fragment icon="false"}
-## Positiv
+## Charakteristika
 * Qualitative Methode
 * Systematische Auswertung der gewonnenen Information
 :::
 
 :::{.callout-warning .fragment icon="false"}
-## Schwierigkeiten
+## Zu bedenken
 * Schwierig, geeignete Gesprächssituationen zu schaffen
 :::
 
 ## Auswertung erbrachter Leistungen
 
 :::{.callout-note .fragment icon="false"}
-## Positiv
+## Charakteristika
 * Grösserer Datenumfang
 * Unterschiedliche Auswertungen möglich
 :::
 
 :::{.callout-warning .fragment icon="false"}
+## Zu bedenken
 * Sekundärdaten passen nicht exakt zur Fragestellung
 :::
 
