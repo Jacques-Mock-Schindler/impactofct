@@ -142,7 +142,7 @@ Die Arbeitshypothese konnte weder bestätigt noch widerlegt werden.
 ## Folgerungen
 
 :::{.callout-note .fragment icon="false"}
-## Auswirkungen für den Unterricht
+## Konsequenzen für den Unterricht
 :::{.incremental}
 * Es gibt keine überlegene Unterrichtsmethode
 * Entscheidend ist die Methodenvielfalt
