@@ -27,12 +27,20 @@ Quintessenz aus 20 Jahren Unterrichtserfahrung:
 
 ## Psychologische Grundlagen
 
-:::{.callout-note}
+:::{.callout-note  icon="false"}
 
 ## Levels of Processing Theory
 
-Eine vertiefte Verarbeitung der Information führt zu einem besseren Lernergebnis.
+:::{.incremental}
+* Es wird zwischen oberflächlicher und tiefer Verarbeitung unterschieden
+* Tiefere Verarbeitung führt zu besserem Erinnern
+* Qualität der Verarbeitung wichtiger als Wiederholung
+:::
 
+:::
+
+:::{.notes}
+Die durchgeführten Experimente bieten - wie so oft in der Psychologie - nur Indizien. Aber es spricht vieles dafür, dass sich das auch auf das Lernen übertragen lässt.
 :::
 
 ## Arbeitshypothese
