@@ -102,6 +102,10 @@ Wie habe ich versucht, meine Arbeitshypothese zu überprüfen?
 * Beinhaltet viele Störvariabeln
 :::
 
+:::{.notes}
+Die Kontrollgruppe war besser als die Testgruppe.
+:::
+
 ## Leitfadeninterview
 
 :::{.callout-note .fragment icon="false"}
@@ -113,6 +117,10 @@ Wie habe ich versucht, meine Arbeitshypothese zu überprüfen?
 :::{.callout-warning .fragment icon="false"}
 ## Zu bedenken
 * Schwierig, geeignete Gesprächssituationen zu schaffen
+:::
+
+:::{.notes}
+Weil ich als Lehrer das Interview geführt habe, ist kein herrschaftsfreier Diskurs im Sinne Habermas' zustandegekommen.
 :::
 
 ## Auswertung erbrachter Leistungen
@@ -128,15 +136,27 @@ Wie habe ich versucht, meine Arbeitshypothese zu überprüfen?
 * Sekundärdaten passen nicht exakt zur Fragestellung
 :::
 
+:::{.notes}
+Resultate kommen
+:::
+
 ## Resultate
 
 ![](illustrationen/spearman_heatmap.svg)
+
+:::{.notes}
+IDAF als unvollständiger Datensatz entfernt. Wenn die Arbeitshypothese zutreffen würde, müssten die rot eingefärbten Modulnummern rechts stehen.
+:::
 
 ## Resultate
 
 ![](illustrationen/gw.png){.fragment}
 ![](illustrationen/sw.png){.fragment style="margin-top: -65px;"}
 ![](illustrationen/aw.png){.fragment style="margin-top: -65px;"}
+
+:::{.notes}
+Unterstreicht, was bereits die Heatmap gezeigt hat.
+:::
 
 ## {.vertical-center}
 
