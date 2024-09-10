@@ -58,16 +58,15 @@ Probleme und damit zu einem nachhaltigen Lernerfolg.
 ## Psychologische Grundlagen
 
 :::{.callout-note .fragment icon="false"}
-
 ## Levels of Processing Theory
-
 :::{.incremental}
 * Es wird zwischen oberflächlicher und tiefer Verarbeitung unterschieden
 * Tiefere Verarbeitung führt zu besserem Erinnern
 * Qualität der Verarbeitung wichtiger als Wiederholung
 :::
-
 :::
+
+<img src="illustrationen/lop_visualisierung.svg" width="750" height="400" alt="Visualisierung Levels of Processing Theory">
 
 :::{.notes}
 Die durchgeführten Experimente bieten - wie so oft in der Psychologie - nur Indizien. Aber es spricht vieles dafür, dass sich das auch auf das Lernen übertragen lässt.
@@ -79,110 +78,81 @@ Häufiges Repetieren kann zu einer Lernillusion führen. Die Repetitionen bleibe
 Wie habe ich versucht, meine Arbeitshypothese zu überprüfen?
 
 :::{.incremental}
-
 * Natürliches Experiment
 * Leitfadeninterview
 * Auswertung erbrachter Leistungen
-
 :::
 
 ## Natürliches Experiment
 
 :::{.callout-note .fragment icon="false"}
-
 ## Positiv
-
 * Ersatz für ein Laborexperiment
-
 :::
 
 :::{.callout-warning .fragment icon="false"}
-
 ## Schwierigkeiten
-
 * Muss entdeckt werden
 * Beinhaltet viele Störvariabeln
-
 :::
 
 ## Leitfadeninterview
 
 :::{.callout-note .fragment icon="false"}
-
 ## Positiv
-
 * Qualitative Methode
 * Systematische Auswertung der gewonnenen Information
-
 :::
 
 :::{.callout-warning .fragment icon="false"}
-
 ## Schwierigkeiten
-
 * Schwierig, geeignete Gesprächssituationen zu schaffen
-
 :::
 
 ## Auswertung erbrachter Leistungen
 
 :::{.callout-note .fragment icon="false"}
-
 ## Positiv
-
 * Grösserer Datenumfang
 * Unterschiedliche Auswertungen möglich
-  
 :::
 
 :::{.callout-warning .fragment icon="false"}
-
-* Sekundärdaten passen nicht exakt
-  
+* Sekundärdaten passen nicht exakt zur Fragestellung
 :::
 
 ## {.vertical-center}
 
 :::{.callout-important icon="false"}
-
 ## Resultat
-
 Die Arbeitshypothese konnte weder bestätigt noch widerlegt werden.
-
 :::
 
 ## Folgerungen
 
+:::{.callout-note .fragment icon="false"}
+## Auswirkungen für den Unterricht
 :::{.incremental}
-
 * Es gibt keine überlegene Unterrichtsmethode
 * Entscheidend ist die Methodenvielfalt
-
+:::
 :::
 
 ## Persönliche Erkenntnisse
 
 :::{.incremental}
-
 * Quantitative sozialwissenschaftliche Studien sind mit Vorsicht zu geniessen
 * Qualitativen Argumente haben eine eigene Überzeugungskraft
 * Die Wahl geeigneter Visualisierungen ist entscheidend
 * Die Schweiz ist ein didaktisches Entwicklungsland
-
 :::
 
 :::{.notes}
-
 Die persönlichen Erkenntnisse reichen über das Thema der Arbeit hinaus.
 
 1. Oft sind die Stichproben sehr klein. Es gibt sehr viele Störvariabeln.
 2. Als Geisteswissenschaftler muss man sich auch auf die Kraft der Argumente verlassen.
 3. Die angetroffenen inhaltlichen Studien stammen aus Ländern, denen man didaktische Forschung gar nicht zugetraut hätte.
-
 :::
 
-## Arbeitsprozess
-
-* theoretische Grundlagen
-* Datenbeschaffung
-* Textredaktion
+## Persönliche Lehren
