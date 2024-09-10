@@ -178,7 +178,7 @@ Die Arbeitshypothese konnte weder bestätigt noch widerlegt werden.
 :::
 :::
 
-## Persönliche Erkenntnisse
+## Persönliche Erkenntnisse allgemeiner Art
 
 :::{.incremental}
 * Quantitative sozialwissenschaftliche Studien sind mit Vorsicht zu geniessen
@@ -193,6 +193,13 @@ Die persönlichen Erkenntnisse reichen über das Thema der Arbeit hinaus.
 1. Oft sind die Stichproben sehr klein. Es gibt sehr viele Störvariabeln.
 2. Als Geisteswissenschaftler muss man sich auch auf die Kraft der Argumente verlassen.
 3. Die angetroffenen inhaltlichen Studien stammen aus Ländern, denen man didaktische Forschung gar nicht zugetraut hätte.
+:::
+
+## Persönliche Erkenntnisse technischer Art
+
+:::{.incremental}
+* Lieber pandas als Excel
+* Lieber matplotlib als Excel     
 :::
 
 ## {.vertical-center}
