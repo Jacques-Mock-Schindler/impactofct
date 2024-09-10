@@ -12,6 +12,9 @@ format:
         css: custom.css
         margin: 0.1
         slide-number: true
+    pdf:
+        pdf-separate-fragments: false
+      
 
 ---
 
@@ -198,3 +201,8 @@ Die persönlichen Erkenntnisse reichen über das Thema der Arbeit hinaus.
 ## Fazit
 Ich würde es wieder machen.
 :::
+
+## Module der Berufsbildung {visibility="uncounted"}
+
+Die Zahlen auf der X-Achse stehen für die Modulnummern der Ausbildung als Informatiker/in EFZ Applikationsentwicklung. Eine genaue beschreibung der Module findet sich im [Modulbaukasten](https://www.modulbaukasten.ch/?d=4f50e7f3-6b82-eb11-a812-0022486f6f83).
+
