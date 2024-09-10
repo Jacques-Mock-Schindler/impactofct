@@ -124,12 +124,33 @@ Die Arbeitshypothese konnte weder bestätigt noch widerlegt werden.
 
 ## Folgerungen
 
+:::{.incremental}
+
 * Es gibt keine überlegene Unterrichtsmethode
 * Entscheidend ist die Methodenvielfalt
 
+:::
+
 ## Persönliche Erkenntnisse
 
-Hier kommen die persönlichen Erkenntnisse.
+:::{.incremental}
+
+* Quantitative sozialwissenschaftliche Studien sind mit Vorsicht zu geniessen
+* Qualitativen Argumente haben eine eigene Überzeugungskraft
+* Die Wahl geeigneter Visualisierungen ist entscheidend
+* Die Schweiz ist ein didaktisches Entwicklungsland
+
+:::
+
+:::{.notes}
+
+Die persönlichen Erkenntnisse reichen über das Thema der Arbeit hinaus.
+
+1. Oft sind die Stichproben sehr klein. Es gibt sehr viele Störvariabeln.
+2. Als Geisteswissenschaftler muss man sich auch auf die Kraft der Argumente verlassen.
+3. Die angetroffenen inhaltlichen Studien stammen aus Ländern, denen man didaktische Forschung gar nicht zugetraut hätte.
+
+:::
 
 ## Arbeitsprozess
 
