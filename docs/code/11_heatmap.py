@@ -64,8 +64,8 @@ plt.tight_layout()
 plt.subplots_adjust(left=0.1, right=0.98, top=0.95, bottom=0.1)
 
 plt.title(r"Spearman's $\rho$ Noten BM - EFZ")
-plt.ylabel('EFZ Modul Nr.')
-plt.xlabel('BM Fächer')
+plt.ylabel('BM Fächer')
+plt.xlabel('EFZ Modul Nr.')
 plt.savefig('../praesentation/illustrationen/spearman_heatmap.svg',
             format='svg',
             dpi=300)
