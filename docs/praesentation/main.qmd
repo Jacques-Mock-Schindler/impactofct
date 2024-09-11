@@ -183,6 +183,17 @@ Die Arbeitshypothese konnte weder bestätigt noch widerlegt werden.
 :::
 :::
 
+## Schwächen der Arbeit
+
+:::{.incremental}
+* Die Disposition war zu wenig gründlich durchdacht
+  * Überschätzte Fähigkeiten der SuS
+  * Kooperationsmöglichkeiten im laufenden Betrieb
+  * Verfügbare Ressourcen
+* Zu kleine Datenbasis
+* Korrelation ist nicht gleich Kausalität
+:::
+
 ## Persönliche Erkenntnisse allgemeiner Art
 
 :::{.incremental}
