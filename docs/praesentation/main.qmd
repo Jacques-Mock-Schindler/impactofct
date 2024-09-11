@@ -209,7 +209,22 @@ Die Arbeitshypothese konnte weder bestätigt noch widerlegt werden.
 ## Persönliche Lehren... {visibility="uncounted"}
 ### ... in technischer Hinsicht
 
-![Datenvisualisierung](illustrationen/beispielgrafik.png)
+![Datenvisualisierung (Quelle: https://tikz.dev/guidelines)](illustrationen/beispielgrafik.png)
+
+## Persönliche Lehren...
+### ... in inhaltlicher Hinsicht
+
+![Auseinandersetzung mit Kognitionspsychologie (Quelle: Goldstein, Cognitive Psychology)](illustrationen/psychology.png)
+
+## Persönliche Lehren... {visibility="uncounted"}
+### ... in inhaltlicher Hinsicht
+
+![Sozialwissenschaftliche Methodik (Quelle: https://atlasti.com/)](illustrationen/atlas.ti-22-win.png)
+
+## Persönliche Lehren... {visibility="uncounted"}
+### ... in inhaltlicher Hinsicht
+
+![Statistik (Quelle: https://www.bfs.admin.ch/)](illustrationen/bildungsstatistik.svg)
 
 ## Persönliche Lehren...
 
@@ -263,3 +278,6 @@ Die persönlichen Erkenntnisse reichen über das Thema der Arbeit hinaus.
 Ich würde es wieder machen.
 :::
 
+## Bildquellen {visibility="uncounted"}
+
+Datenvisualisierung
