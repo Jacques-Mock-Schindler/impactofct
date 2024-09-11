@@ -166,6 +166,15 @@ IDAF als unvollständiger Datensatz entfernt. Wenn die Arbeitshypothese zutreffe
 Unterstreicht, was bereits die Heatmap gezeigt hat.
 :::
 
+## Gute Informatiker sind gute Schüler
+
+![](illustrationen/scatterplot_mittelwerte.png)
+
+:::{.notes}
+Immerhin sind Informatiker nicht reine Fachidioten. Spearman’s 𝜌 liegt
+bei 0.623 und Pearson’s 𝑟 gar bei 0.693.
+:::
+
 ## {.vertical-center}
 
 :::{.callout-important icon="false"}
@@ -251,7 +260,7 @@ $$
 wobei
 
 $$
-\mu = \sum_{i=1}^{N}p_ix_i
+\mu = \frac{1}{N}\sum_{i=1}^{N}x_i
 $$
 
 :::{.notes}
