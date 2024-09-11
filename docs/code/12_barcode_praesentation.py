@@ -107,6 +107,7 @@ plt.savefig('../illustrationen/aw_transparent.svg',
             bbox_inches='tight')
 plt.close(fig)  # Close the figure to free up memory
 
+# %%
 fig = create_barcode(values, categories)
 plt.title('D, F, E')
 plt.savefig('../illustrationen/gw_transparent.svg',
