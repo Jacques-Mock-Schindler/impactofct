@@ -244,7 +244,15 @@ Vieles gelernt - auch wenn vieles davon nicht zum Tragen gekommen ist. Die Anwen
 ## Persönliche Lehren... {visibility="uncounted"}
 ### ... in inhaltlicher Hinsicht
 
-![Statistik (Quelle: https://www.bfs.admin.ch/)](illustrationen/bildungsstatistik.svg)
+$$
+\sigma = \sqrt{\sum_{i=1}^{N}p_i(x_i - \mu)^2}
+$$
+
+wobei
+
+$$
+\mu = \sum_{i=1}^{N}p_ix_i
+$$
 
 :::{.notes}
 Bis hierher nur rudimentäre statistische Kenntnisse. Etliches gelernt und Bildungsbedarf erkannt.
