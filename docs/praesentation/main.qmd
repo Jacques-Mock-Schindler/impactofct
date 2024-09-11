@@ -205,7 +205,7 @@ Die Arbeitshypothese konnte weder bestätigt noch widerlegt werden.
 :::
 
 
-## Persönliche Lehren...
+## Persönliche Lehren... {visibility="uncounted"}
 
 ### ... in technischer Hinsicht
 
@@ -238,12 +238,6 @@ Die persönlichen Erkenntnisse reichen über das Thema der Arbeit hinaus.
 3. Die angetroffenen inhaltlichen Studien stammen aus Ländern, denen man didaktische Forschung gar nicht zugetraut hätte.
 :::
 
-## Persönliche Erkenntnisse technischer Art
-
-:::{.incremental}
-* Lieber pandas als Excel
-* Lieber matplotlib als Excel     
-:::
 
 ## {.vertical-center}
 
@@ -251,8 +245,4 @@ Die persönlichen Erkenntnisse reichen über das Thema der Arbeit hinaus.
 ## Fazit
 Ich würde es wieder machen.
 :::
-
-## Module der Berufsbildung {visibility="uncounted"}
-
-Die Zahlen auf der X-Achse stehen für die Modulnummern der Ausbildung als Informatiker/in EFZ Applikationsentwicklung. Eine genaue beschreibung der Module findet sich im [Modulbaukasten](https://www.modulbaukasten.ch/?d=4f50e7f3-6b82-eb11-a812-0022486f6f83).
 
