@@ -199,11 +199,19 @@ Die Arbeitshypothese konnte weder bestätigt noch widerlegt werden.
 
 ![Plain Text Writing](illustrationen/plain_text_writing_light.png)
 
+:::{.notes}
+Bisher längere Texte in LaTEX. Markdown als Vereinfachung. Trotzdem Formatstabile Texte.
+:::
+
 
 ## Persönliche Lehren... {visibility="uncounted"}
 ### ... in technischer Hinsicht
 
 ![Versionierung](illustrationen/git.png)
+
+:::{.notes}
+Am Anfang zu viele parallele Baustellen. Aber: Gefahrlos Dinge ausprobieren.
+:::
 
 
 ## Persönliche Lehren... {visibility="uncounted"}
@@ -211,20 +219,36 @@ Die Arbeitshypothese konnte weder bestätigt noch widerlegt werden.
 
 ![Datenvisualisierung (Quelle: https://tikz.dev/guidelines)](illustrationen/beispielgrafik.png)
 
+:::{.notes}
+Ein Beispiel für die Verführungskraft gängiger Datenvisualisierungshilfsmittel. Die Auseinandersetzung mit pandas und matplotlib hat sich gelohnt.
+:::
+
 ## Persönliche Lehren...
 ### ... in inhaltlicher Hinsicht
 
 ![Auseinandersetzung mit Kognitionspsychologie (Quelle: Goldstein, Cognitive Psychology)](illustrationen/psychology.png)
+
+:::{.notes}
+Traurig aber wahr: Bisher keine systematische Auseinandersetzung mit Lernpsychologie. Die didaktischen Kenntnisse basieren auf dem Reglement Ausbildungsmethodik.
+:::
 
 ## Persönliche Lehren... {visibility="uncounted"}
 ### ... in inhaltlicher Hinsicht
 
 ![Sozialwissenschaftliche Methodik (Quelle: https://atlasti.com/)](illustrationen/atlas.ti-22-win.png)
 
+:::{.notes}
+Vieles gelernt - auch wenn vieles davon nicht zum Tragen gekommen ist. Die Anwendung der im Bild sichtbaren Software wäre cool gewesen...
+:::
+
 ## Persönliche Lehren... {visibility="uncounted"}
 ### ... in inhaltlicher Hinsicht
 
 ![Statistik (Quelle: https://www.bfs.admin.ch/)](illustrationen/bildungsstatistik.svg)
+
+:::{.notes}
+Bis hierher nur rudimentäre statistische Kenntnisse. Etliches gelernt und Bildungsbedarf erkannt.
+:::
 
 ## Persönliche Lehren...
 
