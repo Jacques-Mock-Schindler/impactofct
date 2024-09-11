@@ -7,6 +7,10 @@ import seaborn as sns
 from scipy.stats import spearmanr
 # %%
 
+plt.rcParams['svg.fonttype'] = 'none'
+
+# %%
+
 df = pd.read_csv('../data/spearman.csv',
                  sep=';',
                  index_col=0)
@@ -38,14 +42,15 @@ sortierreihenfolge_quer = querwerte.index.to_list()
 df = df.reindex(sortierreihenfolge_quer)
 
 # %%
+fig, ax = plt.subplots(figsize=(15, 7))
+fig.patch.set_alpha(0)
+ax.patch.set_alpha(0) 
 
-plt.figure(
-    figsize = (15, 7)
-)
 ax = sns.heatmap(df, annot=False, 
             cmap=grey_to_green, 
             vmin=-.2, vmax=.6, center=0.3)
 
+ax.set_facecolor('none')
     
 xticklabels = ax.get_xticklabels()
 for label in xticklabels:
