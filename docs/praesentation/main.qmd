@@ -194,12 +194,31 @@ Die Arbeitshypothese konnte weder bestätigt noch widerlegt werden.
 * Korrelation ist nicht gleich Kausalität
 :::
 
-## Gewinn an persönlichen technischen Fähigkeiten
+## Persönliche Lehren...
+
+### ... in technischer Hinsicht
 
 :::{.incremental}
 * Plain Text Writing
 * Versionierung in realer Umgebung
 * Datenvisualisierung
+:::
+
+
+## Persönliche Lehren...
+
+### ... in technischer Hinsicht
+
+* Plain Text Writing
+* Versionierung in realer Umgebung
+* Datenvisualisierung
+
+### ... in inhaltlicher Hinsicht
+
+:::{.incremental}
+* Auseinandersetzung mit Kognitionspsychologie
+* Sozialwissenschaftliche Methodik
+* Statistik
 :::
 
 ## Persönliche Erkenntnisse allgemeiner Art
