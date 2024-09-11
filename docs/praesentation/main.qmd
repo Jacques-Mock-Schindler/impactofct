@@ -195,6 +195,23 @@ Die Arbeitshypothese konnte weder bestätigt noch widerlegt werden.
 :::
 
 ## Persönliche Lehren...
+### ... in technischer Hinsicht
+
+![Plain Text Writing](illustrationen/plain_text_writing_light.png)
+
+
+## Persönliche Lehren... {visibility="uncounted"}
+### ... in technischer Hinsicht
+
+![Versionierung](illustrationen/git.png)
+
+
+## Persönliche Lehren... {visibility="uncounted"}
+### ... in technischer Hinsicht
+
+![Datenvisualisierung](illustrationen/beispielgrafik.png)
+
+## Persönliche Lehren...
 
 ### ... in technischer Hinsicht
 
