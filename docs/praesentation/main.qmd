@@ -250,7 +250,7 @@ Vieles gelernt - auch wenn vieles davon nicht zum Tragen gekommen ist. Die Anwen
 Bis hierher nur rudimentäre statistische Kenntnisse. Etliches gelernt und Bildungsbedarf erkannt.
 :::
 
-## Persönliche Lehren...
+## Persönliche Lehren... {visibility="hidden"}
 
 ### ... in technischer Hinsicht
 
@@ -261,7 +261,7 @@ Bis hierher nur rudimentäre statistische Kenntnisse. Etliches gelernt und Bildu
 :::
 
 
-## Persönliche Lehren... {visibility="uncounted"}
+## Persönliche Lehren... {visibility="hidden"}
 
 ### ... in technischer Hinsicht
 
