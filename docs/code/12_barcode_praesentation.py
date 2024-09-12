@@ -9,6 +9,8 @@ import pandas as pd
 
 plt.rcParams['svg.fonttype'] = 'none'
 
+# %%
+
 df = pd.read_csv('../data/spearman.csv', 
                  sep=';',
                  index_col=0)
@@ -55,6 +57,7 @@ def create_barcode(values, categories, figsize=(10, 2)):
     fig, ax = plt.subplots(figsize=figsize)
     fig.patch.set_alpha(0)  # Make figure background transparent
     ax.patch.set_alpha(0)   # Make axes background transparent
+    ax.set_facecolor('none')
     
     # Setze die y-Achse auf einen festen Bereich
     ax.set_ylim(0, 1)
@@ -100,7 +103,7 @@ def create_barcode(values, categories, figsize=(10, 2)):
 # Erstelle und speichere die Barcodes
 fig = create_barcode(values_aw, categories_aw)
 plt.title('M, RW sowie IDAF')
-plt.savefig('../illustrationen/aw_transparent.svg',
+plt.savefig('../praesentation/illustrationen/aw_transparent.svg',
             dpi=300,
             format = 'svg',
             transparent=True,
@@ -110,16 +113,18 @@ plt.close(fig)  # Close the figure to free up memory
 # %%
 fig = create_barcode(values, categories)
 plt.title('D, F, E')
-plt.savefig('../illustrationen/gw_transparent.svg',
+plt.savefig('../praesentation/illustrationen/gw_transparent.svg',
             dpi=300,
             format = 'svg',
             transparent=True,
             bbox_inches='tight')
 plt.close(fig)  # Close the figure to free up memory
 
+# %%
+
 fig = create_barcode(values_sw, categories_sw)
 plt.title('WR, GuP, TU')
-plt.savefig('../illustrationen/sw_transparent.svg',
+plt.savefig('../praesentation/illustrationen/sw_transparent.svg',
             dpi=300,
             format = 'svg',
             transparent=True,
