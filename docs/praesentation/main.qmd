@@ -18,6 +18,7 @@ format:
 
 ---
 
+
 ## Ausgangspunkt
 
 :::{.fragment}
@@ -38,7 +39,11 @@ Schule findet im Konjunktiv statt.
 :::
 
 :::{.notes}
-Der Begriff CT kann vorausgesetzt werden - trotzdem Aufteilen des Problems & allgorithmische Lösungen.
+Als Vorfrage muss ein gemeinsames Verständnis von CT geschaffen werden:
+
+>Computational Thinking ist die Fähigkeit, Probleme zu lösen,
+>indem sie in Teilprobleme zerlegt und soweit verallgemeinert werden,
+>dass eine algorithmische (automatisierte) Lösung möglich ist.
 
 Praktisch nichts ist absolut verbindlich. Persönliche Teilname am APU Projekt von Stephan Schumann.
 :::
