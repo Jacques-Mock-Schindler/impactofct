@@ -110,6 +110,8 @@ Wie habe ich versucht, meine Arbeitshypothese zu überprüfen?
 :::
 
 :::{.notes}
+Ethische Überlegungen im Zusammenhang mit psychologischen Expermimenten. Das Abschreckende Beispiel dafür ist das Stanford Prison Experiment.
+
 Die Kontrollgruppe war besser als die Testgruppe.
 :::
 
@@ -127,6 +129,10 @@ Die Kontrollgruppe war besser als die Testgruppe.
 :::
 
 :::{.notes}
+Dieser Ansatz würde die Möglichkeit einer Erklärung eröffnen.
+
+Qualitative bedeutet nicht unsystematisch.
+
 Weil ich als Lehrer das Interview geführt habe, ist kein herrschaftsfreier Diskurs im Sinne Habermas' zustandegekommen.
 :::
 
@@ -157,6 +163,10 @@ Resultate kommen
 :::
 
 :::{.notes}
+Grün unten rechts - aber rot verteilt über die ganze Achse.
+
+0.3 als Schwelle - in Sozialwissenschaften aufgrund der Störvariabeln tiefer als in Naturwissenschaften.
+
 IDAF als unvollständiger Datensatz entfernt. Wenn die Arbeitshypothese zutreffen würde, müssten die rot eingefärbten Modulnummern rechts stehen.
 :::
 
@@ -167,6 +177,8 @@ IDAF als unvollständiger Datensatz entfernt. Wenn die Arbeitshypothese zutreffe
 ![](illustrationen/aw_transparent.svg){.fragment style="margin-top: -20px;"}
 
 :::{.notes}
+Wenn ein Zusammenahng bestünde, müsste insbesondere in den abstrakten Disziplinen grün rechts sein.
+
 Unterstreicht, was bereits die Heatmap gezeigt hat.
 :::
 
@@ -175,7 +187,9 @@ Unterstreicht, was bereits die Heatmap gezeigt hat.
 ![](illustrationen/mittlere_korrelation.svg)
 
 :::{.notes}
-Immerhin sind Informatiker nicht reine Fachidioten. Spearman’s 𝜌 liegt
+Immerhin sind Informatiker nicht reine Fachidioten.
+
+Spearman’s 𝜌 liegt
 bei 0.623 und Pearson’s 𝑟 gar bei 0.693.
 :::
 
@@ -207,6 +221,10 @@ Die Arbeitshypothese konnte weder bestätigt noch widerlegt werden.
 * Korrelation ist nicht gleich Kausalität
 :::
 
+:::{.notes}
+Selbst wenn ein Zusammenhang bestünde, gilt immer noch der letzte Punkt.
+:::
+
 ## Persönliche Lehren...
 ### ... in technischer Hinsicht
 
@@ -214,6 +232,8 @@ Die Arbeitshypothese konnte weder bestätigt noch widerlegt werden.
 
 :::{.notes}
 Bisher längere Texte in LaTEX. Markdown als Vereinfachung. Trotzdem Formatstabile Texte.
+
+Wenn nötig, ist LaTEX immer noch möglich.
 :::
 
 
@@ -233,7 +253,9 @@ Am Anfang zu viele parallele Baustellen. Aber: Gefahrlos Dinge ausprobieren.
 ![Datenvisualisierung (Quelle: https://tikz.dev/guidelines)](illustrationen/beispielgrafik.png)
 
 :::{.notes}
-Ein Beispiel für die Verführungskraft gängiger Datenvisualisierungshilfsmittel. Die Auseinandersetzung mit pandas und matplotlib hat sich gelohnt.
+Ein Beispiel für die Verführungskraft gängiger Datenvisualisierungshilfsmittel.
+
+Die Auseinandersetzung mit pandas und matplotlib hat sich gelohnt.
 :::
 
 ## Persönliche Lehren...
@@ -242,7 +264,9 @@ Ein Beispiel für die Verführungskraft gängiger Datenvisualisierungshilfsmitte
 ![Auseinandersetzung mit Kognitionspsychologie (Quelle: Goldstein, Cognitive Psychology)](illustrationen/psychology.png)
 
 :::{.notes}
-Traurig aber wahr: Bisher keine systematische Auseinandersetzung mit Lernpsychologie. Die didaktischen Kenntnisse basieren auf dem Reglement Ausbildungsmethodik.
+Traurig aber wahr: Bisher keine systematische Auseinandersetzung mit Lernpsychologie.
+
+Die didaktischen Kenntnisse basieren auf dem Reglement Ausbildungsmethodik.
 :::
 
 ## Persönliche Lehren... {visibility="uncounted"}
@@ -251,7 +275,9 @@ Traurig aber wahr: Bisher keine systematische Auseinandersetzung mit Lernpsychol
 ![Sozialwissenschaftliche Methodik (Quelle: https://atlasti.com/)](illustrationen/atlas.ti-22-win.png)
 
 :::{.notes}
-Vieles gelernt - auch wenn vieles davon nicht zum Tragen gekommen ist. Die Anwendung der im Bild sichtbaren Software wäre cool gewesen...
+Vieles gelernt - auch wenn vieles davon nicht zum Tragen gekommen ist. 
+
+Die Anwendung der im Bild sichtbaren Software wäre cool gewesen...
 :::
 
 ## Persönliche Lehren... {visibility="uncounted"}
@@ -268,7 +294,9 @@ $$
 $$
 
 :::{.notes}
-Bis hierher nur rudimentäre statistische Kenntnisse. Etliches gelernt und Bildungsbedarf erkannt.
+Bis hierher nur rudimentäre statistische Kenntnisse.
+
+Etliches gelernt und Bildungsbedarf erkannt.
 :::
 
 ## Persönliche Lehren... {visibility="hidden"}
