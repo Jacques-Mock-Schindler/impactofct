@@ -158,9 +158,9 @@ IDAF als unvollständiger Datensatz entfernt. Wenn die Arbeitshypothese zutreffe
 
 ## Resultate
 
-![](illustrationen/gw.png){.fragment}
-![](illustrationen/sw.png){.fragment style="margin-top: -65px;"}
-![](illustrationen/aw.png){.fragment style="margin-top: -65px;"}
+![](illustrationen/gw_transparent.svg){.fragment}
+![](illustrationen/sw_transparent.svg){.fragment style="margin-top: -20px;"}
+![](illustrationen/aw_transparent.svg){.fragment style="margin-top: -20px;"}
 
 :::{.notes}
 Unterstreicht, was bereits die Heatmap gezeigt hat.
