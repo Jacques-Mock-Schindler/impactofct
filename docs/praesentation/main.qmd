@@ -45,7 +45,9 @@ Als Vorfrage muss ein gemeinsames Verständnis von CT geschaffen werden:
 >indem sie in Teilprobleme zerlegt und soweit verallgemeinert werden,
 >dass eine algorithmische (automatisierte) Lösung möglich ist.
 
-Praktisch nichts ist absolut verbindlich. Persönliche Teilname am APU Projekt von Stephan Schumann.
+Schule im Konjunktiv: Man hätte, man täte, man würde -> Abgaben sind nicht verbindlich.
+
+Teilname als Explorand am APU Projekt von Stephan Schumann.
 :::
 
 ## Arbeitshypothese
