@@ -339,7 +339,6 @@ Etliches gelernt und Bildungsbedarf erkannt.
 * Quantitative sozialwissenschaftliche Studien sind mit Vorsicht zu geniessen
 * Qualitativen Argumente haben eine eigene Überzeugungskraft
 * Die Wahl geeigneter Visualisierungen ist entscheidend
-* Die Schweiz ist ein didaktisches Entwicklungsland
 :::
 
 :::{.notes}
