@@ -168,7 +168,7 @@ Unterstreicht, was bereits die Heatmap gezeigt hat.
 
 ## Gute Informatiker sind gute Schüler
 
-![](illustrationen/scatterplot_mittelwerte.png)
+![](illustrationen/mittlere_korrelation.svg)
 
 :::{.notes}
 Immerhin sind Informatiker nicht reine Fachidioten. Spearman’s 𝜌 liegt
