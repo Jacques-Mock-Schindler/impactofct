@@ -20,7 +20,9 @@ format:
 
 ## Ausgangspunkt
 
+:::{.fragment}
 Quintessenz aus 20 Jahren Unterrichtserfahrung:
+:::
 
 :::{.callout-note .fragment icon="false"}
 ## Schulische Rahmenbedinungen
@@ -36,6 +38,8 @@ Schule findet im Konjunktiv statt.
 :::
 
 :::{.notes}
+Der Begriff CT kann vorausgesetzt werden - trotzdem Aufteilen des Problems & allgorithmische Lösungen.
+
 Praktisch nichts ist absolut verbindlich. Persönliche Teilname am APU Projekt von Stephan Schumann.
 :::
 
@@ -48,7 +52,7 @@ Programmieren
 
 :::{.callout-tip .fragment icon="false"}
 ## Reale Werkzeuge
-VS Code und Kollegen
+VS Code, Jupyter Notebooks und Kollegen
 :::
 
 :::{.notes}
