@@ -440,7 +440,6 @@ Schülerinnen und Schüler bzw. Lernende aus den beiden Testklassen in
 Frage gekommen sind, wurde der Leitfaden mit dem UML Klassendiagramm
 aus @fig:uml ergänzt. Dieses sollte den Befragten als
 Erinnerungshilfe vorgelegt werden können.
-Der für die Interviews verwendete Leitfaden findet sich im Anhang.xxx
 
 Wie bereits erwähnt, kamen als Gesprächspartnerinnen bzw.
 Gesprächspartner nur Angehörige der Testklassen in Frage.
